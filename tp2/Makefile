@@ -1,0 +1,34 @@
+# Makefile pour TP2.
+# Adaptez ce fichier au besoin (si vous ajouter des fichiers).
+
+
+# Choisir l'une des deux configurations (-g: Debug | -O2: Release)
+#OPTIONS = -g -O0 -Wall
+OPTIONS = -O2 -Wall
+
+all : tp2 testdate
+
+tp2 : tp2.cpp date.o epicerie.o produit.o pointst.o
+	g++ ${OPTIONS} -o tp2 tp2.cpp date.o epicerie.o produit.o pointst.o
+	
+pointst.o : pointst.cpp pointst.h
+	g++ ${OPTIONS} -c -o pointst.o pointst.cpp
+
+date.o : date.cpp date.h
+	g++ ${OPTIONS} -c -o date.o date.cpp
+
+epicerie.o : epicerie.cpp epicerie.h pointst.h arbreavl.h
+	g++ ${OPTIONS} -c -o epicerie.o epicerie.cpp
+
+produit.o : produit.cpp produit.h date.h
+	g++ ${OPTIONS} -c -o produit.o produit.cpp
+
+commande.o : commande.cpp commande.h carte.h
+	g++ ${OPTIONS} -c -o commande.o commande.cpp
+
+testdate : testdate.cpp date.o
+	g++ $(OPTIONS) -o testdate testdate.cpp date.o
+
+clean:
+	rm -rf tp2 testdate *~ *.o
+
