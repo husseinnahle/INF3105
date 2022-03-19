@@ -5,8 +5,16 @@
 
 #include "date.h"
 #include <cstdio>
+#include <string>
 #include <iomanip>
 #include <assert.h>
+
+Date::Date(const std::string& raw_date)
+{
+  annee = stoi(raw_date.substr(0, 4));
+  mois = stoi(raw_date.substr(5, 2));
+  jour = stoi(raw_date.substr(8, 2));
+}
 
 bool Date::operator < (const Date& date) const
 {

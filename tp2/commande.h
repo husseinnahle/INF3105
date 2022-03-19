@@ -15,7 +15,7 @@ class Commande
   public:
     Commande(){}
     void traiter(const std::string&, Tableau<std::string>&);
-    //std::string traiter(const std::string&);
+    std::string traiter(const std::string&);
 
   private:
     Carte carte;

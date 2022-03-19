@@ -10,21 +10,23 @@
 #include "arbremap.h"
 #include "pointst.h"
 #include "produit.h"
+#include "carte.h"
 
 class Epicerie
 {
   public:
     Epicerie(){}
     Epicerie(const std::string&, const PointST&);
+    void ajouter_produit(const Produit);
 
   private:
     std::string nom;
-    //PointST position;
+    PointST position;
     ArbreMap<Produit, int> produits;
 
-  friend class Commande;
-  // friend std::ostream& operator << (std::ostream&, const Epicerie&);
-  // friend std::istream& operator >> (std::istream&, Epicerie&);
+  friend class Carte;
+  friend std::ostream& operator << (std::ostream&, const Epicerie&);
+  friend std::istream& operator >> (std::istream&, Epicerie&);
 };
 
 #endif

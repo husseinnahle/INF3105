@@ -12,23 +12,26 @@
 #include <cassert>
 #include <cmath>
 #include <limits>
-#include "date.h"
-#include "epicerie.h"
-#include "pointst.h"
-#include "produit.h"
-#include "commande.h"
+// #include "date.h"
+// #include "epicerie.h"
+// #include "pointst.h"
+// #include "produit.h"
+// #include "commande.h"
+#include <sstream>
+#include "arbremap.h"
 
 using namespace std;
 
 int main(int argc, const char** argv)
 {
-  Commande c;
-  Tableau <std::string> e;
-  c.traiter("RAMASSER Chocolat 2 Lait 3 Pommes 3 ; IGA ;", e);
-  for (int i = 0; i < e.taille(); i++)
-  {
-    std::cout << e[i] << std::endl;
-  }
+    ArbreMap<int, int> map1;
+    map1[1] = 10;
+    map1[2] = 20;
+    map1[3] = 30;
+
+    map1[1] = 40;
+    std::cout << map1.rechercher(2).valeur() << std::endl;
+
 
   return 0;
 }

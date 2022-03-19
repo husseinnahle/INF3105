@@ -7,11 +7,13 @@
 #define __DATE_H__
 
 #include <iostream>
+#include <string>
 
 class Date
 {
   public:
     Date():jour(1), mois(1), annee(2000){};
+    Date(const std::string&);
     bool operator <(const Date& date) const;
 
   private:

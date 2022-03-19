@@ -5,6 +5,7 @@
 
 #include "commande.h"
 #include "tableau.h"
+#include <sstream>
 
 /* Traiter le format de la commande (string --> Tableau<string>).
    exemple:
@@ -60,7 +61,7 @@ std::string Commande::traiter(const std::string& raw_commande)
   }
   else if (commande[0] == "RAMMASSER")
   {
-    assert(commande.taille() == 2);
+    assert(commande.taille() > 1);
     return ramasser(commande);
   }
   else if (commande[0] == "INVENTAIRE")
@@ -69,4 +70,33 @@ std::string Commande::traiter(const std::string& raw_commande)
     return afficher_inventaire(commande);
   }
   return "Commande non trouvée";
+}
+
+std::string Commande::set_date(const Tableau<std::string>& commande)
+{
+  Date date;
+  std::istringstream is(commande[1]);
+  is >> date;
+  carte.set_date_actuelle(date);
+  return "OK";
+}
+
+std::string Commande::placer(const Tableau<std::string>& commande)
+{
+  PointST position;
+  std::istringstream is(commande[2]);
+  is >> position;
+  carte.placer_epicerie(Epicerie(commande[1], position));
+  return "OK";
+}
+
+std::string Commande::approvisionner(const Tableau<std::string>& commande)
+{
+  for (int i = 0; i < count; i++)
+  {
+    /* code */
+  }
+  
+
+  carte.approvisionner()
 }

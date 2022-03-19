@@ -5,20 +5,25 @@
 #include <iostream>
 #include "epicerie.h"
 
-// Epicerie::Epicerie(const std::string& nom, const PointST& position)
-// {
-//   this->nom = nom;
-//   this->position = position;
-// }
+Epicerie::Epicerie(const std::string& nom, const PointST& position)
+{
+  this->nom = nom;
+  this->position = position;
+}
 
-// std::ostream& operator << (std::ostream& os, const Epicerie& epicerie)
-// {
-//   os << epicerie.nom << ' ' << epicerie.position;
-//   return os;
-// }
+void Epicerie::ajouter_produit(const Produit produit)
+{
+    
+}
 
-// std::istream& operator >> (std::istream& is, Epicerie& epicerie)
-// {
-//   is >> epicerie.nom >> epicerie.position;
-//   return is;
-// }
+std::ostream& operator << (std::ostream& os, const Epicerie& epicerie)
+{
+  os << epicerie.nom << ' ' << epicerie.position;
+  return os;
+}
+
+std::istream& operator >> (std::istream& is, Epicerie& epicerie)
+{
+  is >> epicerie.nom >> epicerie.position;
+  return is;
+}
