@@ -11,12 +11,30 @@ Produit::Produit(const std::string& nom, const Date& date_expiration)
   this->date_expiration = date_expiration;
 }
 
+std::string Produit::get_nom() const
+{
+  return nom;
+}
+
+bool Produit::operator < (const Produit& produit) const
+{
+  if (nom == produit.nom)
+  {
+    return date_expiration < produit.date_expiration;
+  }
+  return nom < produit.nom;
+}
+
+bool Produit::operator == (const Produit& produit) const
+{
+  return nom == produit.nom && date_expiration == produit.date_expiration;
+}
+
 std::ostream& operator << (std::ostream& os, const Produit& produit)
 {
   os << produit.nom << " " << produit.date_expiration;
   return os;
 }
-  
   
 std::istream& operator >> (std::istream& is, Produit& produit)
 {

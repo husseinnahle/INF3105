@@ -38,7 +38,8 @@ class ArbreAVL
     T& operator[](const Iterateur&);
 
   private:
-    struct Noeud{
+    struct Noeud
+    {
         Noeud(const T&);
         T contenu;
         int equilibre;

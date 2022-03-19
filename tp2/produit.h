@@ -16,6 +16,9 @@ class Produit
   public:
     Produit(){}
     Produit(const std::string&, const Date&);
+    std::string get_nom() const;
+    bool operator < (const Produit&) const;
+    bool operator == (const Produit&) const;
 
   private:
     std::string nom;

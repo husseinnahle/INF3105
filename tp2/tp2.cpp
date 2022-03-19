@@ -6,33 +6,19 @@
      1) Nom + Code permanent du l'étudiant.e 1
      2) Nom + Code permanent du l'étudiant.e 2
 */
-#include <fstream>
+
 #include <iostream>
 #include <string>
-#include <cassert>
-#include <cmath>
-#include <limits>
-// #include "date.h"
-// #include "epicerie.h"
-// #include "pointst.h"
-// #include "produit.h"
-// #include "commande.h"
-#include <sstream>
-#include "arbremap.h"
 
-using namespace std;
+#include "commande.h"
 
 int main(int argc, const char** argv)
 {
-    ArbreMap<int, int> map1;
-    map1[1] = 10;
-    map1[2] = 20;
-    map1[3] = 30;
-
-    map1[1] = 40;
-    std::cout << map1.rechercher(2).valeur() << std::endl;
-
-
+  Commande c;
+  std::cout << c.traiter("PLACER Foudici (45.506873,-73.568921) ;") << std::endl;
+  std::cout << c.traiter("APPROV Foudici : Bleuets 4 2017-11-01 Lait 4 2017-11-01 Pain 3 2017-11-01;") << std::endl;
+  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
+  std::cout << c.traiter("APPROV Foudici : Bleuets 3 2017-11-01 Fraises 3 2017-10-30 ;") << std::endl;
+  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
   return 0;
 }
-

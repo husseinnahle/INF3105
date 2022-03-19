@@ -26,6 +26,11 @@ bool Date::operator < (const Date& date) const
   return false;
 }
 
+bool Date::operator == (const Date& date) const
+{
+  return jour == date.jour && mois == date.mois && annee == date.annee;
+}
+
 std::ostream& operator << (std::ostream& os, const Date& date)
 {
   char chaine[40];

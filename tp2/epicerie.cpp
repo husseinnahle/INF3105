@@ -11,9 +11,19 @@ Epicerie::Epicerie(const std::string& nom, const PointST& position)
   this->position = position;
 }
 
-void Epicerie::ajouter_produit(const Produit produit)
+void Epicerie::ajouter_produit(const Produit produit, int nombre)
 {
-    
+  if (inventaire.contient(produit))
+  {
+    inventaire[produit] += nombre;
+    return;
+  }
+  inventaire[produit] = nombre;
+}
+
+ArbreMap<Produit, int>::Iterateur Epicerie::inventaire_iter()
+{
+  return inventaire.debut();
 }
 
 std::ostream& operator << (std::ostream& os, const Epicerie& epicerie)

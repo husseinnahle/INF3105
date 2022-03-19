@@ -13,10 +13,10 @@
 #include "arbreavl.h"
 
 template <class K, class V>
-class ArbreMap {
+class ArbreMap 
+{
   public:
-    bool contient(const K&) const;
-
+    bool contient(const K&);
     void enlever(const K&);
     void vider();
     bool vide() const;
@@ -25,17 +25,20 @@ class ArbreMap {
     V& operator[] (const K&);
 
   private:
-    class Entree{
+    class Entree
+    {
         public:
             Entree(const K& c):cle(c),valeur(){}
             K cle;
             V valeur;
             bool operator < (const Entree& e) const { return cle < e.cle; }
+            bool operator == (const Entree& e) const { return cle == e.cle; }
     };
     ArbreAVL<Entree> entrees;
 
     public:
-        class Iterateur{
+        class Iterateur
+        {
             public:
                 Iterateur(ArbreMap& a) : iter(a.entrees.debut()){}
                 Iterateur(typename ArbreAVL<Entree>::Iterateur i) : iter(i){}
@@ -53,12 +56,14 @@ class ArbreMap {
 };
 
 template <class K, class V>
-void ArbreMap<K,V>::vider(){
+void ArbreMap<K,V>::vider()
+{
     entrees.vider();
 }
 
 template <class K, class V>
-bool ArbreMap<K,V>::vide() const{
+bool ArbreMap<K,V>::vide() const
+{
     
     return entrees.vide();
 }
@@ -70,7 +75,7 @@ void ArbreMap<K,V>::enlever(const K& c)
 }
 
 template <class K, class V>
-bool ArbreMap<K,V>::contient(const K& c) const
+bool ArbreMap<K,V>::contient(const K& c)
 {
     return entrees.contient(c);
 }
@@ -86,7 +91,8 @@ template <class K, class V>
 V& ArbreMap<K,V>::operator[] (const K& c) 
 {
     typename ArbreAVL<Entree>::Iterateur iter=entrees.rechercher(Entree(c));
-    if(!iter){
+    if(!iter)
+    {
         entrees.inserer(Entree(c));
         iter = entrees.rechercher(c);
     }
