@@ -16,9 +16,20 @@ int main(int argc, const char** argv)
 {
   Commande c;
   std::cout << c.traiter("PLACER Foudici (45.506873,-73.568921) ;") << std::endl;
-  std::cout << c.traiter("APPROV Foudici : Bleuets 4 2017-11-01 Lait 4 2017-11-01 Pain 3 2017-11-01;") << std::endl;
+  std::cout << c.traiter("APPROV Foudici : Fraises 1 2017-10-29 Fraises 2 2017-10-27 ;") << std::endl;
+  std::cout << c.traiter("APPROV Foudici : Fraises 3 2017-10-28 Fraises 4 2017-10-30 ;") << std::endl;
+  std::cout << c.traiter("DATE 2017-10-26 ;") << std::endl;
   std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
-  std::cout << c.traiter("APPROV Foudici : Bleuets 3 2017-11-01 Fraises 3 2017-10-30 ;") << std::endl;
+  std::cout << c.traiter("DATE 2017-10-27 ;") << std::endl;
   std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
+  std::cout << c.traiter("DATE 2017-10-28 ;") << std::endl;
+  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
+  std::cout << c.traiter("DATE 2017-10-29 ;") << std::endl;
+  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
+  std::cout << c.traiter("RAMASSER Fraises 2; Foudici;") << std::endl;
+  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
+  std::cout << c.traiter("RAMASSER Fraises 3; Foudici;") << std::endl;
+  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
+
   return 0;
 }

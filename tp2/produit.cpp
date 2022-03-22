@@ -9,12 +9,28 @@ Produit::Produit(const std::string& nom, const Date& date_expiration)
 {
   this->nom = nom;
   this->date_expiration = date_expiration;
+  est_expire = false;
 }
 
-std::string Produit::get_nom() const
+const std::string& Produit::get_nom() const
 {
   return nom;
 }
+
+const Date& Produit::get_date_expiration() const
+{
+  return date_expiration;
+}
+
+// const bool& Produit::get_est_expire() const
+// {
+//   return est_expire;
+// }
+
+// void Produit::set_est_expire()
+// {
+//   est_expire = true;
+// }
 
 bool Produit::operator < (const Produit& produit) const
 {

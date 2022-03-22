@@ -16,17 +16,17 @@ class Epicerie
   public:
     Epicerie(){}
     Epicerie(const std::string&, const PointST&);
-    void ajouter_produit(const Produit, int);
-    ArbreMap<Produit, int>::Iterateur inventaire_iter();
+    const std::string& get_nom() const {return nom;}
+    bool operator < (const Epicerie&) const;
 
   private:
     std::string nom;
     PointST position;
-    ArbreMap<Produit, int> inventaire;
 
   friend class Carte;
   friend std::ostream& operator << (std::ostream&, const Epicerie&);
   friend std::istream& operator >> (std::istream&, Epicerie&);
+
 };
 
 #endif

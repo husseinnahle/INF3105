@@ -15,6 +15,7 @@ class Date
     Date():jour(1), mois(1), annee(2000){};
     Date(const std::string&);
     bool operator < (const Date&) const;
+    bool operator <= (const Date&) const;
     bool operator == (const Date&) const;
 
   private:

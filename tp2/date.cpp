@@ -26,6 +26,11 @@ bool Date::operator < (const Date& date) const
   return false;
 }
 
+bool Date::operator <= (const Date& date) const
+{
+  return *this < date || *this == date;
+}
+
 bool Date::operator == (const Date& date) const
 {
   return jour == date.jour && mois == date.mois && annee == date.annee;

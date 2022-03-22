@@ -18,18 +18,16 @@ class Carte
 {
   public:
     Carte();
-    std::string recommander() const;
-    void set_date_actuelle(const Date);
-    void placer_epicerie(const Epicerie);
+    void enlever_produits_expires(const Date&);
+    void ajouter_epicerie(const Epicerie );
+    void ajouter_porduits(const std::string&, const std::string&, const int&);
     void approvisionner(const std::string&, const Produit, const int);
-    void recommnander();
-    void enlever_produit(const std::string&, const std::string&, const int);
-    ArbreMap<Produit, int>::Iterateur inventaire_iter(const std::string&);
+    int ramasser(const std::string& , const std::string& , const int&);
+    const Tableau<Produit>& get_produits(const std::string& );
 
   private:
-    Date date_actuelle;
-    Tableau<Epicerie> epiceries;
-    int chercher_epicerie(const std::string&) const;
+    ArbreMap<Epicerie, Tableau<Produit>> carte;
+    const Epicerie* chercher_epicerie(const std::string&);
 };
 
 #endif

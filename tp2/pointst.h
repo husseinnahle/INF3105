@@ -17,6 +17,7 @@ class PointST {
     PointST(const PointST&);
 
     double distance(const PointST&) const;
+    bool operator < (const PointST&) const;
 
   private:
     double latitude;

@@ -3,16 +3,7 @@
     2) Nom + Code permanent du l'étudiant.e 2
 */
 
-#include <sstream>
-#include <string>
-
-#include "arbremap.h"
 #include "commande.h"
-#include "tableau.h"
-#include "epicerie.h"
-#include "produit.h"
-#include "date.h"
-#include "pointst.h"
 
 std::string Commande::traiter(const std::string& raw_commande)
 {
@@ -38,7 +29,7 @@ std::string Commande::traiter(const std::string& raw_commande)
     assert((commande.taille() - 4) % 2 == 0);
     return recommander(commande);
   }
-  else if (commande[0] == "RAMMASSER")
+  else if (commande[0] == "RAMASSER")
   {
     assert(commande.taille() > 1);
     return ramasser(commande);
@@ -98,7 +89,7 @@ PointST Commande::str_to_pointst(const std::string& raw_position)
 std::string Commande::set_date(const Tableau<std::string>& commande)
 {
   Date date = str_to_date(commande[1]);
-  carte.set_date_actuelle(date);
+  carte.enlever_produits_expires(date);
   return "OK";
 }
 
@@ -106,7 +97,7 @@ std::string Commande::placer(const Tableau<std::string>& commande)
 {
   PointST position = str_to_pointst(commande[2]);
   Epicerie epicerie(commande[1], position);
-  carte.placer_epicerie(epicerie);
+  carte.ajouter_epicerie(epicerie);
   return "OK";
 }
 
@@ -131,30 +122,41 @@ std::string Commande::recommander(const Tableau<std::string>& commande)
 
 std::string Commande::ramasser(const Tableau<std::string>& commande)
 {
-  return "";
+  std::string nom_epicerie = commande[commande.taille()-1];
+  std::string reponse = "";
+  for (int i = 1; i+1 < commande.taille(); i+=2)
+  {
+    int quantite_non_trouvee = carte.ramasser(nom_epicerie, commande[i], std::stoi(commande[i+1]));
+    if (quantite_non_trouvee == 0)
+    {
+      reponse += "COMPLET";
+      continue;
+    }
+    reponse += i > 1 ? "\n" : "";
+    reponse += "MANQUE " + commande[i] + " " + std::to_string(quantite_non_trouvee) + ";";
+  }
+  return reponse;
 }
 
 std::string Commande::afficher_inventaire(const Tableau<std::string>& commande)
 {
-  ArbreMap<Produit, int>::Iterateur iter = carte.inventaire_iter(commande[1]);
-  ArbreMap<std::string, int> inventaire;
-  while (iter)
+  Tableau<Produit> produits = carte.get_produits(commande[1]);
+  ArbreMap<std::string, int> map;
+  for (int i = 0; i < produits.taille(); i++)
   {
-    std::string nom = iter.cle().get_nom();
-    if (inventaire.contient(nom))
+    std::string produit = produits[i].get_nom();
+    if (map.contient(produit))
     {
-      inventaire[nom] += iter.valeur();
-      ++iter;
+      map[produit] += 1;
       continue;
     }
-    inventaire[iter.cle().get_nom()] = iter.valeur();
-    ++iter;    
-  }
-  ArbreMap<std::string, int>::Iterateur iter_inventaire = inventaire.debut();
-  while (iter_inventaire)
+    map[produit] = 1;    
+  }  
+  ArbreMap<std::string, int>::Iterateur iter = map.debut();
+  while (iter)
   {
-    std::cout << iter_inventaire.cle() << " " << iter_inventaire.valeur() << "     ";
-    ++iter_inventaire;
+    std::cout << iter.cle() << " " << iter.valeur() << "     ";
+    ++iter;
   }  
   return ";";
 }

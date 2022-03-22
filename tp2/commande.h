@@ -6,11 +6,15 @@
 #define _COMMANDE__H_
 
 #include <string>
+#include <sstream>
 #include <assert.h>
+#include "arbremap.h"
 #include "tableau.h"
+#include "carte.h"
+#include "epicerie.h"
+#include "produit.h"
 #include "date.h"
 #include "pointst.h"
-#include "carte.h"
 
 class Commande
 {
