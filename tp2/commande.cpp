@@ -8,7 +8,7 @@
 std::string Commande::traiter(const std::string& raw_commande)
 {
   Tableau<std::string> commande;
-  traiter(raw_commande, commande);
+  traiter(raw_commande, commande);  
   if (commande[0] == "DATE")
   {
     assert(commande.taille() == 2);
@@ -50,10 +50,15 @@ std::string Commande::traiter(const std::string& raw_commande)
 void Commande::traiter(const std::string& raw_commande, Tableau<std::string>& commande)
 {
   std::string element = "";
-  for (const char& c : raw_commande)
+  for (int i = 0; i < raw_commande.length(); i++)
   {
-    if (c == ' ' || c == ';')
+    if (raw_commande[i] == ';' && i < raw_commande.length() - 2)
     {
+      commande.ajouter(";");
+      continue;
+    }
+    if (raw_commande[i] == ' ' || raw_commande[i] == ';')
+    { 
       if (element.length() == 0)
       {
         continue;
@@ -62,11 +67,11 @@ void Commande::traiter(const std::string& raw_commande, Tableau<std::string>& co
       element = "";
       continue;
     }
-    else if (c == ':' || c == '\n' || c == '\\')
+    else if (raw_commande[i] == ':' || raw_commande[i] == '\n' || raw_commande[i] == '\\')
     {
       continue;
     }
-    element += c;
+    element += raw_commande[i];
   }
 }
 
@@ -117,23 +122,38 @@ std::string Commande::approvisionner(const Tableau<std::string>& commande)
 
 std::string Commande::recommander(const Tableau<std::string>& commande)
 {
+  PointST position = str_to_pointst(commande[1]);
+  int nombre_max_epicerie = std::stoi(commande[2]);
+  int distance_total_max = std::stoi(commande[3]);
+  ArbreMap<std::string, int> produits;
+  for (int i = 4; i+1 < commande.taille(); i+=2)
+  {
+    produits[commande[i]] = std::stoi(commande[i+1]);
+  }
+  carte.recommander(position, nombre_max_epicerie, distance_total_max, produits);
   return "";
 }
 
 std::string Commande::ramasser(const Tableau<std::string>& commande)
 {
-  std::string nom_epicerie = commande[commande.taille()-1];
   std::string reponse = "";
-  for (int i = 1; i+1 < commande.taille(); i+=2)
+  bool complet = true;
+  for (int j = commande.taille()-1; commande[j] != ";"; j--)
   {
-    int quantite_non_trouvee = carte.ramasser(nom_epicerie, commande[i], std::stoi(commande[i+1]));
-    if (quantite_non_trouvee == 0)
+    reponse += j != commande.taille() -1 ? "\n" : "";
+    std::string nom_epicerie = commande[j];
+    for (int i = 1; commande[i] != ";"; i+=2)
     {
-      reponse += "COMPLET";
-      continue;
-    }
-    reponse += i > 1 ? "\n" : "";
-    reponse += "MANQUE " + commande[i] + " " + std::to_string(quantite_non_trouvee) + ";";
+      reponse += i > 1 ? "\n" : "";
+      int quantite_non_trouvee = carte.ramasser(nom_epicerie, commande[i], std::stoi(commande[i+1]));
+      if (quantite_non_trouvee != 0)
+      {
+        reponse += "MANQUE " + commande[i] + " " + std::to_string(quantite_non_trouvee) + ";";
+        complet = false;
+        continue;
+      }
+    }  
+    reponse += complet == true ? "COMPLET" : "";
   }
   return reponse;
 }

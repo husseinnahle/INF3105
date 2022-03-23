@@ -14,22 +14,24 @@
 
 int main(int argc, const char** argv)
 {
+
   Commande c;
+  std::cout << c.traiter("DATE 2017-11-01 ;") << std::endl;
   std::cout << c.traiter("PLACER Foudici (45.506873,-73.568921) ;") << std::endl;
-  std::cout << c.traiter("APPROV Foudici : Fraises 1 2017-10-29 Fraises 2 2017-10-27 ;") << std::endl;
-  std::cout << c.traiter("APPROV Foudici : Fraises 3 2017-10-28 Fraises 4 2017-10-30 ;") << std::endl;
-  std::cout << c.traiter("DATE 2017-10-26 ;") << std::endl;
-  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
-  std::cout << c.traiter("DATE 2017-10-27 ;") << std::endl;
-  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
-  std::cout << c.traiter("DATE 2017-10-28 ;") << std::endl;
-  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
-  std::cout << c.traiter("DATE 2017-10-29 ;") << std::endl;
-  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
-  std::cout << c.traiter("RAMASSER Fraises 2; Foudici;") << std::endl;
-  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
-  std::cout << c.traiter("RAMASSER Fraises 3; Foudici;") << std::endl;
-  std::cout << c.traiter("INVENTAIRE Foudici;") << std::endl;
+  std::cout << c.traiter("PLACER IGA (45.507798,-73.563369) ;") << std::endl;
+  std::cout << c.traiter("APPROV Foudici : Pommes 4 2017-11-20 ;") << std::endl;
+  std::cout << c.traiter("APPROV IGA : Pommes 3 2017-11-14 Fraises 3 2017-11-27 ;") << std::endl;
+  std::cout << c.traiter("RAMASSER Pommes 2 Fraises 1 ; IGA Foudici ;") << std::endl;
+  std::cout << c.traiter("INVENTAIRE IGA ;") << std::endl;
+  // std::cout << c.traiter("INVENTAIRE Foudici ;") << std::endl;
+  // std::cout << c.traiter("RAMASSER Pommes 1 Fraises 1 ; Foudici IGA ;") << std::endl;
+  // std::cout << c.traiter("INVENTAIRE IGA ;") << std::endl;
+  // std::cout << c.traiter("INVENTAIRE Foudici ;") << std::endl;
+
+  // std::cout << c.traiter("RECOMMANDER (45.509339,-73.568465) 1 999000 : Fraises 1 ;") << std::endl;
+  // std::cout << c.traiter("RECOMMANDER (45.509339,-73.568465) 1 999000 : Fraises 2 ;") << std::endl;
+  // std::cout << c.traiter("RECOMMANDER (45.509339,-73.568465) 1 999000 : Fraises 1 Pommes 2 ;") << std::endl;
+  // std::cout << c.traiter("RECOMMANDER (45.509339,-73.568465) 2 999000 : Fraises 1 Pommes 2 ;") << std::endl;
 
   return 0;
 }

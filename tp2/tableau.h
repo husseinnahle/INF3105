@@ -16,6 +16,8 @@ class Tableau
     void           inserer(const T& element, int index=0);
     void           enlever(int index=0);
     int            chercher(const T& item) const;
+    // Generer toutes les combinaisons possibles des elements d'un tableau
+    void           permuter(Tableau<Tableau<T>>& permutations);
 
     const T&       operator[] (int index) const;
     T&             operator[] (int index);
@@ -28,6 +30,8 @@ class Tableau
     int            nbElements;
     int            capacite;
     void           redimentionner(int capacite);
+    void           permuter(Tableau<Tableau<T>>& permutations, Tableau<T>& tableau, int taille);
+    void           swap(int premier, int deuxieme);
 };
 
 template <class T>
@@ -129,6 +133,43 @@ template <class T>
 void Tableau<T>::vider()
 {
   nbElements = 0;
+}
+
+template <class T>
+void Tableau<T>::swap(int premier, int deuxieme)
+{
+  T temp = elements[premier];
+  elements[premier] = elements[deuxieme];
+  elements[deuxieme] = temp;
+}
+
+template <class T>
+void Tableau<T>::permuter(Tableau<Tableau<T>>& permutations, Tableau<T>& tableau, int taille)
+{
+  if (taille == 1)
+  {
+    permutations.ajouter(tableau);
+    return;
+  }
+  for (int i = 0; i < taille; i++)
+  {
+    permuter(permutations, tableau, taille - 1);
+    if (taille % 2 == 1)
+    {
+      tableau.swap(0, taille - 1);
+    }
+    else
+    {
+      tableau.swap(i, taille - 1);
+    }    
+  }
+}
+
+template <class T>
+void Tableau<T>::permuter(Tableau<Tableau<T>>& permutations)
+{
+  Tableau<T> tab = *this;
+  permuter(permutations, tab, tab.taille());
 }
 
 template <class T>

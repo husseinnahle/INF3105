@@ -76,3 +76,8 @@ const Tableau<Produit>& Carte::get_produits(const std::string& nom_epicerie)
 {
   return carte[*chercher_epicerie(nom_epicerie)];
 }
+
+void Carte::recommander(const PointST& position, const int& nombre_max_epicerie, const int& distance_total_max, const ArbreMap<std::string, int>& produits)
+{
+}
+
