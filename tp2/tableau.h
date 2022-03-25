@@ -29,9 +29,9 @@ class Tableau
     T*             elements;
     int            nbElements;
     int            capacite;
-    void           redimentionner(int capacite);
     void           permuter(Tableau<Tableau<T>>& permutations, Tableau<T>& tableau, int taille);
     void           swap(int premier, int deuxieme);
+    void           redimentionner(int capacite);
 };
 
 template <class T>
@@ -83,7 +83,7 @@ int Tableau<T>::taille() const
 template <class T>
 void Tableau<T>::ajouter(const T& item)
 {
-  if (nbElements + 1 > capacite)
+  if (nbElements+1 > capacite)
   {
     redimentionner(2 * capacite);
   }
@@ -93,10 +93,11 @@ void Tableau<T>::ajouter(const T& item)
 template <class T>
 void Tableau<T>::inserer(const T& element, int index)
 {
-  if (++nbElements > capacite)
+  if (nbElements+1 > capacite)
   {
     redimentionner(capacite * 2);
   }
+  nbElements++;
   T nouveau = element;
   for (int i = index; i < nbElements; i++)
   {

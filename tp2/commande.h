@@ -29,7 +29,7 @@ class Commande
     std::string placer(const Tableau<std::string>&);
     std::string approvisionner(const Tableau<std::string>&);
     std::string recommander(const Tableau<std::string>&);
-    std::string ramasser(const Tableau<std::string>&);
+    std::string ramasser(Tableau<std::string>&);
     std::string afficher_inventaire(const Tableau<std::string>&);
     Date str_to_date(const std::string&);
     PointST str_to_pointst(const std::string&);

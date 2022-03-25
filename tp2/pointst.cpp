@@ -28,15 +28,7 @@ double PointST::distance(const PointST& point) const {
 
 bool PointST::operator < (const PointST& position) const
 {
-  if (latitude == position.latitude)
-  {
-    return longitude < position.longitude;
-  }
-  else if (longitude == position.longitude)
-  {
-    return latitude < position.latitude;
-  }
-  return longitude < position.longitude && latitude < position.latitude;
+  return true;
 }
 
 std::ostream& operator << (std::ostream& os, const PointST& point) {

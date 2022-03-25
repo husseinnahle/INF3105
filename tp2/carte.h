@@ -22,7 +22,7 @@ class Carte
     void ajouter_epicerie(const Epicerie);
     void ajouter_porduits(const std::string&, const std::string&, const int&);
     void approvisionner(const std::string&, const Produit, const int);
-    int ramasser(const std::string& , const std::string& , const int&);
+    void ramasser(const std::string& , const std::string& , int&);
     void recommander(const PointST&, const int&, const int&, const ArbreMap<std::string, int>&);
     const Tableau<Produit>& get_produits(const std::string&);
 

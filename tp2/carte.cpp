@@ -16,6 +16,7 @@ const Epicerie* Carte::chercher_epicerie(const std::string& nom_epicerie)
     }    
     ++iter;
   }
+  assert(false);
   return nullptr;
 }
 
@@ -24,9 +25,10 @@ void Carte::enlever_produits_expires(const Date& date_courante)
 {
   ArbreMap<Epicerie, Tableau<Produit>>::Iterateur iter = carte.debut();
   while (iter)
-  {
+  {  
     for (int i = 0; i < iter.valeur().taille(); i++)
     {
+      Produit p = iter.valeur()[i];
       if (iter.valeur()[i].get_date_expiration() <= date_courante)
       {
         iter.valeur().enlever(i--);
@@ -46,7 +48,21 @@ void Carte::ajouter_epicerie(const Epicerie epicerie)
 void Carte::approvisionner(const std::string& nom_epicerie, const Produit produit, const int quantite)
 {
   Tableau<Produit>* produits = &carte[*chercher_epicerie(nom_epicerie)];
-  assert(produits != nullptr);
+  //produits->redimentionner(produits->taille() + quantite);
+  if (produits->taille() != 0)
+  {
+    for (int i = 0; i < produits->taille(); i++)
+    {
+      if ((*produits)[i].get_date_expiration() < produit.get_date_expiration())
+      {
+        for (int j = 0; j < quantite; j++)
+        {
+          produits->inserer(produit, i);
+        }
+        return;      
+      }
+    }
+  }
   for (int i = 0; i < quantite; i++)
   {
     produits->ajouter(produit);
@@ -54,21 +70,18 @@ void Carte::approvisionner(const std::string& nom_epicerie, const Produit produi
 }
 
 // Ramasser des produits
-int Carte::ramasser(const std::string& nom_epicerie, const std::string& nom_produit, const int& quantite)
+void Carte::ramasser(const std::string& nom_epicerie, const std::string& nom_produit, int& quantite)
 {
   Tableau<Produit>* produits = &carte[*chercher_epicerie(nom_epicerie)];
-  assert(produits != nullptr);
-  int quantite_trouve = 0;
-  for (int i = 0; i < produits->taille() && quantite_trouve < quantite; i++)
+  for (int i = 0; i < produits->taille() && quantite > 0; i++)
   {
     std::string nom = (*produits)[i].get_nom();
     if ((*produits)[i].get_nom() == nom_produit)
     {
-      quantite_trouve++;
       produits->enlever(i--);
+      quantite--;
     }
   }
-  return quantite - quantite_trouve;
 }
 
 // Chercher et retourner les produits d'une epicerie

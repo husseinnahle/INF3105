@@ -13,7 +13,7 @@ Epicerie::Epicerie(const std::string& nom, const PointST& position)
 
 bool Epicerie::operator < (const Epicerie& epicerie) const
 {
-  return position < epicerie.position;
+  return nom < epicerie.nom;
 }
 
 std::ostream& operator << (std::ostream& os, const Epicerie& epicerie)
