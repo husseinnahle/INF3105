@@ -89,10 +89,11 @@ void Tableau<T>::ajouter(const T& item)
 template <class T>
 void Tableau<T>::inserer(const T& element, int index)
 {
-  if (++nbElements > capacite)
+  if (nbElements + 1 > capacite)
   {
     redimentionner(capacite * 2);
   }
+  nbElements++;
   T nouveau = element;
   for (int i = index; i < nbElements; i++)
   {
