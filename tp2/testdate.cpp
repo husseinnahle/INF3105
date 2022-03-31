@@ -6,6 +6,10 @@
 #include <sstream>
 #include <vector> // std::vecteur est permis uniquement pour ce programme test.
 
+/*
+ * MODIFIER POUR FONCTIONNER AVEC LE NOUVEAU OPERATEUR < DE LA CLASS DATE
+ */
+
 int main()
 {
     std::cout << "Vérification de la classe Date" << std::endl;
@@ -22,10 +26,10 @@ int main()
     for(unsigned int i=0;i<dates.size();i++)
         for(unsigned int j=0;j<dates.size();j++){
              if(i<j){
-                 if(!(dates[i]<dates[j]))
+                 if(dates[i]<dates[j])
                      std::cout << "Erreur : dates[" << i << "]<dates[" << j << "] : " << dates[i] << "<" << dates[j] << " retourne faux!" << std::endl;
              }else if(j<i){
-                 if(!(dates[j]<dates[i]))
+                 if(dates[j]<dates[i])
                      std::cout << "Erreur : dates[" << j << "]<dates[" << i << "] : " << dates[j] << "<" << dates[i] << " retourne faux!" << std::endl;
              }else{ // i==j
                  if(dates[j]<dates[i])

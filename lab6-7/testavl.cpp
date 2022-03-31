@@ -265,64 +265,69 @@ bool test6()
     return nberreurs==0;
 }
 
-// bool test7()
-// {
-//     int nberreurs=0;
-//     std::cout << "Test #7 : ArbreAVL / enlèvement" << std::endl;
-//     ArbreAVL<int> arbre1;
-//     arbre1.inserer(1);
-//     arbre1.enlever(2);
-//     if(!arbre1.contient(1) || arbre1.contient(2) || arbre1.taille()!=1){
-//             std::cout<< " >> Erreur #1" << std::endl;
-//             nberreurs++;
-//     }
-//     arbre1.enlever(1);
-//     if(arbre1.contient(1) || arbre1.contient(2) || arbre1.taille()!=0){
-//             std::cout<< " >> Erreur #2" << std::endl;
-//             nberreurs++;
-//     }
+bool test7()
+{
+    int nberreurs=0;
+    std::cout << "Test #7 : ArbreAVL / enlèvement" << std::endl;
+    ArbreAVL<int> arbre1;
+    arbre1.inserer(1);
+    arbre1.enlever(2);
+    if(!arbre1.contient(1) || arbre1.contient(2) || arbre1.taille()!=1){
+            std::cout<< " >> Erreur #1" << std::endl;
+            nberreurs++;
+    }
+    arbre1.enlever(1);
+    if(arbre1.contient(1) || arbre1.contient(2) || arbre1.taille()!=0){
+            std::cout<< " >> Erreur #2" << std::endl;
+            nberreurs++;
+    }
 
-//     arbre1.inserer(2);
-//     arbre1.inserer(1);
-//     arbre1.inserer(3);
-//     arbre1.inserer(4);
-//     arbre1.enlever(3);
-//     if(arbre1.contient(3) || !arbre1.contient(4) || arbre1.taille()!=3){
-//             std::cout<< " >> Erreur #3" << std::endl;
-//             nberreurs++;
-//     }
-//     arbre1.enlever(1);
-//     if(arbre1.contient(1) || !arbre1.contient(2) || arbre1.taille()!=2){
-//             std::cout<< " >> Erreur #4" << std::endl;
-//             nberreurs++;
-//     }
-//     arbre1.vider();
-//     arbre1.inserer(2);
-//     arbre1.inserer(1);
-//     arbre1.inserer(3);
-//     arbre1.enlever(1);
-//     if(arbre1.contient(1) || !arbre1.contient(2) || !arbre1.contient(3)|| arbre1.taille()!=2){
-//             std::cout<< " >> Erreur #5" << std::endl;
-//             nberreurs++;
-//     }
+    arbre1.inserer(2);
+    arbre1.inserer(1);
+    arbre1.inserer(4);
+    arbre1.inserer(3);
+    arbre1.enlever(3);
+    if(arbre1.contient(3) || !arbre1.contient(4) || arbre1.taille()!=3){
+            std::cout<< " >> Erreur #3" << std::endl;
+            nberreurs++;
+    }
+    arbre1.enlever(1);
+    if(arbre1.contient(1) || !arbre1.contient(2) || arbre1.taille()!=2){
+            std::cout<< " >> Erreur #4" << std::endl;
+            nberreurs++;
+    }
+    arbre1.vider();
+    arbre1.inserer(2);
+    arbre1.inserer(1);
+    arbre1.inserer(3);
+    arbre1.enlever(1);
+    if(arbre1.contient(1) || !arbre1.contient(2) || !arbre1.contient(3)|| arbre1.taille()!=2){
+            std::cout<< " >> Erreur #5" << std::endl;
+            nberreurs++;
+    }
     
     
-//     ArbreAVL<int> arbre;
-//     for(int i=0;i<20;i+=2)
-//         arbre.inserer(i);
-//     for(int i=1;i<20;i+=2)
-//         arbre.inserer(i);
-//     for(int i=0;i<20;i++)
-//         arbre.enlever(i);
-//     for(int i=0;i<20;i++)
-//         if(arbre.contient(i)){
-//             std::cout<< " >> Erreur #6  i=" << i << std::endl;
-//             nberreurs++;
-//         }
-//     if(nberreurs==0)
-//         std::cout << " ==> OK" << std::endl;
-//     return nberreurs==0;
-// }
+    ArbreAVL<int> arbre;
+    for(int i=0;i<20;i+=2)
+        arbre.inserer(i);
+    for(int i=1;i<20;i+=2)
+        arbre.inserer(i);
+    arbre.afficher();
+    for(int i=0;i<20;i++)
+    {   
+        std::cout << "ELEVER : " << i << std::endl; 
+        arbre.enlever(i);
+        arbre.afficher();
+    }
+    for(int i=0;i<20;i++)
+        if(arbre.contient(i)){
+            std::cout<< " >> Erreur #6  i=" << i << std::endl;
+            nberreurs++;
+        }
+    if(nberreurs==0)
+        std::cout << " ==> OK" << std::endl;
+    return nberreurs==0;
+}
 
 bool test8()
 {
@@ -550,7 +555,7 @@ int main(int argc, const char** argv)
         && test4()
         && test5()
         && test6()
-        //&& test7()
+        && test7()
         && test8()
         && test9()  // Exercice optionel
 

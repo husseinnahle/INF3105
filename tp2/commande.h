@@ -12,7 +12,6 @@
 #include "tableau.h"
 #include "carte.h"
 #include "epicerie.h"
-#include "produit.h"
 #include "date.h"
 #include "pointst.h"
 

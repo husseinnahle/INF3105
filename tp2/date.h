@@ -1,6 +1,6 @@
-/*  AUTEUR(S):
-    1) Nom + Code permanent du l'étudiant.e 1
-    2) Nom + Code permanent du l'étudiant.e 2
+/*  AUTEURS:
+     1) Hussein Nahle - NAHH85090004
+     2) Ridley Saint-Orice - SAIR77090109
 */
 
 #if !defined(__DATE_H__)
@@ -15,7 +15,6 @@ class Date
     Date():jour(1), mois(1), annee(2000){};
     Date(const std::string&);
     bool operator < (const Date&) const;
-    bool operator <= (const Date&) const;
     bool operator == (const Date&) const;
 
   private:

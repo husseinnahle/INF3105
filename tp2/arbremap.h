@@ -53,6 +53,8 @@ class ArbreMap
         Iterateur debut() {return Iterateur(*this);}
         Iterateur fin() {return Iterateur(entrees.fin());}
         Iterateur rechercher(const K& cle) {return Iterateur(entrees.rechercher(cle));}
+        Iterateur rechercherEgalOuPrecedent(const K& cle) {return Iterateur(entrees.rechercherEgalOuPrecedent(cle));}
+        Iterateur rechercherEgalOuSuivant(const K& cle) {return Iterateur(entrees.rechercherEgalOuSuivant(cle));}
 };
 
 template <class K, class V>

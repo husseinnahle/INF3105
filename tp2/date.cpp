@@ -16,19 +16,16 @@ Date::Date(const std::string& raw_date)
   jour = stoi(raw_date.substr(8, 2));
 }
 
+// L'opérateur < retourne la valeur inverse. Par exemple : (2022-03-29 > 2022-03-28) = false
+// Cet opérateur est utilisé par la class arbreAvl pour ranger les dates par ordre décroissant (voir class Info (dans epicerie.h))
 bool Date::operator < (const Date& date) const
 {
-  if (annee < date.annee || (annee == date.annee && mois < date.mois) || 
-      (annee == date.annee && mois == date.mois && jour < date.jour))
+  if (annee > date.annee || (annee == date.annee && mois > date.mois) || 
+      (annee == date.annee && mois == date.mois && jour > date.jour))
   {
     return true;
   }  
   return false;
-}
-
-bool Date::operator <= (const Date& date) const
-{
-  return *this < date || *this == date;
 }
 
 bool Date::operator == (const Date& date) const

@@ -1,0 +1,364 @@
+OK
+OK
+MANQUE ail 2	cornouiller_du_Canada 3	figue 3	pain 4	panais 3	prune 2	quetsche 3	raisin 2	salicorne 3	 ;
+MANQUE abricot 3	ail 1	canneberge 2	ciboulette 2	courgette 4	céleri 4	fraise 1	framboise 2	fromage 2	orange 1	pate 2	poivron 2	pomme 3	pêche 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE carotte 3	citrouille 2	concombre 3	cornouiller_du_Canada 1	groseille 3	haricot 1	pain 2	pistache 2	poivre 2	pomme 3	pomme_de_terre 3	quetsche 2	rhubarbe 4	 ;
+IMPOSSIBLE
+MANQUE antilope 4	betterave 2	carotte 2	courge 3	jujube 3	marron 4	noix 1	poireau 1	pomme_de_terre 3	pêche 3	veau 1	 ;
+MANQUE boeuf 4	brugnon 2	cheval 4	citron 1	citrouille 1	fromage 4	kiwi 1	pistache 2	poireau 3	poivre 1	poivron 1	raisin 2	salicorne 2	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE agneau 1	banane 2	brugnon 3	châtaigne 4	concombre 3	groseille 3	oeuf 4	pomme 2	prune 3	salicorne 1	sucre 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE betterave 2	bigarade 4	brocoli 1	chou 1	céleri 3	framboise 4	lait 4	mirabelle 2	oignon 2	poivron 4	 ;
+IMPOSSIBLE
+MANQUE ananas 2	beurre 4	chou-fleur 1	clémentine 4	huile 4	noix 2	quinoa 1	truffe 2	épices 1	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE antilope 4	crème_glacée 3	poivre 1	salicorne 3	échalote 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE boeuf 3	cheval 1	maceron 1	mûre 1	pistache 1	romaine 1	 ;
+MANQUE arbouse 3	avocat 2	banane 2	carotte 2	châtaigne 4	citron 2	gingembre 2	huile 1	oignon 2	pistache 2	soja 2	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE boeuf 2	clémentine 4	maceron 4	pamplemousse 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cheval 1	citron 3	figue 3	raisin 2	rhubarbe 3	 ;
+MANQUE abricot 3	agneau 1	clémentine 1	coing 3	courgette 2	framboise 4	kiwi 3	prune 1	radis 3	radis_noir 1	échalote 3	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE brocoli 1	courgette 4	framboise 3	kiwi 2	panais 2	radis 3	veau 1	 ;
+IMPOSSIBLE
+MANQUE ail 3	autruche 4	bergamote 2	céleri 1	jujube 2	kiwi 4	rhubarbe 2	soja 3	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE ananas 4	antilope 1	avocat 1	beurre 3	groseille 2	huile 1	lait 1	mandarine 4	oignon 3	olive 4	pate 1	poivron 3	 ;
+MANQUE bison 3	cassis 4	coing 2	datte 2	fromage 3	haricot 1	jujube 2	melon 4	pain 2	prune 2	quetsche 4	truffe 2	wapiti 1	 ;
+IMPOSSIBLE
+OK
+MANQUE amande 1	antilope 1	asperge 2	aubergine 3	autruche 3	basilic 3	bergamote 2	cassis 1	chou 2	courgette 2	crème 1	haricot 3	lapin 4	pain 4	pastèque 3	porc 3	radis 3	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE avocat 1	bergamote 1	brocoli 1	carotte 3	haricot 1	panais 1	plaquebière 3	poireau 2	taro 1	 ;
+MANQUE arbouse 3	autruche 2	brocoli 2	carotte 3	chou-fleur 2	ciboulette 2	citron 2	citrouille 4	lapin 3	marron 4	oeuf 2	poivre 2	sel 2	wapiti 1	échalote 4	 ;
+OK
+OK
+MANQUE ail 1	autruche 2	banane 1	beurre 3	céleri 4	kiwi 2	pomme_de_terre 2	prune 1	rhubarbe 1	salade 3	 ;
+OK
+OK
+OK
+OK
+MANQUE arbouse 2	avocat 1	bergamote 3	bison 4	brocoli 2	clémentine 3	courge 2	framboise 1	gingembre 1	kaki 1	lait 2	oignon 4	orange 2	pois 1	salade 3	échalote 3	 ;
+IMPOSSIBLE
+MANQUE bergamote 2	bigarade 1	haricot 2	maceron 1	 ;
+MANQUE amande 2	ananas 3	carotte 4	châtaigne 2	courge 2	fève 3	laitue 3	navet 3	pamplemousse 4	salade 3	taro 1	épices 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE betterave 1	brugnon 3	datte 1	framboise 4	mirabelle 3	navet 1	noix 2	radis_noir 1	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE arbouse 4	boeuf 1	brocoli 2	cornouiller_du_Canada 1	courge 1	céleri 1	fève 3	grenade 4	jujube 2	kiwi 1	melon 4	navet 1	oeuf 3	pistache 3	 ;
+MANQUE beurre 3	chou-fleur 1	ciboulette 1	jujube 4	myrtille 4	pastèque 2	poire 3	poivron 2	rhubarbe 1	salade 2	salicorne 4	sucre 3	taro 4	 ;
+OK
+OK
+MANQUE amande 1	beurre 3	bison 4	brocoli 2	concombre 2	gingembre 2	marron 4	orange 2	pastèque 1	plaquebière 1	pomme 4	prune 1	quetsche 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+MANQUE antilope 3	avocat 4	brugnon 1	courge 2	laitue 1	mandarine 3	orange 1	pomme_de_terre 3	truffe 1	échalote 3	 ;
+OK
+OK
+MANQUE cynorrhodon 3	myrtille 2	mûre 2	quinoa 1	raisin 1	yogourt 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE antilope 2	carotte 4	cerise 3	concombre 3	 ;
+MANQUE amande 4	antilope 1	aubergine 3	basilic 1	cheval 3	cornouiller_du_Canada 3	courgette 4	céleri 3	fraise 3	lime 1	mirabelle 3	nèfle 2	radis_noir 1	rhubarbe 3	wapiti 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE amande 3	cynorrhodon 4	datte 4	fève 3	orange 3	radis_noir 2	 ;
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE cynorrhodon 1	haricot 3	laitue 1	maceron 3	marron 3	mûre 2	navet 2	nèfle 4	oignon 2	olive 4	pamplemousse 1	poireau 1	radis 4	radis_noir 3	rhubarbe 2	romaine 2	épices 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE clémentine 4	coing 2	cornouiller_du_Canada 1	myrtille 2	navet 4	pamplemousse 3	pistache 1	poire 2	pois 1	pêche 4	salade 3	sucre 4	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE ail 1	amande 4	avocat 4	banane 3	brugnon 1	châtaigne 3	citrouille 1	cynorrhodon 4	kiwi 2	olive 4	pistache 3	poivre 1	rhubarbe 2	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+MANQUE banane 2	ciboulette 1	courge 4	datte 4	figue 1	orange 2	panais 4	quetsche 1	 ;
+OK
+OK
+OK
+OK
+MANQUE avocat 3	cynorrhodon 1	fromage 2	lait 3	laitue 3	maceron 3	poire 1	wapiti 1	yogourt 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE ail 2	ananas 1	poivre 3	radis_noir 3	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+15647m  Prince-Arthur_/_du_Parc
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE abricot 4	bison 3	carotte 3	lime 3	poire 1	veau 1	 ;
+MANQUE abricot 2	agneau 1	banane 4	beurre 2	bigarade 1	coing 3	cornouiller_du_Canada 2	courge 4	figue 4	kaki 1	laitue 2	pamplemousse 1	poire 2	salicorne 2	 ;
+IMPOSSIBLE
+MANQUE autruche 4	cassis 2	châtaigne 4	datte 2	lime 4	pamplemousse 4	yogourt 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE bison 3	clémentine 2	fève 1	poivron 2	porc 3	 ;
+MANQUE brocoli 4	canneberge 3	ciboulette 1	citrouille 2	lait 4	lime 2	marron 4	pamplemousse 2	pistache 3	poivre 3	porc 2	pêche 2	 ;
+MANQUE agneau 2	ail 2	autruche 1	avocat 4	bergamote 3	bison 2	canneberge 2	concombre 3	groseille 4	olive 2	orange 2	radis_noir 3	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE bigarade 4	clémentine 1	oignon 2	pamplemousse 2	poire 2	prune 3	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE aubergine 3	basilic 4	brocoli 4	datte 1	laitue 3	échalote 3	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE ciboulette 1	citrouille 1	cynorrhodon 1	olive 4	pain 2	pastèque 2	pistache 2	poivre 3	prune 3	quetsche 3	sel 3	soja 2	wapiti 3	épices 3	 ;
+IMPOSSIBLE
+MANQUE agneau 3	concombre 2	crème 3	mûre 3	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE boeuf 3	crème 2	fraise 2	lapin 3	quetsche 4	quinoa 3	sel 1	sucre 4	taro 1	wapiti 1	 ;
+IMPOSSIBLE
+MANQUE aubergine 1	banane 2	beurre 3	brocoli 1	cassis 1	chèvre 2	ciboulette 1	cornouiller_du_Canada 1	figue 3	fraise 2	melon 1	myrtille 2	noisette 2	orange 2	prune 2	épices 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE beurre 2	bison 1	brugnon 1	cheval 2	cornouiller_du_Canada 4	grenade 2	noisette 3	pate 3	pistache 1	salicorne 4	 ;
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE brocoli 1	chou 4	ciboulette 1	courge 2	groseille 4	kiwi 3	noisette 1	orange 3	pate 2	plaquebière 2	radis_noir 3	 ;
+MANQUE agneau 2	bergamote 2	chèvre 1	mandarine 1	mirabelle 1	myrtille 4	noix 1	oignon 2	prune 1	truffe 3	 ;
+IMPOSSIBLE
+MANQUE avocat 1	céleri 4	groseille 4	salade 1	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE abricot 1	ail 4	carotte 4	grenade 4	myrtille 2	pastèque 2	poivre 3	porc 3	veau 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE arbouse 4	courge 3	crème 4	crème_glacée 4	fève 2	noix 2	oignon 2	pamplemousse 1	radis_noir 3	sel 3	échalote 3	 ;
+OK
+OK
+MANQUE citrouille 2	jujube 1	oignon 3	orange 2	pamplemousse 1	radis_noir 3	soja 2	 ;
+MANQUE chèvre 4	fraise 1	lapin 3	panais 3	porc 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE basilic 1	bergamote 3	crème_glacée 1	fève 4	navet 4	pamplemousse 3	pois 1	radis_noir 2	raisin 1	truffe 1	 ;
+MANQUE asperge 2	brocoli 3	chou-fleur 1	coing 1	cornouiller_du_Canada 2	lait 2	noix 4	pastèque 4	plaquebière 2	poireau 2	prune 4	sel 1	 ;
+OK
+OK
+OK
+MANQUE avocat 2	chou-fleur 1	coing 1	concombre 2	pastèque 3	pois 3	échalote 1	 ;
+MANQUE ail 4	autruche 2	boeuf 4	brugnon 4	carotte 1	chèvre 3	ciboulette 2	framboise 4	lapin 1	mirabelle 2	oignon 2	plaquebière 4	pois 3	pêche 1	sel 2	 ;
+MANQUE autruche 4	canneberge 2	carotte 2	citrouille 4	cornouiller_du_Canada 4	cynorrhodon 2	datte 4	lapin 3	maceron 2	mirabelle 3	oeuf 2	pastèque 3	quetsche 4	 ;
+OK
+OK
+MANQUE boeuf 2	céleri 3	groseille 1	haricot 2	lime 3	mandarine 2	noisette 2	quetsche 3	 ;
+IMPOSSIBLE
+MANQUE amande 2	brugnon 1	cassis 3	cerise 3	citron 1	figue 4	lait 2	mandarine 4	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE citrouille 3	poivre 2	quinoa 2	épices 4	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE bergamote 1	betterave 1	brocoli 1	chou-fleur 1	ciboulette 3	citron 1	melon 1	oeuf 3	pomme 2	yogourt 3	épices 4	 ;
+OK
+OK
+OK
+MANQUE aubergine 4	avocat 1	bigarade 4	carotte 1	clémentine 1	figue 2	noisette 2	orange 2	pistache 3	pomme_de_terre 2	pêche 3	truffe 2	veau 2	 ;
+OK
+OK
+MANQUE aubergine 4	beurre 3	cassis 1	clémentine 1	concombre 2	cornouiller_du_Canada 4	céleri 1	lait 3	lapin 1	mandarine 3	oeuf 1	quetsche 4	romaine 1	sel 1	soja 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE fromage 1	laitue 4	maceron 3	marron 3	melon 1	nèfle 3	plaquebière 1	poire 4	pomme 4	radis_noir 1	rhubarbe 3	sel 2	soja 2	sucre 3	veau 2	yogourt 4	 ;
+IMPOSSIBLE
+MANQUE ananas 4	brugnon 3	coing 2	fraise 2	framboise 3	oeuf 3	oignon 3	poireau 4	pois 3	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE kiwi 1	laitue 3	maceron 4	panais 1	poivre 4	porc 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE avocat 3	cerise 3	châtaigne 2	citrouille 2	courgette 2	cynorrhodon 4	jujube 1	lapin 1	navet 1	poireau 1	poivre 3	pomme_de_terre 2	quetsche 1	salicorne 1	épices 2	 ;
+MANQUE ananas 3	bison 1	carotte 1	cornouiller_du_Canada 2	kiwi 2	maceron 4	pain 2	épices 1	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE basilic 4	boeuf 4	carotte 2	chou-fleur 1	crème 3	framboise 4	mirabelle 1	myrtille 2	noisette 2	oignon 2	pistache 1	raisin 2	romaine 2	sucre 1	wapiti 1	épices 4	 ;
+OK
+MANQUE aubergine 4	beurre 1	bigarade 2	coing 3	courge 4	fromage 2	gingembre 1	huile 2	laitue 4	lime 4	nèfle 1	prune 1	quinoa 4	rhubarbe 1	salade 4	salicorne 2	yogourt 3	épices 4	 ;
+MANQUE avocat 4	bison 3	ciboulette 1	céleri 2	gingembre 2	navet 4	noisette 3	noix 2	poivre 3	sel 4	 ;
+IMPOSSIBLE
+MANQUE ail 1	cassis 3	mandarine 2	nèfle 2	pate 1	poivre 3	soja 4	truffe 2	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cynorrhodon 2	gingembre 1	maceron 3	poivre 2	échalote 4	 ;
+MANQUE avocat 4	brugnon 4	carotte 2	citron 1	cornouiller_du_Canada 1	céleri 2	kaki 2	lait 1	pois 4	pomme 2	pêche 4	quetsche 3	échalote 4	 ;
+OK
+MANQUE lime 2	poire 4	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE amande 3	coing 3	mûre 3	noix 1	pomme 2	sel 4	 ;
+MANQUE autruche 3	beurre 4	citrouille 1	concombre 3	cornouiller_du_Canada 4	céleri 4	maceron 1	noix 4	oeuf 1	pomme_de_terre 3	 ;
+MANQUE ail 2	antilope 4	bigarade 4	fève 2	yogourt 1	 ;
+MANQUE canneberge 4	crème_glacée 3	lait 2	navet 1	pastèque 1	plaquebière 2	pois 4	quetsche 3	veau 1	échalote 3	 ;
+MANQUE ail 3	citron 4	cornouiller_du_Canada 2	datte 1	romaine 4	salicorne 4	sel 4	 ;
+MANQUE cheval 4	crème_glacée 1	nèfle 3	 ;
+MANQUE avocat 1	concombre 2	groseille 1	lait 1	oignon 3	orange 1	 ;
+MANQUE amande 4	asperge 1	chou-fleur 3	châtaigne 1	céleri 1	huile 4	melon 2	noix 3	plaquebière 4	quetsche 4	romaine 2	 ;
+MANQUE abricot 4	betterave 2	brugnon 4	citrouille 2	clémentine 1	concombre 3	datte 2	huile 1	melon 3	noix 1	pomme_de_terre 2	salade 2	veau 1	wapiti 3	 ;
+MANQUE amande 2	brugnon 1	cheval 4	chou-fleur 2	courgette 1	cynorrhodon 4	framboise 4	huile 3	laitue 1	marron 1	noisette 1	pistache 3	plaquebière 4	poivre 3	pomme 2	radis 2	raisin 4	veau 4	 ;
+MANQUE banane 4	brocoli 2	carotte 4	chou-fleur 1	pamplemousse 3	poivron 2	 ;
+MANQUE arbouse 1	gingembre 3	myrtille 4	soja 3	 ;
+MANQUE amande 1	bergamote 2	châtaigne 2	pamplemousse 4	prune 2	sucre 1	 ;
+MANQUE aubergine 1	bigarade 2	brugnon 4	cheval 4	citrouille 3	maceron 1	poivron 4	radis 2	rhubarbe 1	sel 2	veau 2	 ;
+MANQUE asperge 3	bison 3	chèvre 3	courge 2	crème 4	grenade 3	haricot 1	kaki 4	kiwi 2	mandarine 2	mûre 1	oignon 1	pain 3	poire 4	quetsche 1	taro 3	 ;
+MANQUE agneau 2	ananas 3	brugnon 4	cynorrhodon 4	mandarine 1	marron 2	mûre 1	noix 2	porc 3	pêche 1	wapiti 4	 ;
+MANQUE aubergine 3	boeuf 1	mandarine 3	mirabelle 2	myrtille 2	olive 3	pêche 1	 ;

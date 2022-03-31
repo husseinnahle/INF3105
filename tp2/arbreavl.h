@@ -11,6 +11,7 @@
 #define _ARBREAVL___H_
 #include <cassert>
 #include "pile.h"
+#include "tableau.h"
 #include <algorithm>
 
 template <class T>
@@ -153,7 +154,6 @@ bool ArbreAVL<T>::inserer(Noeud*& noeud, const T& element)
       noeud->equilibre++;
       if (noeud->equilibre == 0) return false;
       if (noeud->equilibre == 1) return true;
-      assert(noeud->equilibre == 2);
       if(noeud->gauche->equilibre == -1)
         rotationDroiteGauche(noeud->gauche);
       rotationGaucheDroite(noeud);
@@ -166,7 +166,6 @@ bool ArbreAVL<T>::inserer(Noeud*& noeud, const T& element)
       noeud->equilibre--;
       if (noeud->equilibre == 0) return false;
       if (noeud->equilibre == -1) return true;
-      assert(noeud->equilibre == -2);
       if(noeud->droite->equilibre == 1)
         rotationGaucheDroite(noeud->droite);
       rotationDroiteGauche(noeud);

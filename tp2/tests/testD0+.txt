@@ -1,0 +1,402 @@
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE kiwi 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE quinoa 1	 ;
+IMPOSSIBLE
+MANQUE noix 1	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE agneau 4	 ;
+OK
+OK
+OK
+OK
+MANQUE lapin 2	 ;
+OK
+OK
+MANQUE avocat 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE yogourt 2	 ;
+MANQUE bergamote 1	 ;
+OK
+OK
+MANQUE autruche 4	 ;
+MANQUE salicorne 3	 ;
+OK
+OK
+MANQUE lapin 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pomme_de_terre 3	 ;
+MANQUE cornouiller_du_Canada 2	 ;
+MANQUE poivron 3	 ;
+MANQUE cynorrhodon 1	 ;
+OK
+OK
+MANQUE pain 3	 ;
+MANQUE cornouiller_du_Canada 3	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE datte 3	 ;
+OK
+OK
+MANQUE rhubarbe 2	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE céleri 3	 ;
+MANQUE aubergine 3	 ;
+OK
+OK
+MANQUE aubergine 2	 ;
+MANQUE pomme_de_terre 2	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+4533m  Aylwin_/_Ontario
+IMPOSSIBLE
+MANQUE salade 4	 ;
+MANQUE cheval 4	 ;
+IMPOSSIBLE
+MANQUE canneberge 2	 ;
+MANQUE mandarine 4	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE autruche 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE poivron 3	 ;
+OK
+OK
+IMPOSSIBLE
+10311m  Aylwin_/_Ontario
+IMPOSSIBLE
+OK
+OK
+MANQUE courgette 4	 ;
+MANQUE ciboulette 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+6682m  Aylwin_/_Ontario
+MANQUE pate 1	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE quinoa 1	 ;
+IMPOSSIBLE
+1133m  Faillon_/_St-Hubert
+IMPOSSIBLE
+MANQUE poire 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE bergamote 1	 ;
+MANQUE ananas 3	 ;
+OK
+OK
+OK
+OK
+MANQUE taro 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE rhubarbe 1	 ;
+MANQUE crème_glacée 2	 ;
+OK
+OK
+MANQUE salicorne 1	 ;
+MANQUE chou 2	 ;
+MANQUE avocat 4	 ;
+IMPOSSIBLE
+4363m  Aylwin_/_Ontario
+MANQUE brugnon 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE taro 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE céleri 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE châtaigne 2	 ;
+OK
+OK
+MANQUE chou-fleur 3	 ;
+IMPOSSIBLE
+MANQUE fraise 3	 ;
+OK
+OK
+OK
+OK
+MANQUE noix 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE cheval 1	 ;
+OK
+OK
+MANQUE échalote 4	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE ananas 4	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE marron 4	 ;
+MANQUE raisin 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE châtaigne 3	 ;
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE bigarade 4	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE cassis 1	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE concombre 2	 ;
+MANQUE fromage 1	 ;
+MANQUE rhubarbe 1	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE framboise 1	 ;
+MANQUE ananas 2	 ;
+OK
+OK
+MANQUE datte 2	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE myrtille 2	 ;
+MANQUE salade 1	 ;
+OK
+OK
+MANQUE arbouse 1	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE salade 4	 ;
+MANQUE jujube 3	 ;
+OK
+OK
+OK
+OK
+MANQUE mandarine 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE mandarine 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE datte 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE crème_glacée 2	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE sucre 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE chou 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE crème 4	 ;
+OK
+OK
+MANQUE radis_noir 3	 ;
+MANQUE ciboulette 3	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE arbouse 3	 ;
+OK
+OK
+MANQUE kaki 2	 ;
+IMPOSSIBLE
+8458m  Faillon_/_St-Hubert
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE bigarade 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE avocat 2	 ;
+1614m  Faillon_/_St-Hubert
+1705m  Faillon_/_St-Hubert
+MANQUE quetsche 4	 ;
+OK
+OK
+OK
+OK
+MANQUE chèvre 4	 ;
+OK
+OK
+OK
+OK
+MANQUE sucre 4	 ;
+MANQUE pomme_de_terre 1	 ;
+OK
+OK
+COMPLET
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE citron 2	 ;
+MANQUE framboise 3	 ;
+MANQUE haricot 2	 ;
+MANQUE panais 3	 ;
+MANQUE pois 3	 ;
+COMPLET
+MANQUE fraise 4	 ;
+MANQUE noisette 2	 ;
+MANQUE brocoli 3	 ;
+MANQUE lapin 3	 ;
+MANQUE taro 3	 ;
+MANQUE aubergine 1	 ;

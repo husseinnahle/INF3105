@@ -1,0 +1,6300 @@
+OK
+OK
+OK
+MANQUE chèvre 3	wapiti 3	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE asperge 4	céleri 3	huile 1	lait 2	noix 1	pate 2	radis_noir 1	 ;
+OK
+OK
+MANQUE cerise 1	châtaigne 4	coing 3	framboise 3	pomme_de_terre 4	 ;
+OK
+OK
+MANQUE chou-fleur 3	poireau 3	veau 2	 ;
+IMPOSSIBLE
+MANQUE autruche 4	basilic 1	fève 3	grenade 3	groseille 3	truffe 1	veau 1	 ;
+OK
+OK
+OK
+OK
+MANQUE aubergine 3	châtaigne 1	melon 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE abricot 3	figue 3	panais 2	salade 2	 ;
+MANQUE antilope 4	avocat 2	citrouille 2	cynorrhodon 1	pain 4	pêche 3	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE navet 4	 ;
+OK
+MANQUE basilic 1	brocoli 3	canneberge 1	courge 3	fraise 1	maceron 2	radis 4	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE huile 2	jujube 1	noix 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE asperge 1	boeuf 4	brugnon 2	mandarine 3	poireau 1	 ;
+MANQUE arbouse 2	beurre 3	chou-fleur 4	cynorrhodon 1	figue 4	melon 1	quinoa 3	taro 1	épices 4	 ;
+MANQUE fraise 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE ananas 4	beurre 4	bison 3	 ;
+IMPOSSIBLE
+MANQUE asperge 4	marron 3	 ;
+MANQUE antilope 4	carotte 4	cheval 4	châtaigne 2	ciboulette 2	coing 4	cynorrhodon 1	 ;
+MANQUE brocoli 1	lapin 3	lime 3	olive 4	poivron 1	wapiti 2	 ;
+IMPOSSIBLE
+MANQUE fromage 3	jujube 4	orange 3	pain 3	wapiti 4	 ;
+IMPOSSIBLE
+MANQUE autruche 1	citrouille 3	soja 1	 ;
+MANQUE canneberge 1	fève 4	mirabelle 4	 ;
+MANQUE figue 1	 ;
+MANQUE ananas 2	antilope 2	melon 1	olive 4	poivre 3	 ;
+MANQUE chou-fleur 2	citrouille 3	gingembre 1	lait 2	oeuf 4	soja 2	 ;
+IMPOSSIBLE
+OK
+MANQUE avocat 3	brugnon 4	chou-fleur 1	 ;
+OK
+OK
+MANQUE bigarade 3	bison 2	brugnon 4	carotte 2	clémentine 4	groseille 4	pistache 1	pomme_de_terre 4	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE carotte 3	chou-fleur 3	jujube 4	melon 2	oignon 1	quetsche 2	soja 4	 ;
+IMPOSSIBLE
+MANQUE ail 3	betterave 1	concombre 2	jujube 2	lime 4	mirabelle 2	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE chou-fleur 2	noisette 3	panais 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE mirabelle 4	oignon 2	porc 2	sel 4	 ;
+MANQUE amande 2	cerise 4	crème_glacée 3	panais 1	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE antilope 2	autruche 1	bigarade 3	cheval 2	maceron 3	melon 2	épices 1	 ;
+MANQUE boeuf 2	chou 1	fraise 2	gingembre 1	laitue 4	mandarine 2	oignon 1	poire 3	 ;
+MANQUE pistache 4	radis 2	 ;
+MANQUE groseille 3	pain 4	 ;
+OK
+OK
+MANQUE boeuf 2	citron 1	céleri 2	 ;
+OK
+OK
+MANQUE boeuf 3	cynorrhodon 2	melon 3	myrtille 3	oignon 2	 ;
+MANQUE brugnon 3	ciboulette 4	concombre 4	lime 2	pastèque 3	rhubarbe 3	soja 4	sucre 2	 ;
+MANQUE banane 3	maceron 2	mûre 3	pate 1	radis_noir 4	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE arbouse 4	autruche 2	lime 1	orange 3	plaquebière 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE mandarine 3	pomme 1	 ;
+16318m  Bannantyne_/_de_l'Eglise
+IMPOSSIBLE
+OK
+OK
+MANQUE framboise 2	fève 1	mûre 4	nèfle 1	pain 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE plaquebière 3	 ;
+IMPOSSIBLE
+15834m  West_Broadway_/_Sherbrooke
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE banane 4	brocoli 2	courge 3	crème 1	mirabelle 2	pomme 3	veau 4	échalote 2	 ;
+IMPOSSIBLE
+MANQUE ananas 1	châtaigne 1	coing 1	concombre 3	mûre 2	pain 1	pomme 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE datte 1	maceron 3	mandarine 1	nèfle 2	panais 2	pastèque 1	pomme_de_terre 2	radis_noir 1	 ;
+MANQUE arbouse 4	canneberge 1	mûre 2	noisette 3	pamplemousse 3	 ;
+OK
+MANQUE navet 4	pastèque 2	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE datte 1	gingembre 3	 ;
+OK
+MANQUE cerise 2	kiwi 4	quetsche 1	 ;
+OK
+OK
+MANQUE abricot 1	canneberge 1	carotte 2	cheval 4	kiwi 1	 ;
+OK
+OK
+OK
+OK
+OK
+18939m  Berri_/_Gilford
+MANQUE ail 4	aubergine 1	ciboulette 1	jujube 1	kiwi 3	orange 4	poire 1	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE brocoli 2	ciboulette 2	mandarine 4	mûre 4	poivre 4	truffe 2	yogourt 2	 ;
+MANQUE ail 3	antilope 1	arbouse 2	bergamote 3	fraise 1	oignon 1	poivron 4	 ;
+IMPOSSIBLE
+9498m  Victoria_/_de_Maisonneuve
+14324m  Poupart_/_Ontario
+MANQUE asperge 3	cheval 2	navet 3	quetsche 3	radis 2	taro 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE oeuf 4	 ;
+MANQUE carotte 4	citron 1	oeuf 3	rhubarbe 1	 ;
+IMPOSSIBLE
+MANQUE abricot 1	ananas 4	chou 1	crème 4	 ;
+IMPOSSIBLE
+MANQUE autruche 2	canneberge 3	grenade 1	pistache 3	soja 2	veau 3	échalote 2	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE brocoli 1	chèvre 1	cynorrhodon 2	figue 2	mûre 2	oeuf 3	quinoa 1	yogourt 3	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE cerise 2	kaki 4	 ;
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+MANQUE oignon 3	 ;
+OK
+OK
+OK
+OK
+MANQUE antilope 1	datte 4	framboise 2	orange 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE céleri 3	fève 2	gingembre 4	kaki 1	nèfle 2	romaine 2	salicorne 1	 ;
+MANQUE brugnon 2	oignon 3	raisin 3	 ;
+MANQUE boeuf 3	framboise 1	mûre 2	 ;
+MANQUE beurre 4	sucre 4	 ;
+14622m  De_La_Roche_/_Everett
+MANQUE cheval 3	chou 2	courge 3	gingembre 1	oeuf 2	pamplemousse 1	 ;
+IMPOSSIBLE
+MANQUE bergamote 3	mandarine 3	poivre 1	porc 4	quinoa 2	 ;
+MANQUE ananas 4	coing 4	céleri 1	grenade 2	salade 1	sel 2	taro 4	 ;
+MANQUE agneau 4	cerise 4	 ;
+OK
+MANQUE canneberge 3	fromage 2	radis_noir 2	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE arbouse 2	boeuf 1	pastèque 1	sel 3	 ;
+IMPOSSIBLE
+9163m  Belmont_/_Beaver_Hall
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE arbouse 2	pois 1	 ;
+OK
+OK
+MANQUE cheval 4	noix 1	radis_noir 3	salicorne 1	taro 2	truffe 3	yogourt 3	 ;
+MANQUE amande 1	antilope 2	haricot 1	pamplemousse 1	 ;
+MANQUE betterave 3	pain 3	panais 1	pistache 2	quinoa 1	yogourt 3	 ;
+OK
+OK
+MANQUE châtaigne 3	framboise 2	pois 2	porc 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE fromage 4	oeuf 3	 ;
+OK
+MANQUE canneberge 3	olive 3	poivre 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE châtaigne 4	ciboulette 3	coing 4	concombre 3	framboise 3	fève 2	mûre 4	pistache 4	radis 2	truffe 3	 ;
+IMPOSSIBLE
+MANQUE ciboulette 1	framboise 4	fromage 2	 ;
+MANQUE ananas 1	cerise 3	 ;
+MANQUE ananas 1	asperge 2	canneberge 4	fraise 2	lapin 1	mirabelle 2	navet 1	nèfle 1	pamplemousse 2	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE ananas 2	chou 3	ciboulette 4	lapin 4	mandarine 3	panais 4	rhubarbe 2	 ;
+MANQUE ail 1	beurre 1	ciboulette 2	crème_glacée 3	olive 1	pistache 2	poivre 4	 ;
+11186m  du_Rosaire_/_St-Hubert
+IMPOSSIBLE
+MANQUE chou 3	chèvre 1	kiwi 3	laitue 2	mûre 2	 ;
+IMPOSSIBLE
+3741m  Bannantyne_/_de_l'Eglise
+MANQUE ciboulette 3	courge 2	fraise 1	kaki 4	pomme 4	 ;
+MANQUE ananas 2	brugnon 4	gingembre 1	groseille 1	jujube 4	salade 1	salicorne 1	 ;
+OK
+OK
+MANQUE ananas 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE brugnon 3	cheval 3	huile 2	romaine 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE amande 1	chèvre 3	lime 3	oeuf 2	poireau 3	pomme_de_terre 4	romaine 2	 ;
+OK
+OK
+MANQUE mûre 4	pistache 2	romaine 4	 ;
+MANQUE ail 3	avocat 1	grenade 1	mûre 2	soja 2	 ;
+MANQUE betterave 3	gingembre 1	oignon 3	radis 1	veau 1	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+8277m  Gilford_/_de_Brebeuf
+OK
+OK
+OK
+OK
+OK
+3828m  7e_avenue_/_St-Joseph
+OK
+IMPOSSIBLE
+OK
+MANQUE lime 3	mûre 3	navet 3	 ;
+MANQUE bison 3	haricot 1	mandarine 3	pois 2	raisin 1	rhubarbe 2	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE chou 2	cynorrhodon 1	noix 2	porc 2	 ;
+MANQUE cheval 2	concombre 4	pomme 4	 ;
+OK
+OK
+OK
+6268m  Parc_J_-Arthur-Champagne_(Chambly_/_du_Mont-Royal)
+7324m  du_Rosaire_/_St-Hubert
+MANQUE asperge 2	avocat 4	boeuf 2	brocoli 3	kaki 3	prune 4	raisin 2	 ;
+9966m  12e_avenue_/_St-Zotique
+OK
+OK
+OK
+MANQUE avocat 2	bison 4	brocoli 3	canneberge 1	raisin 1	 ;
+OK
+OK
+MANQUE fraise 2	pêche 1	 ;
+9952m  du_Rosaire_/_St-Hubert
+MANQUE agneau 4	bergamote 1	bison 3	courge 2	céleri 3	romaine 3	salade 3	truffe 2	 ;
+OK
+OK
+OK
+OK
+MANQUE ananas 2	cerise 4	chèvre 2	crème 3	porc 4	truffe 2	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE bigarade 4	ciboulette 1	cornouiller_du_Canada 1	myrtille 1	soja 2	 ;
+MANQUE antilope 3	banane 4	chou 1	pistache 1	 ;
+MANQUE asperge 4	 ;
+MANQUE banane 3	chèvre 2	gingembre 2	laitue 4	mirabelle 1	poivre 2	 ;
+OK
+5430m  Gilford_/_de_Brebeuf
+MANQUE betterave 1	noix 4	 ;
+IMPOSSIBLE
+4224m  Belmont_/_Beaver_Hall
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE beurre 3	bison 3	cynorrhodon 2	raisin 2	 ;
+OK
+MANQUE ananas 2	arbouse 4	bigarade 1	bison 1	clémentine 2	noisette 3	poire 2	 ;
+MANQUE banane 3	oignon 2	wapiti 2	 ;
+10148m  Regina_/_de_Verdun
+IMPOSSIBLE
+MANQUE lime 1	échalote 3	 ;
+IMPOSSIBLE
+MANQUE beurre 3	châtaigne 2	pastèque 4	 ;
+MANQUE figue 1	jujube 3	kiwi 4	prune 2	échalote 4	 ;
+OK
+MANQUE citron 4	coing 4	crème_glacée 4	cynorrhodon 1	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE agneau 3	cheval 3	courgette 4	crème_glacée 3	noisette 4	wapiti 4	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+9283m  16e_avenue_/_St-Joseph
+MANQUE agneau 1	ananas 4	betterave 3	cheval 3	cornouiller_du_Canada 1	figue 4	poire 4	rhubarbe 4	 ;
+MANQUE cynorrhodon 1	pois 3	 ;
+MANQUE kaki 4	pêche 1	 ;
+OK
+MANQUE ananas 2	chou-fleur 4	 ;
+MANQUE bergamote 2	pastèque 2	poire 2	yogourt 2	 ;
+OK
+OK
+7595m  Le_Caron_/_Marc-Sauvalle_
+7611m  Gilford_/_de_Brebeuf
+OK
+MANQUE abricot 4	ail 2	poireau 1	raisin 4	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE huile 1	lime 1	noisette 2	olive 4	quinoa 2	 ;
+2322m  Gilford_/_de_Brebeuf
+MANQUE amande 4	brocoli 2	laitue 4	mandarine 1	noisette 2	poireau 2	 ;
+OK
+OK
+OK
+MANQUE arbouse 1	mûre 2	wapiti 4	 ;
+MANQUE concombre 2	lime 2	maceron 2	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE avocat 3	betterave 3	carotte 4	chou-fleur 2	concombre 3	courgette 2	marron 2	 ;
+OK
+OK
+6917m  Regina_/_de_Verdun
+MANQUE canneberge 4	concombre 4	lapin 3	épices 2	 ;
+OK
+IMPOSSIBLE
+MANQUE aubergine 2	citrouille 1	huile 2	maceron 3	melon 2	 ;
+10564m  Chabot_/_Everett
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE ciboulette 2	raisin 2	romaine 4	 ;
+OK
+IMPOSSIBLE
+MANQUE boeuf 4	carotte 1	cassis 1	clémentine 1	 ;
+10497m  Parc_J_-Arthur-Champagne_(Chambly_/_du_Mont-Royal)
+MANQUE arbouse 4	brocoli 3	cerise 3	figue 1	lapin 2	orange 1	poire 2	radis 2	 ;
+IMPOSSIBLE
+OK
+MANQUE pois 3	veau 2	 ;
+7876m  Emile-Duploye_/_Sherbrooke
+COMPLET
+16616m  Metro_Longueuil_-_Universite_de_Sherbrooke
+OK
+OK
+OK
+MANQUE boeuf 1	clémentine 2	concombre 2	groseille 3	maceron 2	truffe 3	 ;
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE amande 2	canneberge 1	crème 2	lapin 1	pois 4	rhubarbe 1	salade 1	 ;
+MANQUE ail 4	banane 2	citron 1	gingembre 4	groseille 4	laitue 2	noix 2	poire 1	radis 3	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+OK
+MANQUE autruche 1	soja 3	 ;
+IMPOSSIBLE
+MANQUE arbouse 1	fraise 4	huile 1	oignon 4	panais 2	plaquebière 1	 ;
+IMPOSSIBLE
+MANQUE cassis 2	kiwi 1	 ;
+MANQUE antilope 1	brocoli 3	framboise 3	jujube 4	nèfle 4	pêche 4	épices 1	 ;
+OK
+OK
+OK
+MANQUE basilic 2	beurre 1	 ;
+OK
+OK
+7404m  De_La_Roche_/_Everett
+18637m  Chabot_/_Everett
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE bergamote 4	 ;
+MANQUE citrouille 4	gingembre 3	kiwi 1	sel 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE fromage 4	laitue 1	olive 3	truffe 4	 ;
+IMPOSSIBLE
+MANQUE basilic 1	chèvre 4	lapin 1	wapiti 2	 ;
+OK
+OK
+MANQUE cynorrhodon 1	marron 1	pamplemousse 3	pistache 4	wapiti 3	 ;
+OK
+IMPOSSIBLE
+6855m  Regina_/_de_Verdun
+MANQUE amande 1	courgette 3	kaki 1	porc 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE avocat 2	orange 2	poivron 3	 ;
+OK
+MANQUE agneau 1	bigarade 2	 ;
+OK
+OK
+6866m  Parc_J_-Arthur-Champagne_(Chambly_/_du_Mont-Royal)
+3028m  De_La_Roche_/_Everett
+MANQUE arbouse 3	aubergine 1	betterave 1	oeuf 2	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+920m  Bannantyne_/_de_l'Eglise
+17446m  1ere_avenue_/_Rosemont
+MANQUE amande 3	carotte 3	chou 2	nèfle 3	pêche 2	raisin 3	sel 2	 ;
+MANQUE poire 3	pomme 1	quinoa 4	radis_noir 2	 ;
+MANQUE basilic 3	coing 1	pomme 1	 ;
+MANQUE abricot 4	ail 4	bigarade 4	concombre 2	datte 1	mirabelle 4	 ;
+MANQUE bergamote 1	bison 4	lapin 3	nèfle 1	poivron 2	salicorne 2	échalote 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE beurre 3	grenade 4	mûre 1	 ;
+OK
+IMPOSSIBLE
+537m  St-Dominique_/_St-Zotique
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE fève 2	huile 2	marron 1	 ;
+MANQUE cerise 3	courgette 3	fromage 3	lime 2	pastèque 2	pate 2	romaine 1	salade 4	wapiti 4	 ;
+5642m  de_Repentigny_/_Sherbrooke
+MANQUE maceron 4	nèfle 2	romaine 3	sel 4	 ;
+MANQUE brugnon 4	chou 3	datte 1	 ;
+IMPOSSIBLE
+10577m  Cremazie_/_Lajeunesse
+MANQUE bergamote 2	boeuf 2	chou 1	courge 2	crème 2	maceron 2	poire 2	 ;
+MANQUE aubergine 1	prune 1	 ;
+12386m  Emile-Duploye_/_Sherbrooke
+2618m  St-Hubert_/_Rachel
+OK
+MANQUE pate 2	 ;
+MANQUE citrouille 1	cornouiller_du_Canada 4	pistache 2	sel 1	 ;
+MANQUE betterave 4	 ;
+5624m  de_l'Esplanade_/_Fairmount
+MANQUE oignon 1	 ;
+MANQUE ail 2	carotte 2	châtaigne 4	courgette 2	datte 3	kaki 3	lime 4	poire 2	prune 1	 ;
+IMPOSSIBLE
+MANQUE banane 1	huile 4	nèfle 2	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE chèvre 3	ciboulette 2	huile 1	mandarine 2	noisette 2	poireau 2	 ;
+MANQUE asperge 4	cheval 1	chou-fleur 4	lime 3	pamplemousse 3	porc 2	échalote 4	 ;
+OK
+OK
+IMPOSSIBLE
+7833m  Chabot_/_Everett
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE agneau 4	basilic 2	jujube 4	myrtille 4	panais 2	porc 3	 ;
+MANQUE aubergine 4	basilic 2	gingembre 1	 ;
+18510m  St-Dominique_/_St-Zotique
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE chou-fleur 4	citron 1	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE concombre 1	romaine 4	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+3534m  des_Seigneurs_/_Workman
+IMPOSSIBLE
+MANQUE aubergine 3	cheval 2	fromage 4	jujube 2	lapin 2	maceron 3	poireau 3	 ;
+MANQUE chou-fleur 1	fromage 1	laitue 4	salicorne 4	 ;
+3361m  Belmont_/_Beaver_Hall
+OK
+OK
+MANQUE abricot 1	banane 2	brocoli 1	châtaigne 1	coing 1	 ;
+OK
+28811m  de_Repentigny_/_Sherbrooke
+IMPOSSIBLE
+MANQUE poire 2	radis_noir 1	 ;
+IMPOSSIBLE
+4182m  Logan_/_d'Iberville
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+11903m  Belmont_/_Beaver_Hall
+1340m  Poupart_/_Ontario
+OK
+OK
+MANQUE arbouse 2	gingembre 3	poivre 2	 ;
+MANQUE avocat 1	fromage 2	 ;
+10598m  12e_avenue_/_St-Zotique
+OK
+MANQUE brocoli 3	mirabelle 1	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE antilope 4	basilic 1	cerise 1	courge 2	soja 4	 ;
+IMPOSSIBLE
+MANQUE clémentine 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE antilope 4	brugnon 3	huile 3	jujube 3	radis_noir 1	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE châtaigne 4	poivron 3	rhubarbe 1	truffe 4	 ;
+OK
+IMPOSSIBLE
+MANQUE fraise 2	grenade 2	lapin 1	pamplemousse 1	pois 3	quinoa 1	 ;
+IMPOSSIBLE
+MANQUE asperge 2	beurre 2	bigarade 2	châtaigne 2	clémentine 1	framboise 4	huile 3	kaki 4	quinoa 1	 ;
+IMPOSSIBLE
+OK
+MANQUE framboise 4	panais 4	plaquebière 2	poire 4	poireau 2	poivre 2	truffe 1	 ;
+OK
+MANQUE aubergine 3	 ;
+MANQUE arbouse 3	clémentine 1	courgette 1	maceron 1	oignon 2	panais 2	pois 1	yogourt 1	 ;
+MANQUE canneberge 1	olive 2	échalote 4	 ;
+OK
+OK
+MANQUE arbouse 1	figue 4	mûre 4	pastèque 2	 ;
+OK
+OK
+MANQUE banane 3	boeuf 1	fève 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE céleri 4	fraise 1	 ;
+MANQUE huile 4	oignon 1	sucre 2	 ;
+OK
+MANQUE avocat 1	boeuf 4	cheval 1	fraise 4	laitue 4	panais 3	 ;
+MANQUE melon 3	mirabelle 2	 ;
+MANQUE autruche 1	brugnon 4	chèvre 1	coing 2	myrtille 2	noisette 2	pois 2	poivre 2	prune 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE crème_glacée 1	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+6385m  Berri_/_Cherrier
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE aubergine 4	poivron 1	 ;
+MANQUE bergamote 4	myrtille 4	plaquebière 3	prune 4	 ;
+MANQUE basilic 1	crème 1	 ;
+OK
+MANQUE haricot 3	laitue 1	radis_noir 3	 ;
+OK
+OK
+OK
+6095m  10e_avenue_/_Masson
+IMPOSSIBLE
+MANQUE courgette 1	céleri 4	quetsche 1	 ;
+OK
+OK
+OK
+COMPLET
+MANQUE beurre 3	carotte 1	cassis 2	fraise 4	fève 3	huile 2	orange 4	truffe 4	 ;
+3851m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+OK
+IMPOSSIBLE
+OK
+10226m  Duluth_/_de_l'Esplanade
+IMPOSSIBLE
+MANQUE bison 1	cerise 3	crème_glacée 1	oignon 4	prune 1	rhubarbe 4	 ;
+OK
+OK
+MANQUE ananas 2	poireau 1	sucre 1	 ;
+IMPOSSIBLE
+MANQUE chou 2	 ;
+MANQUE agneau 1	clémentine 3	quinoa 4	 ;
+OK
+2308m  Notre-Dame_/_St-Gabriel
+IMPOSSIBLE
+OK
+MANQUE banane 1	clémentine 1	fromage 1	lime 1	radis_noir 3	 ;
+IMPOSSIBLE
+OK
+6297m  Outremont_/_Ogilvy
+OK
+14767m  St-Hubert_/_Rachel
+MANQUE abricot 2	maceron 3	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE autruche 4	figue 2	fromage 4	rhubarbe 1	 ;
+2921m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+MANQUE amande 4	bigarade 2	chou-fleur 3	citron 1	céleri 4	huile 2	laitue 2	pêche 4	 ;
+IMPOSSIBLE
+MANQUE bigarade 1	bison 3	cornouiller_du_Canada 4	groseille 1	raisin 2	 ;
+6545m  St-Dominique_/_St-Zotique
+MANQUE abricot 4	concombre 1	crème_glacée 2	lime 3	marron 3	poivre 4	 ;
+OK
+OK
+4532m  St-Dominique_/_St-Zotique
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+7975m  des_Seigneurs_/_Workman
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE ail 4	basilic 2	bison 1	oignon 2	pistache 2	pomme_de_terre 1	veau 3	 ;
+OK
+OK
+7012m  Benny_/_Crescent
+MANQUE cheval 3	fromage 2	pain 4	pois 1	 ;
+19148m  Cremazie_/_Lajeunesse
+MANQUE chèvre 1	fraise 4	quetsche 1	 ;
+MANQUE amande 1	pamplemousse 3	pate 2	wapiti 2	 ;
+9046m  St-Dominique_/_St-Zotique
+OK
+MANQUE chou 2	lime 1	wapiti 2	 ;
+MANQUE cerise 3	soja 1	sucre 3	 ;
+9681m  Regina_/_de_Verdun
+MANQUE ciboulette 2	citrouille 4	courge 3	navet 1	 ;
+MANQUE antilope 2	citron 2	framboise 2	yogourt 1	 ;
+OK
+OK
+OK
+OK
+OK
+4091m  St-Dominique_/_Rachel
+3043m  Wilderton__/_Van_Horne
+MANQUE lime 1	 ;
+MANQUE marron 1	pistache 1	 ;
+OK
+OK
+MANQUE canneberge 2	grenade 3	lapin 3	soja 2	 ;
+OK
+MANQUE canneberge 2	carotte 1	cornouiller_du_Canada 3	lait 1	pate 2	radis_noir 1	rhubarbe 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE avocat 3	crème_glacée 4	datte 2	fraise 4	olive 2	pate 2	radis_noir 2	 ;
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE cynorrhodon 1	kiwi 1	lapin 1	salicorne 1	 ;
+MANQUE amande 1	céleri 3	 ;
+MANQUE navet 4	pamplemousse 4	 ;
+IMPOSSIBLE
+MANQUE châtaigne 3	pamplemousse 2	salicorne 4	 ;
+12330m  35e_avenue_/_Beaubien
+OK
+MANQUE rhubarbe 4	 ;
+MANQUE antilope 3	carotte 1	concombre 1	figue 2	groseille 2	mirabelle 1	plaquebière 1	poivre 2	prune 1	 ;
+MANQUE pomme 4	 ;
+MANQUE basilic 3	citrouille 4	concombre 1	crème_glacée 4	laitue 3	salicorne 1	taro 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+12025m  de_Repentigny_/_Sherbrooke
+7793m  Le_Caron_/_Marc-Sauvalle_
+IMPOSSIBLE
+MANQUE agneau 4	amande 3	clémentine 1	fève 1	grenade 1	huile 4	poireau 2	pomme_de_terre 1	quinoa 2	 ;
+OK
+9223m  Hutchison/_Prince-Arthur
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE coing 4	myrtille 3	oignon 1	sel 4	yogourt 4	 ;
+OK
+OK
+MANQUE bison 2	kaki 3	mûre 2	radis 1	radis_noir 3	sel 4	soja 1	truffe 2	 ;
+7575m  Logan_/_d'Iberville
+IMPOSSIBLE
+COMPLET
+MANQUE autruche 4	betterave 2	citron 3	 ;
+6088m  Benny_/_Crescent
+IMPOSSIBLE
+OK
+OK
+MANQUE abricot 4	chou 4	crème 2	grenade 3	kiwi 2	mirabelle 3	orange 2	salade 1	soja 3	 ;
+MANQUE avocat 1	groseille 3	épices 4	 ;
+OK
+OK
+MANQUE mandarine 3	 ;
+IMPOSSIBLE
+MANQUE beurre 2	bigarade 2	cerise 1	grenade 3	 ;
+OK
+OK
+OK
+MANQUE pomme_de_terre 4	 ;
+MANQUE taro 2	 ;
+MANQUE fève 3	veau 2	 ;
+IMPOSSIBLE
+5851m  Cremazie_/_Lajeunesse
+MANQUE châtaigne 1	 ;
+OK
+OK
+480m  Mentana_/_Marie-Anne
+IMPOSSIBLE
+MANQUE lapin 1	épices 2	 ;
+IMPOSSIBLE
+MANQUE cheval 2	citron 4	crème 4	figue 3	gingembre 3	lait 4	myrtille 2	quinoa 3	salade 4	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE pastèque 2	pistache 2	 ;
+MANQUE aubergine 3	cassis 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE agneau 2	antilope 1	boeuf 1	lapin 2	pêche 1	 ;
+MANQUE cerise 4	châtaigne 4	framboise 3	grenade 1	mûre 1	épices 4	 ;
+MANQUE mirabelle 3	oeuf 3	poivre 4	échalote 4	 ;
+MANQUE abricot 4	arbouse 2	banane 1	ciboulette 2	cynorrhodon 4	céleri 2	 ;
+OK
+OK
+4978m  Benny_/_Crescent
+MANQUE bigarade 2	cheval 1	clémentine 2	radis_noir 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE ciboulette 2	nèfle 2	radis_noir 1	 ;
+MANQUE ananas 3	citrouille 4	pois 4	poivron 3	salicorne 3	 ;
+MANQUE laitue 1	soja 1	 ;
+MANQUE boeuf 3	clémentine 4	grenade 2	orange 2	 ;
+OK
+OK
+MANQUE fraise 4	pomme_de_terre 4	pêche 3	 ;
+7566m  Metro_Longueuil_-_Universite_de_Sherbrooke
+MANQUE courgette 1	 ;
+MANQUE agneau 2	chou-fleur 4	coing 3	framboise 2	kiwi 1	maceron 2	 ;
+MANQUE ail 4	asperge 3	fraise 2	kaki 1	veau 2	 ;
+MANQUE abricot 2	boeuf 2	canneberge 3	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE basilic 1	canneberge 1	cheval 2	concombre 2	fromage 1	noix 1	poire 1	poireau 4	 ;
+IMPOSSIBLE
+MANQUE chèvre 4	ciboulette 3	fraise 4	fève 2	noisette 2	 ;
+MANQUE ail 3	banane 2	chou-fleur 1	groseille 1	 ;
+MANQUE crème_glacée 4	kaki 2	kiwi 3	radis_noir 2	 ;
+OK
+OK
+MANQUE chou 2	crème_glacée 1	raisin 2	 ;
+MANQUE pistache 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE autruche 3	canneberge 4	coing 4	kiwi 4	pois 1	 ;
+MANQUE jujube 1	maceron 2	pomme_de_terre 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE haricot 1	sucre 1	veau 4	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+COMPLET
+MANQUE bigarade 4	cornouiller_du_Canada 4	orange 1	 ;
+OK
+MANQUE avocat 3	cerise 2	kaki 1	mûre 1	pastèque 1	wapiti 1	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+12110m  Metro_Longueuil_-_Universite_de_Sherbrooke
+IMPOSSIBLE
+MANQUE chou-fleur 1	oignon 3	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+20042m  35e_avenue_/_Beaubien
+MANQUE cerise 2	navet 4	 ;
+IMPOSSIBLE
+OK
+5518m  16e_avenue_/_St-Joseph
+OK
+MANQUE autruche 3	betterave 1	bigarade 4	citron 3	poivre 3	raisin 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE antilope 2	basilic 1	concombre 1	lait 1	melon 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+4185m  St-Dominique_/_Rachel
+14678m  St-Dominique_/_Rachel
+IMPOSSIBLE
+MANQUE brocoli 4	carotte 2	courge 3	melon 1	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+COMPLET
+MANQUE poivre 2	 ;
+MANQUE autruche 2	cheval 1	oeuf 4	panais 1	pate 4	pêche 3	radis_noir 3	 ;
+IMPOSSIBLE
+OK
+MANQUE marron 2	olive 2	plaquebière 3	quinoa 1	 ;
+MANQUE fève 1	mirabelle 3	noisette 2	pistache 3	salade 2	 ;
+MANQUE crème_glacée 1	huile 1	laitue 3	mirabelle 2	poire 3	taro 2	 ;
+7205m  du_Mont-Royal_/_Clark
+7443m  Emile-Duploye_/_Sherbrooke
+OK
+MANQUE ananas 4	basilic 2	bison 1	concombre 2	porc 2	radis 2	raisin 4	soja 3	 ;
+COMPLET
+IMPOSSIBLE
+MANQUE raisin 2	truffe 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE agneau 2	amande 3	bigarade 3	fraise 1	grenade 2	 ;
+MANQUE cornouiller_du_Canada 4	lait 1	prune 2	veau 2	 ;
+MANQUE datte 4	haricot 3	navet 1	yogourt 2	 ;
+9914m  Mentana_/_Marie-Anne
+MANQUE amande 1	ciboulette 3	veau 3	 ;
+IMPOSSIBLE
+MANQUE brugnon 2	haricot 1	pamplemousse 2	pate 3	pomme_de_terre 1	porc 3	radis_noir 3	romaine 3	soja 2	 ;
+MANQUE chèvre 4	citrouille 4	concombre 1	courge 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE bison 2	chèvre 1	laitue 1	pastèque 3	porc 2	prune 2	pêche 1	raisin 1	 ;
+OK
+OK
+7599m  Gascon_/_Rachel
+OK
+OK
+OK
+13814m  16e_avenue_/_St-Joseph
+OK
+MANQUE agneau 3	amande 2	beurre 2	figue 3	jujube 2	orange 4	plaquebière 2	poireau 1	 ;
+MANQUE framboise 4	noisette 1	sucre 1	 ;
+MANQUE canneberge 2	radis 1	yogourt 1	 ;
+MANQUE bergamote 3	cerise 2	sel 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE betterave 2	kiwi 3	 ;
+OK
+IMPOSSIBLE
+OK
+4174m  6e_avenue_/_Rosemont
+OK
+MANQUE bergamote 1	cerise 4	chou 1	pamplemousse 2	pomme 1	sel 1	 ;
+COMPLET
+OK
+MANQUE ail 3	banane 1	basilic 4	framboise 1	kiwi 4	noisette 4	oeuf 1	pate 4	salade 1	 ;
+OK
+MANQUE ciboulette 2	citrouille 4	coing 1	mûre 1	 ;
+IMPOSSIBLE
+697m  des_Seigneurs_/_Workman
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE beurre 3	noix 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE cassis 2	lime 3	poireau 1	pomme 1	 ;
+MANQUE ail 2	châtaigne 1	cynorrhodon 4	lime 1	orange 3	taro 1	 ;
+MANQUE cynorrhodon 2	céleri 3	kiwi 1	navet 3	nèfle 2	prune 2	radis_noir 4	soja 1	épices 3	 ;
+MANQUE avocat 3	pistache 4	salade 1	 ;
+IMPOSSIBLE
+12647m  Hopital_Santa_Cabrini_(St-Zotique_/_Jeanne-Jugan)
+OK
+MANQUE cassis 4	laitue 4	panais 2	salicorne 2	 ;
+MANQUE concombre 1	navet 3	pêche 2	truffe 2	 ;
+OK
+OK
+MANQUE concombre 1	soja 4	 ;
+23408m  10e_avenue_/_Masson
+MANQUE basilic 2	canneberge 2	haricot 2	jujube 3	kiwi 1	orange 1	panais 4	 ;
+OK
+MANQUE agneau 4	 ;
+4481m  Beaudry_/_Ontario
+IMPOSSIBLE
+OK
+OK
+9574m  16e_avenue_/_St-Joseph
+OK
+OK
+OK
+3493m  Natatorium_(LaSalle_/_Rolland)
+OK
+OK
+MANQUE abricot 3	agneau 2	ail 2	antilope 2	chou 3	pêche 1	 ;
+MANQUE chèvre 1	noix 2	plaquebière 3	radis_noir 3	 ;
+MANQUE boeuf 1	mirabelle 4	salicorne 3	sucre 4	wapiti 2	 ;
+3714m  Rockland_/_Lajoie
+MANQUE crème 4	mirabelle 2	truffe 3	 ;
+MANQUE asperge 2	cheval 3	cornouiller_du_Canada 1	melon 2	pistache 2	prune 2	 ;
+MANQUE olive 2	pamplemousse 3	 ;
+IMPOSSIBLE
+MANQUE betterave 2	chou-fleur 4	céleri 1	pamplemousse 4	radis 3	 ;
+MANQUE nèfle 2	 ;
+13340m  du_Mont-Royal_/_Clark
+OK
+5004m  Berri_/_Sherbrooke
+4784m  16e_avenue_/_St-Joseph
+MANQUE chou-fleur 3	olive 2	poivron 1	 ;
+IMPOSSIBLE
+MANQUE asperge 1	nèfle 1	prune 3	salicorne 3	épices 1	 ;
+5183m  des_Seigneurs_/_Workman
+3372m  des_Seigneurs_/_Workman
+OK
+OK
+IMPOSSIBLE
+12258m  des_Seigneurs_/_Workman
+MANQUE cheval 1	clémentine 3	oignon 3	pêche 3	épices 3	 ;
+OK
+OK
+6922m  Gascon_/_Rachel
+8667m  Mansfield_/_Rene-Levesque
+OK
+7254m  Regina_/_de_Verdun
+373m  Notre-Dame_/_St-Gabriel
+MANQUE châtaigne 2	laitue 4	nèfle 4	 ;
+10367m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+3314m  Wilderton__/_Van_Horne
+OK
+OK
+OK
+OK
+MANQUE asperge 1	bigarade 4	noisette 3	 ;
+MANQUE avocat 2	crème 4	taro 2	 ;
+MANQUE clémentine 2	wapiti 1	 ;
+IMPOSSIBLE
+OK
+4290m  Le_Caron_/_Marc-Sauvalle_
+MANQUE bigarade 3	datte 4	fromage 2	lime 2	pomme_de_terre 2	radis 2	 ;
+MANQUE asperge 2	ciboulette 1	jujube 4	orange 2	pois 1	 ;
+MANQUE framboise 4	kaki 3	pistache 3	 ;
+IMPOSSIBLE
+MANQUE carotte 3	framboise 4	kiwi 1	 ;
+OK
+MANQUE grenade 2	yogourt 1	 ;
+MANQUE maceron 4	noisette 4	 ;
+OK
+OK
+OK
+MANQUE concombre 3	cynorrhodon 2	laitue 1	lapin 2	mirabelle 4	 ;
+OK
+21016m  Le_Caron_/_Marc-Sauvalle_
+IMPOSSIBLE
+MANQUE brocoli 1	concombre 2	courge 4	lait 2	 ;
+MANQUE citrouille 3	haricot 1	marron 2	échalote 1	 ;
+MANQUE abricot 1	poireau 2	 ;
+OK
+MANQUE carotte 4	oeuf 3	pamplemousse 4	pomme 4	porc 2	sucre 3	 ;
+MANQUE banane 4	sucre 2	 ;
+MANQUE radis 2	 ;
+5455m  Le_Caron_/_Marc-Sauvalle_
+MANQUE betterave 3	porc 2	taro 2	 ;
+OK
+OK
+MANQUE concombre 4	grenade 4	nèfle 4	pamplemousse 4	salicorne 2	sel 1	 ;
+OK
+MANQUE huile 4	porc 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+10780m  Berri_/_Sherbrooke
+MANQUE cornouiller_du_Canada 3	jujube 3	 ;
+MANQUE mandarine 1	pistache 1	romaine 2	sel 1	 ;
+OK
+IMPOSSIBLE
+18571m  St-Dominique/Maguire
+MANQUE avocat 3	banane 1	clémentine 1	jujube 4	poire 4	rhubarbe 2	romaine 2	 ;
+OK
+MANQUE carotte 3	mûre 1	poire 3	romaine 2	 ;
+IMPOSSIBLE
+OK
+MANQUE brocoli 3	cassis 1	fraise 1	framboise 2	oignon 1	raisin 1	échalote 2	 ;
+MANQUE boeuf 1	maceron 3	pistache 1	pomme_de_terre 2	 ;
+6668m  Hutchison/_Prince-Arthur
+8169m  Metro_Longueuil_-_Universite_de_Sherbrooke
+IMPOSSIBLE
+OK
+OK
+MANQUE betterave 2	brocoli 2	 ;
+MANQUE haricot 2	lait 4	noix 4	 ;
+OK
+OK
+MANQUE cheval 1	datte 3	lapin 3	noisette 1	yogourt 1	 ;
+MANQUE beurre 3	canneberge 4	figue 1	pain 2	poireau 4	porc 3	raisin 1	 ;
+MANQUE chou 3	fève 1	huile 2	olive 3	 ;
+12732m  St-Dominique_/_St-Zotique
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE châtaigne 2	courge 4	sel 3	truffe 1	wapiti 4	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+4014m  Parc_J_-Arthur-Champagne_(Chambly_/_du_Mont-Royal)
+OK
+OK
+MANQUE concombre 1	haricot 4	salicorne 2	yogourt 3	 ;
+MANQUE avocat 1	cerise 3	cheval 2	fromage 3	haricot 4	laitue 3	panais 4	pois 2	pomme_de_terre 4	salicorne 4	 ;
+MANQUE oignon 2	 ;
+IMPOSSIBLE
+OK
+MANQUE bergamote 2	crème_glacée 3	orange 3	pain 4	taro 1	 ;
+OK
+IMPOSSIBLE
+22430m  10e_avenue_/_Masson
+OK
+9075m  McGill_/_des_Recollets
+OK
+MANQUE autruche 2	datte 1	jujube 2	pistache 4	poire 2	yogourt 4	 ;
+OK
+7019m  Mansfield_/_Rene-Levesque
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+3973m  Cremazie_/_Lajeunesse
+OK
+OK
+MANQUE asperge 2	beurre 1	framboise 3	orange 4	poire 1	 ;
+10967m  Mansfield_/_Rene-Levesque
+MANQUE avocat 4	boeuf 3	brugnon 3	 ;
+OK
+MANQUE aubergine 2	chèvre 4	ciboulette 3	crème_glacée 3	datte 2	lime 2	olive 3	veau 2	 ;
+MANQUE basilic 3	betterave 3	gingembre 4	jujube 1	pêche 3	 ;
+5093m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+IMPOSSIBLE
+MANQUE cassis 1	kaki 2	pamplemousse 1	poire 1	radis_noir 3	 ;
+OK
+OK
+15643m  St-Dominique_/_Rachel
+OK
+OK
+OK
+MANQUE amande 4	boeuf 3	crème_glacée 3	 ;
+MANQUE myrtille 2	orange 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE pain 2	pamplemousse 4	 ;
+9260m  du_Square_Ahmerst_/_Wolfe
+IMPOSSIBLE
+4453m  Chabot_/_St-Zotique
+IMPOSSIBLE
+MANQUE betterave 1	cheval 1	cornouiller_du_Canada 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE cassis 3	céleri 3	oeuf 1	pastèque 3	taro 4	 ;
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE cassis 2	lait 2	échalote 3	 ;
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE abricot 3	antilope 1	chou 3	cornouiller_du_Canada 4	crème 4	haricot 3	plaquebière 2	 ;
+OK
+MANQUE agneau 1	crème_glacée 1	poivron 1	pomme_de_terre 1	veau 1	échalote 1	 ;
+OK
+OK
+OK
+OK
+OK
+4413m  Notre-Dame_/_St-Gabriel
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+3723m  1ere_avenue_/_Rosemont
+OK
+MANQUE aubergine 2	gingembre 3	melon 1	noix 1	nèfle 3	 ;
+IMPOSSIBLE
+OK
+MANQUE framboise 1	 ;
+MANQUE citron 1	crème_glacée 4	framboise 1	huile 2	porc 1	 ;
+7890m  Chapleau_/_du_Mont-Royal
+3822m  Notre-Dame_/_St-Gabriel
+OK
+OK
+OK
+MANQUE beurre 4	crème_glacée 2	porc 3	quetsche 2	taro 2	 ;
+OK
+6543m  Berri_/_Sherbrooke
+MANQUE ail 4	boeuf 1	canneberge 2	pamplemousse 3	pomme 3	 ;
+OK
+MANQUE bigarade 2	châtaigne 2	kaki 4	romaine 4	 ;
+OK
+MANQUE cassis 3	concombre 2	 ;
+OK
+OK
+OK
+8949m  1ere_avenue_/_Rosemont
+11124m  St-Dominique_/_St-Zotique
+OK
+6907m  Cremazie_/_Lajeunesse
+4299m  Cremazie_/_Lajeunesse
+IMPOSSIBLE
+OK
+MANQUE courgette 2	poivre 2	 ;
+IMPOSSIBLE
+MANQUE bergamote 1	bison 1	cassis 2	datte 2	 ;
+OK
+MANQUE aubergine 1	betterave 1	courge 3	cynorrhodon 2	kiwi 3	mandarine 1	noisette 1	nèfle 4	quinoa 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+8012m  Berri_/_Sherbrooke
+15219m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+5774m  Cremazie_/_Lajeunesse
+OK
+6927m  28e_avenue_/_Rosemont
+COMPLET
+MANQUE antilope 3	arbouse 2	crème 1	lait 4	marron 2	 ;
+OK
+OK
+MANQUE agneau 4	huile 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE chèvre 1	jujube 4	 ;
+IMPOSSIBLE
+MANQUE amande 1	clémentine 4	fraise 3	mandarine 2	pois 2	veau 3	 ;
+IMPOSSIBLE
+MANQUE brugnon 3	cheval 2	clémentine 2	orange 3	pastèque 1	pate 2	 ;
+OK
+MANQUE arbouse 4	asperge 3	basilic 3	concombre 3	crème_glacée 3	salade 3	 ;
+MANQUE citron 3	salade 2	échalote 1	 ;
+2133m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+OK
+MANQUE canneberge 4	crème 1	myrtille 3	pêche 1	 ;
+13528m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+OK
+OK
+OK
+OK
+3332m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+MANQUE chèvre 3	citrouille 1	cornouiller_du_Canada 4	marron 1	nèfle 4	pomme 4	quinoa 2	 ;
+MANQUE agneau 3	arbouse 3	bigarade 3	cassis 2	 ;
+MANQUE avocat 4	banane 3	betterave 1	grenade 3	mirabelle 3	pastèque 2	soja 2	sucre 2	veau 4	 ;
+MANQUE amande 1	prune 2	 ;
+MANQUE bison 3	chou-fleur 2	châtaigne 2	pate 2	poivre 3	salicorne 1	wapiti 1	 ;
+MANQUE marron 2	 ;
+1776m  Hopital_Santa_Cabrini_(St-Zotique_/_Jeanne-Jugan)
+MANQUE mûre 2	 ;
+16853m  de_Gaspe_/_Fairmount
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pain 1	pois 1	soja 1	 ;
+3573m  Clark_/_St-Viateur
+MANQUE ananas 1	chou 2	sucre 2	 ;
+MANQUE concombre 4	pastèque 2	poivron 1	pêche 4	 ;
+MANQUE cynorrhodon 1	 ;
+5937m  Mentana_/_Marie-Anne
+15810m  Berri_/_Sherbrooke
+OK
+MANQUE chou-fleur 4	fromage 2	salade 4	 ;
+MANQUE abricot 3	agneau 4	brocoli 4	carotte 4	pamplemousse 4	pate 3	poivre 1	 ;
+MANQUE céleri 1	figue 4	fraise 3	haricot 2	poivre 2	veau 3	 ;
+MANQUE lime 4	melon 4	poivre 4	 ;
+MANQUE abricot 3	amande 2	cerise 2	framboise 2	jujube 2	nèfle 1	rhubarbe 3	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE chèvre 3	pistache 2	 ;
+11154m  Berri_/_Sherbrooke
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE agneau 2	cheval 3	lapin 1	poireau 1	veau 1	 ;
+OK
+MANQUE fraise 3	fromage 4	sel 2	 ;
+2626m  Le_Caron_/_Marc-Sauvalle_
+10351m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE agneau 3	bergamote 3	orange 3	romaine 1	 ;
+MANQUE avocat 2	brugnon 1	céleri 3	mûre 1	 ;
+MANQUE asperge 4	châtaigne 3	fromage 3	noix 4	pamplemousse 3	radis 2	épices 3	 ;
+OK
+806m  6e_avenue_/_Rosemont
+MANQUE gingembre 1	groseille 3	haricot 4	 ;
+12121m  de_Gaspe_/_Fairmount
+IMPOSSIBLE
+8099m  Drolet_/_Laurier
+MANQUE céleri 2	radis_noir 2	 ;
+MANQUE panais 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE brocoli 2	 ;
+OK
+OK
+MANQUE carotte 3	pamplemousse 2	panais 2	rhubarbe 3	 ;
+MANQUE brocoli 4	fromage 2	huile 1	 ;
+OK
+OK
+MANQUE abricot 4	pate 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE brugnon 2	huile 1	lait 2	marron 3	nèfle 1	plaquebière 3	veau 2	 ;
+3978m  Rousselot_/_Villeray
+MANQUE betterave 3	cerise 4	chèvre 3	fraise 3	lime 1	navet 1	olive 1	wapiti 3	 ;
+MANQUE nèfle 2	romaine 4	 ;
+OK
+OK
+OK
+4340m  Mansfield_/_Rene-Levesque
+MANQUE noisette 1	radis_noir 2	 ;
+9297m  St-Dominique/Maguire
+MANQUE autruche 1	beurre 1	canneberge 2	myrtille 1	noisette 2	pastèque 2	pomme 1	taro 4	 ;
+MANQUE ananas 4	avocat 2	carotte 3	chou 3	laitue 4	mandarine 2	mûre 4	orange 1	 ;
+OK
+10460m  Mansfield_/_Rene-Levesque
+OK
+MANQUE basilic 3	carotte 3	cerise 3	chèvre 1	citron 3	yogourt 1	 ;
+11046m  Le_Caron_/_Marc-Sauvalle_
+OK
+11804m  de_Gaspe_/_Fairmount
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE framboise 2	oeuf 1	 ;
+IMPOSSIBLE
+MANQUE antilope 1	autruche 4	brocoli 3	clémentine 3	fève 4	kaki 3	 ;
+OK
+MANQUE courgette 1	pamplemousse 1	yogourt 4	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE agneau 2	arbouse 4	boeuf 3	poireau 1	 ;
+MANQUE ciboulette 2	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE ail 1	arbouse 2	cheval 1	fève 2	navet 3	plaquebière 3	poire 1	 ;
+OK
+OK
+OK
+COMPLET
+MANQUE framboise 1	 ;
+IMPOSSIBLE
+OK
+MANQUE cornouiller_du_Canada 1	 ;
+OK
+5620m  1ere__avenue_/St-Zotique
+8576m  Metro_Cote-des-Neiges_(Lacombe_/_de_la_Cote-des-Neiges)
+12485m  Mansfield_/_Rene-Levesque
+MANQUE cornouiller_du_Canada 4	jujube 1	pistache 1	 ;
+OK
+MANQUE antilope 1	arbouse 1	cornouiller_du_Canada 2	pate 3	radis_noir 1	 ;
+OK
+MANQUE banane 4	crème 2	lait 2	melon 3	poivron 3	porc 1	raisin 1	sucre 3	 ;
+MANQUE noix 3	olive 2	pastèque 4	rhubarbe 1	 ;
+OK
+OK
+OK
+MANQUE arbouse 3	bergamote 3	 ;
+MANQUE antilope 2	bergamote 4	concombre 4	gingembre 2	pêche 2	taro 4	 ;
+OK
+MANQUE courge 4	figue 3	lapin 2	sel 3	yogourt 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+9289m  Notre-Dame_/_St-Gabriel
+OK
+MANQUE bison 3	courgette 1	lait 3	laitue 4	noix 2	romaine 4	 ;
+5586m  35e_avenue_/_Beaubien
+IMPOSSIBLE
+MANQUE haricot 2	 ;
+IMPOSSIBLE
+MANQUE boeuf 3	cynorrhodon 3	fromage 4	lait 3	mandarine 1	poire 3	soja 2	 ;
+MANQUE chou 1	cynorrhodon 3	radis_noir 3	 ;
+IMPOSSIBLE
+MANQUE bison 3	courgette 2	pain 3	quinoa 4	 ;
+3849m  Marquette_/_Fleury
+OK
+MANQUE banane 1	basilic 1	bigarade 3	oeuf 3	panais 3	raisin 4	 ;
+MANQUE châtaigne 3	romaine 3	 ;
+MANQUE bergamote 1	navet 4	pomme_de_terre 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE bison 3	céleri 1	fève 1	kiwi 2	sel 3	 ;
+MANQUE canneberge 3	groseille 4	lime 2	 ;
+OK
+7969m  Mansfield_/_Rene-Levesque
+12034m  St-Dominique/Maguire
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE haricot 4	lapin 2	nèfle 2	pistache 4	poire 4	veau 2	 ;
+OK
+OK
+OK
+10967m  Notre-Dame_/_St-Gabriel
+OK
+OK
+OK
+MANQUE abricot 3	coing 1	lapin 1	maceron 1	wapiti 1	 ;
+9476m  Rockland_/_Lajoie
+IMPOSSIBLE
+MANQUE crème 2	gingembre 3	mandarine 4	pois 2	pêche 4	 ;
+MANQUE chou 4	 ;
+MANQUE ciboulette 4	groseille 2	jujube 1	noisette 4	noix 4	pastèque 2	prune 1	radis_noir 4	 ;
+OK
+3485m  Rockland_/_Lajoie
+OK
+MANQUE banane 3	beurre 2	cynorrhodon 4	haricot 2	melon 1	prune 3	salade 3	 ;
+MANQUE ananas 1	kaki 3	 ;
+OK
+5061m  35e_avenue_/_Beaubien
+MANQUE jujube 1	lime 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE citron 3	navet 3	plaquebière 4	épices 4	 ;
+COMPLET
+OK
+OK
+OK
+12930m  Duluth_/_St-Laurent
+OK
+OK
+MANQUE betterave 3	grenade 3	lime 2	myrtille 3	 ;
+6853m  7e_avenue_/_St-Joseph
+MANQUE courgette 4	lait 1	noix 4	plaquebière 2	poireau 4	prune 4	échalote 4	 ;
+OK
+OK
+5298m  Mentana_/_Marie-Anne
+IMPOSSIBLE
+MANQUE cassis 2	chou-fleur 3	 ;
+MANQUE chou 4	ciboulette 4	kiwi 1	mirabelle 2	noisette 1	pomme_de_terre 4	raisin 4	sucre 4	 ;
+OK
+IMPOSSIBLE
+MANQUE basilic 2	kaki 2	 ;
+IMPOSSIBLE
+OK
+MANQUE noisette 3	nèfle 2	orange 2	 ;
+IMPOSSIBLE
+OK
+MANQUE échalote 1	 ;
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 2	kiwi 1	porc 1	 ;
+MANQUE ananas 2	aubergine 4	avocat 2	basilic 4	bigarade 2	canneberge 2	chèvre 4	grenade 1	poireau 1	 ;
+MANQUE arbouse 1	aubergine 4	autruche 3	beurre 4	brocoli 1	chèvre 4	courgette 4	lapin 3	maceron 3	 ;
+OK
+IMPOSSIBLE
+MANQUE banane 2	bison 1	brugnon 1	chou-fleur 1	cornouiller_du_Canada 2	huile 1	 ;
+MANQUE avocat 3	 ;
+OK
+OK
+15602m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+IMPOSSIBLE
+OK
+OK
+4201m  Cremazie_/_Lajeunesse
+OK
+MANQUE autruche 3	courge 1	gingembre 1	grenade 1	wapiti 4	 ;
+IMPOSSIBLE
+MANQUE agneau 1	crème 1	navet 2	prune 3	salade 1	 ;
+6190m  Rousselot_/_Villeray
+OK
+MANQUE agneau 2	antilope 2	chou-fleur 1	haricot 4	huile 2	mirabelle 3	 ;
+OK
+OK
+OK
+MANQUE aubergine 4	 ;
+MANQUE citron 2	cynorrhodon 2	lime 4	mandarine 3	pastèque 4	 ;
+MANQUE clémentine 2	rhubarbe 2	 ;
+MANQUE yogourt 2	 ;
+OK
+IMPOSSIBLE
+MANQUE noisette 3	truffe 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+12354m  Mentana_/_Marie-Anne
+OK
+OK
+OK
+15524m  Outremont_/_Ogilvy
+OK
+9118m  Rockland_/_Lajoie
+OK
+OK
+MANQUE brocoli 1	châtaigne 3	citrouille 4	oignon 2	 ;
+OK
+MANQUE bergamote 2	bison 4	canneberge 3	crème 4	 ;
+IMPOSSIBLE
+16481m  Metro_Longueuil_-_Universite_de_Sherbrooke
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+10178m  Regina_/_de_Verdun
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE aubergine 2	chou-fleur 1	orange 1	plaquebière 2	 ;
+MANQUE ail 3	figue 3	pamplemousse 3	pate 4	 ;
+6797m  12e_avenue_/_St-Zotique
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE asperge 4	lait 3	panais 1	salicorne 1	 ;
+IMPOSSIBLE
+1112m  Metcalfe_/_Square_Dorchester
+MANQUE betterave 1	brugnon 3	noix 1	 ;
+IMPOSSIBLE
+OK
+MANQUE bergamote 4	 ;
+OK
+14062m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+7765m  Notre-Dame_/_St-Gabriel
+MANQUE bison 1	cheval 4	chèvre 1	courgette 1	céleri 3	mûre 3	pate 1	poivron 1	soja 2	échalote 3	 ;
+9410m  Rockland_/_Lajoie
+OK
+OK
+MANQUE brugnon 4	cynorrhodon 2	 ;
+OK
+MANQUE avocat 4	brugnon 3	coing 3	panais 2	 ;
+OK
+3343m  des_Seigneurs_/_Workman
+OK
+MANQUE pois 2	poivron 2	 ;
+12646m  Beaudry_/_Ontario
+MANQUE amande 4	ananas 2	ciboulette 1	citron 3	fromage 1	noisette 1	veau 1	 ;
+2530m  Marche_Maisonneuve
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE antilope 1	framboise 1	marron 1	quinoa 2	sucre 3	veau 3	 ;
+OK
+MANQUE asperge 1	brugnon 1	 ;
+IMPOSSIBLE
+MANQUE autruche 2	groseille 4	myrtille 2	olive 2	pate 1	poivron 3	 ;
+4156m  15e_avenue_/_Masson
+OK
+MANQUE avocat 3	bergamote 2	coing 1	céleri 3	sucre 3	taro 3	 ;
+7896m  de_Brebeuf_/_St-Gregoire
+OK
+MANQUE cornouiller_du_Canada 1	céleri 4	 ;
+MANQUE crème_glacée 4	 ;
+MANQUE cheval 2	lime 1	 ;
+OK
+OK
+15739m  Place_Longueuil
+OK
+MANQUE asperge 1	canneberge 3	courgette 2	crème_glacée 3	framboise 3	 ;
+MANQUE agneau 2	brocoli 3	clémentine 2	crème 1	jujube 3	kaki 4	poivre 1	 ;
+MANQUE boeuf 2	mandarine 3	mûre 1	panais 4	poireau 3	 ;
+MANQUE datte 1	fraise 4	grenade 3	haricot 2	jujube 3	myrtille 1	nèfle 3	pamplemousse 1	échalote 2	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+8697m  Chabot_/_de_Bellechasse
+OK
+MANQUE coing 1	crème 2	 ;
+8434m  1ere_avenue_/_Rosemont
+OK
+OK
+OK
+OK
+OK
+OK
+3556m  7e_avenue_/_St-Joseph
+IMPOSSIBLE
+MANQUE citron 4	fève 4	mandarine 3	marron 3	yogourt 4	épices 3	 ;
+MANQUE abricot 4	bergamote 1	lait 1	pêche 2	raisin 3	 ;
+16432m  Metro_Longueuil_-_Universite_de_Sherbrooke
+OK
+11205m  16e_avenue_/_St-Joseph
+OK
+2277m  Chabot_/_de_Bellechasse
+IMPOSSIBLE
+MANQUE olive 1	quinoa 2	 ;
+MANQUE abricot 2	amande 2	antilope 2	asperge 4	beurre 4	pomme_de_terre 1	prune 4	 ;
+OK
+OK
+MANQUE amande 1	ananas 4	antilope 1	ciboulette 1	courgette 4	poire 4	 ;
+MANQUE avocat 1	brugnon 4	carotte 3	cassis 2	châtaigne 1	radis 3	sel 3	 ;
+OK
+OK
+OK
+OK
+MANQUE bergamote 1	beurre 1	coing 4	concombre 3	datte 1	fraise 2	quetsche 4	wapiti 3	 ;
+10898m  Resther_/_St-Joseph
+MANQUE datte 2	melon 3	porc 3	salicorne 3	sucre 2	 ;
+OK
+12353m  Rockland_/_Lajoie
+OK
+MANQUE abricot 2	framboise 3	huile 2	melon 1	 ;
+MANQUE aubergine 1	grenade 4	jujube 2	noix 3	pastèque 3	soja 4	 ;
+3340m  Rockland_/_Lajoie
+IMPOSSIBLE
+OK
+OK
+MANQUE avocat 1	cornouiller_du_Canada 4	crème_glacée 4	céleri 3	maceron 4	mandarine 2	poireau 4	 ;
+MANQUE bergamote 2	pêche 2	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE beurre 3	chèvre 3	huile 3	mandarine 1	pastèque 2	radis 1	 ;
+MANQUE brocoli 1	chou 4	 ;
+MANQUE chou-fleur 4	lapin 2	 ;
+2675m  de_Gaspe_/_Fairmount
+MANQUE cerise 1	chou 4	sucre 4	truffe 3	 ;
+OK
+OK
+MANQUE antilope 4	canneberge 3	rhubarbe 2	salade 3	soja 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE avocat 1	citrouille 2	pamplemousse 1	 ;
+MANQUE canneberge 2	grenade 4	 ;
+OK
+21414m  Place_Longueuil
+OK
+8058m  Beaudry_/_Ontario
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 2	 ;
+20017m  Chabot_/_de_Bellechasse
+OK
+IMPOSSIBLE
+MANQUE fève 1	pistache 3	sel 1	 ;
+OK
+IMPOSSIBLE
+MANQUE autruche 4	coing 2	framboise 1	 ;
+MANQUE cassis 2	citrouille 1	coing 4	céleri 3	fraise 1	huile 1	oeuf 1	quetsche 2	sel 2	 ;
+MANQUE figue 2	olive 4	sucre 2	 ;
+9818m  Hutchison/_Prince-Arthur
+IMPOSSIBLE
+OK
+MANQUE cerise 1	salade 3	 ;
+MANQUE oeuf 2	 ;
+OK
+OK
+12615m  Resther_/_St-Joseph
+8978m  Drummond_/_de_Maisonneuve
+MANQUE salicorne 2	 ;
+OK
+OK
+7282m  Beaudry_/_Ontario
+IMPOSSIBLE
+OK
+MANQUE clémentine 4	radis_noir 3	salicorne 2	 ;
+MANQUE bigarade 3	brugnon 1	haricot 3	 ;
+MANQUE brocoli 2	mandarine 3	marron 4	mirabelle 2	olive 4	poireau 2	 ;
+MANQUE autruche 4	betterave 4	bison 3	cornouiller_du_Canada 3	nèfle 3	pistache 3	poivre 3	échalote 3	 ;
+IMPOSSIBLE
+MANQUE ail 3	ananas 1	avocat 1	cynorrhodon 4	groseille 4	myrtille 1	 ;
+OK
+IMPOSSIBLE
+MANQUE chèvre 2	oignon 2	 ;
+MANQUE antilope 1	clémentine 4	épices 3	 ;
+OK
+8309m  St-Dominique/Maguire
+8473m  Mentana_/_Marie-Anne
+OK
+MANQUE bison 2	melon 2	plaquebière 2	sucre 3	 ;
+14853m  7e_avenue_/_St-Joseph
+IMPOSSIBLE
+16294m  Hutchison/_Prince-Arthur
+3829m  Resther_/_St-Joseph
+OK
+OK
+MANQUE huile 1	 ;
+MANQUE ananas 2	bison 4	maceron 2	oeuf 3	pate 1	pêche 4	truffe 4	échalote 4	 ;
+MANQUE châtaigne 2	figue 1	soja 1	 ;
+IMPOSSIBLE
+MANQUE ananas 3	courgette 1	gingembre 2	maceron 3	nèfle 2	oignon 3	romaine 4	 ;
+10178m  Beaudry_/_Ontario
+OK
+MANQUE arbouse 4	bergamote 1	chou-fleur 4	gingembre 2	marron 2	truffe 1	 ;
+OK
+OK
+OK
+11028m  St-Dominique/Maguire
+MANQUE amande 1	brocoli 4	mûre 3	navet 3	olive 1	radis 4	 ;
+OK
+MANQUE arbouse 1	cornouiller_du_Canada 4	kiwi 4	mandarine 2	marron 1	olive 2	radis_noir 4	taro 4	 ;
+OK
+OK
+OK
+3782m  Hutchison/_Prince-Arthur
+MANQUE asperge 3	aubergine 4	beurre 2	canneberge 1	citron 4	olive 1	 ;
+8332m  Belmont_/_Beaver_Hall
+MANQUE avocat 2	chou-fleur 4	 ;
+8368m  1ere_avenue_/_Rosemont
+MANQUE ail 4	antilope 4	carotte 2	panais 4	salicorne 1	 ;
+OK
+OK
+MANQUE asperge 3	cassis 3	chèvre 1	oignon 2	quetsche 1	truffe 1	yogourt 3	 ;
+8541m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+OK
+MANQUE canneberge 2	carotte 2	fraise 4	groseille 2	pomme 4	veau 1	 ;
+IMPOSSIBLE
+MANQUE ail 1	 ;
+5228m  Beaudry_/_Ontario
+MANQUE agneau 3	ananas 3	beurre 3	datte 2	huile 4	lime 1	 ;
+OK
+MANQUE bison 3	coing 3	gingembre 4	radis_noir 4	salicorne 1	 ;
+MANQUE olive 2	plaquebière 3	pois 4	salicorne 3	 ;
+IMPOSSIBLE
+MANQUE radis_noir 3	 ;
+MANQUE brocoli 4	radis 4	 ;
+OK
+OK
+MANQUE abricot 2	ananas 1	 ;
+MANQUE mûre 2	oeuf 3	oignon 4	panais 2	pastèque 3	 ;
+MANQUE citron 4	citrouille 2	lapin 3	noisette 1	poireau 4	prune 1	veau 2	 ;
+8162m  de_Brebeuf_/_St-Gregoire
+OK
+OK
+OK
+OK
+MANQUE bigarade 1	pomme 1	pomme_de_terre 2	yogourt 1	 ;
+OK
+MANQUE crème 1	cynorrhodon 4	poireau 4	radis_noir 2	 ;
+OK
+OK
+OK
+MANQUE abricot 1	bergamote 2	bigarade 4	canneberge 2	laitue 1	mandarine 2	romaine 4	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE beurre 2	mûre 2	 ;
+MANQUE fromage 2	pain 4	 ;
+OK
+7157m  Le_Caron_/_Marc-Sauvalle_
+OK
+OK
+OK
+IMPOSSIBLE
+COMPLET
+MANQUE poivre 2	 ;
+OK
+OK
+OK
+OK
+MANQUE autruche 1	 ;
+OK
+MANQUE groseille 2	kiwi 4	mandarine 2	oeuf 4	olive 1	panais 1	poivre 1	 ;
+15275m  Resther_/_St-Joseph
+MANQUE ciboulette 1	crème_glacée 4	fève 4	porc 1	truffe 2	 ;
+IMPOSSIBLE
+MANQUE chou 1	prune 3	 ;
+OK
+OK
+22028m  Chabot_/_Everett
+516m  Resther_/_St-Joseph
+OK
+IMPOSSIBLE
+MANQUE boeuf 4	chou 4	châtaigne 2	kiwi 3	soja 1	 ;
+MANQUE arbouse 2	crème 3	mandarine 3	nèfle 4	taro 1	 ;
+10223m  de_Gaspe_/_Fairmount
+OK
+OK
+OK
+MANQUE canneberge 1	cornouiller_du_Canada 3	plaquebière 4	quinoa 4	 ;
+IMPOSSIBLE
+8438m  Le_Caron_/_Marc-Sauvalle_
+OK
+OK
+MANQUE pistache 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE ail 1	arbouse 2	kiwi 4	rhubarbe 4	 ;
+MANQUE ananas 4	cornouiller_du_Canada 1	crème 1	plaquebière 1	yogourt 3	 ;
+7958m  Beaudry_/_Ontario
+16145m  Beaudry_/_Ontario
+OK
+11674m  Rockland_/_Lajoie
+OK
+MANQUE antilope 1	betterave 1	ciboulette 4	clémentine 1	cornouiller_du_Canada 1	mandarine 2	 ;
+OK
+MANQUE banane 1	cassis 1	marron 1	noisette 4	nèfle 4	orange 1	raisin 3	salicorne 4	échalote 1	 ;
+IMPOSSIBLE
+11330m  Rousselot_/_Villeray
+MANQUE ail 1	brocoli 2	jujube 2	lime 1	melon 3	noisette 2	orange 4	wapiti 1	 ;
+MANQUE asperge 3	crème_glacée 4	pistache 4	pomme 4	 ;
+5589m  7e_avenue_/_St-Joseph
+OK
+OK
+OK
+OK
+MANQUE cassis 3	crème_glacée 4	haricot 3	mûre 4	olive 3	 ;
+2014m  7e_avenue_/_St-Joseph
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE porc 3	 ;
+MANQUE concombre 2	gingembre 2	prune 4	romaine 4	 ;
+IMPOSSIBLE
+MANQUE bigarade 4	cheval 4	raisin 4	 ;
+OK
+OK
+MANQUE carotte 3	chou-fleur 4	châtaigne 2	framboise 4	mandarine 2	marron 2	pomme_de_terre 2	rhubarbe 2	 ;
+MANQUE cassis 3	pain 4	pamplemousse 4	pastèque 3	rhubarbe 2	 ;
+MANQUE gingembre 2	kaki 4	échalote 2	 ;
+MANQUE courge 3	fromage 2	pistache 4	rhubarbe 1	soja 3	 ;
+MANQUE boeuf 1	carotte 1	cheval 3	courgette 1	maceron 2	poivron 1	 ;
+21319m  7e_avenue_/_St-Joseph
+MANQUE myrtille 1	rhubarbe 1	 ;
+OK
+OK
+MANQUE arbouse 2	huile 3	mirabelle 1	poireau 3	prune 3	soja 4	 ;
+OK
+OK
+MANQUE canneberge 3	cynorrhodon 4	navet 3	noisette 4	poire 3	radis 1	truffe 4	 ;
+8801m  Beaudry_/_Ontario
+MANQUE kaki 3	mûre 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE asperge 1	crème_glacée 1	 ;
+OK
+MANQUE ail 4	arbouse 3	chou 2	citron 1	noisette 1	pomme 1	veau 4	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE cerise 1	jujube 1	noisette 3	poivron 2	 ;
+IMPOSSIBLE
+MANQUE datte 2	porc 2	veau 3	wapiti 1	 ;
+OK
+MANQUE abricot 4	céleri 3	kiwi 1	noisette 1	pastèque 2	pate 4	plaquebière 2	 ;
+MANQUE amande 3	ananas 2	coing 4	prune 2	quinoa 4	 ;
+16090m  Beaudry_/_Ontario
+MANQUE amande 3	clémentine 2	laitue 1	marron 2	pistache 4	salade 1	 ;
+MANQUE amande 4	bison 2	chou 2	chou-fleur 2	wapiti 2	 ;
+OK
+MANQUE crème 3	 ;
+MANQUE canneberge 1	chèvre 1	coing 1	wapiti 2	 ;
+MANQUE aubergine 3	cassis 2	crème_glacée 4	kaki 1	oeuf 3	plaquebière 1	radis_noir 4	 ;
+MANQUE poivre 1	 ;
+OK
+MANQUE navet 4	pate 1	salicorne 1	taro 3	yogourt 1	 ;
+OK
+IMPOSSIBLE
+3082m  Bel_Air_/_St-Antoine
+15356m  Hutchison/_Prince-Arthur
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE ciboulette 1	oeuf 4	radis 1	raisin 2	 ;
+MANQUE brocoli 4	lapin 2	pain 1	pate 1	 ;
+4647m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+12406m  Beaudry_/_Ontario
+7469m  Le_Caron_/_Marc-Sauvalle_
+4259m  Beaudry_/_Ontario
+MANQUE ciboulette 2	fève 1	radis_noir 1	 ;
+OK
+MANQUE bergamote 3	bigarade 3	olive 1	poireau 2	quetsche 3	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+5841m  Le_Caron_/_Marc-Sauvalle_
+IMPOSSIBLE
+IMPOSSIBLE
+3008m  28e_avenue_/_Rosemont
+6105m  7e_avenue_/_St-Joseph
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE basilic 3	chou 4	chèvre 2	courgette 4	pois 4	 ;
+6202m  Resther_/_St-Joseph
+IMPOSSIBLE
+MANQUE cerise 1	citron 4	fromage 1	maceron 4	 ;
+COMPLET
+OK
+OK
+IMPOSSIBLE
+OK
+3670m  Le_Caron_/_Marc-Sauvalle_
+IMPOSSIBLE
+5774m  Duluth_/_St-Laurent
+OK
+14227m  Beaudry_/_Ontario
+MANQUE cynorrhodon 4	grenade 2	huile 3	pistache 2	pomme_de_terre 4	 ;
+OK
+MANQUE crème_glacée 1	noix 2	échalote 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE aubergine 1	basilic 4	marron 1	 ;
+MANQUE bison 1	plaquebière 2	 ;
+MANQUE bison 2	châtaigne 1	cornouiller_du_Canada 3	laitue 1	noix 3	olive 1	pain 4	wapiti 4	épices 3	 ;
+OK
+IMPOSSIBLE
+10873m  Drummond_/_de_Maisonneuve
+IMPOSSIBLE
+MANQUE crème_glacée 4	mûre 3	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+11378m  Gilford_/_de_Brebeuf
+OK
+MANQUE cassis 2	courgette 4	poivron 3	sel 1	 ;
+OK
+18449m  de_Brebeuf_/_St-Gregoire
+MANQUE châtaigne 2	cornouiller_du_Canada 1	lapin 4	panais 1	pastèque 3	poivre 3	 ;
+4598m  Beaudry_/_Ontario
+MANQUE betterave 1	céleri 2	orange 1	 ;
+IMPOSSIBLE
+MANQUE antilope 3	canneberge 1	gingembre 1	pistache 3	poire 2	prune 3	raisin 4	 ;
+OK
+OK
+OK
+MANQUE citrouille 2	maceron 2	 ;
+OK
+OK
+MANQUE aubergine 3	bigarade 1	bison 1	maceron 2	pate 1	plaquebière 1	 ;
+IMPOSSIBLE
+8999m  Resther_/_St-Joseph
+8613m  Hopital_Santa_Cabrini_(St-Zotique_/_Jeanne-Jugan)
+IMPOSSIBLE
+MANQUE citron 2	noisette 4	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cassis 3	mirabelle 1	olive 4	yogourt 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE bergamote 1	betterave 1	ciboulette 3	jujube 1	melon 3	 ;
+MANQUE jujube 1	quinoa 3	 ;
+IMPOSSIBLE
+MANQUE lait 2	melon 1	raisin 2	truffe 4	 ;
+MANQUE arbouse 2	porc 1	rhubarbe 2	 ;
+MANQUE agneau 4	soja 4	 ;
+9820m  de_Brebeuf_/_St-Gregoire
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE cynorrhodon 3	plaquebière 2	sel 2	épices 3	 ;
+OK
+MANQUE bison 1	carotte 2	oeuf 2	pois 3	 ;
+9334m  Hamilton_/_Jolicoeur
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+15599m  Natatorium_(LaSalle_/_Rolland)
+OK
+IMPOSSIBLE
+OK
+MANQUE arbouse 3	autruche 2	chou 2	lapin 2	poivre 4	sel 3	soja 3	yogourt 1	 ;
+OK
+OK
+MANQUE boeuf 4	haricot 2	 ;
+OK
+MANQUE poireau 1	 ;
+OK
+MANQUE brocoli 1	carotte 2	haricot 1	 ;
+IMPOSSIBLE
+7748m  Drummond_/_de_Maisonneuve
+IMPOSSIBLE
+MANQUE aubergine 4	chou 1	 ;
+MANQUE autruche 3	avocat 3	myrtille 4	pomme 3	 ;
+MANQUE avocat 1	chou-fleur 3	ciboulette 4	pomme_de_terre 2	sel 1	échalote 2	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE bison 2	châtaigne 4	crème_glacée 1	haricot 2	laitue 4	sel 4	 ;
+13834m  Le_Caron_/_Marc-Sauvalle_
+OK
+7834m  Rockland_/_Lajoie
+MANQUE banane 4	courge 3	courgette 1	céleri 3	pamplemousse 4	sel 1	 ;
+MANQUE concombre 2	lait 1	prune 1	 ;
+8901m  Duluth_/_de_l'Esplanade
+OK
+IMPOSSIBLE
+MANQUE autruche 2	kiwi 4	melon 1	plaquebière 2	radis_noir 2	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+9830m  Beaudry_/_Ontario
+MANQUE groseille 1	poire 2	 ;
+OK
+OK
+MANQUE agneau 1	ail 3	chou-fleur 3	citrouille 1	coing 1	épices 4	 ;
+IMPOSSIBLE
+OK
+MANQUE avocat 4	framboise 1	oignon 3	olive 2	 ;
+MANQUE ananas 2	banane 2	courge 4	kiwi 3	pate 3	poivre 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE avocat 2	banane 4	concombre 1	fromage 4	plaquebière 2	 ;
+MANQUE asperge 3	chèvre 1	mûre 1	pamplemousse 2	truffe 3	 ;
+MANQUE betterave 2	 ;
+MANQUE mirabelle 1	poireau 1	 ;
+OK
+MANQUE antilope 1	fraise 1	quetsche 2	 ;
+MANQUE poivron 4	 ;
+OK
+OK
+IMPOSSIBLE
+6006m  Le_Caron_/_Marc-Sauvalle_
+OK
+MANQUE marron 2	plaquebière 3	 ;
+COMPLET
+13521m  8e_avenue_/_Beaubien
+14509m  Mentana_/_Marie-Anne
+MANQUE arbouse 2	cornouiller_du_Canada 2	poireau 4	 ;
+5260m  Rousselot_/_Villeray
+16939m  Hutchison_/_Beaubien
+OK
+8835m  St-Hubert_/_Rachel
+MANQUE ail 1	basilic 1	chèvre 3	laitue 3	mirabelle 1	nèfle 3	 ;
+OK
+7261m  Chabot_/_St-Zotique
+MANQUE chèvre 2	 ;
+OK
+MANQUE brocoli 1	fromage 4	maceron 1	radis_noir 2	sel 2	 ;
+OK
+6499m  Cremazie_/_Lajeunesse
+MANQUE citron 1	groseille 1	marron 3	oeuf 2	radis 3	 ;
+OK
+IMPOSSIBLE
+9079m  St-Hubert_/_Rachel
+OK
+OK
+22847m  de_Repentigny_/_Sherbrooke
+MANQUE courge 4	framboise 3	lait 2	poivre 1	 ;
+MANQUE boeuf 3	panais 3	poireau 3	rhubarbe 4	 ;
+IMPOSSIBLE
+COMPLET
+840m  Belmore_/_Sherbrooke
+MANQUE ail 1	chèvre 2	citron 1	crème_glacée 4	kiwi 1	 ;
+IMPOSSIBLE
+MANQUE asperge 2	aubergine 1	cynorrhodon 4	oignon 3	pain 2	pamplemousse 2	pêche 4	soja 4	 ;
+MANQUE noix 3	pois 2	 ;
+MANQUE ail 3	kiwi 2	myrtille 1	oeuf 2	pomme 3	veau 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE arbouse 1	avocat 2	yogourt 2	 ;
+MANQUE ananas 2	bison 2	canneberge 4	chou 2	lait 1	melon 2	pain 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE arbouse 4	beurre 4	carotte 1	laitue 2	pastèque 2	pomme_de_terre 1	soja 1	épices 2	 ;
+MANQUE crème 2	cynorrhodon 4	fromage 3	taro 4	 ;
+OK
+COMPLET
+4859m  Rockland_/_Lajoie
+IMPOSSIBLE
+OK
+MANQUE antilope 4	 ;
+IMPOSSIBLE
+MANQUE ananas 1	framboise 3	 ;
+1576m  Hutchison_/_Beaubien
+MANQUE cassis 1	crème_glacée 3	melon 3	 ;
+IMPOSSIBLE
+MANQUE châtaigne 2	gingembre 2	pêche 3	 ;
+MANQUE avocat 2	cynorrhodon 3	fraise 1	rhubarbe 2	 ;
+7325m  Natatorium_(LaSalle_/_Rolland)
+MANQUE cheval 3	fromage 1	myrtille 3	 ;
+MANQUE bison 2	cerise 4	grenade 1	mandarine 4	 ;
+MANQUE fromage 1	laitue 3	olive 3	radis 1	 ;
+MANQUE basilic 1	chou 2	grenade 1	oignon 1	pamplemousse 3	quetsche 3	quinoa 4	échalote 3	 ;
+MANQUE ananas 1	romaine 3	 ;
+OK
+MANQUE bison 2	figue 4	kaki 3	pain 3	quinoa 2	rhubarbe 2	 ;
+IMPOSSIBLE
+OK
+MANQUE laitue 1	poireau 4	taro 1	épices 2	 ;
+14056m  de_Brebeuf_/_St-Gregoire
+MANQUE banane 1	 ;
+MANQUE banane 4	 ;
+IMPOSSIBLE
+MANQUE bergamote 2	noisette 1	pastèque 1	 ;
+MANQUE gingembre 1	orange 1	veau 1	 ;
+MANQUE citrouille 3	jujube 4	pêche 2	 ;
+MANQUE groseille 4	mûre 1	plaquebière 3	salade 3	taro 1	 ;
+MANQUE amande 1	arbouse 4	poire 1	 ;
+OK
+OK
+MANQUE coing 2	olive 2	 ;
+MANQUE bergamote 3	bison 2	cassis 1	huile 2	rhubarbe 3	 ;
+MANQUE abricot 2	crème_glacée 1	pomme 1	radis 1	 ;
+OK
+10079m  Metro_Cote-des-Neiges_(Lacombe_/_de_la_Cote-des-Neiges)
+11871m  Boyer_/_St-Zotique
+MANQUE banane 1	bergamote 1	brocoli 1	courgette 1	noix 3	orange 2	pomme 2	 ;
+MANQUE fève 3	pate 1	sucre 1	 ;
+MANQUE bigarade 1	grenade 4	pois 4	prune 3	romaine 1	 ;
+OK
+OK
+6292m  Natatorium_(LaSalle_/_Rolland)
+OK
+OK
+MANQUE canneberge 2	lait 4	noisette 3	pate 3	wapiti 2	 ;
+IMPOSSIBLE
+OK
+12492m  St-Hubert_/_Rachel
+6782m  St-Hubert_/_Rachel
+IMPOSSIBLE
+OK
+MANQUE banane 2	canneberge 1	chèvre 1	nèfle 4	pastèque 3	porc 1	prune 4	radis_noir 4	 ;
+MANQUE bison 1	courgette 4	framboise 3	fromage 1	lait 2	 ;
+15262m  St-Hubert_/_Rachel
+OK
+MANQUE kiwi 1	maceron 3	mandarine 3	mirabelle 1	porc 1	 ;
+MANQUE boeuf 3	lait 1	noisette 2	pêche 4	sucre 2	 ;
+OK
+IMPOSSIBLE
+766m  Resther_/_St-Joseph
+4278m  16e_avenue_/_St-Joseph
+16326m  St-Hubert_/_Rachel
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE abricot 4	yogourt 3	 ;
+MANQUE citrouille 1	framboise 4	 ;
+OK
+OK
+MANQUE citrouille 1	crème_glacée 1	céleri 3	pamplemousse 3	panais 2	pomme 3	 ;
+4083m  Hutchison_/_Beaubien
+MANQUE bergamote 1	carotte 1	chou-fleur 3	groseille 2	nèfle 1	raisin 3	 ;
+MANQUE beurre 4	citron 3	framboise 4	oignon 4	orange 1	pomme_de_terre 1	truffe 3	échalote 4	 ;
+OK
+3277m  Chapleau_/_du_Mont-Royal
+OK
+MANQUE aubergine 2	 ;
+IMPOSSIBLE
+MANQUE basilic 4	coing 1	concombre 2	noisette 3	pain 2	 ;
+OK
+17155m  St-Hubert_/_Rachel
+IMPOSSIBLE
+MANQUE antilope 2	clémentine 4	gingembre 1	melon 1	porc 1	taro 4	 ;
+OK
+16509m  Boyer_/_St-Zotique
+12141m  St-Hubert_/_Rachel
+OK
+12675m  St-Hubert_/_Rachel
+MANQUE asperge 3	fromage 2	 ;
+OK
+9406m  St-Hubert_/_Rachel
+OK
+6964m  Beaudry_/_Ontario
+8014m  Victoria_/_de_Maisonneuve
+COMPLET
+OK
+10836m  St-Hubert_/_Rachel
+11168m  Gilford_/_de_Brebeuf
+IMPOSSIBLE
+6226m  St-Hubert_/_Rachel
+OK
+2784m  Natatorium_(LaSalle_/_Rolland)
+5634m  Beaudry_/_Ontario
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE aubergine 4	gingembre 4	noisette 3	truffe 3	 ;
+OK
+6773m  Hutchison/_Prince-Arthur
+MANQUE groseille 4	wapiti 1	 ;
+OK
+OK
+MANQUE chèvre 1	grenade 2	pois 3	sucre 4	 ;
+OK
+OK
+MANQUE ananas 2	brugnon 2	céleri 2	datte 2	laitue 3	nèfle 3	pain 1	taro 4	truffe 1	 ;
+OK
+OK
+OK
+MANQUE avocat 1	bergamote 4	ciboulette 4	cynorrhodon 3	lait 4	poire 3	pêche 1	raisin 2	wapiti 2	épices 2	 ;
+OK
+OK
+5069m  St-Hubert_/_Rachel
+OK
+OK
+OK
+OK
+MANQUE chou 1	coing 3	fromage 1	sucre 2	 ;
+MANQUE aubergine 3	lait 3	pastèque 3	raisin 4	 ;
+2738m  35e_avenue_/_Beaubien
+OK
+MANQUE cerise 3	pate 4	salicorne 3	sucre 4	veau 1	 ;
+MANQUE asperge 2	aubergine 2	canneberge 4	clémentine 3	lapin 1	lime 1	prune 1	 ;
+MANQUE amande 4	canneberge 3	carotte 1	citrouille 1	maceron 4	marron 3	mûre 4	pain 1	pomme_de_terre 1	 ;
+OK
+OK
+MANQUE cornouiller_du_Canada 3	 ;
+MANQUE chou 3	 ;
+7723m  St-Hubert_/_Rachel
+MANQUE oignon 1	pistache 2	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+10603m  Gilford_/_de_Brebeuf
+MANQUE antilope 4	pamplemousse 2	panais 2	radis 1	 ;
+OK
+OK
+OK
+MANQUE basilic 1	boeuf 2	brugnon 1	maceron 1	marron 2	pastèque 4	poivre 4	pomme 4	 ;
+MANQUE haricot 3	 ;
+OK
+OK
+OK
+2879m  Faillon_/_St-Denis
+OK
+OK
+MANQUE brugnon 4	 ;
+IMPOSSIBLE
+8594m  Berri_/_St-Gregoire
+2325m  Duluth_/_de_l'Esplanade
+OK
+MANQUE cheval 2	mûre 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE avocat 2	groseille 4	melon 1	oeuf 3	oignon 4	olive 2	poivron 4	sucre 1	truffe 4	yogourt 1	 ;
+IMPOSSIBLE
+MANQUE betterave 1	concombre 3	 ;
+OK
+IMPOSSIBLE
+MANQUE navet 2	radis 2	 ;
+OK
+OK
+MANQUE ananas 1	framboise 1	pomme_de_terre 1	sel 3	 ;
+MANQUE bison 1	crème 2	datte 4	groseille 1	olive 1	pêche 4	sucre 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE avocat 3	brugnon 1	ciboulette 4	céleri 2	fraise 2	lapin 2	 ;
+MANQUE kaki 2	mûre 4	quinoa 3	radis 1	radis_noir 2	 ;
+IMPOSSIBLE
+12301m  St-Hubert_/_Rachel
+OK
+4853m  St-Hubert_/_Rachel
+OK
+OK
+MANQUE asperge 4	maceron 3	 ;
+MANQUE abricot 1	avocat 2	canneberge 1	coing 4	gingembre 4	mandarine 1	pastèque 1	taro 4	yogourt 2	 ;
+OK
+OK
+OK
+17281m  St-Hubert_/_Rachel
+6122m  Gilford_/_de_Brebeuf
+OK
+21734m  des_Seigneurs_/_Workman
+MANQUE citrouille 2	fraise 1	huile 1	mirabelle 1	mûre 4	 ;
+IMPOSSIBLE
+OK
+MANQUE antilope 4	asperge 2	coing 2	cornouiller_du_Canada 3	huile 2	pate 4	pistache 1	 ;
+MANQUE autruche 2	yogourt 2	 ;
+OK
+12916m  St-Hubert_/_Rachel
+OK
+12121m  7e_avenue_/_St-Joseph
+MANQUE bigarade 1	cerise 1	noix 4	olive 1	 ;
+MANQUE cerise 3	pomme_de_terre 4	radis_noir 3	salicorne 1	taro 2	 ;
+6619m  Chapleau_/_du_Mont-Royal
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE betterave 1	 ;
+IMPOSSIBLE
+OK
+MANQUE amande 3	boeuf 4	cornouiller_du_Canada 3	lapin 4	porc 3	taro 1	 ;
+OK
+MANQUE arbouse 1	asperge 4	bison 1	figue 1	navet 2	olive 3	pain 2	pêche 4	quinoa 2	épices 2	 ;
+OK
+OK
+MANQUE amande 4	courgette 1	wapiti 3	 ;
+OK
+IMPOSSIBLE
+MANQUE radis_noir 4	salicorne 1	wapiti 4	 ;
+MANQUE ananas 1	ciboulette 2	framboise 2	groseille 4	pain 1	pate 2	 ;
+9536m  Gilford_/_de_Brebeuf
+OK
+OK
+MANQUE citron 1	grenade 1	 ;
+IMPOSSIBLE
+OK
+MANQUE cynorrhodon 2	lapin 2	mûre 1	noisette 4	pomme 2	 ;
+MANQUE carotte 3	melon 2	orange 1	salicorne 1	sucre 1	veau 2	 ;
+MANQUE cassis 1	poireau 1	radis 1	wapiti 2	 ;
+5497m  St-Hubert_/_Rachel
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+8515m  St-Hubert_/_Rachel
+7935m  McGill_/_des_Recollets
+MANQUE laitue 3	 ;
+MANQUE canneberge 1	citrouille 4	haricot 4	pamplemousse 2	 ;
+MANQUE ananas 2	bison 3	citrouille 2	lait 2	mûre 1	orange 1	poivre 1	pomme 2	quinoa 1	 ;
+OK
+OK
+MANQUE maceron 2	 ;
+OK
+OK
+MANQUE brocoli 4	chèvre 3	noisette 4	épices 3	 ;
+OK
+IMPOSSIBLE
+MANQUE ail 4	bison 2	pomme 1	salicorne 1	 ;
+MANQUE avocat 2	chou-fleur 2	framboise 3	gingembre 1	oignon 1	plaquebière 1	prune 2	pêche 3	taro 1	 ;
+IMPOSSIBLE
+MANQUE clémentine 1	 ;
+OK
+MANQUE amande 2	pastèque 1	 ;
+OK
+2690m  Beaudry_/_Ontario
+MANQUE haricot 1	pêche 2	yogourt 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+6807m  Berri_/_Gilford
+OK
+16082m  St-Hubert_/_Rachel
+MANQUE datte 2	échalote 4	 ;
+OK
+OK
+MANQUE abricot 2	avocat 4	basilic 2	navet 1	pastèque 3	pêche 1	salicorne 2	 ;
+MANQUE agneau 1	courge 3	céleri 2	kiwi 2	mûre 2	pomme 4	raisin 4	 ;
+MANQUE banane 2	cassis 3	cynorrhodon 3	orange 3	plaquebière 4	prune 2	 ;
+IMPOSSIBLE
+MANQUE canneberge 3	poire 1	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE pamplemousse 3	 ;
+OK
+MANQUE crème 2	poireau 2	 ;
+OK
+14386m  McGill_/_des_Recollets
+5957m  12e_avenue_/_St-Zotique
+MANQUE bergamote 1	fraise 3	marron 2	noix 3	orange 1	quinoa 3	sel 2	 ;
+OK
+OK
+3103m  Metro_Cote-des-Neiges_(Lacombe_/_de_la_Cote-des-Neiges)
+MANQUE boeuf 2	panais 1	 ;
+OK
+9648m  St-Hubert_/_Rachel
+OK
+MANQUE avocat 3	cheval 1	cynorrhodon 2	nèfle 1	soja 1	yogourt 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE betterave 2	laitue 1	pate 2	quinoa 3	épices 3	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 1	lapin 1	prune 2	 ;
+IMPOSSIBLE
+OK
+MANQUE banane 1	brocoli 2	brugnon 2	 ;
+12336m  St-Hubert_/_Rachel
+12581m  Beaudry_/_Ontario
+MANQUE avocat 1	beurre 3	cornouiller_du_Canada 2	poire 2	prune 1	 ;
+4205m  de_Gaspe_/_Fairmount
+MANQUE boeuf 3	clémentine 3	 ;
+IMPOSSIBLE
+26965m  28e_avenue_/_Rosemont
+IMPOSSIBLE
+MANQUE basilic 2	brocoli 3	brugnon 2	kaki 3	mirabelle 3	radis 1	taro 2	 ;
+MANQUE ananas 3	carotte 2	 ;
+OK
+OK
+MANQUE amande 1	avocat 1	brocoli 1	noisette 3	salade 2	 ;
+MANQUE noix 1	wapiti 1	 ;
+816m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+MANQUE jujube 2	mirabelle 1	olive 4	pamplemousse 1	 ;
+IMPOSSIBLE
+MANQUE betterave 2	huile 4	maceron 2	plaquebière 4	 ;
+MANQUE asperge 1	chou 4	huile 4	pomme_de_terre 4	prune 4	épices 2	 ;
+IMPOSSIBLE
+1642m  12e_avenue_/_St-Zotique
+MANQUE lapin 1	poivre 1	 ;
+13661m  Duluth_/_St-Laurent
+OK
+IMPOSSIBLE
+OK
+MANQUE aubergine 3	betterave 2	quetsche 1	 ;
+OK
+MANQUE ananas 4	boeuf 1	porc 1	 ;
+4436m  12e_avenue_/_St-Zotique
+OK
+OK
+IMPOSSIBLE
+5887m  St-Hubert_/_Rachel
+MANQUE amande 4	crème_glacée 4	navet 1	poire 4	pois 1	porc 2	salade 2	 ;
+MANQUE canneberge 2	coing 3	maceron 4	poivre 1	prune 1	 ;
+OK
+OK
+MANQUE coing 2	lait 2	oeuf 1	raisin 2	salade 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE ail 1	concombre 3	poivre 1	 ;
+MANQUE datte 2	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE céleri 1	 ;
+MANQUE kiwi 4	pistache 1	 ;
+MANQUE framboise 2	 ;
+MANQUE bison 3	canneberge 2	datte 4	sel 1	 ;
+OK
+MANQUE clémentine 2	crème_glacée 3	figue 2	myrtille 4	poireau 4	raisin 3	sucre 1	 ;
+OK
+IMPOSSIBLE
+OK
+3693m  Paul_Boutet_/_des_Regrattiers
+OK
+MANQUE avocat 1	carotte 3	cheval 4	ciboulette 2	cynorrhodon 4	poireau 3	 ;
+1916m  Gilford_/_de_Brebeuf
+OK
+OK
+MANQUE poivre 3	échalote 4	 ;
+OK
+MANQUE ananas 3	arbouse 2	 ;
+2201m  Hamel_/_Sauve
+MANQUE antilope 2	avocat 1	fève 1	 ;
+MANQUE framboise 2	poivron 2	 ;
+14301m  Duluth_/_de_l'Esplanade
+OK
+OK
+3908m  St-Hubert_/_Rachel
+OK
+MANQUE cerise 4	cheval 1	citrouille 1	marron 1	 ;
+OK
+IMPOSSIBLE
+MANQUE brugnon 2	canneberge 2	cynorrhodon 1	lime 2	orange 3	quinoa 2	 ;
+OK
+OK
+MANQUE antilope 4	brugnon 3	chou-fleur 3	figue 1	myrtille 4	pain 3	sucre 2	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE grenade 2	 ;
+MANQUE bison 2	canneberge 4	noisette 4	pastèque 2	 ;
+IMPOSSIBLE
+MANQUE citron 3	clémentine 4	pomme_de_terre 2	quinoa 2	veau 1	épices 1	 ;
+MANQUE groseille 3	noisette 3	échalote 2	 ;
+MANQUE brugnon 3	cynorrhodon 4	mirabelle 3	pain 1	radis_noir 4	 ;
+14871m  12e_avenue_/_St-Zotique
+6834m  6e_avenue_/_Rosemont
+MANQUE pamplemousse 1	raisin 2	 ;
+MANQUE avocat 4	banane 3	framboise 1	sel 3	 ;
+11936m  St-Hubert_/_Rachel
+OK
+MANQUE ciboulette 1	fève 2	mirabelle 4	sucre 3	 ;
+MANQUE asperge 1	chèvre 2	fève 3	pamplemousse 2	poivron 4	prune 3	romaine 2	salade 1	 ;
+MANQUE courgette 3	 ;
+4660m  Poupart_/_Ontario
+OK
+OK
+MANQUE agneau 3	clémentine 3	haricot 2	kaki 1	mirabelle 4	salicorne 3	truffe 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE antilope 2	basilic 2	fève 4	kaki 3	mirabelle 1	noix 1	romaine 2	 ;
+IMPOSSIBLE
+6474m  St-Hubert_/_Rachel
+11643m  St-Hubert_/_Rachel
+OK
+13994m  de_Gaspe_/_Fairmount
+MANQUE huile 2	kaki 1	pois 1	échalote 3	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE mirabelle 2	navet 2	orange 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+MANQUE lait 2	prune 3	romaine 1	 ;
+IMPOSSIBLE
+MANQUE bergamote 1	lapin 3	 ;
+IMPOSSIBLE
+MANQUE citrouille 1	fraise 4	 ;
+OK
+MANQUE beurre 3	courge 3	céleri 2	olive 4	plaquebière 4	sucre 1	truffe 3	 ;
+OK
+MANQUE cheval 1	gingembre 4	mûre 4	poire 1	radis_noir 3	 ;
+MANQUE brugnon 4	chèvre 2	fève 4	maceron 2	pastèque 3	plaquebière 4	pois 4	 ;
+MANQUE clémentine 2	poivre 3	 ;
+OK
+MANQUE fraise 2	 ;
+IMPOSSIBLE
+MANQUE agneau 1	asperge 3	autruche 1	grenade 1	navet 1	soja 1	yogourt 2	 ;
+OK
+OK
+4813m  Hamilton_/_Jolicoeur
+IMPOSSIBLE
+MANQUE banane 1	beurre 4	chou 3	marron 4	noix 4	pêche 1	salade 2	 ;
+MANQUE amande 2	arbouse 1	pêche 1	échalote 1	 ;
+MANQUE carotte 2	chou 1	citron 3	citrouille 2	cornouiller_du_Canada 1	pate 1	quetsche 2	quinoa 1	 ;
+OK
+OK
+4139m  Fullum_/_Gilford
+MANQUE bergamote 1	bison 2	pois 1	soja 1	 ;
+MANQUE asperge 1	coing 4	lait 4	pomme 1	 ;
+MANQUE mandarine 3	taro 3	 ;
+IMPOSSIBLE
+OK
+6726m  Beaudry_/_Ontario
+MANQUE maceron 3	radis_noir 4	épices 2	 ;
+IMPOSSIBLE
+MANQUE bigarade 3	canneberge 2	salicorne 2	yogourt 1	 ;
+OK
+OK
+16678m  St-Hubert_/_Rachel
+MANQUE brocoli 1	châtaigne 2	chèvre 1	 ;
+OK
+MANQUE antilope 2	arbouse 4	asperge 3	courgette 1	mirabelle 3	 ;
+MANQUE arbouse 2	lapin 3	plaquebière 3	 ;
+3531m  Metro_Cote-des-Neiges_(Lacombe_/_de_la_Cote-des-Neiges)
+OK
+MANQUE arbouse 1	bigarade 2	figue 2	mandarine 1	myrtille 2	oeuf 2	pois 1	salicorne 1	taro 1	 ;
+10115m  12e_avenue_/_St-Zotique
+MANQUE betterave 2	datte 1	framboise 4	pastèque 1	radis 2	 ;
+OK
+MANQUE mandarine 1	pate 1	 ;
+MANQUE chou-fleur 4	groseille 4	oignon 4	poire 1	 ;
+MANQUE huile 2	marron 3	 ;
+IMPOSSIBLE
+MANQUE châtaigne 3	citron 2	pate 4	 ;
+OK
+OK
+8343m  28e_avenue_/_Rosemont
+OK
+MANQUE cerise 3	courgette 2	maceron 4	mûre 3	pain 2	poireau 1	quetsche 2	salade 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE noix 1	 ;
+MANQUE antilope 1	arbouse 2	cynorrhodon 1	mandarine 1	pate 3	pomme_de_terre 4	porc 2	rhubarbe 2	taro 1	 ;
+OK
+OK
+OK
+MANQUE amande 2	cerise 1	chou-fleur 2	lait 4	navet 1	 ;
+MANQUE avocat 3	bison 4	cheval 2	 ;
+IMPOSSIBLE
+MANQUE brocoli 2	châtaigne 4	citrouille 1	céleri 1	figue 1	fromage 2	nèfle 4	pamplemousse 2	 ;
+OK
+OK
+MANQUE courgette 4	lait 1	 ;
+MANQUE asperge 3	pain 1	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+MANQUE banane 4	cornouiller_du_Canada 4	kiwi 2	pastèque 2	poivron 1	pomme_de_terre 1	taro 1	yogourt 1	échalote 1	 ;
+MANQUE agneau 4	cynorrhodon 4	navet 4	noisette 2	pastèque 4	sel 3	 ;
+1327m  McGill_/_des_Recollets
+MANQUE framboise 2	marron 2	mirabelle 1	 ;
+OK
+8331m  Mansfield_/_Rene-Levesque
+764m  Belmore_/_Sherbrooke
+7947m  De_La_Roche_/_Everett
+MANQUE asperge 1	orange 1	 ;
+MANQUE chou 1	coing 3	orange 4	quinoa 4	raisin 4	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE amande 4	cerise 1	crème 1	pois 3	soja 2	épices 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE autruche 4	wapiti 2	 ;
+MANQUE abricot 4	betterave 3	boeuf 2	cerise 3	pistache 1	quinoa 3	veau 2	 ;
+IMPOSSIBLE
+MANQUE ail 3	betterave 2	 ;
+MANQUE ail 4	asperge 3	courgette 3	gingembre 1	pate 4	poireau 4	quetsche 4	 ;
+2601m  West_Broadway_/_Sherbrooke
+OK
+IMPOSSIBLE
+MANQUE ananas 1	oeuf 3	poivron 1	pomme 3	sel 2	 ;
+MANQUE crème_glacée 4	cynorrhodon 1	datte 1	pate 1	truffe 2	 ;
+MANQUE abricot 4	crème_glacée 2	fraise 1	noisette 1	pois 2	romaine 1	 ;
+OK
+OK
+OK
+OK
+MANQUE banane 4	pois 3	porc 2	romaine 3	sel 1	 ;
+IMPOSSIBLE
+2872m  28e_avenue_/_Rosemont
+8741m  Chabot_/_St-Zotique
+MANQUE ail 3	bergamote 2	coing 2	laitue 2	 ;
+IMPOSSIBLE
+MANQUE ananas 2	 ;
+OK
+MANQUE amande 2	basilic 2	quetsche 4	sel 4	 ;
+MANQUE arbouse 2	aubergine 1	boeuf 1	concombre 1	pain 3	pamplemousse 3	 ;
+MANQUE ciboulette 4	fève 2	pate 1	prune 2	salade 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE avocat 1	basilic 1	cheval 1	figue 2	lime 1	noisette 1	 ;
+OK
+OK
+OK
+13570m  du_Rosaire_/_St-Hubert
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+15695m  Mansfield_/_Rene-Levesque
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE autruche 4	chou 2	datte 4	oignon 2	pomme 1	taro 2	 ;
+OK
+OK
+6059m  15e_avenue_/_Masson
+11317m  12e_avenue_/_St-Zotique
+MANQUE céleri 2	grenade 4	kiwi 3	laitue 1	marron 1	poireau 1	quinoa 1	raisin 4	épices 1	 ;
+IMPOSSIBLE
+14902m  Logan_/_d'Iberville
+OK
+MANQUE noisette 2	olive 4	wapiti 2	 ;
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE ciboulette 2	courgette 2	cynorrhodon 1	myrtille 1	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE gingembre 1	pate 3	quinoa 1	veau 2	 ;
+OK
+OK
+8114m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE agneau 3	autruche 1	framboise 1	poivre 3	 ;
+MANQUE groseille 4	pomme_de_terre 2	porc 3	pêche 2	yogourt 2	 ;
+MANQUE poivre 4	soja 2	 ;
+8360m  Clark_/_St-Viateur
+MANQUE ananas 2	canneberge 4	maceron 1	marron 1	oeuf 3	poire 2	raisin 3	 ;
+MANQUE boeuf 1	fromage 4	grenade 3	marron 4	oeuf 1	romaine 2	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE avocat 1	ciboulette 1	poivre 1	sel 4	échalote 4	 ;
+COMPLET
+OK
+IMPOSSIBLE
+OK
+MANQUE autruche 4	marron 1	noisette 1	 ;
+MANQUE chou 1	noix 2	pêche 2	 ;
+OK
+IMPOSSIBLE
+MANQUE céleri 1	rhubarbe 1	yogourt 1	 ;
+OK
+OK
+OK
+OK
+10000m  Belmont_/_Beaver_Hall
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pomme 3	quetsche 4	 ;
+OK
+MANQUE kaki 3	lime 4	noisette 4	poire 1	 ;
+OK
+2922m  Mansfield_/_Rene-Levesque
+IMPOSSIBLE
+OK
+OK
+MANQUE lime 2	 ;
+9373m  Clark_/_de_Liege
+MANQUE bison 3	épices 4	 ;
+MANQUE cheval 3	myrtille 2	sel 1	 ;
+MANQUE nèfle 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cerise 1	 ;
+OK
+MANQUE ail 2	framboise 1	groseille 3	pamplemousse 3	romaine 1	 ;
+OK
+MANQUE canneberge 3	citrouille 1	groseille 3	noisette 3	olive 2	poivron 4	radis 1	 ;
+MANQUE arbouse 1	citrouille 4	gingembre 1	marron 2	olive 1	pamplemousse 3	 ;
+MANQUE avocat 4	mirabelle 2	 ;
+OK
+MANQUE chou 3	chèvre 1	huile 4	nèfle 1	quinoa 4	 ;
+10371m  de_Brebeuf_/_St-Gregoire
+OK
+MANQUE cassis 1	pomme_de_terre 1	porc 2	salicorne 1	 ;
+MANQUE brocoli 1	brugnon 2	concombre 4	framboise 4	grenade 2	jujube 2	melon 3	raisin 4	épices 1	 ;
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 3	céleri 3	fromage 4	lait 2	lapin 3	oeuf 1	olive 3	pois 1	rhubarbe 2	 ;
+OK
+OK
+1933m  Mentana_/_Marie-Anne
+OK
+18515m  12e_avenue_/_St-Zotique
+IMPOSSIBLE
+MANQUE courgette 3	navet 3	pastèque 1	 ;
+OK
+MANQUE courge 3	radis 4	 ;
+MANQUE quetsche 2	romaine 2	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE ail 3	basilic 4	boeuf 1	chèvre 1	coing 1	cornouiller_du_Canada 2	grenade 2	panais 3	pêche 3	 ;
+22750m  12e_avenue_/_St-Zotique
+OK
+MANQUE poireau 3	pomme 3	yogourt 1	 ;
+IMPOSSIBLE
+OK
+MANQUE boeuf 2	brugnon 2	clémentine 2	mirabelle 3	orange 4	pate 3	pomme_de_terre 4	radis_noir 4	sucre 1	 ;
+OK
+OK
+OK
+OK
+3195m  Benny_/_Crescent
+IMPOSSIBLE
+10031m  de_Brebeuf_/_St-Gregoire
+MANQUE agneau 3	ail 4	bison 4	citron 1	lapin 2	mandarine 4	melon 3	 ;
+MANQUE brugnon 4	 ;
+OK
+IMPOSSIBLE
+14700m  Jeanne_Mance_/_du_Mont-Royal
+MANQUE pastèque 2	porc 3	échalote 2	 ;
+15681m  de_Gaspe_/_Fairmount
+OK
+MANQUE abricot 2	arbouse 3	asperge 1	aubergine 3	brocoli 3	cynorrhodon 2	mirabelle 2	 ;
+10259m  de_Brebeuf_/_St-Gregoire
+OK
+OK
+MANQUE fromage 4	plaquebière 2	yogourt 4	 ;
+OK
+MANQUE chèvre 3	mûre 1	poivron 1	 ;
+9654m  Resther_/_St-Joseph
+OK
+25425m  Hamel_/_Sauve
+12541m  du_Square_Ahmerst_/_Wolfe
+MANQUE basilic 3	châtaigne 4	noisette 3	poire 1	 ;
+OK
+OK
+MANQUE brocoli 3	melon 2	oignon 2	 ;
+OK
+MANQUE aubergine 1	avocat 4	banane 4	boeuf 2	chou 1	clémentine 2	marron 1	poireau 2	 ;
+13825m  Metro_Cote-des-Neiges_(Lacombe_/_de_la_Cote-des-Neiges)
+MANQUE plaquebière 2	 ;
+MANQUE amande 2	banane 4	oignon 2	pamplemousse 4	poire 4	quinoa 4	 ;
+OK
+MANQUE avocat 2	carotte 1	pois 4	rhubarbe 3	salicorne 2	 ;
+6285m  15e_avenue_/_Masson
+OK
+7144m  Boyer_/_St-Zotique
+OK
+MANQUE abricot 1	antilope 1	canneberge 2	laitue 1	lime 1	pomme 1	quinoa 2	raisin 1	 ;
+7791m  Hutchison_/_Edouard_Charles
+OK
+OK
+OK
+8188m  Beaudry_/_Ontario
+IMPOSSIBLE
+OK
+9950m  12e_avenue_/_St-Zotique
+MANQUE ananas 2	cerise 3	radis 2	 ;
+IMPOSSIBLE
+MANQUE clémentine 1	courge 2	lime 4	mûre 1	porc 3	 ;
+3153m  Hamel_/_Sauve
+OK
+2921m  26e_avenue_/_Beaubien
+IMPOSSIBLE
+OK
+MANQUE avocat 4	oignon 3	 ;
+4709m  12e_avenue_/_St-Zotique
+MANQUE beurre 1	figue 2	taro 2	 ;
+OK
+OK
+MANQUE cassis 1	pamplemousse 2	 ;
+MANQUE bigarade 2	courge 3	kiwi 3	oeuf 1	plaquebière 2	poivre 2	radis 2	 ;
+MANQUE ail 4	autruche 1	brugnon 3	myrtille 1	nèfle 3	porc 4	 ;
+OK
+OK
+OK
+MANQUE arbouse 2	cassis 4	coing 3	lapin 4	quinoa 3	radis 1	 ;
+OK
+OK
+OK
+7411m  7e_avenue_/_St-Joseph
+MANQUE canneberge 1	concombre 1	datte 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE bergamote 4	betterave 2	brugnon 3	châtaigne 4	 ;
+OK
+OK
+OK
+MANQUE crème_glacée 3	romaine 1	 ;
+MANQUE cheval 1	romaine 3	 ;
+11701m  Drummond_/_de_Maisonneuve
+OK
+9946m  Bannantyne_/_de_l'Eglise
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE ail 2	mûre 3	pastèque 4	veau 1	 ;
+OK
+MANQUE cornouiller_du_Canada 2	figue 4	 ;
+OK
+MANQUE ananas 2	betterave 1	 ;
+IMPOSSIBLE
+OK
+7381m  Drummond_/_de_Maisonneuve
+MANQUE antilope 1	aubergine 4	beurre 2	gingembre 2	poireau 4	sucre 3	 ;
+IMPOSSIBLE
+MANQUE ananas 4	basilic 3	cornouiller_du_Canada 2	olive 3	pêche 2	 ;
+MANQUE antilope 2	carotte 2	quetsche 3	rhubarbe 1	truffe 4	 ;
+OK
+MANQUE ciboulette 4	 ;
+IMPOSSIBLE
+MANQUE brocoli 4	huile 1	poivron 2	veau 4	 ;
+OK
+OK
+OK
+OK
+MANQUE ananas 1	bigarade 1	fève 4	pastèque 3	 ;
+IMPOSSIBLE
+2534m  Mentana_/_Marie-Anne
+MANQUE antilope 2	marron 4	 ;
+MANQUE antilope 2	bigarade 3	châtaigne 3	crème 1	melon 2	pomme 2	 ;
+IMPOSSIBLE
+OK
+MANQUE concombre 1	céleri 4	poivre 1	sel 4	 ;
+IMPOSSIBLE
+OK
+10277m  Belmont_/_Beaver_Hall
+MANQUE bison 1	myrtille 3	truffe 4	 ;
+MANQUE laitue 4	 ;
+MANQUE avocat 1	beurre 4	canneberge 3	pois 3	échalote 3	 ;
+IMPOSSIBLE
+17757m  de_Brebeuf_/_St-Gregoire
+IMPOSSIBLE
+OK
+6650m  Roy_/_St-Christophe
+MANQUE mandarine 3	rhubarbe 4	romaine 2	 ;
+IMPOSSIBLE
+MANQUE betterave 3	beurre 4	haricot 2	olive 2	truffe 3	 ;
+19029m  de_Brebeuf_/_St-Gregoire
+OK
+3147m  Maguire_/_Henri-Julien
+MANQUE clémentine 1	 ;
+9728m  de_Brebeuf_/_St-Gregoire
+OK
+10386m  Hutchison_/_Beaubien
+OK
+MANQUE figue 2	 ;
+14500m  Place_Longueuil
+OK
+OK
+OK
+MANQUE canneberge 2	 ;
+3953m  10e_Avenue_/_Rosemont
+OK
+MANQUE courgette 2	haricot 3	lait 3	mirabelle 1	veau 3	 ;
+OK
+MANQUE kaki 4	quinoa 1	 ;
+IMPOSSIBLE
+MANQUE antilope 1	carotte 4	kaki 2	kiwi 2	pistache 1	romaine 4	 ;
+IMPOSSIBLE
+3431m  26e_avenue_/_Beaubien
+MANQUE asperge 4	avocat 2	banane 4	cerise 3	chou-fleur 1	lait 4	plaquebière 2	 ;
+MANQUE brugnon 1	sel 2	 ;
+15090m  Wilderton__/_Van_Horne
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE agneau 3	kaki 1	navet 3	pêche 4	quetsche 2	 ;
+OK
+OK
+OK
+MANQUE crème_glacée 3	taro 1	 ;
+MANQUE arbouse 2	avocat 1	pêche 2	 ;
+20452m  10e_Avenue_/_Rosemont
+MANQUE groseille 3	 ;
+2077m  du_Square_Ahmerst_/_Wolfe
+OK
+IMPOSSIBLE
+MANQUE cynorrhodon 1	mandarine 3	 ;
+MANQUE autruche 3	carotte 2	chou 4	courge 3	fève 2	huile 2	kaki 1	 ;
+OK
+MANQUE aubergine 1	boeuf 3	myrtille 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+4481m  Duluth_/_St-Laurent
+OK
+OK
+MANQUE olive 3	 ;
+6822m  Hamel_/_Sauve
+3027m  Mentana_/_Marie-Anne
+OK
+MANQUE ananas 2	boeuf 1	brugnon 2	grenade 1	romaine 1	 ;
+17204m  12e_avenue_/_St-Zotique
+8116m  10e_Avenue_/_Rosemont
+OK
+9755m  Le_Caron_/_Marc-Sauvalle_
+OK
+IMPOSSIBLE
+2658m  Gascon_/_Rachel
+1841m  Cremazie_/_Lajeunesse
+MANQUE noisette 3	poivron 3	porc 2	 ;
+OK
+6228m  Cremazie_/_Lajeunesse
+MANQUE agneau 3	ananas 3	courgette 1	crème_glacée 4	datte 3	framboise 1	fève 3	noix 3	pêche 4	 ;
+8921m  Cremazie_/_Lajeunesse
+13219m  de_Brebeuf_/_St-Gregoire
+MANQUE myrtille 3	navet 4	nèfle 4	oignon 2	poire 3	poireau 4	salade 1	épices 4	 ;
+14574m  Gascon_/_Rachel
+4961m  Notre-Dame_/_St-Gabriel
+IMPOSSIBLE
+OK
+MANQUE coing 1	quinoa 1	 ;
+MANQUE betterave 3	courge 1	mirabelle 2	pate 1	épices 2	 ;
+MANQUE clémentine 1	lait 3	noix 3	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE ananas 3	bison 1	brocoli 2	marron 1	pain 1	 ;
+IMPOSSIBLE
+MANQUE bergamote 2	clémentine 3	orange 1	pate 2	salicorne 1	 ;
+IMPOSSIBLE
+MANQUE arbouse 4	banane 2	betterave 1	cynorrhodon 2	melon 2	pain 2	pêche 1	raisin 4	yogourt 1	 ;
+MANQUE beurre 1	citrouille 1	pomme 2	salade 4	truffe 2	 ;
+MANQUE canneberge 3	mandarine 1	pêche 3	truffe 3	 ;
+IMPOSSIBLE
+MANQUE pamplemousse 3	plaquebière 1	salade 4	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+MANQUE antilope 1	brugnon 2	clémentine 1	haricot 2	pistache 2	poire 1	taro 2	veau 2	 ;
+15921m  De_La_Roche_/_Everett
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE châtaigne 3	ciboulette 4	sucre 2	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE kaki 3	orange 2	 ;
+OK
+MANQUE ail 1	cynorrhodon 2	mûre 4	poivron 1	pêche 4	soja 4	 ;
+OK
+OK
+OK
+OK
+MANQUE beurre 1	chou-fleur 3	citron 3	céleri 4	pate 3	 ;
+19550m  Chabot_/_St-Zotique
+IMPOSSIBLE
+MANQUE pomme 2	pêche 3	 ;
+OK
+MANQUE antilope 1	asperge 4	chèvre 4	panais 3	 ;
+OK
+IMPOSSIBLE
+1753m  Roy_/_St-Christophe
+MANQUE basilic 3	bigarade 2	cheval 1	courgette 4	grenade 3	myrtille 4	 ;
+MANQUE panais 1	 ;
+MANQUE antilope 1	asperge 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+MANQUE brugnon 2	marron 2	mirabelle 3	 ;
+14164m  Jeanne_Mance_/_du_Mont-Royal
+IMPOSSIBLE
+MANQUE canneberge 1	fraise 4	mirabelle 3	myrtille 4	pêche 2	 ;
+IMPOSSIBLE
+21051m  Cremazie_/_Lajeunesse
+3902m  Cremazie_/_Lajeunesse
+OK
+IMPOSSIBLE
+MANQUE banane 4	groseille 2	maceron 2	 ;
+OK
+15066m  Boyer_/_St-Zotique
+MANQUE aubergine 3	carotte 3	citron 4	marron 1	myrtille 2	orange 1	radis_noir 3	truffe 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE ail 4	lime 2	 ;
+15905m  du_Square_Ahmerst_/_Wolfe
+MANQUE pois 2	 ;
+10717m  26e_avenue_/_Beaubien
+19230m  du_Square_Ahmerst_/_Wolfe
+9134m  Gascon_/_Rachel
+MANQUE ananas 2	bigarade 4	huile 1	myrtille 3	poire 2	raisin 3	 ;
+MANQUE antilope 4	autruche 3	ciboulette 3	datte 2	figue 4	orange 2	pamplemousse 4	poivre 1	raisin 2	 ;
+MANQUE cynorrhodon 4	gingembre 1	truffe 1	 ;
+6286m  Rockland_/_Lajoie
+MANQUE chèvre 3	courgette 2	jujube 3	panais 1	pomme_de_terre 1	prune 1	 ;
+IMPOSSIBLE
+MANQUE bison 4	concombre 2	 ;
+MANQUE autruche 3	bergamote 2	kaki 4	 ;
+MANQUE laitue 1	 ;
+2719m  26e_avenue_/_Beaubien
+OK
+MANQUE aubergine 1	lime 2	poivron 4	 ;
+MANQUE bergamote 4	brocoli 1	laitue 4	maceron 2	orange 2	pate 2	pêche 1	veau 2	 ;
+5488m  10e_Avenue_/_Rosemont
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+13439m  Roy_/_St-Christophe
+IMPOSSIBLE
+MANQUE coing 3	mûre 2	raisin 3	 ;
+OK
+MANQUE agneau 2	ail 1	amande 3	avocat 3	carotte 4	pistache 4	truffe 2	 ;
+MANQUE beurre 4	cerise 4	mandarine 4	quetsche 1	 ;
+OK
+OK
+OK
+MANQUE brocoli 4	cheval 3	datte 2	panais 3	radis_noir 1	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+10848m  du_Square_Ahmerst_/_Wolfe
+9239m  Jeanne_Mance_/_du_Mont-Royal
+OK
+MANQUE bergamote 3	lime 4	marron 2	 ;
+OK
+MANQUE sel 1	 ;
+MANQUE bergamote 3	 ;
+MANQUE brugnon 2	lapin 3	oignon 3	orange 1	poivre 1	rhubarbe 2	 ;
+2485m  Hutchison_/_Beaubien
+IMPOSSIBLE
+OK
+18337m  de_Brebeuf_/_St-Gregoire
+4344m  Hamilton_/_Jolicoeur
+OK
+MANQUE antilope 2	autruche 3	beurre 3	panais 2	radis_noir 2	taro 3	 ;
+MANQUE basilic 4	coing 2	courge 1	grenade 4	lait 3	melon 2	poireau 1	 ;
+15879m  de_Brebeuf_/_St-Gregoire
+IMPOSSIBLE
+MANQUE chou-fleur 3	citrouille 3	fève 4	haricot 1	pêche 2	 ;
+MANQUE laitue 3	marron 3	nèfle 3	 ;
+MANQUE ail 1	cassis 3	crème 1	 ;
+MANQUE ail 3	chou 3	 ;
+IMPOSSIBLE
+MANQUE chou-fleur 3	courgette 3	fraise 3	fève 4	myrtille 3	 ;
+MANQUE céleri 1	fromage 4	panais 2	prune 3	 ;
+OK
+MANQUE cerise 4	 ;
+8445m  de_Brebeuf_/_St-Gregoire
+MANQUE aubergine 1	cynorrhodon 4	lime 2	 ;
+OK
+MANQUE ciboulette 1	cynorrhodon 1	prune 4	 ;
+IMPOSSIBLE
+10745m  du_Square_Ahmerst_/_Wolfe
+MANQUE romaine 3	salade 1	sel 3	 ;
+MANQUE canneberge 1	clémentine 1	figue 3	olive 2	pomme 2	yogourt 1	 ;
+MANQUE amande 3	boeuf 1	cynorrhodon 2	grenade 1	pois 3	 ;
+6781m  Rockland_/_Lajoie
+OK
+3892m  Clark_/_de_Liege
+IMPOSSIBLE
+MANQUE chèvre 3	taro 1	 ;
+MANQUE châtaigne 3	marron 1	radis_noir 3	romaine 2	 ;
+OK
+IMPOSSIBLE
+MANQUE cheval 1	lait 2	 ;
+7000m  Chabot_/_St-Zotique
+OK
+OK
+11369m  Metro_Cote-des-Neiges_(Lacombe_/_de_la_Cote-des-Neiges)
+MANQUE carotte 2	noisette 2	soja 2	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+10619m  Clark_/_de_Liege
+OK
+MANQUE clémentine 4	cornouiller_du_Canada 2	framboise 1	myrtille 3	navet 3	poireau 2	 ;
+OK
+MANQUE basilic 1	mandarine 1	plaquebière 4	porc 4	 ;
+OK
+3532m  7e_avenue_/_St-Joseph
+13876m  Regina_/_de_Verdun
+4377m  Clark_/_de_Liege
+1632m  Cremazie_/_Lajeunesse
+OK
+OK
+OK
+OK
+MANQUE brugnon 1	fraise 3	framboise 4	huile 1	mandarine 4	pastèque 2	prune 1	 ;
+MANQUE aubergine 1	betterave 2	bison 1	carotte 3	chèvre 4	coing 2	fraise 3	grenade 2	 ;
+OK
+IMPOSSIBLE
+MANQUE lime 1	mûre 3	wapiti 4	 ;
+OK
+OK
+MANQUE cornouiller_du_Canada 1	 ;
+OK
+MANQUE beurre 4	jujube 2	lime 3	mirabelle 1	poire 3	yogourt 1	 ;
+5583m  du_Square_Ahmerst_/_Wolfe
+IMPOSSIBLE
+4547m  Berri_/_Sherbrooke
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE beurre 1	chou-fleur 4	citrouille 1	gingembre 3	haricot 1	noix 3	olive 4	pois 3	porc 1	 ;
+IMPOSSIBLE
+10013m  Cremazie_/_Lajeunesse
+OK
+MANQUE nèfle 1	pastèque 2	yogourt 2	 ;
+OK
+14943m  Mentana_/_Marie-Anne
+MANQUE ciboulette 2	crème 2	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE lapin 3	pomme_de_terre 1	pêche 3	 ;
+21922m  Clark_/_de_Liege
+MANQUE coing 2	 ;
+OK
+MANQUE brugnon 4	soja 3	taro 4	wapiti 3	 ;
+OK
+MANQUE ananas 1	brocoli 4	citrouille 4	fraise 1	lapin 4	olive 2	panais 1	rhubarbe 1	 ;
+11918m  du_Square_Ahmerst_/_Wolfe
+MANQUE abricot 4	amande 3	avocat 4	ciboulette 3	courge 2	groseille 1	 ;
+10479m  Hutchison_/_Edouard_Charles
+MANQUE carotte 1	clémentine 3	groseille 4	noisette 1	pois 2	salicorne 3	 ;
+10027m  du_Square_Ahmerst_/_Wolfe
+MANQUE aubergine 1	kiwi 1	olive 3	 ;
+MANQUE figue 1	groseille 1	 ;
+MANQUE fromage 1	nèfle 4	 ;
+OK
+MANQUE beurre 3	poivron 2	prune 4	 ;
+14587m  Gascon_/_Rachel
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE pêche 4	soja 2	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE noisette 3	pastèque 1	salade 1	 ;
+IMPOSSIBLE
+MANQUE cassis 2	prune 3	 ;
+OK
+MANQUE cassis 1	huile 4	jujube 1	poire 3	pois 2	 ;
+MANQUE banane 3	canneberge 1	cassis 2	cerise 3	datte 3	marron 2	oeuf 4	échalote 1	 ;
+MANQUE betterave 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+2529m  du_Square_Ahmerst_/_Wolfe
+11366m  Notre-Dame_/_St-Gabriel
+9894m  du_Square_Ahmerst_/_Wolfe
+IMPOSSIBLE
+3392m  Gascon_/_Rachel
+OK
+IMPOSSIBLE
+MANQUE cerise 1	figue 1	huile 4	oeuf 4	pastèque 2	radis 1	 ;
+IMPOSSIBLE
+MANQUE bergamote 1	citrouille 2	raisin 2	 ;
+MANQUE crème 4	fève 1	navet 3	olive 4	plaquebière 1	échalote 4	 ;
+MANQUE abricot 2	basilic 3	bison 1	yogourt 4	 ;
+COMPLET
+3314m  du_Square_Ahmerst_/_Wolfe
+12574m  Clark_/_de_Liege
+OK
+OK
+MANQUE brocoli 3	chou-fleur 4	chèvre 3	poivre 2	pêche 1	 ;
+MANQUE bigarade 2	cerise 1	citrouille 4	figue 1	groseille 1	rhubarbe 3	 ;
+MANQUE betterave 2	cassis 4	ciboulette 3	céleri 2	groseille 2	oeuf 2	 ;
+21467m  10e_Avenue_/_Rosemont
+MANQUE aubergine 3	brugnon 2	carotte 2	 ;
+OK
+OK
+MANQUE courgette 3	cynorrhodon 4	fève 3	lapin 3	poire 3	 ;
+MANQUE mirabelle 1	sel 1	 ;
+COMPLET
+MANQUE boeuf 1	cornouiller_du_Canada 2	lait 4	 ;
+MANQUE basilic 4	bison 2	cassis 1	châtaigne 2	groseille 2	pois 3	salade 2	 ;
+17565m  du_Square_Ahmerst_/_Wolfe
+19435m  de_Brebeuf_/_St-Gregoire
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE citrouille 4	lime 2	pamplemousse 3	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE crème 3	kiwi 1	porc 1	raisin 2	soja 3	yogourt 1	 ;
+1541m  Chauveau_/_de_l'Assomption
+16445m  Hutchison_/_Beaubien
+17772m  du_Square_Ahmerst_/_Wolfe
+IMPOSSIBLE
+MANQUE grenade 4	groseille 1	navet 3	truffe 4	 ;
+4070m  10e_Avenue_/_Rosemont
+IMPOSSIBLE
+MANQUE antilope 1	betterave 4	châtaigne 2	grenade 3	jujube 1	mandarine 3	pain 1	panais 3	poivron 4	 ;
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE carotte 2	ciboulette 2	romaine 4	 ;
+OK
+IMPOSSIBLE
+9089m  Rockland_/_Lajoie
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE banane 4	canneberge 2	châtaigne 4	groseille 2	poireau 1	rhubarbe 2	 ;
+MANQUE fève 1	navet 1	olive 2	salicorne 2	 ;
+4261m  12e_avenue_/_St-Zotique
+IMPOSSIBLE
+OK
+12905m  du_Square_Ahmerst_/_Wolfe
+7898m  Hutchison_/_Beaubien
+MANQUE ananas 4	avocat 2	chou-fleur 3	mandarine 4	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE concombre 2	 ;
+MANQUE banane 2	chou 3	châtaigne 2	raisin 2	soja 1	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE beurre 1	bison 1	cheval 1	citrouille 1	haricot 2	navet 4	plaquebière 1	poire 3	quinoa 4	échalote 1	 ;
+OK
+MANQUE noix 1	salade 3	 ;
+OK
+22473m  Clark_/_de_Liege
+MANQUE arbouse 2	autruche 1	ciboulette 3	pêche 4	 ;
+1086m  de_Brebeuf_/_St-Gregoire
+3604m  35e_avenue_/_Beaubien
+OK
+OK
+MANQUE cornouiller_du_Canada 1	épices 1	 ;
+OK
+OK
+MANQUE ananas 4	antilope 1	mandarine 3	radis_noir 2	salicorne 2	veau 3	 ;
+OK
+OK
+MANQUE ananas 4	courgette 1	lime 1	pêche 1	truffe 1	 ;
+OK
+OK
+OK
+MANQUE abricot 2	arbouse 1	canneberge 2	coing 4	cornouiller_du_Canada 3	crème 2	framboise 3	fromage 3	maceron 1	prune 4	 ;
+MANQUE ail 1	quinoa 1	 ;
+OK
+MANQUE arbouse 1	canneberge 1	fraise 4	kaki 2	nèfle 2	pêche 1	 ;
+MANQUE canneberge 3	lait 2	quinoa 3	 ;
+OK
+628m  35e_avenue_/_Beaubien
+3633m  du_Square_Ahmerst_/_Wolfe
+OK
+IMPOSSIBLE
+MANQUE brugnon 1	laitue 4	maceron 2	 ;
+12840m  du_Square_Ahmerst_/_Wolfe
+IMPOSSIBLE
+8183m  Cremazie_/_Lajeunesse
+OK
+IMPOSSIBLE
+MANQUE ananas 2	cerise 2	haricot 1	lait 3	lapin 3	mandarine 1	 ;
+OK
+OK
+MANQUE canneberge 4	courge 1	myrtille 1	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE brocoli 1	cheval 3	kiwi 2	myrtille 2	noisette 3	pastèque 2	sel 1	 ;
+OK
+MANQUE cerise 4	pastèque 1	pomme 4	 ;
+11985m  Villeneuve_/_du_Parc
+IMPOSSIBLE
+OK
+MANQUE boeuf 3	courgette 2	mandarine 1	nèfle 3	salicorne 4	 ;
+MANQUE pastèque 1	 ;
+12528m  Berri_/_Sherbrooke
+MANQUE fromage 3	mandarine 1	pamplemousse 2	échalote 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE basilic 2	chèvre 3	datte 2	haricot 1	quinoa 2	taro 4	 ;
+1783m  Chapleau_/_du_Mont-Royal
+MANQUE haricot 2	 ;
+MANQUE soja 2	 ;
+OK
+9200m  Regina_/_de_Verdun
+MANQUE bigarade 1	citrouille 2	fève 2	pomme 1	 ;
+13182m  du_Square_Ahmerst_/_Wolfe
+MANQUE autruche 4	concombre 4	pistache 1	poivre 3	épices 1	 ;
+MANQUE ananas 4	arbouse 3	citrouille 1	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE chou-fleur 3	nèfle 1	 ;
+OK
+OK
+3430m  7e_avenue_/_St-Joseph
+MANQUE ail 1	basilic 2	coing 1	fève 3	laitue 1	sucre 4	 ;
+3847m  Clark_/_St-Viateur
+OK
+MANQUE boeuf 1	courge 4	lime 4	quinoa 2	 ;
+MANQUE chou 2	fève 3	 ;
+OK
+MANQUE rhubarbe 2	sel 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE antilope 2	yogourt 4	 ;
+23599m  Clark_/_de_Liege
+15957m  Clark_/_de_Liege
+COMPLET
+4103m  Clark_/_de_Liege
+MANQUE amande 2	céleri 1	 ;
+10358m  Hutchison_/_Beaubien
+OK
+MANQUE clémentine 1	coing 3	fève 1	 ;
+8138m  Cremazie_/_Lajeunesse
+OK
+OK
+OK
+COMPLET
+MANQUE asperge 2	avocat 2	carotte 2	clémentine 3	melon 2	myrtille 4	 ;
+OK
+23680m  West_Broadway_/_Sherbrooke
+8639m  du_Square_Ahmerst_/_Wolfe
+OK
+OK
+4573m  du_Square_Ahmerst_/_Wolfe
+MANQUE salade 1	 ;
+MANQUE quetsche 3	 ;
+MANQUE ail 3	betterave 1	kiwi 1	pois 3	poivron 2	 ;
+MANQUE haricot 2	raisin 1	salicorne 3	 ;
+7699m  du_Square_Ahmerst_/_Wolfe
+MANQUE ananas 1	carotte 2	courgette 1	poivre 4	 ;
+OK
+10461m  Le_Caron_/_Marc-Sauvalle_
+OK
+4327m  de_l'Esplanade_/_Fairmount
+OK
+OK
+IMPOSSIBLE
+2673m  du_Square_Ahmerst_/_Wolfe
+MANQUE ananas 2	courge 1	céleri 2	maceron 1	pastèque 1	pate 3	pêche 3	salade 1	 ;
+MANQUE bison 1	lait 2	lapin 3	myrtille 4	prune 3	wapiti 4	 ;
+27648m  Clark_/_de_Liege
+IMPOSSIBLE
+MANQUE ananas 1	marron 1	poire 1	 ;
+OK
+10176m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+OK
+OK
+OK
+11621m  Boyer_/_St-Zotique
+MANQUE courgette 3	jujube 1	pomme_de_terre 1	 ;
+OK
+OK
+4254m  Mentana_/_Marie-Anne
+OK
+OK
+OK
+4688m  Gilford_/_de_Brebeuf
+MANQUE banane 3	haricot 2	noix 1	 ;
+5999m  Le_Caron_/_Marc-Sauvalle_
+12809m  Hutchison_/_Beaubien
+MANQUE bergamote 3	canneberge 2	radis 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+6664m  West_Broadway_/_Sherbrooke
+MANQUE radis 4	soja 4	 ;
+MANQUE cassis 4	cheval 2	 ;
+3235m  d'Orleans_/_Hochelaga
+MANQUE bison 1	grenade 1	 ;
+5676m  Berri_/_Gilford
+MANQUE arbouse 1	brugnon 1	myrtille 2	pastèque 1	poivron 2	pomme 2	 ;
+20977m  Clark_/_de_Liege
+OK
+OK
+OK
+MANQUE haricot 2	myrtille 2	radis 3	 ;
+9709m  de_Repentigny_/_Sherbrooke
+IMPOSSIBLE
+OK
+2495m  du_Square_Ahmerst_/_Wolfe
+IMPOSSIBLE
+MANQUE agneau 3	ail 1	brugnon 1	grenade 4	oeuf 1	quinoa 4	wapiti 3	yogourt 2	 ;
+MANQUE autruche 3	bigarade 2	citron 4	gingembre 2	laitue 4	mandarine 3	melon 4	pomme 4	truffe 1	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+4026m  Clark_/_de_Liege
+MANQUE brocoli 2	fromage 1	fève 1	radis 2	soja 4	 ;
+13508m  Benny_/_Crescent
+13706m  de_Brebeuf_/_St-Gregoire
+16455m  St-Dominique/Maguire
+OK
+MANQUE betterave 1	citron 4	crème 3	nèfle 1	radis_noir 3	 ;
+OK
+MANQUE bergamote 3	courgette 1	fève 4	laitue 4	oeuf 3	pastèque 4	épices 2	 ;
+IMPOSSIBLE
+MANQUE asperge 3	concombre 1	crème 4	orange 3	 ;
+OK
+7966m  Gascon_/_Rachel
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+1824m  Boyer_/_St-Zotique
+7275m  12e_avenue_/_St-Zotique
+OK
+OK
+OK
+2161m  Bannantyne_/_de_l'Eglise
+MANQUE bigarade 1	châtaigne 2	lait 3	noix 1	truffe 3	 ;
+OK
+MANQUE taro 3	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE concombre 1	fromage 2	pistache 3	quinoa 4	 ;
+COMPLET
+IMPOSSIBLE
+MANQUE framboise 1	fève 1	groseille 2	laitue 1	lime 2	quetsche 1	 ;
+MANQUE avocat 3	bigarade 1	bison 1	pistache 1	 ;
+4047m  Clark_/_de_Liege
+OK
+OK
+10676m  de_Repentigny_/_Sherbrooke
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE coing 1	kiwi 3	oeuf 2	poivre 4	yogourt 1	 ;
+4461m  Louis-Hebert_/_Jean-Talon
+MANQUE huile 1	laitue 2	pamplemousse 1	 ;
+2096m  Clark_/_de_Liege
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE cheval 2	chou-fleur 4	crème_glacée 3	cynorrhodon 3	fraise 4	prune 4	yogourt 3	 ;
+MANQUE banane 4	groseille 2	huile 3	jujube 3	 ;
+OK
+OK
+MANQUE agneau 2	ail 4	fraise 3	grenade 4	mandarine 4	myrtille 2	mûre 2	pamplemousse 4	pomme 4	sucre 4	 ;
+MANQUE orange 2	 ;
+MANQUE ail 3	mûre 2	noix 4	raisin 2	veau 3	 ;
+11010m  du_Square_Ahmerst_/_Wolfe
+IMPOSSIBLE
+MANQUE abricot 1	poivre 1	 ;
+OK
+OK
+MANQUE noisette 3	sel 1	 ;
+MANQUE cheval 1	radis 2	 ;
+MANQUE basilic 3	cheval 1	grenade 3	lait 3	pain 3	veau 3	 ;
+MANQUE amande 1	ananas 1	cassis 3	 ;
+OK
+OK
+IMPOSSIBLE
+11799m  Fullum_/_Gilford
+19932m  Clark_/_de_Liege
+7953m  Villeneuve_/_du_Parc
+OK
+MANQUE abricot 1	ail 2	poivre 3	 ;
+MANQUE kaki 2	 ;
+MANQUE antilope 3	olive 3	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE lime 1	 ;
+OK
+3869m  du_Square_Ahmerst_/_Wolfe
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE avocat 4	betterave 1	carotte 4	cassis 2	framboise 4	lait 2	myrtille 3	pastèque 4	plaquebière 4	épices 2	 ;
+MANQUE banane 3	brocoli 2	groseille 3	olive 3	 ;
+18108m  Maguire_/_Henri-Julien
+11721m  Clark_/_de_Liege
+COMPLET
+6256m  Villeneuve_/_du_Parc
+12398m  du_Square_Ahmerst_/_Wolfe
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+4642m  Fullum_/_Gilford
+OK
+OK
+MANQUE chou-fleur 2	citron 1	figue 2	huile 1	prune 2	 ;
+OK
+OK
+OK
+OK
+MANQUE céleri 4	lait 4	lime 2	radis_noir 3	salade 3	 ;
+MANQUE crème_glacée 3	fromage 1	mandarine 4	quetsche 3	radis_noir 3	 ;
+MANQUE chèvre 2	pain 1	 ;
+MANQUE panais 4	pastèque 3	quetsche 3	 ;
+OK
+MANQUE betterave 2	grenade 1	 ;
+OK
+IMPOSSIBLE
+7948m  Duluth_/_de_l'Esplanade
+IMPOSSIBLE
+OK
+MANQUE huile 1	lait 1	 ;
+OK
+OK
+OK
+MANQUE asperge 2	basilic 2	bigarade 4	bison 4	courgette 2	cynorrhodon 1	laitue 4	mirabelle 3	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE concombre 1	courge 3	mirabelle 4	sel 1	 ;
+MANQUE beurre 2	sel 4	veau 4	 ;
+IMPOSSIBLE
+6924m  Le_Caron_/_Marc-Sauvalle_
+OK
+OK
+OK
+6677m  Mentana_/_Marie-Anne
+OK
+MANQUE aubergine 3	myrtille 4	 ;
+OK
+MANQUE avocat 1	chou 4	fraise 4	gingembre 1	kaki 3	quetsche 1	radis_noir 3	 ;
+IMPOSSIBLE
+OK
+12633m  Metcalfe_/_Square_Dorchester
+OK
+13206m  Gascon_/_Rachel
+IMPOSSIBLE
+5691m  Bel_Air_/_St-Antoine
+MANQUE crème 3	 ;
+OK
+OK
+IMPOSSIBLE
+8197m  12e_avenue_/_St-Zotique
+MANQUE ananas 1	brocoli 2	lapin 2	noix 1	poireau 1	sucre 2	 ;
+IMPOSSIBLE
+MANQUE ananas 1	banane 4	bigarade 1	lapin 3	mandarine 1	prune 3	 ;
+1901m  8e_avenue_/_Beaubien
+8450m  Duluth_/_St-Laurent
+IMPOSSIBLE
+OK
+OK
+MANQUE basilic 1	brugnon 4	nèfle 1	quetsche 1	 ;
+OK
+MANQUE pain 2	rhubarbe 4	 ;
+OK
+OK
+7040m  Clark_/_de_Liege
+OK
+OK
+COMPLET
+MANQUE olive 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+706m  6e_avenue_/_Rosemont
+IMPOSSIBLE
+IMPOSSIBLE
+11852m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+OK
+2629m  Hamilton_/_Jolicoeur
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE nèfle 1	poire 1	 ;
+OK
+OK
+MANQUE aubergine 2	figue 2	 ;
+OK
+MANQUE avocat 4	prune 4	 ;
+MANQUE asperge 3	betterave 4	bison 1	brocoli 4	canneberge 3	cynorrhodon 2	fraise 4	pistache 1	quinoa 3	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+5871m  Logan_/_d'Iberville
+IMPOSSIBLE
+7406m  Drummond_/_de_Maisonneuve
+OK
+20674m  Hamilton_/_Jolicoeur
+OK
+4847m  Mentana_/_Marie-Anne
+MANQUE amande 3	avocat 2	citrouille 2	prune 3	quetsche 3	quinoa 1	 ;
+3605m  Hamilton_/_Jolicoeur
+23973m  Hamilton_/_Jolicoeur
+MANQUE rhubarbe 4	 ;
+MANQUE ail 1	coing 1	quinoa 2	 ;
+1005m  Mentana_/_Marie-Anne
+8351m  Hutchison_/_Beaubien
+OK
+OK
+IMPOSSIBLE
+13307m  Boyer_/_St-Zotique
+MANQUE plaquebière 3	 ;
+583m  Berri_/_Gilford
+IMPOSSIBLE
+11957m  Metcalfe_/_Square_Dorchester
+IMPOSSIBLE
+MANQUE fromage 1	 ;
+OK
+15971m  Bannantyne_/_de_l'Eglise
+17046m  Hamilton_/_Jolicoeur
+OK
+OK
+MANQUE carotte 2	clémentine 2	sel 4	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE beurre 3	pêche 1	sel 1	truffe 4	 ;
+MANQUE cassis 3	fève 4	 ;
+MANQUE haricot 4	plaquebière 2	 ;
+IMPOSSIBLE
+MANQUE asperge 3	clémentine 1	poivre 4	pêche 3	quinoa 3	 ;
+IMPOSSIBLE
+MANQUE chou-fleur 1	coing 3	oeuf 1	 ;
+MANQUE antilope 2	kiwi 1	 ;
+OK
+MANQUE asperge 1	crème_glacée 3	pain 2	plaquebière 3	 ;
+MANQUE carotte 3	 ;
+MANQUE lait 2	 ;
+OK
+MANQUE noisette 1	noix 3	 ;
+MANQUE asperge 3	framboise 1	groseille 3	panais 4	pistache 3	poireau 1	 ;
+MANQUE sucre 4	 ;
+MANQUE betterave 3	boeuf 1	céleri 1	huile 3	kiwi 3	pain 4	 ;
+5168m  Victoria_/_de_Maisonneuve
+OK
+OK
+IMPOSSIBLE
+MANQUE canneberge 3	cornouiller_du_Canada 2	oeuf 2	 ;
+OK
+OK
+MANQUE céleri 3	 ;
+MANQUE grenade 1	 ;
+1855m  Maguire_/_Henri-Julien
+OK
+IMPOSSIBLE
+MANQUE arbouse 3	olive 1	 ;
+OK
+OK
+MANQUE ananas 2	cynorrhodon 3	melon 1	quinoa 3	 ;
+MANQUE asperge 1	basilic 4	fève 4	nèfle 3	quetsche 4	wapiti 3	 ;
+IMPOSSIBLE
+MANQUE carotte 3	datte 3	 ;
+MANQUE avocat 1	concombre 2	cornouiller_du_Canada 4	groseille 3	panais 2	rhubarbe 3	yogourt 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE kiwi 2	raisin 4	 ;
+IMPOSSIBLE
+OK
+MANQUE pistache 3	 ;
+6294m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+MANQUE châtaigne 2	ciboulette 3	gingembre 3	groseille 2	mirabelle 3	pistache 3	 ;
+OK
+22006m  Hamel_/_Sauve
+OK
+3407m  du_Square_Ahmerst_/_Wolfe
+9436m  Mentana_/_Marie-Anne
+7717m  6e_avenue_/_Rosemont
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE carotte 2	kaki 2	navet 1	salicorne 1	 ;
+OK
+OK
+OK
+MANQUE yogourt 1	 ;
+20301m  10e_Avenue_/_Rosemont
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+14614m  Clark_/_de_Liege
+OK
+2139m  Clark_/_de_Liege
+OK
+MANQUE brocoli 2	oignon 2	 ;
+IMPOSSIBLE
+OK
+1519m  Beaudry_/_Ontario
+OK
+5648m  8e_avenue_/_Beaubien
+MANQUE chou 3	mirabelle 2	oignon 1	 ;
+OK
+9383m  Resther_/_St-Joseph
+MANQUE betterave 1	bigarade 2	bison 4	cheval 4	courge 3	céleri 1	pain 4	plaquebière 3	 ;
+IMPOSSIBLE
+OK
+15426m  Beaudry_/_Ontario
+MANQUE aubergine 3	cornouiller_du_Canada 3	cynorrhodon 3	marron 2	pois 2	prune 1	pêche 2	 ;
+MANQUE avocat 2	navet 2	noisette 4	plaquebière 1	romaine 4	 ;
+OK
+OK
+MANQUE antilope 3	boeuf 2	mûre 3	 ;
+8281m  Victoria_/_de_Maisonneuve
+MANQUE cornouiller_du_Canada 4	taro 2	 ;
+IMPOSSIBLE
+MANQUE pomme_de_terre 4	 ;
+IMPOSSIBLE
+5018m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+MANQUE crème_glacée 2	groseille 4	soja 4	wapiti 4	 ;
+OK
+OK
+8578m  St-Dominique/Maguire
+MANQUE abricot 3	ciboulette 1	figue 2	 ;
+OK
+MANQUE ail 3	betterave 1	cornouiller_du_Canada 2	figue 2	fromage 3	fève 2	kiwi 1	mirabelle 1	oeuf 2	 ;
+IMPOSSIBLE
+2838m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+5146m  6e_avenue_/_Rosemont
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE antilope 3	arbouse 4	beurre 1	courgette 2	gingembre 3	nèfle 1	salicorne 3	 ;
+13454m  St-Dominique/Maguire
+MANQUE cynorrhodon 2	radis 2	 ;
+IMPOSSIBLE
+MANQUE pate 3	radis_noir 1	 ;
+MANQUE citron 3	crème_glacée 3	 ;
+OK
+IMPOSSIBLE
+7479m  Clark_/_de_Liege
+OK
+IMPOSSIBLE
+MANQUE aubergine 2	coing 4	lait 3	mûre 1	 ;
+MANQUE bigarade 1	brugnon 2	cheval 1	yogourt 1	 ;
+3102m  Clark_/_de_Liege
+MANQUE beurre 1	châtaigne 1	pamplemousse 2	 ;
+MANQUE canneberge 3	groseille 3	marron 4	noisette 3	pastèque 2	plaquebière 4	poire 3	 ;
+MANQUE crème 2	maceron 1	poivre 4	quinoa 4	 ;
+8486m  Hamilton_/_Jolicoeur
+MANQUE bigarade 3	fromage 1	mirabelle 4	prune 1	 ;
+MANQUE carotte 1	chou-fleur 1	cynorrhodon 1	grenade 3	lime 2	olive 2	pomme 1	pêche 4	 ;
+OK
+14182m  St-Dominique/Maguire
+OK
+MANQUE brugnon 4	marron 3	soja 4	 ;
+MANQUE cassis 2	cheval 1	 ;
+MANQUE aubergine 2	brocoli 4	coing 4	laitue 3	pois 2	 ;
+OK
+MANQUE concombre 1	cynorrhodon 3	fève 1	haricot 2	 ;
+12442m  Beaudry_/_Ontario
+MANQUE ail 3	aubergine 1	cerise 3	courge 3	laitue 3	sel 3	 ;
+MANQUE chou 2	châtaigne 2	navet 1	 ;
+MANQUE citron 2	pomme_de_terre 1	soja 3	échalote 3	 ;
+MANQUE figue 1	pain 2	 ;
+OK
+MANQUE amande 2	banane 3	chou 1	framboise 4	kiwi 3	panais 3	pastèque 3	 ;
+MANQUE datte 1	fève 1	olive 2	pois 1	pêche 3	 ;
+IMPOSSIBLE
+9641m  Beaudry_/_Ontario
+2686m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+COMPLET
+MANQUE asperge 2	navet 2	orange 3	pois 4	sucre 2	 ;
+3429m  St-Dominique/Maguire
+OK
+OK
+IMPOSSIBLE
+MANQUE ail 1	ananas 1	arbouse 3	canneberge 3	coing 1	gingembre 2	 ;
+MANQUE ananas 2	arbouse 3	melon 4	olive 1	pêche 4	salade 2	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE soja 2	 ;
+OK
+OK
+MANQUE amande 2	citrouille 4	courgette 1	crème_glacée 3	céleri 4	lime 1	sel 1	 ;
+MANQUE cornouiller_du_Canada 2	fève 3	mandarine 1	pain 2	poireau 3	rhubarbe 3	romaine 4	 ;
+MANQUE asperge 1	avocat 3	concombre 3	crème 2	gingembre 3	lime 1	marron 4	poireau 4	épices 4	 ;
+4160m  Chauveau_/_de_l'Assomption
+4950m  Resther_/_St-Joseph
+MANQUE ananas 3	banane 1	wapiti 4	 ;
+OK
+OK
+5178m  6e_avenue_/_Rosemont
+15461m  Outremont_/_Ogilvy
+MANQUE arbouse 4	bison 3	chou 1	groseille 4	quetsche 1	radis 3	échalote 2	 ;
+MANQUE asperge 1	autruche 3	cassis 1	jujube 4	kiwi 1	oeuf 2	poire 1	rhubarbe 3	 ;
+3362m  Hamel_/_Sauve
+OK
+6484m  Bel_Air_/_St-Antoine
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE aubergine 3	sucre 4	taro 2	 ;
+OK
+MANQUE antilope 4	cassis 4	pomme_de_terre 2	 ;
+OK
+OK
+OK
+13420m  Logan_/_d'Iberville
+OK
+18073m  de_Repentigny_/_Sherbrooke
+OK
+MANQUE autruche 2	beurre 4	haricot 4	poireau 3	pomme_de_terre 1	romaine 4	yogourt 4	 ;
+3585m  Chabot_/_Everett
+MANQUE boeuf 1	brocoli 3	cassis 2	citron 3	crème_glacée 4	fraise 4	taro 1	 ;
+MANQUE cheval 1	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE courge 2	cynorrhodon 1	huile 2	noix 1	pistache 4	quinoa 2	radis 1	 ;
+1908m  6e_avenue_/_Rosemont
+MANQUE amande 1	bigarade 2	pistache 2	pomme_de_terre 2	 ;
+OK
+MANQUE datte 2	fraise 2	noix 1	pastèque 1	 ;
+MANQUE avocat 2	boeuf 1	laitue 3	lime 1	pain 1	panais 3	 ;
+OK
+MANQUE basilic 1	pastèque 4	plaquebière 2	quetsche 1	 ;
+IMPOSSIBLE
+MANQUE agneau 1	jujube 2	lime 1	oeuf 3	panais 2	salicorne 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+4044m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+MANQUE pomme 3	radis_noir 1	 ;
+MANQUE cerise 1	 ;
+9051m  6e_avenue_/_Rosemont
+MANQUE autruche 2	framboise 2	mirabelle 3	 ;
+MANQUE grenade 2	haricot 4	nèfle 1	pain 4	 ;
+OK
+8725m  Gascon_/_Rachel
+MANQUE asperge 4	clémentine 3	coing 1	fromage 3	huile 2	noisette 1	veau 4	épices 3	 ;
+IMPOSSIBLE
+MANQUE boeuf 3	carotte 1	lapin 1	mûre 3	pain 1	sucre 3	veau 1	 ;
+MANQUE brocoli 1	figue 2	 ;
+MANQUE agneau 2	chou 3	 ;
+MANQUE bigarade 3	brugnon 2	huile 2	noisette 3	pain 3	pomme_de_terre 1	 ;
+OK
+OK
+7815m  St-Dominique/Maguire
+OK
+8509m  De_La_Roche_/_Everett
+OK
+OK
+MANQUE ananas 1	poivre 3	 ;
+23202m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+IMPOSSIBLE
+MANQUE orange 3	pamplemousse 1	pomme 3	 ;
+2294m  Chabot_/_St-Zotique
+IMPOSSIBLE
+MANQUE brocoli 1	 ;
+MANQUE datte 3	myrtille 1	radis 1	 ;
+OK
+MANQUE crème 1	kiwi 2	noix 2	sucre 3	 ;
+2961m  du_Square_Ahmerst_/_Wolfe
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE abricot 1	autruche 2	brocoli 4	fève 1	radis_noir 3	 ;
+MANQUE kaki 3	pamplemousse 3	épices 1	 ;
+OK
+MANQUE chou-fleur 4	pistache 2	pêche 4	radis 4	taro 2	yogourt 4	 ;
+MANQUE cornouiller_du_Canada 2	jujube 1	salicorne 2	veau 4	 ;
+7138m  de_l'Esplanade_/_Fairmount
+MANQUE banane 2	clémentine 2	fève 3	lapin 3	 ;
+7781m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+OK
+OK
+MANQUE bergamote 1	figue 2	grenade 2	groseille 2	lime 1	 ;
+MANQUE oignon 4	salade 3	 ;
+IMPOSSIBLE
+9342m  Bel_Air_/_St-Antoine
+OK
+OK
+MANQUE chou-fleur 3	ciboulette 2	crème 3	lime 3	orange 1	pastèque 3	plaquebière 2	 ;
+IMPOSSIBLE
+OK
+OK
+19316m  12e_avenue_/_St-Zotique
+MANQUE ciboulette 1	navet 1	poire 4	pois 3	salicorne 2	veau 4	 ;
+MANQUE autruche 2	bison 3	canneberge 1	chèvre 1	coing 1	grenade 1	raisin 2	épices 3	 ;
+IMPOSSIBLE
+1650m  12e_avenue_/_St-Zotique
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE framboise 3	pamplemousse 2	poivron 3	sucre 2	épices 4	 ;
+MANQUE cheval 3	lime 2	sel 3	 ;
+5394m  Bannantyne_/_de_l'Eglise
+MANQUE agneau 4	arbouse 2	cheval 2	figue 1	marron 3	olive 1	truffe 1	wapiti 1	 ;
+7941m  Hamilton_/_Jolicoeur
+22251m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+OK
+OK
+OK
+IMPOSSIBLE
+22067m  10e_Avenue_/_Rosemont
+MANQUE antilope 2	épices 1	 ;
+MANQUE agneau 2	boeuf 2	brugnon 2	chèvre 4	lime 3	 ;
+OK
+COMPLET
+MANQUE poire 3	 ;
+4752m  Chabot_/_de_Bellechasse
+OK
+5838m  West_Broadway_/_Sherbrooke
+OK
+OK
+IMPOSSIBLE
+MANQUE lapin 1	poivre 2	 ;
+OK
+OK
+11983m  Beaudry_/_Ontario
+MANQUE cassis 3	cheval 1	cynorrhodon 4	datte 3	wapiti 3	 ;
+IMPOSSIBLE
+OK
+MANQUE ananas 1	bison 4	chou 1	citrouille 2	panais 1	yogourt 3	 ;
+OK
+4260m  Wilderton__/_Van_Horne
+9627m  Resther_/_St-Joseph
+OK
+11439m  Durocher_/_Bernard
+IMPOSSIBLE
+1674m  St-Dominique/Maguire
+MANQUE arbouse 2	bergamote 2	crème_glacée 2	melon 2	poire 3	 ;
+MANQUE beurre 2	citron 1	 ;
+OK
+OK
+8268m  Bannantyne_/_de_l'Eglise
+IMPOSSIBLE
+17654m  Fullum_/_Gilford
+OK
+MANQUE gingembre 2	 ;
+MANQUE ananas 3	courge 3	fraise 3	poire 2	pomme_de_terre 2	 ;
+MANQUE jujube 1	quetsche 2	 ;
+MANQUE canneberge 3	crème 2	haricot 1	poireau 2	 ;
+MANQUE ananas 3	antilope 2	arbouse 1	chou 4	ciboulette 1	citron 1	citrouille 3	courgette 4	pastèque 1	 ;
+OK
+MANQUE lapin 1	noix 1	poire 3	 ;
+OK
+MANQUE asperge 1	crème_glacée 2	 ;
+OK
+MANQUE concombre 3	huile 3	 ;
+IMPOSSIBLE
+OK
+4581m  Maguire_/_Henri-Julien
+3996m  10e_avenue_/_Masson
+IMPOSSIBLE
+MANQUE basilic 1	poireau 2	pomme_de_terre 1	romaine 3	 ;
+IMPOSSIBLE
+MANQUE antilope 3	bigarade 2	cerise 3	marron 2	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+6605m  Beaudry_/_Ontario
+OK
+7349m  Berri_/_Sherbrooke
+OK
+IMPOSSIBLE
+MANQUE brugnon 4	maceron 3	melon 1	olive 1	pistache 4	quinoa 1	salicorne 4	 ;
+MANQUE courge 1	pain 2	truffe 3	 ;
+MANQUE bigarade 1	 ;
+OK
+MANQUE huile 2	jujube 3	myrtille 2	taro 4	 ;
+4642m  Parthenais_/_St-Joseph
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE concombre 2	myrtille 2	poire 2	 ;
+1446m  Outremont_/_Ogilvy
+IMPOSSIBLE
+MANQUE coing 1	jujube 3	melon 2	pistache 1	salicorne 1	 ;
+OK
+OK
+22247m  Marquette_/_Fleury
+OK
+OK
+IMPOSSIBLE
+MANQUE groseille 2	 ;
+MANQUE beurre 1	ciboulette 4	 ;
+OK
+OK
+MANQUE romaine 3	yogourt 2	 ;
+OK
+OK
+MANQUE ail 3	chou 4	chou-fleur 2	chèvre 2	fromage 4	oeuf 1	raisin 4	wapiti 1	 ;
+IMPOSSIBLE
+MANQUE groseille 4	jujube 2	pomme 2	truffe 3	 ;
+MANQUE cassis 2	pêche 1	 ;
+4208m  Maguire_/_Henri-Julien
+MANQUE amande 1	raisin 1	 ;
+MANQUE brugnon 2	gingembre 1	groseille 3	poivre 3	porc 4	pêche 4	truffe 3	 ;
+IMPOSSIBLE
+MANQUE pate 4	 ;
+11232m  Parthenais_/_St-Joseph
+MANQUE datte 1	plaquebière 3	porc 2	épices 1	 ;
+IMPOSSIBLE
+18731m  Duluth_/_St-Laurent
+MANQUE chou 4	 ;
+9210m  Louis-Hebert_/_Jean-Talon
+OK
+OK
+OK
+2457m  Metro_Longueuil_-_Universite_de_Sherbrooke
+7428m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+OK
+MANQUE ail 4	canneberge 3	châtaigne 1	clémentine 2	mandarine 3	pain 3	pamplemousse 1	pistache 1	poivre 1	taro 4	 ;
+MANQUE aubergine 4	bison 4	courge 2	haricot 4	 ;
+OK
+MANQUE grenade 1	yogourt 1	 ;
+OK
+OK
+8955m  Gilford_/_de_Brebeuf
+MANQUE boeuf 1	lapin 3	pois 2	 ;
+OK
+OK
+MANQUE betterave 4	citrouille 3	cynorrhodon 4	framboise 1	pastèque 4	pistache 1	radis 1	 ;
+3115m  10e_Avenue_/_Rosemont
+14571m  Beaudry_/_Ontario
+4257m  de_Repentigny_/_Sherbrooke
+MANQUE asperge 1	plaquebière 3	pois 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+16212m  8e_avenue_/_Beaubien
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+1695m  Outremont_/_Ogilvy
+2684m  Chabot_/_de_Bellechasse
+OK
+OK
+OK
+MANQUE avocat 4	framboise 2	grenade 1	pistache 1	 ;
+OK
+OK
+OK
+MANQUE avocat 2	framboise 2	pistache 1	soja 1	 ;
+OK
+OK
+OK
+MANQUE framboise 3	fromage 2	sucre 1	 ;
+OK
+3426m  Durocher_/_Bernard
+OK
+IMPOSSIBLE
+6311m  Beaudry_/_Ontario
+5058m  CHSLD_St-Michel_(Jarry_/_8e_avenue)
+COMPLET
+MANQUE basilic 4	bergamote 4	canneberge 1	courgette 1	lime 3	panais 3	pois 1	romaine 1	veau 4	 ;
+OK
+6525m  Chapleau_/_du_Mont-Royal
+IMPOSSIBLE
+MANQUE beurre 4	coing 1	huile 1	mirabelle 1	plaquebière 3	 ;
+7953m  Beaudry_/_Ontario
+4004m  Durocher_/_Bernard
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE amande 1	chèvre 2	plaquebière 3	radis_noir 1	 ;
+OK
+OK
+OK
+OK
+9595m  Beaudry_/_Ontario
+IMPOSSIBLE
+MANQUE banane 4	carotte 3	maceron 1	marron 2	radis_noir 1	 ;
+OK
+9490m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+MANQUE cornouiller_du_Canada 4	marron 3	oignon 3	olive 4	 ;
+OK
+OK
+OK
+MANQUE amande 2	myrtille 4	poivron 3	pomme_de_terre 1	 ;
+IMPOSSIBLE
+OK
+MANQUE grenade 4	groseille 2	jujube 1	mandarine 4	radis_noir 3	salicorne 2	épices 1	 ;
+MANQUE amande 1	fraise 2	sel 4	 ;
+5204m  Bel_Air_/_St-Antoine
+OK
+MANQUE olive 1	truffe 3	 ;
+MANQUE figue 1	poireau 4	rhubarbe 2	 ;
+OK
+5610m  Metro_Longueuil_-_Universite_de_Sherbrooke
+OK
+OK
+MANQUE fraise 4	haricot 4	nèfle 2	 ;
+9227m  Regina_/_de_Verdun
+MANQUE beurre 2	kiwi 2	nèfle 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE basilic 2	coing 3	truffe 3	 ;
+IMPOSSIBLE
+MANQUE cassis 2	pamplemousse 3	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE asperge 4	crème 2	laitue 2	myrtille 4	pomme_de_terre 4	pêche 4	sel 1	veau 4	 ;
+MANQUE agneau 3	brocoli 4	oeuf 3	poireau 2	quinoa 4	salade 2	 ;
+MANQUE abricot 4	courge 4	lime 3	truffe 2	 ;
+MANQUE aubergine 1	navet 2	noisette 4	radis 3	 ;
+OK
+10528m  Gilford_/_de_Brebeuf
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+5788m  Hutchison/_Prince-Arthur
+MANQUE arbouse 3	maceron 2	marron 4	noisette 2	porc 4	salicorne 1	sucre 2	 ;
+OK
+MANQUE arbouse 1	aubergine 2	bison 3	citrouille 3	courge 3	poivron 1	raisin 3	taro 1	 ;
+MANQUE banane 4	bergamote 4	courge 1	courgette 1	fève 1	yogourt 1	 ;
+MANQUE beurre 1	bison 1	cynorrhodon 1	wapiti 2	 ;
+OK
+MANQUE chou 1	lime 1	pois 1	 ;
+OK
+3566m  Girouard_/_Terrebonne
+IMPOSSIBLE
+MANQUE cassis 1	figue 3	pamplemousse 2	quetsche 2	 ;
+MANQUE olive 2	poivre 1	 ;
+MANQUE brocoli 2	jujube 4	orange 3	pomme 3	porc 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE bison 3	fromage 2	épices 1	 ;
+MANQUE abricot 1	autruche 1	boeuf 2	marron 4	quinoa 2	 ;
+OK
+MANQUE brugnon 2	citron 3	soja 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE ciboulette 2	figue 3	oeuf 1	épices 1	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE cassis 3	mirabelle 3	prune 1	 ;
+OK
+OK
+4943m  Marche_Maisonneuve
+OK
+OK
+OK
+OK
+OK
+MANQUE citrouille 1	pamplemousse 1	poire 4	raisin 3	 ;
+OK
+OK
+MANQUE avocat 1	ciboulette 3	coing 1	laitue 4	poivron 1	veau 3	 ;
+MANQUE groseille 1	pomme 4	raisin 2	 ;
+10254m  Beaudry_/_Ontario
+MANQUE aubergine 2	céleri 1	fraise 2	groseille 2	mandarine 2	myrtille 1	poire 1	 ;
+MANQUE arbouse 1	châtaigne 3	figue 1	huile 3	melon 2	pistache 2	poivron 2	 ;
+8990m  Hutchison/_Prince-Arthur
+13912m  Beaudry_/_Ontario
+OK
+OK
+OK
+7822m  de_Brebeuf_/_St-Gregoire
+9699m  Girouard_/_Terrebonne
+12123m  8e_avenue_/_Beaubien
+OK
+MANQUE pistache 4	quetsche 2	sucre 1	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE amande 3	boeuf 2	canneberge 3	cerise 3	châtaigne 1	radis 1	raisin 3	salade 3	truffe 1	 ;
+MANQUE canneberge 1	épices 1	 ;
+MANQUE bigarade 3	carotte 4	framboise 3	pois 3	romaine 3	 ;
+IMPOSSIBLE
+OK
+OK
+24195m  26e_avenue_/_Beaubien
+2663m  8e_avenue_/_Beaubien
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE datte 2	noix 1	orange 2	pamplemousse 3	 ;
+7678m  Louis-Hebert_/_Jean-Talon
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE citrouille 1	clémentine 4	crème_glacée 4	mirabelle 1	pastèque 4	rhubarbe 2	salicorne 1	 ;
+OK
+MANQUE ail 1	beurre 2	jujube 3	pate 3	radis_noir 1	romaine 4	épices 1	 ;
+MANQUE beurre 2	concombre 2	quinoa 4	salicorne 2	 ;
+15320m  6e_avenue_/_Rosemont
+MANQUE chou 2	châtaigne 3	céleri 2	orange 1	rhubarbe 3	truffe 4	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE bigarade 4	chou 3	datte 3	oeuf 1	 ;
+MANQUE figue 1	pomme 1	 ;
+2272m  Gilford_/_de_Brebeuf
+IMPOSSIBLE
+MANQUE antilope 3	chou 3	citrouille 4	grenade 3	soja 2	 ;
+5237m  Berri_/_Sherbrooke
+OK
+MANQUE ail 4	courge 2	céleri 2	mirabelle 4	mûre 2	échalote 1	 ;
+MANQUE ail 2	antilope 1	aubergine 4	brocoli 1	cerise 4	wapiti 3	 ;
+OK
+MANQUE asperge 4	bergamote 4	bigarade 2	clémentine 2	concombre 2	crème 3	myrtille 2	oeuf 1	épices 2	 ;
+MANQUE brocoli 2	carotte 2	crème_glacée 3	fromage 4	groseille 2	quinoa 3	wapiti 1	 ;
+OK
+MANQUE myrtille 3	mûre 2	poire 3	 ;
+OK
+OK
+OK
+MANQUE céleri 1	framboise 2	pistache 1	plaquebière 1	poivre 2	 ;
+MANQUE framboise 4	 ;
+MANQUE arbouse 1	canneberge 4	fève 3	grenade 1	rhubarbe 1	épices 4	 ;
+OK
+MANQUE cornouiller_du_Canada 3	mûre 4	noisette 2	pastèque 2	poireau 4	radis 1	raisin 3	truffe 2	 ;
+19025m  Natatorium_(LaSalle_/_Rolland)
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE châtaigne 3	rhubarbe 1	 ;
+21626m  Marche_Maisonneuve
+MANQUE canneberge 1	citron 4	cornouiller_du_Canada 1	gingembre 1	huile 3	poireau 3	poivre 1	radis 2	salade 3	 ;
+OK
+MANQUE ananas 3	cheval 4	lait 1	laitue 4	maceron 2	noisette 4	oignon 1	pain 1	pate 1	plaquebière 2	 ;
+OK
+13097m  Hamilton_/_Jolicoeur
+17110m  Metro_Longueuil_-_Universite_de_Sherbrooke
+OK
+MANQUE betterave 1	pamplemousse 4	pastèque 1	quetsche 1	 ;
+OK
+MANQUE bergamote 3	framboise 3	 ;
+IMPOSSIBLE
+MANQUE abricot 3	 ;
+OK
+OK
+MANQUE bison 1	chou-fleur 3	courgette 1	crème 3	pastèque 4	échalote 3	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE poivre 2	salade 4	échalote 1	 ;
+OK
+OK
+IMPOSSIBLE
+8800m  Victoria_/_de_Maisonneuve
+IMPOSSIBLE
+MANQUE poivre 1	sel 3	 ;
+OK
+MANQUE arbouse 1	figue 4	 ;
+2312m  Gilford_/_de_Brebeuf
+MANQUE beurre 3	ciboulette 3	citron 3	crème 3	crème_glacée 4	marron 3	sucre 2	 ;
+MANQUE groseille 3	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE chou-fleur 1	truffe 1	 ;
+MANQUE arbouse 3	myrtille 4	nèfle 2	olive 4	quinoa 3	raisin 3	soja 2	épices 3	 ;
+MANQUE aubergine 4	fraise 2	poivron 1	wapiti 1	 ;
+OK
+OK
+MANQUE bergamote 4	betterave 1	céleri 1	fève 4	kaki 1	maceron 3	épices 3	 ;
+OK
+IMPOSSIBLE
+MANQUE veau 4	 ;
+MANQUE basilic 2	betterave 1	châtaigne 2	melon 1	poivron 2	 ;
+OK
+7468m  Bel_Air_/_St-Antoine
+11671m  10e_avenue_/_Masson
+MANQUE arbouse 1	citron 1	kaki 3	poireau 4	épices 2	 ;
+IMPOSSIBLE
+MANQUE amande 1	citrouille 4	clémentine 2	kiwi 1	poire 1	prune 4	pêche 3	 ;
+OK
+OK
+MANQUE cheval 2	châtaigne 3	jujube 1	pistache 1	 ;
+MANQUE chou-fleur 3	lapin 4	olive 1	 ;
+OK
+OK
+OK
+OK
+2481m  Hutchison_/_Edouard_Charles
+IMPOSSIBLE
+OK
+OK
+OK
+8071m  Louis-Hebert_/_Jean-Talon
+OK
+MANQUE basilic 2	betterave 1	céleri 2	poivre 2	veau 2	 ;
+9488m  26e_avenue_/_Beaubien
+OK
+OK
+OK
+15434m  Beaudry_/_Ontario
+IMPOSSIBLE
+7335m  8e_avenue_/_Beaubien
+22873m  10e_avenue_/_Masson
+MANQUE framboise 4	 ;
+MANQUE banane 3	crème_glacée 1	kaki 3	mandarine 4	plaquebière 1	veau 2	 ;
+MANQUE courge 2	jujube 2	lait 4	 ;
+IMPOSSIBLE
+MANQUE beurre 4	soja 1	taro 2	 ;
+MANQUE brugnon 2	cheval 2	concombre 1	pain 4	rhubarbe 4	salade 1	soja 2	 ;
+4801m  Beaudry_/_Ontario
+MANQUE bison 2	cornouiller_du_Canada 3	crème 3	pois 1	pomme_de_terre 4	porc 2	rhubarbe 1	yogourt 2	 ;
+OK
+MANQUE ail 1	courgette 3	myrtille 4	noix 4	plaquebière 1	 ;
+MANQUE agneau 2	chou-fleur 2	châtaigne 1	cornouiller_du_Canada 4	fève 1	porc 4	rhubarbe 1	taro 3	yogourt 4	 ;
+MANQUE antilope 3	canneberge 4	cassis 2	lapin 4	 ;
+MANQUE cornouiller_du_Canada 1	oeuf 4	sucre 1	veau 4	 ;
+OK
+MANQUE cheval 4	clémentine 3	crème_glacée 2	fraise 4	romaine 3	salicorne 3	épices 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE clémentine 1	 ;
+MANQUE asperge 2	basilic 1	figue 2	mandarine 2	navet 3	romaine 2	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE asperge 4	pistache 4	 ;
+OK
+MANQUE abricot 3	gingembre 3	 ;
+MANQUE prune 1	 ;
+11186m  Beaudry_/_Ontario
+8398m  Roy_/_St-Christophe
+20291m  10e_avenue_/_Masson
+OK
+IMPOSSIBLE
+4385m  Metro_Longueuil_-_Universite_de_Sherbrooke
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+3810m  Beaudry_/_Ontario
+MANQUE ail 2	antilope 1	groseille 2	lime 4	oeuf 4	quinoa 2	soja 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE banane 3	ciboulette 1	coing 4	concombre 4	fromage 2	poireau 4	quetsche 3	sucre 4	veau 1	 ;
+MANQUE antilope 1	bigarade 3	brugnon 2	fromage 4	noisette 1	pois 2	romaine 4	 ;
+MANQUE ananas 1	avocat 4	bergamote 2	beurre 1	ciboulette 3	pomme_de_terre 1	échalote 4	 ;
+OK
+OK
+9830m  Roy_/_St-Christophe
+IMPOSSIBLE
+24164m  6e_avenue_/_Rosemont
+MANQUE ail 4	fromage 2	huile 4	mandarine 2	myrtille 2	quetsche 3	 ;
+IMPOSSIBLE
+2407m  Regina_/_de_Verdun
+MANQUE yogourt 4	 ;
+22615m  10e_avenue_/_Masson
+MANQUE beurre 1	citron 1	clémentine 3	courge 2	courgette 4	gingembre 4	kaki 2	orange 4	romaine 3	taro 1	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE beurre 4	figue 2	fève 1	kiwi 1	 ;
+MANQUE pain 3	pomme 2	radis_noir 3	 ;
+OK
+8178m  Chabot_/_de_Bellechasse
+22063m  10e_avenue_/_Masson
+IMPOSSIBLE
+OK
+17334m  26e_avenue_/_Beaubien
+5354m  Faillon_/_St-Denis
+MANQUE carotte 4	citrouille 1	pois 2	poivre 3	 ;
+22951m  Louis-Hebert_/_Jean-Talon
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE cassis 2	citrouille 4	mandarine 2	mirabelle 3	myrtille 3	quinoa 2	échalote 4	 ;
+9334m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+MANQUE citron 2	cornouiller_du_Canada 4	grenade 3	jujube 3	myrtille 3	poireau 1	poivre 4	échalote 2	 ;
+MANQUE beurre 4	carotte 3	chou 2	clémentine 1	pate 1	porc 3	radis_noir 2	truffe 1	 ;
+IMPOSSIBLE
+16794m  Beaudry_/_Ontario
+MANQUE lait 3	pistache 3	 ;
+2012m  Girouard_/_Terrebonne
+OK
+MANQUE amande 1	 ;
+MANQUE myrtille 3	oeuf 4	pastèque 3	échalote 1	 ;
+MANQUE amande 1	ananas 2	datte 4	gingembre 4	pain 1	 ;
+OK
+MANQUE bergamote 3	lait 4	 ;
+OK
+OK
+5477m  Louis-Hebert_/_Jean-Talon
+MANQUE pomme_de_terre 2	 ;
+OK
+IMPOSSIBLE
+MANQUE noix 2	pamplemousse 2	pate 2	poire 2	taro 2	 ;
+5309m  Beaudry_/_Ontario
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE framboise 4	jujube 2	pois 1	 ;
+OK
+OK
+MANQUE citron 3	navet 3	noisette 2	panais 2	porc 3	radis_noir 4	 ;
+OK
+COMPLET
+OK
+17296m  de_Brebeuf_/_St-Gregoire
+MANQUE wapiti 2	 ;
+3316m  Chauveau_/_de_l'Assomption
+OK
+OK
+OK
+OK
+3734m  Parthenais_/_St-Joseph
+MANQUE asperge 1	 ;
+MANQUE noix 1	nèfle 1	olive 4	radis 1	salade 2	 ;
+OK
+OK
+2257m  Notre-Dame_/_St-Gabriel
+OK
+MANQUE bigarade 2	huile 1	kaki 2	 ;
+MANQUE arbouse 3	cynorrhodon 4	mandarine 2	melon 2	mirabelle 1	poivre 2	truffe 2	 ;
+IMPOSSIBLE
+MANQUE amande 1	asperge 3	cornouiller_du_Canada 4	plaquebière 4	 ;
+MANQUE arbouse 2	bigarade 1	ciboulette 1	coing 4	lait 1	panais 2	 ;
+MANQUE chou-fleur 3	datte 4	haricot 4	olive 3	pistache 3	quetsche 4	wapiti 1	 ;
+MANQUE aubergine 4	chou 2	 ;
+OK
+MANQUE brocoli 1	canneberge 4	fraise 2	kaki 2	kiwi 1	lapin 2	nèfle 2	panais 4	yogourt 1	 ;
+IMPOSSIBLE
+3760m  du_Mont-Royal_/_Clark
+MANQUE chèvre 2	lime 3	pate 3	pistache 3	quinoa 1	veau 2	wapiti 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE marron 2	pastèque 3	poireau 2	 ;
+OK
+MANQUE chou-fleur 3	maceron 3	mandarine 1	 ;
+14049m  du_Mont-Royal_/_Clark
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE cassis 1	clémentine 1	concombre 2	cynorrhodon 4	lime 1	 ;
+OK
+OK
+2469m  de_Brebeuf_/_St-Gregoire
+OK
+8402m  Jeanne_Mance_/_du_Mont-Royal
+OK
+MANQUE bison 1	carotte 3	cerise 1	chou 2	gingembre 3	lait 3	nèfle 2	quinoa 2	 ;
+OK
+OK
+16421m  Beaudry_/_Ontario
+MANQUE oignon 4	olive 3	panais 1	 ;
+OK
+IMPOSSIBLE
+MANQUE abricot 3	autruche 4	épices 2	 ;
+MANQUE pamplemousse 2	 ;
+MANQUE marron 4	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE clémentine 2	romaine 1	 ;
+MANQUE poireau 4	poivron 3	veau 4	 ;
+MANQUE figue 2	lime 3	pastèque 1	 ;
+MANQUE basilic 2	cheval 1	chou-fleur 4	coing 1	concombre 3	grenade 4	 ;
+COMPLET
+MANQUE beurre 1	crème_glacée 1	datte 2	jujube 3	radis_noir 3	sucre 1	 ;
+8627m  Chabot_/_St-Zotique
+OK
+2033m  Emile-Duploye_/_Sherbrooke
+OK
+MANQUE concombre 4	framboise 1	pate 3	quinoa 1	 ;
+IMPOSSIBLE
+MANQUE pate 1	 ;
+MANQUE gingembre 3	huile 2	quetsche 2	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE ananas 4	citron 4	framboise 3	radis 4	 ;
+OK
+MANQUE amande 1	autruche 4	brugnon 1	kaki 2	mirabelle 3	épices 2	 ;
+12323m  Beaudry_/_Ontario
+7919m  du_Mont-Royal_/_Clark
+MANQUE cassis 4	cheval 3	chou 3	datte 2	grenade 4	orange 1	poivre 4	quetsche 3	sucre 1	épices 2	 ;
+5518m  26e_avenue_/_Beaubien
+25105m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+IMPOSSIBLE
+OK
+MANQUE groseille 1	oeuf 1	panais 2	 ;
+11346m  Clark_/_St-Viateur
+16662m  Beaudry_/_Ontario
+OK
+OK
+OK
+16602m  McGill_/_des_Recollets
+5801m  15e_avenue_/_Masson
+3990m  Gascon_/_Rachel
+14954m  Beaudry_/_Ontario
+MANQUE betterave 3	châtaigne 2	ciboulette 3	cornouiller_du_Canada 3	myrtille 3	 ;
+OK
+OK
+3722m  10e_Avenue_/_Rosemont
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+20001m  26e_avenue_/_Beaubien
+OK
+OK
+OK
+MANQUE agneau 1	banane 1	courge 2	 ;
+OK
+21797m  Marche_Maisonneuve
+MANQUE boeuf 4	cassis 3	poire 1	poivron 1	taro 4	 ;
+10360m  Marche_Maisonneuve
+OK
+MANQUE arbouse 1	framboise 3	groseille 3	kaki 2	 ;
+MANQUE avocat 2	bigarade 2	datte 1	laitue 2	raisin 2	échalote 4	 ;
+2535m  Regina_/_de_Verdun
+OK
+OK
+23120m  10e_avenue_/_Masson
+IMPOSSIBLE
+MANQUE carotte 2	kiwi 2	mandarine 3	 ;
+MANQUE melon 4	pomme 4	pêche 1	 ;
+OK
+5738m  McGill_/_des_Recollets
+MANQUE bergamote 3	bison 1	framboise 2	melon 1	noix 1	 ;
+IMPOSSIBLE
+MANQUE amande 1	antilope 4	chèvre 2	gingembre 1	lapin 4	melon 2	rhubarbe 4	 ;
+OK
+MANQUE autruche 3	coing 1	crème_glacée 1	datte 4	framboise 1	huile 1	maceron 4	 ;
+IMPOSSIBLE
+OK
+OK
+12507m  McGill_/_des_Recollets
+MANQUE ail 4	aubergine 3	ciboulette 3	lapin 1	mandarine 4	plaquebière 2	 ;
+MANQUE agneau 2	antilope 3	chou 2	panais 3	poivre 3	rhubarbe 2	 ;
+MANQUE romaine 2	 ;
+IMPOSSIBLE
+MANQUE ananas 1	mûre 4	poivron 2	 ;
+MANQUE arbouse 4	clémentine 4	concombre 2	datte 1	pois 3	 ;
+12709m  Jeanne_Mance_/_du_Mont-Royal
+OK
+OK
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 3	courge 3	orange 1	 ;
+OK
+MANQUE abricot 3	basilic 2	lapin 3	marron 1	poireau 1	pêche 3	romaine 3	taro 4	 ;
+OK
+OK
+OK
+OK
+10874m  West_Broadway_/_Sherbrooke
+MANQUE cerise 2	 ;
+8644m  Hutchison_/_Beaubien
+MANQUE maceron 1	 ;
+OK
+OK
+OK
+MANQUE pomme_de_terre 4	 ;
+MANQUE concombre 1	lime 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE antilope 1	asperge 3	beurre 3	cassis 3	châtaigne 4	échalote 2	 ;
+MANQUE cassis 1	crème_glacée 1	kaki 2	pastèque 3	raisin 3	 ;
+OK
+OK
+MANQUE amande 3	autruche 2	navet 1	panais 1	salicorne 4	 ;
+OK
+OK
+MANQUE basilic 1	framboise 2	poireau 3	salicorne 2	 ;
+OK
+24838m  10e_avenue_/_Masson
+MANQUE ail 3	cassis 2	jujube 4	 ;
+13226m  McGill_/_des_Recollets
+OK
+MANQUE chou-fleur 1	datte 3	huile 4	lait 3	lapin 3	poivre 4	sucre 4	truffe 1	 ;
+MANQUE carotte 3	citron 4	coing 4	céleri 4	gingembre 2	lait 3	raisin 4	 ;
+MANQUE betterave 3	 ;
+MANQUE carotte 2	pastèque 3	 ;
+IMPOSSIBLE
+MANQUE poire 2	 ;
+MANQUE cornouiller_du_Canada 4	gingembre 1	lait 2	romaine 2	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE boeuf 1	carotte 2	cynorrhodon 3	grenade 2	lait 4	pistache 3	plaquebière 2	 ;
+OK
+MANQUE maceron 3	myrtille 3	poivre 1	 ;
+3637m  de_Repentigny_/_Sherbrooke
+OK
+OK
+MANQUE autruche 2	banane 1	cerise 3	chou-fleur 3	pêche 1	 ;
+MANQUE abricot 4	brocoli 3	pastèque 2	poire 3	truffe 3	épices 2	 ;
+IMPOSSIBLE
+5819m  10e_avenue_/_Masson
+13214m  Duluth_/_St-Laurent
+MANQUE cerise 4	framboise 3	noix 1	sucre 4	yogourt 4	 ;
+MANQUE brocoli 4	châtaigne 1	orange 1	 ;
+MANQUE agneau 4	céleri 4	groseille 1	lait 1	oignon 3	pomme 4	sel 1	taro 2	 ;
+OK
+MANQUE ananas 3	bergamote 4	chèvre 2	crème 4	cynorrhodon 3	lait 3	myrtille 4	sel 4	 ;
+5503m  Bel_Air_/_St-Antoine
+9098m  des_Seigneurs_/_Workman
+MANQUE pain 1	 ;
+15102m  Maguire_/_Henri-Julien
+OK
+1601m  26e_avenue_/_Beaubien
+MANQUE cerise 1	ciboulette 2	mirabelle 2	prune 3	 ;
+13971m  Berri_/_Cherrier
+MANQUE banane 4	brocoli 4	pamplemousse 3	plaquebière 4	 ;
+IMPOSSIBLE
+12177m  10e_avenue_/_Masson
+MANQUE fève 3	grenade 1	kaki 3	taro 3	 ;
+MANQUE amande 3	beurre 2	cassis 1	crème_glacée 2	lime 1	noix 1	pastèque 3	pate 4	 ;
+17799m  10e_avenue_/_Masson
+OK
+OK
+OK
+OK
+MANQUE basilic 2	chèvre 4	ciboulette 1	lapin 1	quetsche 2	romaine 1	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE cassis 1	cynorrhodon 4	fromage 4	mûre 4	prune 2	 ;
+13541m  Clark_/_St-Viateur
+2434m  de_l'Esplanade_/_Fairmount
+6774m  Marche_Maisonneuve
+14701m  26e_avenue_/_Beaubien
+MANQUE ciboulette 1	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE ail 3	melon 3	wapiti 3	 ;
+1798m  West_Broadway_/_Sherbrooke
+2253m  Logan_/_d'Iberville
+OK
+13675m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+OK
+OK
+MANQUE aubergine 4	panais 1	 ;
+OK
+7939m  Berri_/_Cherrier
+MANQUE concombre 3	pêche 4	salade 1	 ;
+OK
+OK
+MANQUE agneau 4	brocoli 4	coing 4	marron 1	porc 3	taro 1	 ;
+22879m  Chabot_/_de_Bellechasse
+MANQUE bison 3	figue 4	lait 1	navet 2	salicorne 2	wapiti 3	épices 4	 ;
+OK
+COMPLET
+OK
+OK
+OK
+842m  10e_avenue_/_Masson
+OK
+MANQUE cassis 3	crème_glacée 2	noix 3	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE maceron 4	salicorne 3	 ;
+3679m  8e_avenue_/_Beaubien
+IMPOSSIBLE
+OK
+7441m  Gascon_/_Rachel
+MANQUE antilope 3	maceron 1	melon 2	salicorne 1	soja 1	 ;
+IMPOSSIBLE
+MANQUE arbouse 2	avocat 1	groseille 2	pastèque 1	veau 3	 ;
+OK
+OK
+OK
+OK
+MANQUE abricot 1	bison 2	 ;
+5130m  10e_avenue_/_Masson
+OK
+IMPOSSIBLE
+MANQUE brocoli 2	concombre 3	cornouiller_du_Canada 2	cynorrhodon 2	maceron 2	yogourt 1	épices 3	 ;
+19281m  Metro_Longueuil_-_Universite_de_Sherbrooke
+MANQUE chou 4	poivre 2	 ;
+MANQUE amande 1	aubergine 4	brocoli 2	courge 1	fromage 2	orange 2	pain 3	 ;
+MANQUE asperge 2	châtaigne 1	mûre 2	épices 2	 ;
+MANQUE châtaigne 4	plaquebière 3	pomme_de_terre 1	 ;
+OK
+IMPOSSIBLE
+MANQUE avocat 2	cheval 2	mirabelle 4	quinoa 4	radis 4	yogourt 4	 ;
+OK
+MANQUE crème 3	kiwi 2	lait 2	sucre 3	wapiti 2	 ;
+OK
+8009m  Regina_/_de_Verdun
+OK
+OK
+MANQUE ananas 1	cynorrhodon 2	fraise 3	oeuf 2	oignon 4	 ;
+IMPOSSIBLE
+6918m  10e_avenue_/_Masson
+OK
+MANQUE châtaigne 1	chèvre 2	coing 2	crème 2	nèfle 3	orange 2	plaquebière 2	 ;
+MANQUE fromage 2	pomme 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE gingembre 3	sucre 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+11492m  10e_avenue_/_Masson
+OK
+MANQUE bigarade 4	cheval 3	jujube 4	kaki 2	laitue 1	mûre 2	olive 1	romaine 4	 ;
+OK
+IMPOSSIBLE
+MANQUE brugnon 1	jujube 4	melon 2	pate 2	 ;
+MANQUE arbouse 1	marron 4	oeuf 4	sucre 3	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+17101m  Roy_/_St-Christophe
+OK
+OK
+5881m  Wilderton__/_Van_Horne
+OK
+24616m  10e_avenue_/_Masson
+IMPOSSIBLE
+OK
+MANQUE ail 2	cheval 2	céleri 3	laitue 3	raisin 1	 ;
+OK
+OK
+MANQUE pois 2	 ;
+OK
+OK
+9973m  10e_avenue_/_Masson
+IMPOSSIBLE
+MANQUE avocat 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+MANQUE navet 4	 ;
+MANQUE abricot 4	aubergine 3	avocat 1	brocoli 4	cheval 1	ciboulette 3	lime 1	prune 2	 ;
+MANQUE ananas 2	framboise 3	haricot 3	maceron 4	oignon 1	poireau 4	rhubarbe 3	 ;
+MANQUE avocat 2	brugnon 3	coing 4	marron 4	olive 1	poivron 1	prune 1	quetsche 3	radis 1	 ;
+MANQUE cheval 4	gingembre 4	groseille 1	kaki 3	orange 3	quinoa 4	 ;
+OK
+MANQUE sucre 2	 ;
+MANQUE amande 3	ananas 2	pomme 1	 ;
+MANQUE boeuf 4	jujube 2	kiwi 2	noix 2	 ;
+COMPLET
+1788m  McGill_/_des_Recollets
+IMPOSSIBLE
+MANQUE asperge 2	bergamote 2	citron 2	jujube 2	kiwi 4	myrtille 1	orange 1	radis_noir 2	 ;
+OK
+IMPOSSIBLE
+MANQUE brocoli 1	mandarine 3	marron 1	oeuf 4	quetsche 1	 ;
+MANQUE brocoli 2	sel 4	 ;
+IMPOSSIBLE
+6577m  Wilson_/_Sherbrooke
+MANQUE bison 4	cerise 1	cheval 4	taro 1	 ;
+OK
+IMPOSSIBLE
+OK
+8434m  Metro_Longueuil_-_Universite_de_Sherbrooke
+MANQUE romaine 1	 ;
+IMPOSSIBLE
+MANQUE arbouse 1	huile 1	oeuf 2	pastèque 3	poivron 2	 ;
+OK
+MANQUE châtaigne 3	céleri 4	marron 3	mirabelle 3	plaquebière 1	porc 1	radis 3	rhubarbe 4	 ;
+IMPOSSIBLE
+MANQUE haricot 4	mandarine 3	raisin 2	 ;
+OK
+MANQUE agneau 4	autruche 4	cheval 1	oignon 4	pastèque 3	quinoa 1	 ;
+OK
+1544m  St-Hubert_/_Rachel
+OK
+OK
+OK
+OK
+OK
+MANQUE ananas 2	autruche 2	chou 4	courgette 4	framboise 4	maceron 1	oignon 3	pamplemousse 4	épices 1	 ;
+OK
+3626m  Duvernay_/_Charlevoix
+IMPOSSIBLE
+MANQUE aubergine 3	gingembre 1	nèfle 4	olive 4	 ;
+MANQUE cerise 1	courge 4	datte 2	gingembre 3	kiwi 3	raisin 3	 ;
+IMPOSSIBLE
+MANQUE ail 2	bergamote 4	bigarade 3	citrouille 1	cynorrhodon 2	framboise 2	mandarine 1	pêche 1	taro 1	 ;
+MANQUE abricot 2	aubergine 3	chèvre 3	cynorrhodon 4	noix 3	oignon 2	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE abricot 4	amande 1	cheval 4	clémentine 3	framboise 1	fève 3	grenade 4	olive 2	radis 3	 ;
+IMPOSSIBLE
+2910m  Chauveau_/_de_l'Assomption
+8937m  Berri_/_Cherrier
+OK
+MANQUE autruche 1	chou-fleur 3	céleri 1	laitue 2	maceron 1	soja 1	 ;
+MANQUE ail 4	antilope 2	bigarade 3	courgette 3	haricot 2	navet 1	pastèque 3	pate 2	romaine 4	 ;
+OK
+OK
+MANQUE banane 4	carotte 1	datte 4	échalote 3	 ;
+IMPOSSIBLE
+5677m  Rockland_/_Lajoie
+OK
+OK
+14226m  Berri_/_Cherrier
+OK
+MANQUE citron 1	citrouille 2	clémentine 4	gingembre 1	laitue 1	marron 1	romaine 1	 ;
+OK
+OK
+MANQUE carotte 2	cheval 2	chou-fleur 4	crème 4	noisette 2	pain 3	pomme 2	 ;
+MANQUE cassis 1	citrouille 2	lapin 1	pomme 1	 ;
+OK
+10272m  des_Seigneurs_/_Workman
+OK
+MANQUE banane 1	carotte 4	groseille 3	melon 4	oeuf 4	 ;
+4372m  10e_avenue_/_Masson
+OK
+OK
+MANQUE beurre 4	chou-fleur 1	oeuf 3	oignon 1	taro 3	 ;
+MANQUE bigarade 1	figue 2	noisette 3	 ;
+IMPOSSIBLE
+MANQUE autruche 4	basilic 3	cheval 2	chou-fleur 3	framboise 1	melon 4	pomme 2	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+11076m  Cremazie_/_Lajeunesse
+5586m  Maguire_/_Henri-Julien
+MANQUE abricot 3	arbouse 4	bigarade 4	ciboulette 3	pastèque 2	pois 1	pomme 2	 ;
+12955m  Berri_/_Cherrier
+COMPLET
+OK
+IMPOSSIBLE
+MANQUE chou-fleur 2	cynorrhodon 2	jujube 2	mirabelle 2	yogourt 2	 ;
+MANQUE banane 3	pomme 1	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+2861m  St-Dominique/Maguire
+IMPOSSIBLE
+OK
+OK
+MANQUE bison 2	cassis 4	courgette 1	groseille 2	sucre 1	 ;
+MANQUE courgette 4	lapin 4	quinoa 3	 ;
+OK
+OK
+8265m  Hamilton_/_Jolicoeur
+COMPLET
+OK
+MANQUE abricot 4	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE amande 1	orange 4	pain 2	quinoa 1	radis_noir 2	 ;
+MANQUE céleri 2	prune 1	sel 1	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE citrouille 2	haricot 3	lapin 1	salicorne 4	soja 4	wapiti 2	 ;
+16771m  Beaudry_/_Ontario
+OK
+MANQUE nèfle 4	poire 3	 ;
+OK
+MANQUE concombre 4	panais 1	poire 2	pomme_de_terre 1	 ;
+OK
+IMPOSSIBLE
+5373m  15e_avenue_/_Masson
+MANQUE betterave 1	céleri 2	lime 3	radis_noir 3	veau 1	 ;
+MANQUE antilope 1	bergamote 1	courge 2	crème_glacée 1	céleri 3	laitue 1	myrtille 3	 ;
+OK
+OK
+MANQUE cornouiller_du_Canada 3	lime 4	 ;
+MANQUE figue 2	mûre 1	 ;
+MANQUE basilic 1	betterave 3	canneberge 1	coing 2	fromage 3	kaki 1	marron 3	plaquebière 1	pêche 2	 ;
+COMPLET
+MANQUE cynorrhodon 2	gingembre 1	kaki 4	maceron 2	noix 4	 ;
+OK
+22630m  du_Rosaire_/_St-Hubert
+MANQUE agneau 3	amande 2	boeuf 1	courge 3	jujube 1	pois 2	poivre 1	wapiti 3	 ;
+OK
+MANQUE concombre 4	crème_glacée 3	pamplemousse 4	poivron 4	truffe 2	épices 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE jujube 4	truffe 2	 ;
+7079m  Wilderton__/_Van_Horne
+3948m  10e_avenue_/_Masson
+MANQUE banane 2	marron 4	myrtille 1	pomme 2	 ;
+16361m  Metro_Longueuil_-_Universite_de_Sherbrooke
+OK
+7034m  Metro_Longueuil_-_Universite_de_Sherbrooke
+MANQUE chèvre 2	melon 4	noix 3	pistache 4	rhubarbe 4	 ;
+OK
+OK
+MANQUE abricot 4	cheval 3	coing 2	figue 4	laitue 3	lime 4	épices 3	 ;
+7107m  Metro_Longueuil_-_Universite_de_Sherbrooke
+MANQUE antilope 1	groseille 2	mirabelle 4	mûre 1	pastèque 1	rhubarbe 1	épices 3	 ;
+MANQUE pistache 2	pomme 4	sucre 4	 ;
+9512m  Berri_/_Cherrier
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+7927m  Natatorium_(LaSalle_/_Rolland)
+MANQUE radis_noir 4	taro 4	 ;
+14867m  Metro_Longueuil_-_Universite_de_Sherbrooke
+MANQUE crème 1	échalote 3	 ;
+OK
+OK
+OK
+MANQUE abricot 1	clémentine 2	lime 3	noix 2	orange 2	poivron 2	pomme_de_terre 2	 ;
+MANQUE citron 1	crème_glacée 4	orange 4	veau 4	 ;
+15272m  Wilderton__/_Van_Horne
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE brugnon 2	courgette 4	crème_glacée 2	jujube 3	salicorne 4	 ;
+15485m  du_Rosaire_/_St-Hubert
+MANQUE bigarade 2	groseille 1	maceron 1	pate 3	pois 2	salicorne 2	 ;
+OK
+OK
+MANQUE avocat 2	groseille 2	 ;
+MANQUE pois 3	porc 4	 ;
+MANQUE datte 1	wapiti 2	 ;
+IMPOSSIBLE
+17679m  Clark_/_St-Viateur
+OK
+MANQUE agneau 2	amande 4	ananas 1	myrtille 1	noisette 2	pain 2	radis 4	rhubarbe 1	sel 4	veau 4	 ;
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE pois 4	yogourt 4	 ;
+MANQUE fromage 1	oeuf 3	 ;
+11832m  Place_de_la_paix_(_Pl__du_marche_/_St-Dominique_)
+MANQUE amande 4	myrtille 2	quetsche 3	 ;
+2093m  Rousselot_/_Villeray
+IMPOSSIBLE
+OK
+MANQUE chou 3	figue 1	myrtille 4	poivron 4	radis_noir 2	 ;
+MANQUE poivron 3	 ;
+IMPOSSIBLE
+OK
+MANQUE abricot 4	amande 3	citron 3	oignon 1	pain 1	pomme_de_terre 3	porc 2	 ;
+MANQUE avocat 4	datte 2	fromage 1	noix 1	panais 2	poivre 4	 ;
+OK
+OK
+IMPOSSIBLE
+880m  du_Rosaire_/_St-Hubert
+OK
+MANQUE asperge 1	aubergine 2	boeuf 4	courge 2	cynorrhodon 1	gingembre 4	haricot 3	olive 1	 ;
+MANQUE carotte 1	céleri 2	oignon 1	porc 2	 ;
+OK
+IMPOSSIBLE
+2675m  St-Dominique_/_St-Zotique
+IMPOSSIBLE
+12723m  du_Rosaire_/_St-Hubert
+OK
+MANQUE pomme_de_terre 4	 ;
+MANQUE bigarade 3	crème 3	framboise 3	fromage 2	fève 3	laitue 3	lapin 2	pain 4	pamplemousse 4	 ;
+OK
+OK
+MANQUE ail 4	cornouiller_du_Canada 3	kaki 3	poivron 1	quetsche 3	taro 4	 ;
+OK
+OK
+OK
+OK
+MANQUE groseille 1	wapiti 2	 ;
+MANQUE beurre 4	cassis 1	laitue 1	noix 3	 ;
+OK
+OK
+MANQUE autruche 1	avocat 3	courge 4	groseille 2	kiwi 3	poire 4	 ;
+OK
+MANQUE agneau 1	bison 1	brocoli 3	kaki 2	quetsche 4	 ;
+OK
+MANQUE boeuf 1	brugnon 2	kaki 4	lait 1	 ;
+COMPLET
+OK
+MANQUE figue 1	noisette 3	panais 3	salade 4	 ;
+MANQUE ananas 2	brugnon 2	cerise 3	jujube 2	lime 4	quinoa 2	 ;
+OK
+OK
+MANQUE aubergine 2	basilic 3	bigarade 2	cynorrhodon 4	laitue 1	lapin 1	pate 1	sel 1	 ;
+MANQUE amande 1	concombre 3	figue 2	maceron 4	olive 4	 ;
+MANQUE kiwi 2	maceron 1	 ;
+OK
+4833m  Wilderton__/_Van_Horne
+10160m  Metro_Longueuil_-_Universite_de_Sherbrooke
+OK
+IMPOSSIBLE
+MANQUE aubergine 3	datte 3	jujube 4	 ;
+4637m  Bel_Air_/_St-Antoine
+OK
+MANQUE soja 1	truffe 2	 ;
+MANQUE antilope 3	avocat 2	cheval 3	pistache 2	rhubarbe 1	 ;
+OK
+OK
+OK
+MANQUE asperge 1	mandarine 1	marron 1	pate 1	salicorne 2	 ;
+MANQUE asperge 4	autruche 1	bigarade 3	huile 3	lapin 2	olive 1	sucre 4	 ;
+MANQUE agneau 4	avocat 3	chou-fleur 4	concombre 4	céleri 1	lapin 3	pêche 4	 ;
+OK
+MANQUE lapin 4	quetsche 2	 ;
+OK
+MANQUE boeuf 1	chou 2	figue 1	huile 1	oeuf 4	 ;
+MANQUE abricot 4	arbouse 1	courge 3	framboise 1	fève 1	gingembre 1	lait 3	pain 1	truffe 2	veau 3	 ;
+MANQUE ail 3	citron 1	orange 2	 ;
+IMPOSSIBLE
+MANQUE antilope 2	banane 3	bergamote 1	cheval 2	salicorne 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE chèvre 3	 ;
+MANQUE figue 1	panais 4	pate 2	raisin 1	 ;
+MANQUE carotte 2	 ;
+IMPOSSIBLE
+MANQUE bergamote 2	 ;
+2073m  35e_avenue_/_Beaubien
+MANQUE fraise 1	pastèque 1	prune 4	sucre 2	 ;
+IMPOSSIBLE
+MANQUE arbouse 2	aubergine 2	noix 2	yogourt 2	 ;
+MANQUE gingembre 1	groseille 1	huile 4	kaki 3	nèfle 1	salicorne 1	 ;
+OK
+OK
+MANQUE ananas 1	jujube 2	pamplemousse 4	 ;
+MANQUE arbouse 1	asperge 4	gingembre 2	huile 2	myrtille 3	pamplemousse 3	salicorne 1	soja 1	 ;
+OK
+MANQUE autruche 2	cassis 4	citron 1	crème_glacée 4	fraise 2	grenade 2	laitue 4	lime 3	pamplemousse 3	sel 1	 ;
+6666m  8e_avenue_/_Beaubien
+OK
+MANQUE jujube 3	 ;
+OK
+OK
+OK
+MANQUE crème 2	fromage 3	jujube 4	kaki 1	maceron 3	myrtille 3	pastèque 1	 ;
+OK
+OK
+2128m  Hutchison/_Prince-Arthur
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE framboise 1	lime 2	 ;
+OK
+OK
+OK
+MANQUE canneberge 4	courgette 2	fromage 3	fève 1	poivron 4	prune 1	 ;
+OK
+IMPOSSIBLE
+3178m  Berri_/_Gilford
+OK
+MANQUE ail 1	citron 3	huile 4	truffe 4	 ;
+MANQUE canneberge 4	carotte 4	mandarine 2	noisette 4	rhubarbe 2	 ;
+IMPOSSIBLE
+OK
+15307m  Metro_Longueuil_-_Universite_de_Sherbrooke
+MANQUE aubergine 3	brocoli 1	citrouille 3	coing 1	crème_glacée 1	poireau 1	rhubarbe 3	 ;
+OK
+MANQUE ananas 2	avocat 3	cerise 2	clémentine 1	 ;
+OK
+OK
+3502m  Berri_/_Cherrier
+MANQUE ananas 3	carotte 2	framboise 4	grenade 4	 ;
+MANQUE canneberge 4	huile 1	lait 4	pistache 1	pomme_de_terre 4	sucre 2	veau 3	wapiti 4	 ;
+IMPOSSIBLE
+OK
+3255m  Mentana_/_Marie-Anne
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+2967m  de_Maisonneuve_/_Greene
+IMPOSSIBLE
+MANQUE abricot 2	cassis 3	courge 2	groseille 2	pastèque 1	 ;
+MANQUE aubergine 4	fromage 3	melon 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE asperge 1	brocoli 2	cornouiller_du_Canada 1	fève 1	yogourt 2	épices 4	 ;
+15630m  Wilderton__/_Van_Horne
+OK
+4936m  McGill_/_des_Recollets
+MANQUE citrouille 1	radis 2	salicorne 4	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE échalote 1	 ;
+MANQUE abricot 1	agneau 1	pastèque 4	 ;
+7067m  Hamilton_/_Jolicoeur
+11018m  Wilderton__/_Van_Horne
+MANQUE amande 3	fraise 1	rhubarbe 2	taro 1	épices 2	 ;
+2177m  28e_avenue_/_Rosemont
+OK
+OK
+MANQUE crème 3	olive 3	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE melon 1	romaine 2	échalote 3	 ;
+IMPOSSIBLE
+OK
+4742m  Drummond_/_de_Maisonneuve
+MANQUE concombre 2	melon 1	poivron 1	sel 3	 ;
+MANQUE châtaigne 3	groseille 3	huile 3	poivre 1	yogourt 3	 ;
+IMPOSSIBLE
+OK
+MANQUE asperge 3	céleri 2	pomme_de_terre 4	salade 2	échalote 2	 ;
+6676m  Drummond_/_de_Maisonneuve
+3984m  Hutchison_/_Beaubien
+19974m  Hamilton_/_Jolicoeur
+9917m  6e_avenue_/_Rosemont
+OK
+MANQUE agneau 3	bergamote 1	cassis 4	datte 4	mandarine 3	rhubarbe 3	soja 2	yogourt 2	 ;
+MANQUE brugnon 4	clémentine 4	kaki 2	lait 1	sucre 4	 ;
+OK
+OK
+MANQUE betterave 1	brugnon 2	ciboulette 1	crème_glacée 3	jujube 1	 ;
+MANQUE carotte 1	navet 4	 ;
+IMPOSSIBLE
+11292m  du_Rosaire_/_St-Hubert
+16360m  Jeanne_Mance_/_du_Mont-Royal
+OK
+OK
+IMPOSSIBLE
+MANQUE brocoli 3	soja 4	 ;
+IMPOSSIBLE
+OK
+MANQUE huile 3	noisette 2	nèfle 4	taro 4	veau 3	 ;
+OK
+OK
+OK
+1804m  du_Square_Ahmerst_/_Wolfe
+OK
+IMPOSSIBLE
+OK
+7471m  Belmont_/_Beaver_Hall
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE asperge 1	brocoli 3	orange 4	poivron 2	 ;
+MANQUE agneau 1	courge 3	pois 3	 ;
+MANQUE abricot 3	bergamote 3	clémentine 1	cornouiller_du_Canada 3	oeuf 4	pate 2	pêche 3	 ;
+MANQUE radis_noir 2	 ;
+MANQUE framboise 4	fromage 4	myrtille 1	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE chèvre 1	citrouille 3	fromage 3	yogourt 4	 ;
+OK
+OK
+OK
+8475m  Hamilton_/_Jolicoeur
+MANQUE marron 4	orange 4	pistache 3	 ;
+MANQUE arbouse 1	fraise 1	laitue 4	pêche 3	soja 2	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE céleri 2	navet 1	pistache 2	sel 3	sucre 2	 ;
+MANQUE citrouille 1	 ;
+MANQUE brocoli 2	grenade 2	olive 2	pistache 2	pois 1	pomme 1	 ;
+947m  Hutchison_/_Beaubien
+OK
+MANQUE arbouse 4	oeuf 3	salicorne 3	 ;
+IMPOSSIBLE
+MANQUE cerise 1	jujube 4	pêche 1	 ;
+MANQUE concombre 3	cornouiller_du_Canada 1	fromage 1	lime 2	mûre 2	poireau 4	radis 2	 ;
+MANQUE courge 2	céleri 1	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+MANQUE myrtille 1	rhubarbe 3	 ;
+OK
+MANQUE abricot 3	chou-fleur 2	chèvre 1	lait 1	pomme_de_terre 4	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE brugnon 1	chou 2	citron 1	concombre 4	lime 1	pastèque 2	poire 3	poivron 3	sucre 3	 ;
+MANQUE avocat 2	cassis 2	coing 4	courgette 1	fraise 3	lait 2	maceron 4	pois 2	 ;
+OK
+IMPOSSIBLE
+OK
+8697m  Wilderton__/_Van_Horne
+14405m  du_Rosaire_/_St-Hubert
+MANQUE bergamote 4	quinoa 4	salade 2	 ;
+MANQUE courge 3	salade 3	 ;
+MANQUE betterave 1	taro 4	 ;
+OK
+OK
+9628m  Wilson_/_Sherbrooke
+OK
+IMPOSSIBLE
+17267m  Belmore_/_Sherbrooke
+MANQUE orange 2	raisin 1	 ;
+OK
+OK
+15503m  Cremazie_/_Lajeunesse
+OK
+OK
+OK
+OK
+OK
+MANQUE basilic 2	chou 3	plaquebière 4	poireau 2	taro 1	 ;
+MANQUE ail 3	banane 2	carotte 2	pain 1	 ;
+MANQUE betterave 3	cassis 1	coing 4	laitue 1	 ;
+MANQUE basilic 1	cynorrhodon 1	fève 3	kiwi 4	nèfle 1	olive 2	 ;
+IMPOSSIBLE
+MANQUE beurre 2	chou-fleur 1	huile 1	soja 2	 ;
+MANQUE avocat 4	bergamote 4	chou 1	clémentine 2	mûre 1	 ;
+6947m  Drummond_/_de_Maisonneuve
+OK
+MANQUE abricot 2	ail 4	beurre 3	concombre 2	haricot 2	noisette 2	oeuf 1	pastèque 3	 ;
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+OK
+MANQUE brocoli 2	carotte 1	coing 2	haricot 4	 ;
+8456m  Drummond_/_de_Maisonneuve
+OK
+MANQUE aubergine 4	autruche 1	cerise 4	cornouiller_du_Canada 3	mûre 3	 ;
+MANQUE gingembre 1	mûre 1	poireau 1	sucre 3	 ;
+MANQUE brugnon 4	 ;
+MANQUE citrouille 2	cornouiller_du_Canada 3	jujube 4	maceron 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE abricot 3	avocat 2	datte 3	fraise 1	noisette 4	plaquebière 4	taro 4	truffe 4	yogourt 2	 ;
+IMPOSSIBLE
+MANQUE crème 3	pate 2	 ;
+MANQUE ciboulette 3	myrtille 2	 ;
+IMPOSSIBLE
+OK
+MANQUE ananas 4	beurre 4	brocoli 4	cheval 4	courgette 4	céleri 4	soja 4	truffe 1	 ;
+OK
+MANQUE agneau 4	noix 3	 ;
+MANQUE banane 2	lime 1	salicorne 4	taro 3	 ;
+OK
+7759m  de_Gaspe_/_Fairmount
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE autruche 1	beurre 3	fève 1	groseille 3	panais 3	pomme_de_terre 2	radis 1	 ;
+9718m  Duluth_/_St-Laurent
+OK
+IMPOSSIBLE
+MANQUE chou-fleur 2	truffe 2	 ;
+MANQUE abricot 3	antilope 1	 ;
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+14270m  Mentana_/_Marie-Anne
+2712m  Chabot_/_St-Zotique
+OK
+MANQUE pate 1	porc 2	 ;
+18556m  Wilderton__/_Van_Horne
+MANQUE betterave 3	beurre 1	mirabelle 1	pate 1	pois 1	quetsche 4	 ;
+OK
+OK
+MANQUE beurre 2	courge 4	cynorrhodon 1	framboise 1	lait 2	marron 4	 ;
+OK
+3836m  Wilderton__/_Van_Horne
+IMPOSSIBLE
+MANQUE aubergine 2	noix 1	 ;
+OK
+OK
+MANQUE lait 4	lime 2	pastèque 2	 ;
+OK
+OK
+OK
+MANQUE clémentine 3	lime 3	orange 4	panais 1	pastèque 2	 ;
+OK
+MANQUE ananas 2	crème 4	lapin 4	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE noix 2	salicorne 2	 ;
+OK
+OK
+MANQUE betterave 1	boeuf 3	cynorrhodon 2	mirabelle 3	pastèque 1	poireau 3	wapiti 3	 ;
+OK
+MANQUE figue 4	pomme_de_terre 2	 ;
+MANQUE oignon 1	 ;
+IMPOSSIBLE
+MANQUE canneberge 3	chou 1	courge 3	courgette 4	poire 4	raisin 4	 ;
+IMPOSSIBLE
+MANQUE arbouse 2	fromage 3	poire 1	pêche 1	radis_noir 1	 ;
+OK
+OK
+OK
+MANQUE figue 2	gingembre 3	nèfle 3	 ;
+OK
+OK
+5413m  10e_avenue_/_Masson
+MANQUE autruche 4	avocat 2	banane 2	melon 4	nèfle 3	oeuf 1	romaine 1	truffe 1	 ;
+OK
+MANQUE citron 1	fève 4	haricot 4	jujube 3	wapiti 3	 ;
+OK
+OK
+MANQUE melon 2	nèfle 4	pamplemousse 1	salicorne 1	 ;
+MANQUE chou 4	panais 1	yogourt 1	 ;
+IMPOSSIBLE
+MANQUE grenade 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE basilic 2	carotte 2	chou 1	courgette 3	gingembre 4	grenade 3	jujube 3	noisette 2	pistache 2	salicorne 3	 ;
+MANQUE bigarade 1	lait 2	 ;
+IMPOSSIBLE
+OK
+3128m  Wilson_/_Sherbrooke
+MANQUE bergamote 1	brugnon 2	myrtille 2	yogourt 2	 ;
+8545m  Metcalfe_/_Square_Dorchester
+MANQUE agneau 2	concombre 3	courge 4	maceron 4	mandarine 4	sel 1	 ;
+2399m  Drolet_/_Laurier
+IMPOSSIBLE
+5176m  Chapleau_/_du_Mont-Royal
+OK
+OK
+8616m  Metro_Longueuil_-_Universite_de_Sherbrooke
+MANQUE chou-fleur 4	pois 1	 ;
+IMPOSSIBLE
+MANQUE abricot 1	antilope 2	bison 2	canneberge 4	coing 2	concombre 1	framboise 2	fève 3	kaki 2	 ;
+MANQUE poivron 3	truffe 2	 ;
+OK
+OK
+1963m  de_Gaspe_/_Fairmount
+IMPOSSIBLE
+OK
+4769m  de_Repentigny_/_Sherbrooke
+OK
+MANQUE cassis 2	grenade 1	navet 1	porc 4	quinoa 4	 ;
+OK
+OK
+OK
+MANQUE betterave 2	pêche 1	 ;
+OK
+MANQUE chou-fleur 2	fraise 1	radis 1	radis_noir 2	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE carotte 1	lapin 4	romaine 4	yogourt 1	 ;
+MANQUE pastèque 1	pate 2	quinoa 1	 ;
+MANQUE fraise 3	mirabelle 1	pistache 2	échalote 1	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE raisin 1	rhubarbe 2	 ;
+OK
+MANQUE ananas 3	canneberge 3	pate 3	romaine 2	 ;
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+14208m  Chapleau_/_du_Mont-Royal
+MANQUE haricot 1	pomme_de_terre 4	soja 1	 ;
+OK
+OK
+MANQUE coing 1	crème_glacée 3	grenade 1	noisette 4	pomme 1	pomme_de_terre 1	quinoa 2	 ;
+12368m  Duluth_/_St-Laurent
+MANQUE betterave 1	bigarade 4	cynorrhodon 3	fève 4	orange 4	poivre 4	quetsche 1	soja 2	 ;
+OK
+OK
+MANQUE ail 3	autruche 3	prune 1	 ;
+OK
+OK
+MANQUE ananas 1	groseille 3	lait 1	mûre 3	radis_noir 4	 ;
+MANQUE autruche 4	avocat 4	cerise 2	lapin 3	maceron 4	 ;
+IMPOSSIBLE
+MANQUE betterave 2	 ;
+MANQUE antilope 2	brocoli 3	fraise 2	huile 1	navet 3	épices 1	 ;
+OK
+MANQUE brugnon 1	cerise 2	ciboulette 1	crème_glacée 4	datte 4	huile 3	salade 2	 ;
+OK
+MANQUE chou 2	céleri 3	huile 2	lime 1	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE cassis 3	kiwi 4	lait 1	lapin 1	poire 2	épices 1	 ;
+OK
+10641m  Hamilton_/_Jolicoeur
+IMPOSSIBLE
+10868m  de_Repentigny_/_Sherbrooke
+MANQUE chou 3	navet 1	quinoa 1	wapiti 1	épices 4	 ;
+OK
+OK
+OK
+MANQUE jujube 1	 ;
+6494m  Metro_Cote-des-Neiges_(Lacombe_/_de_la_Cote-des-Neiges)
+MANQUE amande 3	ananas 4	beurre 1	concombre 2	lapin 1	pain 1	romaine 1	 ;
+IMPOSSIBLE
+OK
+MANQUE maceron 3	prune 4	quetsche 3	sel 2	 ;
+MANQUE pistache 3	 ;
+IMPOSSIBLE
+MANQUE betterave 2	chèvre 1	 ;
+MANQUE abricot 1	autruche 4	chou 3	cynorrhodon 4	fromage 2	pate 3	pois 1	pêche 2	radis_noir 1	 ;
+MANQUE pistache 3	 ;
+MANQUE chou 1	mandarine 4	oignon 3	pain 4	pamplemousse 2	 ;
+2921m  Regina_/_de_Verdun
+OK
+OK
+MANQUE ananas 4	myrtille 1	porc 2	épices 3	 ;
+2115m  Chabot_/_St-Zotique
+4319m  Duvernay_/_Charlevoix
+OK
+MANQUE crème_glacée 1	olive 1	poivre 3	quetsche 3	 ;
+MANQUE cerise 3	 ;
+MANQUE canneberge 4	cheval 2	pistache 2	pomme_de_terre 2	yogourt 4	 ;
+MANQUE bison 1	chou-fleur 3	 ;
+OK
+OK
+OK
+MANQUE avocat 1	brugnon 3	cynorrhodon 1	kaki 3	laitue 2	noix 2	pomme 2	porc 3	wapiti 1	 ;
+MANQUE ciboulette 1	courgette 2	datte 2	haricot 2	huile 3	 ;
+MANQUE courge 4	marron 4	 ;
+OK
+MANQUE ail 1	mirabelle 3	mûre 2	oeuf 4	quinoa 1	 ;
+OK
+OK
+MANQUE framboise 1	raisin 4	 ;
+MANQUE pain 2	échalote 2	 ;
+MANQUE avocat 2	brugnon 1	cerise 4	salade 3	 ;
+IMPOSSIBLE
+MANQUE cerise 2	concombre 4	huile 1	mûre 2	salade 2	 ;
+MANQUE amande 2	cheval 3	framboise 3	pêche 1	 ;
+OK
+OK
+7123m  Hamilton_/_Jolicoeur
+MANQUE ail 3	antilope 1	cheval 1	concombre 2	plaquebière 2	sel 1	 ;
+IMPOSSIBLE
+MANQUE citron 1	kiwi 4	orange 3	poivre 2	raisin 4	 ;
+IMPOSSIBLE
+MANQUE melon 3	 ;
+MANQUE courge 3	kaki 1	poire 1	radis 1	 ;
+MANQUE bigarade 1	chou-fleur 1	courgette 1	pois 1	radis 1	veau 4	 ;
+OK
+MANQUE citrouille 2	gingembre 4	pamplemousse 2	poivre 4	 ;
+MANQUE agneau 4	boeuf 1	cassis 1	citron 2	laitue 2	 ;
+MANQUE ananas 2	 ;
+OK
+IMPOSSIBLE
+7425m  Metro_Longueuil_-_Universite_de_Sherbrooke
+MANQUE citron 3	haricot 3	lapin 4	nèfle 2	oeuf 1	pamplemousse 3	radis 4	salicorne 4	 ;
+OK
+5330m  Duvernay_/_Charlevoix
+OK
+MANQUE lapin 1	sucre 4	 ;
+IMPOSSIBLE
+OK
+MANQUE agneau 4	mirabelle 3	pate 4	 ;
+MANQUE brugnon 3	châtaigne 2	crème_glacée 4	framboise 4	fromage 2	kiwi 1	noisette 4	porc 4	 ;
+11094m  Drummond_/_de_Maisonneuve
+MANQUE gingembre 3	raisin 1	 ;
+2608m  Wilderton__/_Van_Horne
+MANQUE gingembre 1	lapin 1	melon 4	pastèque 3	poire 4	 ;
+OK
+MANQUE pomme_de_terre 1	soja 1	 ;
+OK
+OK
+OK
+MANQUE bergamote 2	beurre 3	cerise 2	coing 2	céleri 1	laitue 4	oeuf 3	pêche 4	 ;
+OK
+MANQUE arbouse 3	autruche 3	citron 1	groseille 3	navet 3	 ;
+14363m  Duvernay_/_Charlevoix
+OK
+OK
+MANQUE quinoa 3	soja 2	 ;
+MANQUE basilic 3	cynorrhodon 3	laitue 3	 ;
+MANQUE chou-fleur 3	olive 3	pamplemousse 1	 ;
+MANQUE citrouille 2	crème 1	framboise 2	grenade 4	kiwi 1	 ;
+MANQUE abricot 3	citron 2	céleri 1	pistache 3	soja 2	sucre 2	 ;
+OK
+COMPLET
+IMPOSSIBLE
+OK
+MANQUE citron 3	courgette 3	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE betterave 3	citrouille 1	poire 2	pêche 4	 ;
+MANQUE asperge 1	courgette 2	kiwi 1	lime 3	pain 3	prune 3	 ;
+8509m  Duvernay_/_Charlevoix
+OK
+OK
+OK
+9500m  Duluth_/_St-Laurent
+OK
+OK
+OK
+1976m  Berri_/_Sherbrooke
+12570m  Hutchison_/_Edouard_Charles
+OK
+MANQUE basilic 1	 ;
+IMPOSSIBLE
+4967m  Hamilton_/_Jolicoeur
+MANQUE bison 3	cheval 4	crème 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE kaki 2	oignon 2	wapiti 2	 ;
+MANQUE chou-fleur 2	ciboulette 1	 ;
+MANQUE clémentine 2	figue 4	 ;
+OK
+OK
+MANQUE bergamote 4	beurre 2	courge 1	haricot 3	pêche 4	radis 4	veau 4	 ;
+MANQUE cassis 3	crème 3	céleri 1	pain 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+9248m  12e_avenue_/_St-Zotique
+MANQUE veau 3	 ;
+7697m  Jeanne_Mance_/_du_Mont-Royal
+MANQUE ail 1	basilic 3	céleri 1	melon 1	navet 3	noisette 2	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE cerise 4	céleri 2	plaquebière 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE huile 3	jujube 1	sel 4	truffe 1	 ;
+10623m  Belmore_/_Sherbrooke
+MANQUE antilope 2	autruche 1	cynorrhodon 3	figue 3	plaquebière 3	pomme 4	pêche 4	salicorne 3	 ;
+MANQUE brocoli 2	prune 4	soja 3	 ;
+OK
+1773m  Drummond_/_de_Maisonneuve
+OK
+MANQUE ciboulette 3	huile 1	nèfle 4	poivron 3	porc 2	taro 3	 ;
+OK
+MANQUE figue 3	noix 2	 ;
+13768m  Hamilton_/_Jolicoeur
+2136m  Hamilton_/_Jolicoeur
+11192m  Duvernay_/_Charlevoix
+MANQUE cerise 2	radis 2	 ;
+1598m  Marche_Maisonneuve
+MANQUE cheval 1	melon 1	pois 3	poivre 3	raisin 1	salade 3	wapiti 1	 ;
+OK
+OK
+MANQUE ail 2	jujube 4	 ;
+MANQUE courge 1	framboise 1	lapin 4	melon 2	noix 3	olive 4	pois 2	 ;
+OK
+MANQUE marron 1	pêche 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+4193m  16e_avenue_/_St-Joseph
+4498m  Hamilton_/_Jolicoeur
+OK
+10344m  Duvernay_/_Charlevoix
+MANQUE abricot 3	gingembre 2	kaki 3	noisette 2	radis_noir 4	yogourt 4	épices 1	 ;
+5344m  Drummond_/_de_Maisonneuve
+MANQUE ananas 3	bigarade 3	 ;
+IMPOSSIBLE
+7492m  Duvernay_/_Charlevoix
+MANQUE canneberge 3	cassis 3	kaki 1	kiwi 3	 ;
+OK
+OK
+MANQUE lime 3	 ;
+MANQUE ananas 2	 ;
+OK
+OK
+9459m  16e_avenue_/_St-Joseph
+OK
+OK
+OK
+1736m  Metro_Cote-des-Neiges_(Lacombe_/_de_la_Cote-des-Neiges)
+4622m  Jeanne_Mance_/_du_Mont-Royal
+COMPLET
+MANQUE châtaigne 1	groseille 2	lait 3	pate 4	porc 4	épices 3	 ;
+OK
+IMPOSSIBLE
+MANQUE banane 4	châtaigne 3	 ;
+MANQUE antilope 1	canneberge 2	lapin 4	lime 3	pêche 1	 ;
+MANQUE gingembre 3	prune 1	salade 1	 ;
+MANQUE ail 2	arbouse 1	orange 4	pistache 1	pois 1	pomme_de_terre 2	épices 4	 ;
+MANQUE chou-fleur 1	cornouiller_du_Canada 2	courgette 3	mûre 2	 ;
+MANQUE abricot 2	ananas 4	crème 1	maceron 4	panais 2	poire 3	quinoa 4	soja 3	truffe 2	yogourt 1	 ;
+OK
+OK
+OK
+OK
+OK
+3335m  Hamilton_/_Jolicoeur
+MANQUE abricot 2	lait 1	noix 2	pomme_de_terre 1	 ;
+OK
+MANQUE groseille 2	oeuf 2	pate 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE abricot 1	asperge 3	boeuf 2	crème_glacée 1	navet 4	 ;
+IMPOSSIBLE
+OK
+6902m  Hamilton_/_Jolicoeur
+6735m  de_l'Esplanade_/_Fairmount
+MANQUE avocat 1	basilic 4	citron 2	haricot 1	pain 2	wapiti 4	 ;
+2011m  Hutchison_/_Edouard_Charles
+IMPOSSIBLE
+10485m  6e_avenue_/_Rosemont
+OK
+MANQUE antilope 2	crème_glacée 1	lapin 3	pastèque 3	pomme 3	quinoa 4	échalote 2	 ;
+OK
+MANQUE amande 4	truffe 4	 ;
+IMPOSSIBLE
+3225m  12e_avenue_/_St-Zotique
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE ananas 4	arbouse 3	carotte 2	cornouiller_du_Canada 4	fromage 3	noix 1	pois 1	romaine 2	 ;
+IMPOSSIBLE
+5078m  Hamilton_/_Jolicoeur
+OK
+IMPOSSIBLE
+MANQUE beurre 4	ciboulette 4	crème_glacée 2	framboise 1	huile 1	soja 3	 ;
+MANQUE autruche 2	beurre 4	lime 3	poire 3	salade 1	salicorne 2	taro 3	 ;
+OK
+3730m  des_Seigneurs_/_Workman
+MANQUE ananas 1	chèvre 2	citrouille 4	fraise 4	fève 2	noix 4	poivron 3	quetsche 1	 ;
+OK
+OK
+OK
+MANQUE arbouse 4	autruche 1	banane 2	cheval 1	fève 2	mirabelle 3	noix 1	oignon 2	 ;
+MANQUE asperge 4	cassis 4	coing 2	melon 4	pastèque 1	salicorne 4	 ;
+4266m  Gilford_/_de_Brebeuf
+IMPOSSIBLE
+5412m  de_l'Esplanade_/_Fairmount
+OK
+IMPOSSIBLE
+OK
+OK
+11744m  Gilford_/_de_Brebeuf
+MANQUE melon 1	nèfle 1	pomme 1	salade 2	sucre 2	 ;
+OK
+OK
+OK
+OK
+MANQUE cynorrhodon 2	quetsche 1	 ;
+6341m  Faillon_/_St-Denis
+OK
+2117m  Hamilton_/_Jolicoeur
+IMPOSSIBLE
+MANQUE courge 2	céleri 2	taro 2	 ;
+10032m  Jeanne_Mance_/_du_Mont-Royal
+OK
+MANQUE cynorrhodon 1	mandarine 3	pamplemousse 2	 ;
+10289m  Duvernay_/_Charlevoix
+MANQUE fraise 2	 ;
+OK
+OK
+MANQUE chèvre 1	sel 3	veau 1	 ;
+OK
+MANQUE cornouiller_du_Canada 3	poivron 3	salicorne 2	yogourt 1	 ;
+OK
+OK
+MANQUE abricot 3	chou 2	lime 1	maceron 4	mûre 4	pate 4	sucre 2	 ;
+OK
+IMPOSSIBLE
+MANQUE pain 4	salade 4	 ;
+OK
+11241m  Drummond_/_de_Maisonneuve
+OK
+IMPOSSIBLE
+OK
+MANQUE arbouse 2	haricot 2	melon 4	yogourt 1	 ;
+5472m  10e_Avenue_/_Rosemont
+2208m  6e_avenue_/_Rosemont
+MANQUE avocat 2	concombre 3	melon 3	poivron 4	 ;
+MANQUE arbouse 2	avocat 3	brugnon 2	cheval 3	cornouiller_du_Canada 4	crème 1	wapiti 1	 ;
+OK
+MANQUE romaine 1	 ;
+OK
+MANQUE figue 1	noisette 1	pomme 1	veau 4	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE ananas 1	canneberge 4	céleri 4	figue 3	framboise 2	nèfle 4	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE ail 4	crème_glacée 1	quinoa 2	 ;
+25383m  Paul_Boutet_/_des_Regrattiers
+OK
+2997m  Duluth_/_St-Laurent
+IMPOSSIBLE
+OK
+OK
+MANQUE figue 3	 ;
+MANQUE ail 1	autruche 2	groseille 1	maceron 1	navet 2	pêche 2	 ;
+OK
+OK
+14256m  Roy_/_St-Christophe
+MANQUE courgette 1	 ;
+MANQUE abricot 4	mandarine 2	nèfle 4	orange 1	poivre 4	épices 1	 ;
+11544m  Hutchison_/_Edouard_Charles
+MANQUE ail 1	cassis 2	lime 2	pois 1	 ;
+MANQUE bison 1	cynorrhodon 4	datte 4	grenade 2	pastèque 4	pate 1	pêche 3	salicorne 2	 ;
+OK
+MANQUE boeuf 3	oeuf 1	 ;
+OK
+OK
+MANQUE boeuf 2	cerise 3	mirabelle 3	plaquebière 2	 ;
+MANQUE maceron 1	quinoa 2	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+8398m  Hamilton_/_Jolicoeur
+10992m  Place_Longueuil
+4633m  Benny_/_Crescent
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+7950m  Louis-Hebert_/_Jean-Talon
+MANQUE autruche 3	beurre 1	concombre 4	céleri 2	figue 4	pamplemousse 1	pomme_de_terre 1	 ;
+OK
+MANQUE citron 4	céleri 2	datte 4	 ;
+MANQUE lime 1	radis 1	 ;
+MANQUE autruche 4	bergamote 4	brugnon 3	huile 1	noisette 1	 ;
+MANQUE canneberge 2	carotte 4	cheval 2	taro 1	 ;
+OK
+MANQUE bison 4	citrouille 2	courgette 4	céleri 3	maceron 1	soja 3	truffe 3	 ;
+OK
+15779m  12e_avenue_/_St-Zotique
+17816m  Benny_/_Crescent
+IMPOSSIBLE
+MANQUE autruche 2	noisette 2	 ;
+6822m  Hamilton_/_Jolicoeur
+MANQUE cerise 1	citron 3	coing 1	échalote 2	 ;
+OK
+MANQUE plaquebière 4	wapiti 2	 ;
+MANQUE agneau 1	truffe 1	 ;
+OK
+9268m  Duluth_/_St-Laurent
+MANQUE ananas 1	myrtille 2	poireau 4	porc 4	 ;
+OK
+OK
+MANQUE lime 1	oignon 4	pain 3	pistache 1	plaquebière 1	wapiti 4	yogourt 3	 ;
+6394m  Duvernay_/_Charlevoix
+MANQUE panais 3	 ;
+MANQUE aubergine 1	betterave 3	châtaigne 4	chèvre 2	gingembre 2	 ;
+OK
+MANQUE avocat 4	chou 1	concombre 1	framboise 3	marron 1	mûre 1	poire 2	sucre 1	 ;
+6146m  Hamilton_/_Jolicoeur
+OK
+3569m  Duvernay_/_Charlevoix
+OK
+IMPOSSIBLE
+27560m  Hamilton_/_Jolicoeur
+MANQUE beurre 1	porc 2	 ;
+IMPOSSIBLE
+16625m  Jeanne_Mance_/_du_Mont-Royal
+OK
+OK
+OK
+OK
+MANQUE arbouse 2	asperge 3	myrtille 3	pastèque 4	pomme 1	radis_noir 4	 ;
+MANQUE céleri 1	laitue 3	nèfle 2	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+3697m  Hamilton_/_Jolicoeur
+OK
+MANQUE ananas 4	courge 1	fève 1	lait 2	poivre 1	raisin 1	 ;
+OK
+MANQUE mirabelle 2	oignon 4	pomme 1	 ;
+OK
+IMPOSSIBLE
+MANQUE ananas 2	poivron 4	 ;
+16179m  Roy_/_St-Christophe
+MANQUE cerise 1	cheval 4	crème 2	 ;
+MANQUE chèvre 3	céleri 3	 ;
+MANQUE bison 1	framboise 1	mirabelle 4	pastèque 3	 ;
+OK
+3011m  12e_avenue_/_St-Zotique
+OK
+OK
+OK
+10841m  Place_Longueuil
+IMPOSSIBLE
+6591m  Metcalfe_/_Square_Dorchester
+3726m  Louis-Hebert_/_Jean-Talon
+8614m  Hamilton_/_Jolicoeur
+3399m  Maguire_/_Henri-Julien
+OK
+6807m  Louis-Hebert_/_Jean-Talon
+OK
+MANQUE kiwi 1	pistache 1	poivron 1	 ;
+3136m  Metro_Longueuil_-_Universite_de_Sherbrooke
+MANQUE amande 4	ananas 3	bison 1	kiwi 4	laitue 1	 ;
+24843m  26e_avenue_/_Beaubien
+OK
+OK
+MANQUE beurre 3	ciboulette 4	concombre 2	laitue 3	olive 3	 ;
+OK
+MANQUE courge 2	 ;
+OK
+MANQUE banane 4	bigarade 3	brugnon 1	canneberge 4	fraise 1	poire 4	soja 3	taro 1	 ;
+OK
+OK
+MANQUE autruche 4	céleri 2	datte 2	grenade 1	poire 4	 ;
+IMPOSSIBLE
+MANQUE antilope 1	banane 3	haricot 4	melon 4	veau 3	 ;
+MANQUE bergamote 3	bison 4	chou-fleur 2	olive 2	yogourt 4	 ;
+IMPOSSIBLE
+3780m  Gilford_/_de_Brebeuf
+2970m  12e_avenue_/_St-Zotique
+OK
+MANQUE bergamote 3	marron 4	pate 4	 ;
+MANQUE avocat 3	kaki 4	kiwi 1	 ;
+MANQUE figue 4	romaine 3	 ;
+MANQUE cerise 1	ciboulette 2	nèfle 2	poivre 4	 ;
+OK
+OK
+OK
+OK
+MANQUE cassis 4	soja 4	 ;
+MANQUE ananas 1	 ;
+MANQUE agneau 2	arbouse 2	chou 3	chou-fleur 2	crème 1	marron 4	nèfle 2	radis_noir 3	 ;
+IMPOSSIBLE
+MANQUE asperge 3	avocat 2	basilic 3	sel 4	 ;
+15358m  Place_Longueuil
+4490m  Hamilton_/_Jolicoeur
+MANQUE banane 1	kaki 2	 ;
+9385m  Benny_/_Crescent
+IMPOSSIBLE
+MANQUE asperge 3	chou 2	salade 4	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE ananas 1	ciboulette 2	myrtille 3	panais 3	porc 4	romaine 1	 ;
+IMPOSSIBLE
+MANQUE ail 1	myrtille 3	nèfle 1	plaquebière 4	pomme_de_terre 3	 ;
+OK
+MANQUE arbouse 4	poire 1	 ;
+OK
+IMPOSSIBLE
+MANQUE avocat 2	concombre 1	melon 4	quetsche 1	radis_noir 2	yogourt 2	 ;
+MANQUE ail 4	banane 1	huile 2	marron 1	pomme 3	 ;
+MANQUE navet 1	olive 2	pomme 3	 ;
+MANQUE autruche 3	brugnon 2	laitue 4	marron 2	plaquebière 2	pomme_de_terre 2	truffe 4	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE bison 4	courge 1	fromage 2	pastèque 2	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+23467m  Hamilton_/_Jolicoeur
+IMPOSSIBLE
+9418m  Faillon_/_St-Denis
+IMPOSSIBLE
+OK
+OK
+MANQUE asperge 4	bigarade 3	cassis 2	sucre 3	 ;
+IMPOSSIBLE
+OK
+5294m  26e_avenue_/_Beaubien
+MANQUE cassis 3	chou 3	figue 4	grenade 4	poire 2	poivron 4	 ;
+OK
+MANQUE céleri 1	framboise 1	poivron 3	veau 2	 ;
+OK
+IMPOSSIBLE
+2430m  1ere__avenue_/St-Zotique
+IMPOSSIBLE
+IMPOSSIBLE
+11989m  Hamilton_/_Jolicoeur
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+3546m  Louis-Hebert_/_Jean-Talon
+16930m  Parthenais_/_St-Joseph
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+9216m  Place_Longueuil
+OK
+21291m  Duvernay_/_Charlevoix
+17336m  Wilson_/_Sherbrooke
+19650m  Place_Longueuil
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+8970m  Berri_/_St-Gregoire
+17574m  de_l'Esplanade_/_Fairmount
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+4903m  Place_Longueuil
+OK
+IMPOSSIBLE
+12215m  16e_avenue_/_St-Joseph
+OK
+16628m  Place_Longueuil
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+6835m  Hamilton_/_Jolicoeur
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+8008m  Benny_/_Crescent
+OK
+1015m  d'Orleans_/_Hochelaga
+IMPOSSIBLE
+12255m  Drummond_/_de_Maisonneuve
+7560m  Metro_Longueuil_-_Universite_de_Sherbrooke
+IMPOSSIBLE
+12373m  Roy_/_St-Christophe
+2725m  Hamilton_/_Jolicoeur
+OK
+OK
+5842m  Duluth_/_St-Laurent
+OK
+OK
+3360m  12e_avenue_/_St-Zotique
+7046m  West_Broadway_/_Sherbrooke
+8153m  Duluth_/_St-Laurent
+OK
+OK
+OK
+14104m  6e_avenue_/_Rosemont
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+5146m  Bel_Air_/_St-Antoine
+OK
+OK
+5266m  Hamilton_/_Jolicoeur
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+6741m  12e_avenue_/_St-Zotique
+10822m  Hamilton_/_Jolicoeur
+IMPOSSIBLE
+IMPOSSIBLE
+8930m  Regina_/_de_Verdun
+IMPOSSIBLE
+6910m  d'Orleans_/_Hochelaga
+11317m  6e_avenue_/_Rosemont
+2578m  Drummond_/_de_Maisonneuve
+9782m  d'Orleans_/_Hochelaga
+15114m  du_Square_Ahmerst_/_Wolfe
+15975m  d'Orleans_/_Hochelaga
+IMPOSSIBLE
+16541m  Louis-Hebert_/_Jean-Talon
+11860m  Metro_Cote-des-Neiges_(Lacombe_/_de_la_Cote-des-Neiges)
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE

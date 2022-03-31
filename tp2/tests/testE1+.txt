@@ -1,0 +1,3110 @@
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE chou 3	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE datte 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE quetsche 3	 ;
+3225m  Bernard_/_Jeanne-Mance
+OK
+OK
+MANQUE romaine 4	 ;
+MANQUE cerise 3	 ;
+OK
+OK
+MANQUE groseille 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE noix 3	 ;
+MANQUE brocoli 1	 ;
+IMPOSSIBLE
+MANQUE cerise 2	 ;
+OK
+OK
+MANQUE salicorne 2	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE fromage 3	 ;
+MANQUE prune 3	 ;
+8475m  Bernard_/_Jeanne-Mance
+MANQUE échalote 1	 ;
+OK
+OK
+MANQUE lime 1	 ;
+MANQUE agneau 2	 ;
+OK
+MANQUE lait 3	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE laitue 1	 ;
+7899m  Lionel-Groulx_/_George-Vanier
+MANQUE bigarade 2	 ;
+IMPOSSIBLE
+3003m  Lionel-Groulx_/_George-Vanier
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE noisette 1	 ;
+OK
+IMPOSSIBLE
+5550m  Lambert-Closse_/_Tupper
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE framboise 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE poireau 1	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE abricot 4	 ;
+MANQUE quinoa 2	 ;
+OK
+MANQUE quinoa 1	 ;
+OK
+MANQUE crème_glacée 3	 ;
+OK
+MANQUE citrouille 1	 ;
+MANQUE crème_glacée 1	 ;
+MANQUE noix 2	 ;
+IMPOSSIBLE
+MANQUE chou 3	 ;
+OK
+MANQUE cheval 3	 ;
+IMPOSSIBLE
+MANQUE lime 4	 ;
+MANQUE navet 4	 ;
+MANQUE pain 1	 ;
+MANQUE fraise 1	 ;
+OK
+OK
+MANQUE grenade 4	 ;
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE cynorrhodon 2	 ;
+OK
+OK
+OK
+OK
+MANQUE pate 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE olive 2	 ;
+OK
+OK
+OK
+COMPLET
+MANQUE melon 4	 ;
+MANQUE avocat 3	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE soja 3	 ;
+OK
+OK
+OK
+4583m  St-Mathieu_/Ste-Catherine
+3242m  St-Mathieu_/Ste-Catherine
+IMPOSSIBLE
+IMPOSSIBLE
+5206m  Champagneur_/_Jean-Talon
+IMPOSSIBLE
+MANQUE cassis 4	 ;
+MANQUE cassis 2	 ;
+MANQUE épices 1	 ;
+6099m  St-Mathieu_/Ste-Catherine
+OK
+IMPOSSIBLE
+MANQUE mandarine 4	 ;
+IMPOSSIBLE
+MANQUE cheval 2	 ;
+MANQUE yogourt 1	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE truffe 2	 ;
+MANQUE jujube 1	 ;
+MANQUE carotte 3	 ;
+OK
+OK
+IMPOSSIBLE
+5768m  Boyer_/_Beaubien
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+4395m  Champagneur_/_Jean-Talon
+OK
+OK
+MANQUE datte 4	 ;
+OK
+MANQUE ananas 3	 ;
+OK
+1259m  Lambert-Closse_/_Tupper
+COMPLET
+5079m  Lincoln_/_du_Fort
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+COMPLET
+3446m  Chambord_/_Laurier
+OK
+3304m  Boyer_/_Beaubien
+7195m  Boyer_/_Beaubien
+11408m  Lambert-Closse_/_Tupper
+OK
+IMPOSSIBLE
+MANQUE yogourt 1	 ;
+OK
+COMPLET
+MANQUE mirabelle 1	 ;
+IMPOSSIBLE
+OK
+COMPLET
+MANQUE noix 3	 ;
+MANQUE amande 2	 ;
+MANQUE châtaigne 4	 ;
+OK
+OK
+MANQUE céleri 1	 ;
+OK
+OK
+4099m  Boyer_/_Beaubien
+IMPOSSIBLE
+MANQUE noisette 3	 ;
+MANQUE sucre 1	 ;
+IMPOSSIBLE
+MANQUE sucre 4	 ;
+IMPOSSIBLE
+MANQUE antilope 3	 ;
+OK
+MANQUE pastèque 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pain 2	 ;
+OK
+OK
+MANQUE boeuf 1	 ;
+MANQUE carotte 2	 ;
+IMPOSSIBLE
+OK
+MANQUE clémentine 4	 ;
+OK
+OK
+OK
+1849m  Boyer_/_Beaubien
+OK
+5899m  St-Mathieu_/Ste-Catherine
+MANQUE pain 2	 ;
+MANQUE fève 4	 ;
+3184m  Boyer_/_Beaubien
+IMPOSSIBLE
+OK
+1755m  Boyer_/_Beaubien
+IMPOSSIBLE
+5555m  Lincoln_/_du_Fort
+4175m  Chambord_/_Laurier
+IMPOSSIBLE
+OK
+OK
+COMPLET
+MANQUE abricot 4	 ;
+MANQUE basilic 4	 ;
+OK
+COMPLET
+MANQUE wapiti 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+3060m  Chambord_/_Laurier
+MANQUE poireau 1	 ;
+MANQUE sucre 1	 ;
+OK
+MANQUE cheval 2	 ;
+IMPOSSIBLE
+OK
+OK
+12458m  Boyer_/_Beaubien Lambert-Closse_/_Tupper
+7099m  Champagneur_/_Jean-Talon
+IMPOSSIBLE
+OK
+MANQUE courge 1	 ;
+IMPOSSIBLE
+MANQUE pois 2	 ;
+MANQUE pomme 3	 ;
+OK
+COMPLET
+COMPLET
+MANQUE amande 4	 ;
+COMPLET
+OK
+5064m  Boyer_/_Beaubien
+OK
+OK
+OK
+MANQUE mandarine 4	 ;
+MANQUE chèvre 4	 ;
+OK
+OK
+OK
+MANQUE fève 2	 ;
+MANQUE quetsche 3	 ;
+MANQUE poire 3	 ;
+9379m  Lambert-Closse_/_Tupper
+MANQUE mandarine 3	 ;
+OK
+OK
+MANQUE fève 3	 ;
+MANQUE kaki 2	 ;
+5584m  Lionel-Groulx_/_George-Vanier
+MANQUE radis 3	 ;
+OK
+6408m  de_Bordeaux_/Gilford
+COMPLET
+OK
+6604m  Lincoln_/_du_Fort
+OK
+OK
+OK
+OK
+OK
+4304m  Champagneur_/_Jean-Talon
+6729m  Lincoln_/_du_Fort
+OK
+MANQUE datte 2	 ;
+OK
+IMPOSSIBLE
+MANQUE betterave 4	 ;
+3620m  St-Mathieu_/Ste-Catherine
+IMPOSSIBLE
+OK
+5964m  Chambord_/_Laurier Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+5143m  Boyer_/_Beaubien
+OK
+IMPOSSIBLE
+9646m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+12740m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+4439m  Champagneur_/_Jean-Talon
+MANQUE pastèque 4	 ;
+OK
+MANQUE sucre 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE plaquebière 1	 ;
+OK
+COMPLET
+IMPOSSIBLE
+MANQUE poire 4	 ;
+OK
+MANQUE châtaigne 4	 ;
+IMPOSSIBLE
+MANQUE pomme 4	 ;
+OK
+OK
+MANQUE myrtille 2	 ;
+OK
+MANQUE banane 1	 ;
+OK
+OK
+MANQUE coing 3	 ;
+COMPLET
+COMPLET
+MANQUE pomme 4	 ;
+OK
+5299m  Boyer_/_Beaubien
+MANQUE beurre 3	 ;
+MANQUE fromage 1	 ;
+MANQUE coing 2	 ;
+OK
+MANQUE kaki 2	 ;
+6762m  Chambord_/_Laurier
+OK
+OK
+MANQUE poire 4	 ;
+11440m  Lincoln_/_du_Fort
+3378m  Boyer_/_Beaubien
+MANQUE beurre 4	 ;
+IMPOSSIBLE
+4737m  Lambert-Closse_/_Tupper
+MANQUE laitue 2	 ;
+5172m  Lionel-Groulx_/_George-Vanier
+3615m  Bernard_/_Jeanne-Mance
+MANQUE chou-fleur 4	 ;
+OK
+OK
+MANQUE cheval 2	 ;
+OK
+OK
+MANQUE oignon 2	 ;
+MANQUE noisette 1	 ;
+IMPOSSIBLE
+MANQUE ciboulette 2	 ;
+6875m  Champagneur_/_Jean-Talon
+OK
+OK
+MANQUE gingembre 1	 ;
+IMPOSSIBLE
+OK
+7446m  Champagneur_/_Jean-Talon
+MANQUE gingembre 3	 ;
+OK
+MANQUE amande 1	 ;
+MANQUE banane 3	 ;
+IMPOSSIBLE
+5982m  Lambert-Closse_/_Tupper
+COMPLET
+MANQUE haricot 2	 ;
+OK
+COMPLET
+6983m  St-Mathieu_/Ste-Catherine
+OK
+OK
+MANQUE romaine 1	 ;
+MANQUE sel 4	 ;
+9335m  Champagneur_/_Jean-Talon
+OK
+11705m  Lincoln_/_du_Fort St-Mathieu_/Ste-Catherine
+OK
+OK
+OK
+6069m  de_Bordeaux_/Gilford
+1616m  Champagneur_/_Jean-Talon
+OK
+MANQUE concombre 2	 ;
+IMPOSSIBLE
+MANQUE concombre 2	 ;
+5607m  de_Bordeaux_/Gilford
+MANQUE olive 3	 ;
+COMPLET
+OK
+OK
+OK
+8781m  Champagneur_/_Jean-Talon
+OK
+MANQUE poivre 1	 ;
+OK
+OK
+MANQUE épices 2	 ;
+OK
+MANQUE cheval 4	 ;
+4415m  Lambert-Closse_/_Tupper
+MANQUE oignon 2	 ;
+2937m  Bernard_/_Jeanne-Mance
+OK
+OK
+IMPOSSIBLE
+MANQUE beurre 3	 ;
+OK
+7079m  St-Mathieu_/Ste-Catherine
+OK
+IMPOSSIBLE
+COMPLET
+OK
+MANQUE lapin 4	 ;
+MANQUE haricot 2	 ;
+MANQUE truffe 1	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+6959m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+OK
+MANQUE ananas 1	 ;
+OK
+4264m  Lincoln_/_du_Fort
+IMPOSSIBLE
+OK
+OK
+5248m  Chambord_/_Laurier
+OK
+12565m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+IMPOSSIBLE
+OK
+MANQUE poivron 1	 ;
+5337m  Lincoln_/_du_Fort
+7155m  Champagneur_/_Jean-Talon
+OK
+OK
+OK
+MANQUE échalote 1	 ;
+MANQUE sel 4	 ;
+COMPLET
+MANQUE ciboulette 3	 ;
+MANQUE groseille 4	 ;
+1883m  Lincoln_/_du_Fort
+MANQUE pate 1	 ;
+MANQUE betterave 2	 ;
+8418m  Boyer_/_Beaubien
+MANQUE lime 2	 ;
+MANQUE asperge 2	 ;
+MANQUE amande 1	 ;
+MANQUE céleri 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+4701m  St-Mathieu_/Ste-Catherine
+OK
+OK
+IMPOSSIBLE
+MANQUE wapiti 4	 ;
+MANQUE plaquebière 4	 ;
+OK
+MANQUE laitue 1	 ;
+3434m  Boyer_/_Beaubien
+646m  Lincoln_/_du_Fort
+OK
+OK
+MANQUE huile 2	 ;
+MANQUE haricot 2	 ;
+OK
+380m  Boyer_/_Beaubien
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+MANQUE brocoli 1	 ;
+5662m  Lincoln_/_du_Fort
+MANQUE bison 3	 ;
+OK
+OK
+COMPLET
+OK
+12138m  Lambert-Closse_/_Tupper
+9409m  Boyer_/_Beaubien
+MANQUE veau 3	 ;
+8622m  St-Mathieu_/Ste-Catherine
+MANQUE truffe 4	 ;
+OK
+OK
+3650m  Champagneur_/_Jean-Talon
+IMPOSSIBLE
+OK
+MANQUE raisin 2	 ;
+8113m  Boyer_/_Beaubien
+COMPLET
+8526m  Champagneur_/_Jean-Talon
+MANQUE radis 2	 ;
+2798m  Chambord_/_Laurier
+MANQUE crème_glacée 3	 ;
+805m  Lincoln_/_du_Fort
+IMPOSSIBLE
+IMPOSSIBLE
+8584m  Boyer_/_Beaubien
+OK
+OK
+1684m  Chambord_/_Laurier
+10646m  Lionel-Groulx_/_George-Vanier
+7384m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+MANQUE pastèque 3	 ;
+OK
+OK
+COMPLET
+MANQUE crème_glacée 1	 ;
+8166m  Lincoln_/_du_Fort
+6482m  Boyer_/_Beaubien Champagneur_/_Jean-Talon
+IMPOSSIBLE
+MANQUE radis 1	 ;
+1018m  Champagneur_/_Jean-Talon
+IMPOSSIBLE
+MANQUE framboise 1	 ;
+OK
+OK
+OK
+COMPLET
+OK
+OK
+4094m  Champagneur_/_Jean-Talon
+OK
+IMPOSSIBLE
+7275m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+OK
+5150m  Lambert-Closse_/_Tupper
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+2215m  Boyer_/_Beaubien
+12925m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+MANQUE pamplemousse 1	 ;
+MANQUE kiwi 3	 ;
+8250m  Champagneur_/_Jean-Talon
+10742m  Lincoln_/_du_Fort
+OK
+OK
+OK
+OK
+11699m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+1211m  Chambord_/_Laurier
+OK
+OK
+IMPOSSIBLE
+1769m  Lincoln_/_du_Fort
+IMPOSSIBLE
+IMPOSSIBLE
+3778m  Boyer_/_Beaubien
+MANQUE amande 1	 ;
+8070m  Chambord_/_Laurier
+MANQUE betterave 4	 ;
+10363m  Boyer_/_Beaubien
+OK
+6699m  Bernard_/_Jeanne-Mance
+OK
+13435m  Lionel-Groulx_/_George-Vanier
+8037m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+IMPOSSIBLE
+OK
+MANQUE canneberge 2	 ;
+4555m  Lincoln_/_du_Fort Lambert-Closse_/_Tupper
+OK
+IMPOSSIBLE
+MANQUE lapin 2	 ;
+OK
+MANQUE sel 4	 ;
+IMPOSSIBLE
+10371m  Lambert-Closse_/_Tupper
+IMPOSSIBLE
+MANQUE nèfle 4	 ;
+OK
+OK
+2207m  St-Mathieu_/Ste-Catherine
+2060m  St-Mathieu_/Ste-Catherine
+12048m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+COMPLET
+3003m  Lincoln_/_du_Fort
+OK
+2356m  Boyer_/_Beaubien
+IMPOSSIBLE
+COMPLET
+MANQUE huile 4	 ;
+OK
+7240m  St-Mathieu_/Ste-Catherine
+COMPLET
+9154m  Lionel-Groulx_/_George-Vanier
+MANQUE abricot 1	 ;
+OK
+MANQUE oeuf 2	 ;
+MANQUE melon 2	 ;
+OK
+OK
+MANQUE bergamote 4	 ;
+OK
+OK
+2411m  Lambert-Closse_/_Tupper
+OK
+MANQUE poivre 4	 ;
+MANQUE cerise 2	 ;
+MANQUE ail 1	 ;
+MANQUE poivre 1	 ;
+MANQUE raisin 2	 ;
+OK
+MANQUE châtaigne 2	 ;
+6984m  Chambord_/_Laurier
+OK
+OK
+OK
+MANQUE cynorrhodon 1	 ;
+MANQUE wapiti 3	 ;
+OK
+COMPLET
+4949m  Lambert-Closse_/_Tupper
+IMPOSSIBLE
+MANQUE bison 4	 ;
+356m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+OK
+MANQUE ciboulette 2	 ;
+MANQUE lapin 2	 ;
+OK
+4972m  Lincoln_/_du_Fort
+MANQUE canneberge 2	 ;
+3775m  Bernard_/_Jeanne-Mance
+MANQUE kaki 1	 ;
+MANQUE avocat 3	 ;
+OK
+10299m  Chambord_/_Laurier
+12048m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+MANQUE pistache 2	 ;
+COMPLET
+12998m  St-Mathieu_/Ste-Catherine Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+COMPLET
+MANQUE bergamote 4	 ;
+6515m  Champagneur_/_Jean-Talon
+IMPOSSIBLE
+MANQUE gingembre 3	 ;
+7812m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+MANQUE amande 3	 ;
+6024m  Bernard_/_Jeanne-Mance
+MANQUE fève 2	 ;
+OK
+OK
+COMPLET
+OK
+MANQUE taro 3	 ;
+MANQUE navet 3	 ;
+MANQUE avocat 1	 ;
+5536m  Boyer_/_Beaubien de_Bordeaux_/Gilford
+IMPOSSIBLE
+4677m  Lambert-Closse_/_Tupper
+OK
+IMPOSSIBLE
+COMPLET
+OK
+10699m  Lambert-Closse_/_Tupper
+OK
+9132m  Lambert-Closse_/_Tupper
+14085m  Lincoln_/_du_Fort Champagneur_/_Jean-Talon
+OK
+COMPLET
+OK
+IMPOSSIBLE
+MANQUE taro 2	 ;
+6508m  Lincoln_/_du_Fort
+8032m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+COMPLET
+5296m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+10221m  Champagneur_/_Jean-Talon
+1787m  Boyer_/_Beaubien
+6928m  Champagneur_/_Jean-Talon
+MANQUE huile 3	 ;
+MANQUE prune 2	 ;
+OK
+MANQUE gingembre 2	 ;
+MANQUE marron 4	 ;
+MANQUE crème_glacée 2	 ;
+OK
+7776m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+OK
+OK
+OK
+MANQUE pamplemousse 3	 ;
+IMPOSSIBLE
+OK
+6129m  Boyer_/_Beaubien
+12976m  Parc_du_Pelican_(2e_avenue_/_St-Joseph) St-Mathieu_/Ste-Catherine
+MANQUE oignon 4	 ;
+OK
+7526m  Chambord_/_Laurier
+OK
+MANQUE prune 4	 ;
+OK
+498m  Lincoln_/_du_Fort
+MANQUE citron 3	 ;
+4630m  Lambert-Closse_/_Tupper
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE échalote 3	 ;
+2650m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+5876m  Lionel-Groulx_/_George-Vanier
+3446m  Lionel-Groulx_/_George-Vanier
+5609m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+OK
+OK
+OK
+4295m  St-Mathieu_/Ste-Catherine
+5327m  Lambert-Closse_/_Tupper Lincoln_/_du_Fort
+OK
+MANQUE basilic 2	 ;
+COMPLET
+MANQUE clémentine 1	 ;
+MANQUE groseille 1	 ;
+MANQUE taro 4	 ;
+COMPLET
+OK
+MANQUE antilope 4	 ;
+MANQUE romaine 2	 ;
+OK
+OK
+MANQUE laitue 2	 ;
+OK
+IMPOSSIBLE
+11206m  Lincoln_/_du_Fort
+MANQUE poireau 4	 ;
+MANQUE crème_glacée 4	 ;
+COMPLET
+7565m  Champagneur_/_Jean-Talon
+OK
+MANQUE jujube 1	 ;
+7687m  Chambord_/_Laurier
+3345m  Bernard_/_Jeanne-Mance
+MANQUE pamplemousse 2	 ;
+3639m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+MANQUE bison 2	 ;
+OK
+OK
+OK
+988m  Boyer_/_Beaubien
+OK
+MANQUE clémentine 3	 ;
+OK
+OK
+1937m  Bernard_/_Jeanne-Mance
+1787m  Lincoln_/_du_Fort
+MANQUE marron 3	 ;
+MANQUE fromage 1	 ;
+OK
+IMPOSSIBLE
+OK
+2239m  Lincoln_/_du_Fort
+OK
+MANQUE pomme_de_terre 1	 ;
+3272m  Bernard_/_Jeanne-Mance
+OK
+2149m  Boyer_/_Beaubien
+4015m  Lambert-Closse_/_Tupper
+7161m  de_Bordeaux_/Gilford
+MANQUE chèvre 1	 ;
+OK
+MANQUE lime 2	 ;
+MANQUE autruche 2	 ;
+OK
+IMPOSSIBLE
+COMPLET
+COMPLET
+3500m  Lincoln_/_du_Fort
+4106m  Champagneur_/_Jean-Talon
+OK
+OK
+4662m  Chambord_/_Laurier
+MANQUE marron 4	 ;
+OK
+OK
+OK
+OK
+3865m  de_Bordeaux_/Gilford
+OK
+OK
+MANQUE raisin 2	 ;
+OK
+MANQUE mandarine 3	 ;
+OK
+4935m  Bernard_/_Jeanne-Mance
+IMPOSSIBLE
+MANQUE noix 3	 ;
+1074m  Champagneur_/_Jean-Talon
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+5905m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+2845m  Champagneur_/_Jean-Talon
+MANQUE cassis 1	 ;
+4378m  Chambord_/_Laurier
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE épices 1	 ;
+3629m  St-Mathieu_/Ste-Catherine
+MANQUE oeuf 3	 ;
+OK
+3404m  Chambord_/_Laurier
+OK
+MANQUE poire 4	 ;
+6073m  Chambord_/_Laurier
+IMPOSSIBLE
+OK
+MANQUE fraise 3	 ;
+5403m  Lambert-Closse_/_Tupper
+MANQUE mirabelle 3	 ;
+MANQUE autruche 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE groseille 1	 ;
+OK
+OK
+3171m  Boyer_/_Beaubien
+MANQUE taro 4	 ;
+MANQUE fromage 2	 ;
+COMPLET
+MANQUE maceron 3	 ;
+OK
+OK
+OK
+MANQUE quinoa 4	 ;
+MANQUE pate 3	 ;
+OK
+MANQUE ciboulette 3	 ;
+1621m  de_Bordeaux_/Gilford
+IMPOSSIBLE
+OK
+MANQUE aubergine 2	 ;
+MANQUE ananas 3	 ;
+OK
+OK
+OK
+MANQUE beurre 1	 ;
+OK
+10718m  Lambert-Closse_/_Tupper
+7306m  Chambord_/_Laurier
+OK
+OK
+MANQUE sucre 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+4927m  Champagneur_/_Jean-Talon
+OK
+COMPLET
+MANQUE yogourt 3	 ;
+MANQUE ciboulette 2	 ;
+COMPLET
+MANQUE noisette 1	 ;
+MANQUE pêche 4	 ;
+OK
+OK
+OK
+8298m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+MANQUE ananas 4	 ;
+MANQUE échalote 3	 ;
+10306m  de_Bordeaux_/Gilford
+MANQUE navet 1	 ;
+OK
+MANQUE poireau 3	 ;
+IMPOSSIBLE
+3816m  Boyer_/_Beaubien
+OK
+3871m  Bernard_/_Jeanne-Mance
+OK
+OK
+OK
+OK
+OK
+MANQUE pate 4	 ;
+COMPLET
+OK
+5694m  Chambord_/_Laurier
+OK
+OK
+3635m  Champagneur_/_Jean-Talon
+IMPOSSIBLE
+12504m  Lionel-Groulx_/_George-Vanier
+OK
+OK
+OK
+6101m  Boyer_/_Beaubien
+OK
+IMPOSSIBLE
+6443m  Bernard_/_Jeanne-Mance
+OK
+OK
+COMPLET
+COMPLET
+OK
+OK
+OK
+OK
+OK
+MANQUE noisette 4	 ;
+MANQUE cassis 4	 ;
+OK
+8782m  Lionel-Groulx_/_George-Vanier
+MANQUE kiwi 3	 ;
+OK
+OK
+4571m  Lambert-Closse_/_Tupper
+MANQUE raisin 3	 ;
+OK
+MANQUE jujube 3	 ;
+MANQUE arbouse 1	 ;
+4500m  Boyer_/_Beaubien
+3063m  Chambord_/_Laurier
+OK
+7810m  Champagneur_/_Jean-Talon de_Bordeaux_/Gilford
+MANQUE fève 1	 ;
+MANQUE pastèque 1	 ;
+OK
+MANQUE poivre 1	 ;
+MANQUE courge 1	 ;
+11841m  Lionel-Groulx_/_George-Vanier
+COMPLET
+7006m  de_Bordeaux_/Gilford
+OK
+OK
+OK
+IMPOSSIBLE
+6200m  Lionel-Groulx_/_George-Vanier
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+MANQUE pain 1	 ;
+IMPOSSIBLE
+MANQUE châtaigne 3	 ;
+COMPLET
+3548m  Boyer_/_Beaubien Chambord_/_Laurier
+MANQUE cornouiller_du_Canada 4	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE avocat 4	 ;
+MANQUE échalote 2	 ;
+IMPOSSIBLE
+OK
+OK
+5919m  Bernard_/_Jeanne-Mance
+COMPLET
+OK
+OK
+2702m  Champagneur_/_Jean-Talon
+MANQUE nèfle 1	 ;
+OK
+4045m  Champagneur_/_Jean-Talon
+MANQUE avocat 1	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE sel 1	 ;
+5245m  Boyer_/_Beaubien
+5181m  de_Bordeaux_/Gilford
+OK
+1046m  Lionel-Groulx_/_George-Vanier
+MANQUE plaquebière 4	 ;
+MANQUE quetsche 3	 ;
+MANQUE avocat 2	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+8389m  de_Bordeaux_/Gilford
+MANQUE mirabelle 3	 ;
+3971m  Bernard_/_Jeanne-Mance
+2499m  Boyer_/_Beaubien
+10554m  Boyer_/_Beaubien
+OK
+MANQUE citrouille 3	 ;
+MANQUE grenade 4	 ;
+12530m  Lincoln_/_du_Fort St-Mathieu_/Ste-Catherine
+OK
+OK
+COMPLET
+IMPOSSIBLE
+3934m  Boyer_/_Beaubien
+OK
+OK
+MANQUE concombre 2	 ;
+OK
+OK
+OK
+2296m  Chambord_/_Laurier
+5653m  Chambord_/_Laurier
+OK
+MANQUE salade 3	 ;
+7523m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+MANQUE épices 1	 ;
+6190m  Lionel-Groulx_/_George-Vanier
+7594m  Lionel-Groulx_/_George-Vanier
+OK
+IMPOSSIBLE
+MANQUE betterave 3	 ;
+6597m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+IMPOSSIBLE
+5370m  Bernard_/_Jeanne-Mance
+OK
+MANQUE pastèque 2	 ;
+8614m  Boyer_/_Beaubien
+OK
+MANQUE framboise 4	 ;
+MANQUE brugnon 1	 ;
+2271m  Lionel-Groulx_/_George-Vanier
+15145m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+OK
+OK
+MANQUE prune 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+COMPLET
+COMPLET
+OK
+MANQUE groseille 1	 ;
+IMPOSSIBLE
+5459m  Boyer_/_Beaubien
+5593m  Champagneur_/_Jean-Talon
+OK
+12434m  Lionel-Groulx_/_George-Vanier
+MANQUE melon 2	 ;
+MANQUE pate 1	 ;
+MANQUE banane 4	 ;
+OK
+6919m  Champagneur_/_Jean-Talon
+MANQUE truffe 1	 ;
+MANQUE chou-fleur 1	 ;
+COMPLET
+OK
+OK
+OK
+OK
+OK
+MANQUE radis 2	 ;
+OK
+MANQUE pomme_de_terre 3	 ;
+MANQUE bison 2	 ;
+MANQUE panais 4	 ;
+MANQUE cornouiller_du_Canada 4	 ;
+COMPLET
+6734m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+COMPLET
+OK
+9589m  Boyer_/_Beaubien
+3368m  Chambord_/_Laurier
+395m  Lincoln_/_du_Fort
+OK
+OK
+IMPOSSIBLE
+MANQUE cerise 3	 ;
+2869m  Lambert-Closse_/_Tupper
+MANQUE wapiti 3	 ;
+MANQUE framboise 2	 ;
+7443m  Chambord_/_Laurier
+OK
+MANQUE cerise 3	 ;
+COMPLET
+COMPLET
+MANQUE beurre 4	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE orange 1	 ;
+MANQUE panais 4	 ;
+OK
+IMPOSSIBLE
+MANQUE betterave 3	 ;
+4997m  Lambert-Closse_/_Tupper
+MANQUE céleri 2	 ;
+OK
+OK
+1006m  de_Bordeaux_/Gilford
+5140m  Champagneur_/_Jean-Talon
+MANQUE pêche 1	 ;
+OK
+4640m  Lionel-Groulx_/_George-Vanier
+10065m  Lincoln_/_du_Fort
+3959m  Boyer_/_Beaubien
+IMPOSSIBLE
+MANQUE courgette 2	 ;
+1937m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+4302m  Lincoln_/_du_Fort
+OK
+OK
+OK
+OK
+OK
+2432m  St-Mathieu_/Ste-Catherine
+MANQUE chou-fleur 4	 ;
+MANQUE oeuf 2	 ;
+3652m  Lambert-Closse_/_Tupper
+OK
+IMPOSSIBLE
+OK
+MANQUE pamplemousse 3	 ;
+OK
+MANQUE citrouille 4	 ;
+OK
+3951m  Lionel-Groulx_/_George-Vanier
+OK
+IMPOSSIBLE
+4754m  Bernard_/_Jeanne-Mance
+2221m  Boyer_/_Beaubien
+IMPOSSIBLE
+2868m  de_Bordeaux_/Gilford
+3976m  Chambord_/_Laurier
+MANQUE quinoa 2	 ;
+10220m  Lambert-Closse_/_Tupper
+OK
+8045m  Bernard_/_Jeanne-Mance Champagneur_/_Jean-Talon
+OK
+OK
+MANQUE avocat 3	 ;
+OK
+OK
+OK
+2742m  Lionel-Groulx_/_George-Vanier
+7257m  Bernard_/_Jeanne-Mance
+OK
+MANQUE avocat 2	 ;
+COMPLET
+MANQUE crème 2	 ;
+5313m  Chambord_/_Laurier
+IMPOSSIBLE
+MANQUE ananas 4	 ;
+OK
+7218m  Chambord_/_Laurier
+MANQUE prune 1	 ;
+MANQUE navet 1	 ;
+MANQUE salade 1	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE quinoa 3	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE cerise 1	 ;
+MANQUE cerise 4	 ;
+MANQUE fraise 1	 ;
+OK
+516m  Chambord_/_Laurier
+OK
+OK
+OK
+6552m  Bernard_/_Jeanne-Mance
+3689m  de_Bordeaux_/Gilford
+OK
+OK
+670m  Lionel-Groulx_/_George-Vanier
+9585m  Lionel-Groulx_/_George-Vanier
+MANQUE soja 1	 ;
+MANQUE chèvre 3	 ;
+OK
+COMPLET
+MANQUE cornouiller_du_Canada 2	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE citrouille 1	 ;
+6736m  Champagneur_/_Jean-Talon
+IMPOSSIBLE
+MANQUE mandarine 1	 ;
+OK
+4060m  Bernard_/_Jeanne-Mance
+IMPOSSIBLE
+3866m  Lambert-Closse_/_Tupper
+IMPOSSIBLE
+6482m  Lambert-Closse_/_Tupper
+IMPOSSIBLE
+COMPLET
+OK
+MANQUE oeuf 3	 ;
+MANQUE poivron 2	 ;
+OK
+OK
+5041m  Bernard_/_Jeanne-Mance
+6410m  Boyer_/_Beaubien
+2791m  Champagneur_/_Jean-Talon
+MANQUE poireau 1	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE asperge 2	 ;
+4934m  Chambord_/_Laurier
+OK
+3895m  Bernard_/_Jeanne-Mance
+OK
+OK
+IMPOSSIBLE
+OK
+1637m  Lincoln_/_du_Fort
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE wapiti 3	 ;
+2781m  Champagneur_/_Jean-Talon
+COMPLET
+OK
+1202m  Lambert-Closse_/_Tupper
+MANQUE wapiti 1	 ;
+1187m  de_Bordeaux_/Gilford
+7349m  St-Mathieu_/Ste-Catherine
+MANQUE arbouse 2	 ;
+9432m  Boyer_/_Beaubien
+MANQUE antilope 3	 ;
+5393m  Lionel-Groulx_/_George-Vanier
+MANQUE quetsche 1	 ;
+OK
+11686m  Chambord_/_Laurier
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+5108m  Lambert-Closse_/_Tupper
+9036m  Chambord_/_Laurier
+2667m  Champagneur_/_Jean-Talon
+MANQUE mandarine 3	 ;
+7256m  Champagneur_/_Jean-Talon
+MANQUE truffe 3	 ;
+MANQUE abricot 3	 ;
+OK
+8456m  Champagneur_/_Jean-Talon
+IMPOSSIBLE
+5401m  Lionel-Groulx_/_George-Vanier
+COMPLET
+OK
+COMPLET
+OK
+MANQUE cynorrhodon 1	 ;
+4837m  Chambord_/_Laurier
+OK
+OK
+MANQUE laitue 1	 ;
+OK
+OK
+MANQUE salade 1	 ;
+OK
+OK
+2462m  Lionel-Groulx_/_George-Vanier
+MANQUE avocat 2	 ;
+OK
+1369m  Lincoln_/_du_Fort
+12029m  St-Mathieu_/Ste-Catherine
+OK
+OK
+IMPOSSIBLE
+COMPLET
+OK
+4901m  Champagneur_/_Jean-Talon
+2095m  de_Bordeaux_/Gilford
+IMPOSSIBLE
+OK
+OK
+MANQUE citrouille 1	 ;
+OK
+OK
+OK
+COMPLET
+OK
+OK
+OK
+MANQUE échalote 1	 ;
+OK
+OK
+OK
+OK
+MANQUE mirabelle 2	 ;
+COMPLET
+MANQUE cerise 1	 ;
+OK
+MANQUE soja 2	 ;
+MANQUE laitue 3	 ;
+MANQUE poivron 3	 ;
+MANQUE châtaigne 1	 ;
+IMPOSSIBLE
+MANQUE veau 3	 ;
+4657m  St-Mathieu_/Ste-Catherine
+4670m  Chambord_/_Laurier
+OK
+OK
+OK
+OK
+OK
+COMPLET
+COMPLET
+3406m  St-Mathieu_/Ste-Catherine
+9387m  Boyer_/_Beaubien
+1650m  Chambord_/_Laurier
+MANQUE arbouse 3	 ;
+2151m  Lionel-Groulx_/_George-Vanier
+MANQUE oeuf 2	 ;
+MANQUE soja 4	 ;
+OK
+MANQUE basilic 4	 ;
+OK
+MANQUE radis_noir 2	 ;
+OK
+MANQUE pastèque 4	 ;
+OK
+OK
+MANQUE échalote 2	 ;
+OK
+MANQUE orange 1	 ;
+2760m  Lincoln_/_du_Fort
+IMPOSSIBLE
+3383m  Lionel-Groulx_/_George-Vanier
+OK
+OK
+OK
+MANQUE poire 3	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE mûre 3	 ;
+MANQUE rhubarbe 2	 ;
+MANQUE céleri 3	 ;
+MANQUE orange 4	 ;
+10789m  Lincoln_/_du_Fort
+OK
+5794m  Lambert-Closse_/_Tupper
+MANQUE antilope 3	 ;
+MANQUE wapiti 2	 ;
+MANQUE noix 3	 ;
+2519m  Lionel-Groulx_/_George-Vanier
+COMPLET
+OK
+IMPOSSIBLE
+OK
+9866m  de_Bordeaux_/Gilford
+MANQUE pate 2	 ;
+MANQUE framboise 1	 ;
+MANQUE salicorne 3	 ;
+MANQUE raisin 1	 ;
+3898m  St-Mathieu_/Ste-Catherine
+7318m  Bernard_/_Jeanne-Mance Champagneur_/_Jean-Talon
+MANQUE cornouiller_du_Canada 2	 ;
+OK
+MANQUE cheval 4	 ;
+MANQUE huile 1	 ;
+MANQUE sel 1	 ;
+MANQUE haricot 3	 ;
+OK
+MANQUE banane 4	 ;
+MANQUE pomme 2	 ;
+COMPLET
+OK
+MANQUE ail 4	 ;
+OK
+OK
+OK
+5898m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+COMPLET
+OK
+OK
+OK
+1612m  Chambord_/_Laurier
+MANQUE quetsche 3	 ;
+MANQUE bison 1	 ;
+2960m  Chambord_/_Laurier
+372m  St-Mathieu_/Ste-Catherine
+COMPLET
+OK
+OK
+MANQUE autruche 1	 ;
+MANQUE plaquebière 1	 ;
+7270m  Bernard_/_Jeanne-Mance
+OK
+IMPOSSIBLE
+OK
+OK
+5942m  Lincoln_/_du_Fort
+4426m  Lincoln_/_du_Fort
+MANQUE poire 1	 ;
+OK
+1811m  Boyer_/_Beaubien
+OK
+OK
+OK
+OK
+1496m  Boyer_/_Beaubien
+MANQUE grenade 3	 ;
+OK
+MANQUE crème_glacée 3	 ;
+2591m  Champagneur_/_Jean-Talon
+9408m  Lambert-Closse_/_Tupper
+MANQUE poivron 3	 ;
+6671m  St-Mathieu_/Ste-Catherine
+MANQUE panais 2	 ;
+1673m  St-Mathieu_/Ste-Catherine
+6148m  Chambord_/_Laurier
+OK
+OK
+MANQUE arbouse 4	 ;
+OK
+MANQUE plaquebière 1	 ;
+1214m  Chambord_/_Laurier
+OK
+COMPLET
+11642m  St-Mathieu_/Ste-Catherine
+MANQUE navet 2	 ;
+MANQUE taro 1	 ;
+OK
+OK
+MANQUE avocat 1	 ;
+OK
+OK
+OK
+2413m  Boyer_/_Beaubien
+MANQUE clémentine 1	 ;
+MANQUE cassis 1	 ;
+MANQUE porc 1	 ;
+COMPLET
+MANQUE beurre 1	 ;
+2013m  St-Mathieu_/Ste-Catherine
+IMPOSSIBLE
+OK
+OK
+MANQUE romaine 2	 ;
+OK
+MANQUE marron 3	 ;
+OK
+MANQUE poivre 3	 ;
+IMPOSSIBLE
+OK
+2349m  Champagneur_/_Jean-Talon
+5812m  Chambord_/_Laurier
+7829m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+IMPOSSIBLE
+OK
+MANQUE arbouse 1	 ;
+MANQUE pastèque 1	 ;
+OK
+OK
+OK
+OK
+MANQUE salicorne 2	 ;
+OK
+OK
+OK
+4225m  Chambord_/_Laurier
+5803m  Lincoln_/_du_Fort
+MANQUE laitue 2	 ;
+MANQUE veau 1	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+3443m  Lincoln_/_du_Fort
+MANQUE taro 2	 ;
+OK
+OK
+OK
+7792m  Lincoln_/_du_Fort St-Mathieu_/Ste-Catherine
+MANQUE carotte 2	 ;
+MANQUE bigarade 2	 ;
+OK
+10457m  Lincoln_/_du_Fort
+MANQUE arbouse 2	 ;
+1310m  Boyer_/_Beaubien
+OK
+OK
+3367m  Bernard_/_Jeanne-Mance
+5930m  Boyer_/_Beaubien
+OK
+COMPLET
+MANQUE truffe 1	 ;
+5432m  St-Mathieu_/Ste-Catherine
+OK
+COMPLET
+COMPLET
+MANQUE raisin 4	 ;
+10215m  Boyer_/_Beaubien Lincoln_/_du_Fort
+OK
+MANQUE noisette 4	 ;
+MANQUE radis_noir 2	 ;
+IMPOSSIBLE
+OK
+MANQUE noisette 4	 ;
+IMPOSSIBLE
+MANQUE betterave 2	 ;
+IMPOSSIBLE
+OK
+MANQUE ciboulette 1	 ;
+8564m  Champagneur_/_Jean-Talon
+1742m  Lincoln_/_du_Fort
+4655m  Champagneur_/_Jean-Talon
+IMPOSSIBLE
+MANQUE salade 4	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE beurre 3	 ;
+3750m  Boyer_/_Beaubien
+OK
+OK
+MANQUE quetsche 2	 ;
+IMPOSSIBLE
+7397m  Boyer_/_Beaubien
+OK
+MANQUE gingembre 2	 ;
+8887m  Champagneur_/_Jean-Talon
+MANQUE cheval 4	 ;
+10618m  St-Mathieu_/Ste-Catherine
+MANQUE marron 1	 ;
+OK
+OK
+COMPLET
+7265m  de_Bordeaux_/Gilford
+MANQUE asperge 4	 ;
+IMPOSSIBLE
+5047m  Champagneur_/_Jean-Talon
+6516m  St-Mathieu_/Ste-Catherine
+2581m  Chambord_/_Laurier
+OK
+1935m  Bernard_/_Jeanne-Mance
+OK
+OK
+OK
+MANQUE basilic 1	 ;
+2196m  Bernard_/_Jeanne-Mance
+9108m  Chambord_/_Laurier
+MANQUE jujube 2	 ;
+6053m  St-Mathieu_/Ste-Catherine
+IMPOSSIBLE
+MANQUE haricot 1	 ;
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+4787m  Boyer_/_Beaubien
+MANQUE citron 1	 ;
+11740m  Boyer_/_Beaubien Lambert-Closse_/_Tupper
+COMPLET
+MANQUE clémentine 4	 ;
+MANQUE échalote 3	 ;
+OK
+MANQUE banane 4	 ;
+OK
+3200m  Bernard_/_Jeanne-Mance
+MANQUE melon 2	 ;
+MANQUE pamplemousse 2	 ;
+MANQUE lapin 2	 ;
+COMPLET
+3087m  St-Mathieu_/Ste-Catherine
+6613m  Champagneur_/_Jean-Talon Bernard_/_Jeanne-Mance
+4983m  Bernard_/_Jeanne-Mance
+MANQUE pastèque 4	 ;
+MANQUE myrtille 1	 ;
+IMPOSSIBLE
+3435m  Champagneur_/_Jean-Talon
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+COMPLET
+MANQUE cynorrhodon 1	 ;
+MANQUE truffe 1	 ;
+COMPLET
+4764m  Chambord_/_Laurier
+5253m  Boyer_/_Beaubien
+OK
+MANQUE brocoli 3	 ;
+5216m  Chambord_/_Laurier
+OK
+OK
+MANQUE pomme 1	 ;
+MANQUE boeuf 2	 ;
+COMPLET
+1741m  Bernard_/_Jeanne-Mance
+OK
+4998m  Boyer_/_Beaubien
+IMPOSSIBLE
+5736m  Boyer_/_Beaubien de_Bordeaux_/Gilford
+5545m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+MANQUE fraise 2	 ;
+COMPLET
+MANQUE soja 2	 ;
+MANQUE poivre 2	 ;
+COMPLET
+OK
+OK
+9745m  Lambert-Closse_/_Tupper
+9299m  Lionel-Groulx_/_George-Vanier
+MANQUE romaine 2	 ;
+OK
+MANQUE ail 4	 ;
+2374m  Champagneur_/_Jean-Talon
+OK
+6134m  St-Mathieu_/Ste-Catherine
+OK
+OK
+7188m  Lincoln_/_du_Fort
+1379m  de_Bordeaux_/Gilford
+4355m  Boyer_/_Beaubien
+733m  St-Mathieu_/Ste-Catherine
+5546m  Boyer_/_Beaubien
+MANQUE betterave 1	 ;
+COMPLET
+IMPOSSIBLE
+MANQUE panais 1	 ;
+COMPLET
+OK
+10954m  Chambord_/_Laurier
+IMPOSSIBLE
+OK
+5881m  Lambert-Closse_/_Tupper
+COMPLET
+MANQUE avocat 1	 ;
+12556m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+2479m  Bernard_/_Jeanne-Mance
+OK
+10272m  St-Mathieu_/Ste-Catherine
+OK
+MANQUE taro 1	 ;
+MANQUE autruche 1	 ;
+MANQUE cassis 3	 ;
+OK
+OK
+5871m  St-Mathieu_/Ste-Catherine
+1674m  Chambord_/_Laurier
+4451m  Lionel-Groulx_/_George-Vanier
+IMPOSSIBLE
+10552m  St-Mathieu_/Ste-Catherine
+6342m  de_Bordeaux_/Gilford
+OK
+IMPOSSIBLE
+COMPLET
+MANQUE fraise 1	 ;
+OK
+824m  Boyer_/_Beaubien
+OK
+OK
+COMPLET
+3932m  Bernard_/_Jeanne-Mance
+4569m  Boyer_/_Beaubien
+2694m  Boyer_/_Beaubien
+OK
+OK
+OK
+9300m  St-Mathieu_/Ste-Catherine
+OK
+4214m  Bernard_/_Jeanne-Mance
+OK
+MANQUE gingembre 3	 ;
+MANQUE cassis 3	 ;
+OK
+IMPOSSIBLE
+MANQUE banane 3	 ;
+OK
+MANQUE bison 3	 ;
+IMPOSSIBLE
+MANQUE oignon 4	 ;
+OK
+OK
+OK
+9055m  Bernard_/_Jeanne-Mance Lambert-Closse_/_Tupper
+IMPOSSIBLE
+OK
+4640m  Lincoln_/_du_Fort
+MANQUE oignon 4	 ;
+MANQUE pastèque 3	 ;
+12016m  Lionel-Groulx_/_George-Vanier
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+COMPLET
+954m  de_Bordeaux_/Gilford
+OK
+OK
+OK
+MANQUE clémentine 4	 ;
+OK
+4281m  Chambord_/_Laurier
+MANQUE bison 1	 ;
+IMPOSSIBLE
+OK
+MANQUE basilic 3	 ;
+MANQUE poire 1	 ;
+MANQUE salicorne 1	 ;
+MANQUE amande 2	 ;
+5399m  St-Mathieu_/Ste-Catherine
+4492m  Champagneur_/_Jean-Talon
+6818m  Chambord_/_Laurier
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE autruche 4	 ;
+OK
+MANQUE autruche 4	 ;
+OK
+7455m  Lambert-Closse_/_Tupper
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE asperge 2	 ;
+MANQUE pistache 4	 ;
+10108m  Champagneur_/_Jean-Talon
+MANQUE ananas 1	 ;
+8193m  St-Mathieu_/Ste-Catherine
+OK
+OK
+OK
+MANQUE fève 4	 ;
+7026m  Boyer_/_Beaubien
+IMPOSSIBLE
+COMPLET
+OK
+COMPLET
+MANQUE pain 2	 ;
+MANQUE olive 1	 ;
+IMPOSSIBLE
+OK
+7122m  Champagneur_/_Jean-Talon
+9212m  Champagneur_/_Jean-Talon de_Bordeaux_/Gilford
+MANQUE pomme 4	 ;
+MANQUE sucre 3	 ;
+IMPOSSIBLE
+MANQUE chèvre 4	 ;
+4539m  St-Mathieu_/Ste-Catherine
+2560m  Lambert-Closse_/_Tupper
+IMPOSSIBLE
+MANQUE agneau 1	 ;
+OK
+MANQUE mûre 1	 ;
+IMPOSSIBLE
+OK
+OK
+COMPLET
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE nèfle 3	 ;
+COMPLET
+OK
+OK
+OK
+10496m  Boyer_/_Beaubien
+OK
+COMPLET
+4826m  Lincoln_/_du_Fort
+OK
+OK
+MANQUE poivron 2	 ;
+IMPOSSIBLE
+OK
+OK
+1431m  Bernard_/_Jeanne-Mance
+9726m  Lambert-Closse_/_Tupper
+COMPLET
+MANQUE courgette 2	 ;
+COMPLET
+9942m  Chambord_/_Laurier de_Bordeaux_/Gilford
+MANQUE cornouiller_du_Canada 3	 ;
+MANQUE courge 2	 ;
+3822m  Bernard_/_Jeanne-Mance
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE soja 3	 ;
+9080m  Champagneur_/_Jean-Talon
+OK
+COMPLET
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE betterave 2	 ;
+OK
+OK
+COMPLET
+OK
+MANQUE marron 1	 ;
+OK
+MANQUE carotte 1	 ;
+MANQUE kiwi 4	 ;
+OK
+OK
+MANQUE soja 2	 ;
+OK
+5762m  Boyer_/_Beaubien
+OK
+OK
+MANQUE wapiti 3	 ;
+MANQUE jujube 4	 ;
+9322m  Lincoln_/_du_Fort
+OK
+2508m  St-Mathieu_/Ste-Catherine
+721m  Lambert-Closse_/_Tupper
+MANQUE clémentine 1	 ;
+COMPLET
+2845m  Champagneur_/_Jean-Talon
+OK
+3679m  Lambert-Closse_/_Tupper
+MANQUE citrouille 2	 ;
+OK
+4180m  Lambert-Closse_/_Tupper
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE porc 1	 ;
+MANQUE ananas 2	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE salicorne 4	 ;
+OK
+2723m  Chambord_/_Laurier
+8272m  St-Mathieu_/Ste-Catherine
+MANQUE haricot 2	 ;
+IMPOSSIBLE
+7500m  Chambord_/_Laurier
+3690m  Lincoln_/_du_Fort
+MANQUE châtaigne 1	 ;
+9110m  de_Bordeaux_/Gilford
+OK
+MANQUE coing 2	 ;
+OK
+8828m  Lincoln_/_du_Fort
+9708m  Champagneur_/_Jean-Talon Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+IMPOSSIBLE
+4389m  Lambert-Closse_/_Tupper
+COMPLET
+1459m  Chambord_/_Laurier
+MANQUE fromage 1	 ;
+MANQUE grenade 3	 ;
+OK
+OK
+5494m  St-Mathieu_/Ste-Catherine
+MANQUE pastèque 3	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+5074m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+MANQUE mirabelle 4	 ;
+MANQUE soja 3	 ;
+OK
+COMPLET
+OK
+OK
+OK
+MANQUE noix 2	 ;
+MANQUE cheval 2	 ;
+OK
+OK
+OK
+MANQUE aubergine 4	 ;
+OK
+MANQUE brocoli 2	 ;
+4948m  Champagneur_/_Jean-Talon
+OK
+OK
+1344m  Lionel-Groulx_/_George-Vanier
+OK
+OK
+OK
+334m  Lincoln_/_du_Fort
+4155m  de_Bordeaux_/Gilford
+MANQUE chou 3	 ;
+OK
+3548m  Chambord_/_Laurier
+OK
+OK
+4719m  de_Bordeaux_/Gilford
+MANQUE cheval 4	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE pistache 4	 ;
+7290m  St-Mathieu_/Ste-Catherine
+OK
+2074m  Bernard_/_Jeanne-Mance
+7658m  Lionel-Groulx_/_George-Vanier
+MANQUE épices 2	 ;
+8885m  Bernard_/_Jeanne-Mance Lambert-Closse_/_Tupper
+MANQUE pomme 4	 ;
+OK
+OK
+COMPLET
+MANQUE cornouiller_du_Canada 2	 ;
+OK
+MANQUE lapin 2	 ;
+MANQUE citrouille 3	 ;
+OK
+OK
+COMPLET
+OK
+6186m  Chambord_/_Laurier
+IMPOSSIBLE
+MANQUE jujube 2	 ;
+OK
+OK
+2548m  Bernard_/_Jeanne-Mance
+MANQUE pastèque 2	 ;
+3954m  Boyer_/_Beaubien
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+COMPLET
+OK
+IMPOSSIBLE
+10954m  Bernard_/_Jeanne-Mance Lionel-Groulx_/_George-Vanier
+MANQUE betterave 4	 ;
+IMPOSSIBLE
+6574m  Lambert-Closse_/_Tupper
+COMPLET
+MANQUE plaquebière 2	 ;
+MANQUE amande 3	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 4	 ;
+OK
+COMPLET
+4458m  Bernard_/_Jeanne-Mance
+OK
+COMPLET
+COMPLET
+IMPOSSIBLE
+MANQUE coing 3	 ;
+OK
+MANQUE ciboulette 1	 ;
+4093m  Lambert-Closse_/_Tupper
+OK
+OK
+OK
+MANQUE wapiti 4	 ;
+4169m  Boyer_/_Beaubien Champagneur_/_Jean-Talon
+IMPOSSIBLE
+4262m  Lambert-Closse_/_Tupper
+COMPLET
+5835m  Lambert-Closse_/_Tupper
+4694m  Lionel-Groulx_/_George-Vanier St-Mathieu_/Ste-Catherine
+MANQUE poivre 1	 ;
+MANQUE marron 4	 ;
+2993m  Lincoln_/_du_Fort
+IMPOSSIBLE
+OK
+OK
+7627m  Bernard_/_Jeanne-Mance
+OK
+OK
+7675m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+IMPOSSIBLE
+MANQUE plaquebière 3	 ;
+MANQUE lime 4	 ;
+MANQUE autruche 2	 ;
+OK
+MANQUE nèfle 1	 ;
+OK
+OK
+MANQUE fromage 3	 ;
+IMPOSSIBLE
+4137m  Bernard_/_Jeanne-Mance
+MANQUE pain 4	 ;
+COMPLET
+OK
+3882m  Lincoln_/_du_Fort
+3288m  Chambord_/_Laurier
+MANQUE abricot 4	 ;
+5817m  Bernard_/_Jeanne-Mance
+MANQUE chou-fleur 4	 ;
+OK
+OK
+IMPOSSIBLE
+163m  Boyer_/_Beaubien
+MANQUE noix 1	 ;
+5093m  Chambord_/_Laurier
+COMPLET
+MANQUE asperge 3	 ;
+OK
+8790m  Champagneur_/_Jean-Talon
+13154m  Lambert-Closse_/_Tupper
+OK
+MANQUE soja 2	 ;
+OK
+3935m  Boyer_/_Beaubien
+5018m  Champagneur_/_Jean-Talon
+OK
+IMPOSSIBLE
+MANQUE mirabelle 3	 ;
+7779m  Lionel-Groulx_/_George-Vanier
+IMPOSSIBLE
+MANQUE poivre 3	 ;
+11703m  Lambert-Closse_/_Tupper
+MANQUE antilope 3	 ;
+3569m  Lionel-Groulx_/_George-Vanier
+MANQUE beurre 2	 ;
+IMPOSSIBLE
+MANQUE échalote 3	 ;
+5399m  Lambert-Closse_/_Tupper
+3289m  Champagneur_/_Jean-Talon
+3974m  Bernard_/_Jeanne-Mance
+OK
+MANQUE taro 4	 ;
+OK
+OK
+OK
+OK
+MANQUE pistache 2	 ;
+5919m  Bernard_/_Jeanne-Mance
+13029m  Lionel-Groulx_/_George-Vanier
+OK
+OK
+COMPLET
+OK
+4437m  Chambord_/_Laurier
+COMPLET
+OK
+OK
+4757m  Bernard_/_Jeanne-Mance
+8431m  Lambert-Closse_/_Tupper
+OK
+MANQUE truffe 4	 ;
+OK
+1449m  Champagneur_/_Jean-Talon
+OK
+8130m  Lincoln_/_du_Fort
+COMPLET
+MANQUE courgette 1	 ;
+OK
+OK
+OK
+1114m  Lincoln_/_du_Fort
+OK
+OK
+MANQUE basilic 2	 ;
+OK
+IMPOSSIBLE
+MANQUE truffe 3	 ;
+4859m  Boyer_/_Beaubien
+OK
+8596m  Bernard_/_Jeanne-Mance
+MANQUE poivre 2	 ;
+MANQUE kaki 1	 ;
+MANQUE fromage 4	 ;
+OK
+6984m  Chambord_/_Laurier de_Bordeaux_/Gilford
+IMPOSSIBLE
+OK
+OK
+MANQUE haricot 3	 ;
+OK
+OK
+OK
+3040m  Bernard_/_Jeanne-Mance
+MANQUE échalote 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE wapiti 3	 ;
+3633m  Lionel-Groulx_/_George-Vanier
+OK
+OK
+MANQUE quinoa 2	 ;
+OK
+OK
+COMPLET
+OK
+7536m  Champagneur_/_Jean-Talon
+MANQUE cynorrhodon 3	 ;
+OK
+824m  Lincoln_/_du_Fort
+5938m  St-Mathieu_/Ste-Catherine
+3849m  Bernard_/_Jeanne-Mance
+MANQUE autruche 4	 ;
+OK
+OK
+MANQUE mirabelle 2	 ;
+MANQUE pomme 3	 ;
+MANQUE maceron 1	 ;
+7587m  Lambert-Closse_/_Tupper
+IMPOSSIBLE
+OK
+MANQUE pomme 1	 ;
+OK
+OK
+MANQUE cornouiller_du_Canada 3	 ;
+OK
+OK
+OK
+MANQUE carotte 4	 ;
+OK
+OK
+MANQUE melon 1	 ;
+8770m  Bernard_/_Jeanne-Mance
+5806m  Lincoln_/_du_Fort
+OK
+MANQUE mandarine 1	 ;
+5358m  Champagneur_/_Jean-Talon
+10868m  St-Mathieu_/Ste-Catherine
+1150m  de_Bordeaux_/Gilford
+OK
+MANQUE radis_noir 3	 ;
+OK
+OK
+COMPLET
+3544m  Lionel-Groulx_/_George-Vanier
+OK
+2847m  Boyer_/_Beaubien
+MANQUE veau 4	 ;
+7172m  de_Bordeaux_/Gilford
+5898m  Chambord_/_Laurier
+IMPOSSIBLE
+9274m  Lincoln_/_du_Fort
+MANQUE crème 1	 ;
+MANQUE marron 3	 ;
+MANQUE nèfle 1	 ;
+OK
+9130m  St-Mathieu_/Ste-Catherine
+MANQUE fève 1	 ;
+MANQUE fromage 1	 ;
+OK
+OK
+3114m  Bernard_/_Jeanne-Mance
+MANQUE mandarine 2	 ;
+MANQUE ananas 4	 ;
+IMPOSSIBLE
+MANQUE courgette 2	 ;
+MANQUE orange 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+11114m  Boyer_/_Beaubien
+OK
+5009m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+MANQUE asperge 1	 ;
+MANQUE bergamote 2	 ;
+6585m  Lincoln_/_du_Fort
+COMPLET
+MANQUE courgette 3	 ;
+OK
+OK
+COMPLET
+MANQUE navet 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE mûre 3	 ;
+MANQUE framboise 2	 ;
+OK
+OK
+1503m  Bernard_/_Jeanne-Mance
+1200m  Chambord_/_Laurier
+3729m  Chambord_/_Laurier
+COMPLET
+6425m  Bernard_/_Jeanne-Mance Champagneur_/_Jean-Talon
+COMPLET
+MANQUE pate 1	 ;
+3955m  Chambord_/_Laurier
+MANQUE ananas 3	 ;
+COMPLET
+IMPOSSIBLE
+OK
+OK
+OK
+COMPLET
+6718m  Chambord_/_Laurier
+OK
+OK
+7847m  Lincoln_/_du_Fort St-Mathieu_/Ste-Catherine
+OK
+6046m  Lincoln_/_du_Fort
+MANQUE courgette 3	 ;
+COMPLET
+COMPLET
+MANQUE soja 2	 ;
+IMPOSSIBLE
+4318m  Bernard_/_Jeanne-Mance
+5249m  Lincoln_/_du_Fort
+6920m  de_Bordeaux_/Gilford
+MANQUE soja 4	 ;
+MANQUE noisette 4	 ;
+OK
+MANQUE framboise 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+COMPLET
+5771m  Chambord_/_Laurier
+4336m  Chambord_/_Laurier
+MANQUE basilic 1	 ;
+7511m  Chambord_/_Laurier
+MANQUE melon 2	 ;
+OK
+MANQUE noix 1	 ;
+MANQUE truffe 1	 ;
+COMPLET
+OK
+OK
+OK
+OK
+OK
+MANQUE pate 4	 ;
+MANQUE soja 3	 ;
+3751m  Bernard_/_Jeanne-Mance
+MANQUE pastèque 2	 ;
+7524m  Lambert-Closse_/_Tupper
+3292m  St-Mathieu_/Ste-Catherine
+1504m  Boyer_/_Beaubien
+OK
+OK
+IMPOSSIBLE
+3164m  Chambord_/_Laurier
+COMPLET
+MANQUE oeuf 4	 ;
+MANQUE pêche 2	 ;
+COMPLET
+MANQUE chou 4	 ;
+1171m  Champagneur_/_Jean-Talon
+MANQUE grenade 3	 ;
+7327m  Champagneur_/_Jean-Talon
+OK
+MANQUE wapiti 4	 ;
+MANQUE myrtille 2	 ;
+MANQUE cornouiller_du_Canada 2	 ;
+5915m  Boyer_/_Beaubien Chambord_/_Laurier
+779m  Boyer_/_Beaubien
+COMPLET
+OK
+MANQUE cornouiller_du_Canada 2	 ;
+IMPOSSIBLE
+OK
+OK
+3209m  Lincoln_/_du_Fort
+COMPLET
+OK
+MANQUE mûre 2	 ;
+OK
+OK
+12081m  Bernard_/_Jeanne-Mance Lambert-Closse_/_Tupper
+7377m  Bernard_/_Jeanne-Mance
+OK
+OK
+OK
+OK
+6581m  Bernard_/_Jeanne-Mance
+COMPLET
+4915m  de_Bordeaux_/Gilford
+5931m  Lionel-Groulx_/_George-Vanier
+MANQUE truffe 3	 ;
+OK
+COMPLET
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+5230m  Bernard_/_Jeanne-Mance
+1743m  Lincoln_/_du_Fort
+8340m  Bernard_/_Jeanne-Mance
+OK
+OK
+5988m  St-Mathieu_/Ste-Catherine
+OK
+OK
+COMPLET
+OK
+OK
+5963m  de_Bordeaux_/Gilford
+MANQUE gingembre 2	 ;
+OK
+MANQUE radis_noir 4	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE chou-fleur 3	 ;
+OK
+OK
+OK
+MANQUE navet 1	 ;
+OK
+2378m  de_Bordeaux_/Gilford
+OK
+COMPLET
+8673m  St-Mathieu_/Ste-Catherine
+OK
+OK
+OK
+IMPOSSIBLE
+10836m  St-Mathieu_/Ste-Catherine
+OK
+MANQUE quinoa 4	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+9006m  Lionel-Groulx_/_George-Vanier
+COMPLET
+MANQUE mirabelle 3	 ;
+MANQUE courge 4	 ;
+COMPLET
+10191m  Boyer_/_Beaubien
+MANQUE pain 4	 ;
+OK
+6151m  Chambord_/_Laurier
+MANQUE brugnon 2	 ;
+MANQUE laitue 4	 ;
+2701m  Lionel-Groulx_/_George-Vanier
+5829m  Lionel-Groulx_/_George-Vanier
+COMPLET
+OK
+OK
+MANQUE boeuf 2	 ;
+10427m  Lambert-Closse_/_Tupper
+4295m  Boyer_/_Beaubien
+MANQUE wapiti 2	 ;
+MANQUE cassis 1	 ;
+MANQUE prune 1	 ;
+OK
+4224m  Lambert-Closse_/_Tupper
+COMPLET
+OK
+OK
+OK
+2576m  Chambord_/_Laurier
+COMPLET
+IMPOSSIBLE
+9505m  de_Bordeaux_/Gilford
+OK
+COMPLET
+MANQUE ananas 2	 ;
+OK
+5324m  Boyer_/_Beaubien
+IMPOSSIBLE
+MANQUE cassis 4	 ;
+OK
+MANQUE yogourt 4	 ;
+IMPOSSIBLE
+MANQUE pêche 3	 ;
+OK
+4942m  Boyer_/_Beaubien
+MANQUE courge 4	 ;
+OK
+COMPLET
+MANQUE banane 1	 ;
+COMPLET
+OK
+OK
+MANQUE arbouse 1	 ;
+MANQUE avocat 1	 ;
+MANQUE pois 4	 ;
+MANQUE taro 2	 ;
+OK
+MANQUE lapin 2	 ;
+1990m  St-Mathieu_/Ste-Catherine
+6761m  Chambord_/_Laurier
+985m  Bernard_/_Jeanne-Mance
+OK
+OK
+MANQUE antilope 1	 ;
+OK
+COMPLET
+MANQUE bergamote 4	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE crème 1	 ;
+6748m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+OK
+OK
+OK
+MANQUE sucre 3	 ;
+OK
+8708m  Lambert-Closse_/_Tupper
+1714m  Bernard_/_Jeanne-Mance
+OK
+IMPOSSIBLE
+MANQUE poivron 1	 ;
+MANQUE ananas 2	 ;
+11085m  Lambert-Closse_/_Tupper
+MANQUE boeuf 3	 ;
+OK
+COMPLET
+OK
+OK
+OK
+MANQUE porc 4	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE pastèque 3	 ;
+OK
+OK
+COMPLET
+OK
+MANQUE oeuf 3	 ;
+MANQUE mirabelle 4	 ;
+MANQUE chou-fleur 3	 ;
+MANQUE courge 1	 ;
+MANQUE ananas 3	 ;
+4190m  St-Mathieu_/Ste-Catherine
+2348m  Boyer_/_Beaubien
+MANQUE betterave 3	 ;
+MANQUE fève 4	 ;
+10233m  Champagneur_/_Jean-Talon Lincoln_/_du_Fort
+OK
+COMPLET
+MANQUE gingembre 4	 ;
+14312m  Lionel-Groulx_/_George-Vanier
+OK
+1254m  Bernard_/_Jeanne-Mance
+OK
+OK
+OK
+OK
+OK
+COMPLET
+IMPOSSIBLE
+407m  Boyer_/_Beaubien
+3043m  Lincoln_/_du_Fort
+MANQUE radis 3	 ;
+MANQUE banane 1	 ;
+MANQUE salicorne 1	 ;
+COMPLET
+MANQUE cassis 1	 ;
+MANQUE fromage 3	 ;
+OK
+MANQUE truffe 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE abricot 3	 ;
+6428m  Bernard_/_Jeanne-Mance
+MANQUE abricot 1	 ;
+OK
+3194m  Lambert-Closse_/_Tupper
+MANQUE bergamote 3	 ;
+MANQUE céleri 4	 ;
+IMPOSSIBLE
+OK
+11453m  Lambert-Closse_/_Tupper de_Bordeaux_/Gilford
+IMPOSSIBLE
+OK
+OK
+2195m  de_Bordeaux_/Gilford
+207m  St-Mathieu_/Ste-Catherine
+OK
+OK
+MANQUE raisin 1	 ;
+MANQUE échalote 3	 ;
+MANQUE haricot 4	 ;
+OK
+MANQUE lapin 3	 ;
+MANQUE chou 1	 ;
+MANQUE pomme_de_terre 2	 ;
+10269m  Boyer_/_Beaubien
+IMPOSSIBLE
+7288m  Bernard_/_Jeanne-Mance Champagneur_/_Jean-Talon
+MANQUE pois 4	 ;
+1493m  Lionel-Groulx_/_George-Vanier
+OK
+9299m  Lincoln_/_du_Fort
+2740m  Bernard_/_Jeanne-Mance
+6746m  St-Mathieu_/Ste-Catherine
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+COMPLET
+IMPOSSIBLE
+OK
+MANQUE mandarine 1	 ;
+MANQUE oeuf 2	 ;
+OK
+OK
+3225m  Bernard_/_Jeanne-Mance
+7557m  Champagneur_/_Jean-Talon
+2011m  Chambord_/_Laurier
+MANQUE betterave 1	 ;
+IMPOSSIBLE
+2206m  Bernard_/_Jeanne-Mance
+OK
+COMPLET
+OK
+COMPLET
+IMPOSSIBLE
+MANQUE autruche 2	 ;
+OK
+MANQUE cynorrhodon 2	 ;
+IMPOSSIBLE
+9388m  St-Mathieu_/Ste-Catherine
+OK
+OK
+COMPLET
+4184m  Chambord_/_Laurier
+OK
+COMPLET
+6777m  Bernard_/_Jeanne-Mance
+MANQUE coing 3	 ;
+MANQUE ciboulette 3	 ;
+2249m  Lionel-Groulx_/_George-Vanier
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE rhubarbe 1	 ;
+COMPLET
+4563m  Champagneur_/_Jean-Talon
+OK
+MANQUE agneau 2	 ;
+IMPOSSIBLE
+OK
+MANQUE avocat 4	 ;
+2217m  Chambord_/_Laurier
+MANQUE abricot 4	 ;
+OK
+OK
+IMPOSSIBLE
+5566m  Lambert-Closse_/_Tupper
+9427m  Lionel-Groulx_/_George-Vanier
+7161m  Bernard_/_Jeanne-Mance
+MANQUE raisin 4	 ;
+MANQUE abricot 4	 ;
+MANQUE abricot 2	 ;
+IMPOSSIBLE
+OK
+MANQUE échalote 4	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cheval 2	 ;
+OK
+COMPLET
+OK
+MANQUE citron 1	 ;
+OK
+1451m  Lambert-Closse_/_Tupper
+MANQUE avocat 1	 ;
+OK
+MANQUE chou 1	 ;
+OK
+OK
+MANQUE yogourt 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE framboise 1	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+7121m  Lincoln_/_du_Fort
+MANQUE raisin 3	 ;
+IMPOSSIBLE
+OK
+OK
+COMPLET
+MANQUE figue 3	 ;
+OK
+1512m  Champagneur_/_Jean-Talon
+MANQUE arbouse 1	 ;
+6209m  St-Mathieu_/Ste-Catherine
+6156m  Boyer_/_Beaubien
+MANQUE kaki 2	 ;
+OK
+OK
+OK
+OK
+MANQUE canneberge 1	 ;
+OK
+OK
+MANQUE beurre 3	 ;
+OK
+11560m  Lionel-Groulx_/_George-Vanier
+MANQUE lime 2	 ;
+OK
+MANQUE cassis 1	 ;
+OK
+MANQUE salade 1	 ;
+MANQUE veau 4	 ;
+OK
+3409m  St-Mathieu_/Ste-Catherine
+COMPLET
+COMPLET
+IMPOSSIBLE
+COMPLET
+OK
+MANQUE brocoli 2	 ;
+OK
+MANQUE basilic 2	 ;
+OK
+9054m  de_Bordeaux_/Gilford
+IMPOSSIBLE
+MANQUE bigarade 1	 ;
+OK
+1977m  Boyer_/_Beaubien
+OK
+OK
+OK
+MANQUE romaine 4	 ;
+3762m  Bernard_/_Jeanne-Mance
+OK
+IMPOSSIBLE
+MANQUE banane 3	 ;
+IMPOSSIBLE
+OK
+MANQUE ciboulette 3	 ;
+IMPOSSIBLE
+OK
+MANQUE jujube 3	 ;
+OK
+OK
+MANQUE brocoli 4	 ;
+3967m  Lambert-Closse_/_Tupper
+10362m  St-Mathieu_/Ste-Catherine
+OK
+IMPOSSIBLE
+MANQUE myrtille 3	 ;
+4234m  Champagneur_/_Jean-Talon
+OK
+3424m  Bernard_/_Jeanne-Mance
+COMPLET
+6659m  Bernard_/_Jeanne-Mance
+MANQUE chèvre 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+1687m  de_Bordeaux_/Gilford
+OK
+IMPOSSIBLE
+MANQUE salicorne 3	 ;
+OK
+2653m  Lincoln_/_du_Fort
+OK
+11103m  St-Mathieu_/Ste-Catherine
+IMPOSSIBLE
+OK
+OK
+MANQUE crème 3	 ;
+OK
+MANQUE raisin 1	 ;
+OK
+MANQUE agneau 2	 ;
+COMPLET
+MANQUE pistache 3	 ;
+OK
+OK
+OK
+OK
+OK
+4407m  Bernard_/_Jeanne-Mance
+MANQUE melon 1	 ;
+MANQUE carotte 1	 ;
+OK
+6980m  de_Bordeaux_/Gilford
+OK
+MANQUE céleri 1	 ;
+MANQUE pomme_de_terre 3	 ;
+IMPOSSIBLE
+10882m  Champagneur_/_Jean-Talon Lambert-Closse_/_Tupper
+10103m  St-Mathieu_/Ste-Catherine
+IMPOSSIBLE
+5834m  de_Bordeaux_/Gilford
+6946m  Boyer_/_Beaubien
+3679m  St-Mathieu_/Ste-Catherine
+MANQUE kiwi 3	 ;
+MANQUE céleri 2	 ;
+MANQUE pomme_de_terre 1	 ;
+COMPLET
+OK
+COMPLET
+MANQUE bergamote 2	 ;
+OK
+MANQUE courge 4	 ;
+MANQUE fromage 3	 ;
+OK
+MANQUE grenade 4	 ;
+OK
+OK
+MANQUE pate 2	 ;
+OK
+OK
+993m  Lincoln_/_du_Fort
+OK
+COMPLET
+MANQUE kiwi 2	 ;
+OK
+IMPOSSIBLE
+5306m  Lionel-Groulx_/_George-Vanier
+IMPOSSIBLE
+COMPLET
+MANQUE pomme_de_terre 1	 ;
+OK
+OK
+MANQUE romaine 1	 ;
+OK
+IMPOSSIBLE
+OK
+2964m  Chambord_/_Laurier Boyer_/_Beaubien
+OK
+10762m  Boyer_/_Beaubien
+IMPOSSIBLE
+IMPOSSIBLE
+1269m  de_Bordeaux_/Gilford
+IMPOSSIBLE
+MANQUE crème 4	 ;
+10098m  St-Mathieu_/Ste-Catherine
+IMPOSSIBLE
+OK
+MANQUE wapiti 3	 ;
+12384m  Champagneur_/_Jean-Talon Lionel-Groulx_/_George-Vanier
+1030m  St-Mathieu_/Ste-Catherine
+MANQUE poireau 2	 ;
+OK
+MANQUE boeuf 1	 ;
+MANQUE soja 3	 ;
+IMPOSSIBLE
+MANQUE chèvre 4	 ;
+OK
+OK
+MANQUE mandarine 1	 ;
+MANQUE amande 4	 ;
+MANQUE pomme_de_terre 3	 ;
+2247m  Bernard_/_Jeanne-Mance
+OK
+MANQUE poivre 3	 ;
+9166m  Champagneur_/_Jean-Talon
+OK
+OK
+MANQUE citrouille 3	 ;
+6170m  Champagneur_/_Jean-Talon
+OK
+OK
+OK
+MANQUE amande 1	 ;
+OK
+658m  Lambert-Closse_/_Tupper
+OK
+MANQUE ciboulette 4	 ;
+10984m  de_Bordeaux_/Gilford
+OK
+OK
+OK
+MANQUE bergamote 4	 ;
+2995m  Chambord_/_Laurier
+OK
+OK
+IMPOSSIBLE
+MANQUE navet 1	 ;
+MANQUE lime 2	 ;
+4865m  Champagneur_/_Jean-Talon
+OK
+MANQUE lapin 4	 ;
+OK
+9941m  Lincoln_/_du_Fort
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE radis_noir 4	 ;
+MANQUE pain 1	 ;
+11188m  Boyer_/_Beaubien
+2431m  Lincoln_/_du_Fort
+MANQUE olive 2	 ;
+7645m  de_Bordeaux_/Gilford
+IMPOSSIBLE
+COMPLET
+2438m  Bernard_/_Jeanne-Mance
+COMPLET
+IMPOSSIBLE
+1413m  Lionel-Groulx_/_George-Vanier
+11690m  Lambert-Closse_/_Tupper
+MANQUE jujube 1	 ;
+MANQUE bigarade 2	 ;
+4377m  Lincoln_/_du_Fort
+OK
+MANQUE brugnon 1	 ;
+OK
+OK
+OK
+OK
+MANQUE châtaigne 1	 ;
+MANQUE mandarine 1	 ;
+IMPOSSIBLE
+4288m  Champagneur_/_Jean-Talon
+OK
+1123m  de_Bordeaux_/Gilford
+6308m  Chambord_/_Laurier
+OK
+IMPOSSIBLE
+4776m  Boyer_/_Beaubien
+2443m  Bernard_/_Jeanne-Mance
+OK
+7500m  Lionel-Groulx_/_George-Vanier
+OK
+IMPOSSIBLE
+3013m  Boyer_/_Beaubien
+OK
+IMPOSSIBLE
+OK
+5459m  Chambord_/_Laurier de_Bordeaux_/Gilford
+COMPLET
+IMPOSSIBLE
+COMPLET
+8790m  St-Mathieu_/Ste-Catherine
+7679m  Boyer_/_Beaubien
+1634m  Champagneur_/_Jean-Talon
+OK
+OK
+OK
+OK
+OK
+MANQUE lapin 1	 ;
+1113m  Parc_du_Pelican_(2e_avenue_/_St-Joseph)
+IMPOSSIBLE
+MANQUE cynorrhodon 1	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE raisin 1	 ;
+IMPOSSIBLE
+OK
+COMPLET
+2272m  Bernard_/_Jeanne-Mance
+OK
+5709m  Chambord_/_Laurier
+4343m  Champagneur_/_Jean-Talon
+IMPOSSIBLE
+OK
+3432m  de_Bordeaux_/Gilford
+MANQUE cheval 2	 ;
+4569m  Boyer_/_Beaubien
+OK
+MANQUE brocoli 2	 ;
+OK
+OK
+2397m  Boyer_/_Beaubien
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE huile 1	 ;
+IMPOSSIBLE
+OK
+MANQUE maceron 1	 ;
+OK
+IMPOSSIBLE
+OK
+8894m  St-Mathieu_/Ste-Catherine
+1376m  St-Mathieu_/Ste-Catherine
+COMPLET
+4319m  St-Mathieu_/Ste-Catherine
+11108m  Lionel-Groulx_/_George-Vanier
+MANQUE laitue 2	 ;
+COMPLET
+OK
+MANQUE brugnon 4	 ;
+1136m  Champagneur_/_Jean-Talon
+6362m  St-Mathieu_/Ste-Catherine
+MANQUE cerise 2	 ;
+IMPOSSIBLE
+MANQUE melon 4	 ;
+OK
+OK
+OK
+MANQUE avocat 1	 ;
+7006m  Lambert-Closse_/_Tupper
+MANQUE panais 4	 ;
+MANQUE laitue 1	 ;
+OK
+MANQUE carotte 3	 ;
+COMPLET
+IMPOSSIBLE
+OK
+5279m  Bernard_/_Jeanne-Mance
+OK
+OK
+OK
+MANQUE cerise 3	 ;
+MANQUE céleri 2	 ;
+MANQUE châtaigne 3	 ;
+IMPOSSIBLE
+MANQUE radis 4	 ;
+12290m  Lionel-Groulx_/_George-Vanier Champagneur_/_Jean-Talon
+MANQUE betterave 3	 ;
+MANQUE laitue 3	 ;
+8501m  St-Mathieu_/Ste-Catherine
+OK
+2809m  Bernard_/_Jeanne-Mance
+6451m  Champagneur_/_Jean-Talon
+3238m  Bernard_/_Jeanne-Mance
+COMPLET
+OK
+MANQUE pois 1	 ;
+OK
+8478m  Lionel-Groulx_/_George-Vanier
+OK
+MANQUE sel 1	 ;
+OK
+3519m  Lambert-Closse_/_Tupper
+629m  Bernard_/_Jeanne-Mance
+OK
+COMPLET
+MANQUE noix 1	 ;
+8047m  Champagneur_/_Jean-Talon
+MANQUE quetsche 2	 ;
+3913m  Chambord_/_Laurier
+MANQUE brocoli 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE ail 2	 ;
+9028m  St-Mathieu_/Ste-Catherine
+8758m  Bernard_/_Jeanne-Mance
+1487m  Chambord_/_Laurier
+4863m  St-Mathieu_/Ste-Catherine
+OK
+OK
+MANQUE chou 3	 ;
+OK
+OK
+OK
+MANQUE cassis 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE myrtille 3	 ;
+OK
+MANQUE chèvre 3	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE brugnon 1	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE beurre 2	 ;
+OK
+OK
+OK
+MANQUE laitue 2	 ;
+MANQUE rhubarbe 1	 ;
+COMPLET
+MANQUE pate 4	 ;
+OK
+MANQUE sel 1	 ;
+MANQUE yogourt 4	 ;
+MANQUE avocat 2	 ;
+MANQUE concombre 2	 ;
+COMPLET
+COMPLET
+MANQUE poireau 1	 ;
+COMPLET
+MANQUE panais 2	 ;
+MANQUE mirabelle 2	 ;
+MANQUE prune 2	 ;
+MANQUE lapin 1	 ;
+COMPLET
+MANQUE cynorrhodon 3	 ;
+COMPLET
+MANQUE pomme_de_terre 4	 ;
+MANQUE yogourt 1	 ;
+MANQUE châtaigne 2	 ;
+MANQUE pomme 1	 ;
+MANQUE pastèque 1	 ;
+MANQUE banane 4	 ;
+COMPLET
+MANQUE lime 1	 ;
+MANQUE cornouiller_du_Canada 3	 ;
+MANQUE mandarine 4	 ;
+MANQUE framboise 1	 ;
+MANQUE épices 1	 ;
+MANQUE chèvre 4	 ;

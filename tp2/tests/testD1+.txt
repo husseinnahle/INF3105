@@ -1,0 +1,3110 @@
+OK
+OK
+OK
+MANQUE cynorrhodon 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE cynorrhodon 1	 ;
+IMPOSSIBLE
+MANQUE ananas 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE datte 1	 ;
+MANQUE salicorne 4	 ;
+MANQUE raisin 4	 ;
+IMPOSSIBLE
+OK
+11366m  Ann_/_William
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE carotte 2	 ;
+OK
+OK
+OK
+MANQUE aubergine 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE veau 1	 ;
+IMPOSSIBLE
+MANQUE olive 4	 ;
+MANQUE agneau 1	 ;
+OK
+MANQUE poire 3	 ;
+OK
+MANQUE laitue 1	 ;
+MANQUE autruche 1	 ;
+MANQUE noix 3	 ;
+OK
+MANQUE yogourt 3	 ;
+OK
+OK
+OK
+MANQUE jujube 2	 ;
+MANQUE mûre 3	 ;
+IMPOSSIBLE
+OK
+MANQUE kaki 4	 ;
+IMPOSSIBLE
+MANQUE fraise 2	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE lime 2	 ;
+OK
+OK
+MANQUE jujube 3	 ;
+OK
+OK
+COMPLET
+MANQUE oignon 1	 ;
+4751m  LaSalle_/_Crawford
+OK
+MANQUE boeuf 3	 ;
+IMPOSSIBLE
+7228m  de_Montmorency_/_Richardson
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE noisette 3	 ;
+MANQUE prune 1	 ;
+OK
+OK
+OK
+MANQUE figue 4	 ;
+MANQUE soja 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE châtaigne 4	 ;
+OK
+IMPOSSIBLE
+14520m  Ann_/_William
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE pêche 1	 ;
+5354m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+COMPLET
+OK
+OK
+OK
+OK
+MANQUE olive 4	 ;
+OK
+MANQUE cheval 4	 ;
+MANQUE rhubarbe 3	 ;
+OK
+OK
+MANQUE abricot 1	 ;
+MANQUE prune 4	 ;
+MANQUE yogourt 2	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE asperge 1	 ;
+11833m  Bel_Air_/_St-Antoine
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE rhubarbe 3	 ;
+IMPOSSIBLE
+MANQUE quetsche 2	 ;
+OK
+COMPLET
+OK
+MANQUE quetsche 1	 ;
+MANQUE ananas 1	 ;
+4959m  de_Montmorency_/_Richardson
+OK
+MANQUE mûre 1	 ;
+MANQUE avocat 4	 ;
+IMPOSSIBLE
+19434m  Lariviere_/_de_Lorimier
+OK
+COMPLET
+MANQUE chou-fleur 1	 ;
+MANQUE veau 1	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pate 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE épices 3	 ;
+OK
+IMPOSSIBLE
+13066m  LaSalle_/_Crawford
+IMPOSSIBLE
+IMPOSSIBLE
+7040m  Lariviere_/_de_Lorimier
+OK
+6736m  Bel_Air_/_St-Antoine
+OK
+OK
+OK
+MANQUE pois 1	 ;
+IMPOSSIBLE
+OK
+OK
+7647m  Ann_/_William
+OK
+OK
+MANQUE citron 3	 ;
+MANQUE raisin 4	 ;
+MANQUE porc 1	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+MANQUE noisette 4	 ;
+IMPOSSIBLE
+OK
+MANQUE pois 3	 ;
+OK
+20720m  LaSalle_/_Crawford
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+6429m  Prince-Arthur_/_du_Parc
+1094m  Lariviere_/_de_Lorimier
+IMPOSSIBLE
+MANQUE pomme 1	 ;
+OK
+MANQUE wapiti 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 3	 ;
+IMPOSSIBLE
+OK
+OK
+2204m  de_Montmorency_/_Richardson
+OK
+MANQUE carotte 1	 ;
+MANQUE ail 4	 ;
+5093m  de_Montmorency_/_Richardson
+MANQUE figue 2	 ;
+MANQUE carotte 4	 ;
+MANQUE huile 3	 ;
+MANQUE ananas 3	 ;
+OK
+2816m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE bison 4	 ;
+MANQUE boeuf 1	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+1802m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+IMPOSSIBLE
+OK
+OK
+OK
+19462m  LaSalle_/_Crawford
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE rhubarbe 1	 ;
+4745m  LaSalle_/_Crawford
+10532m  de_Montmorency_/_Richardson
+IMPOSSIBLE
+MANQUE bison 1	 ;
+MANQUE lait 1	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+26703m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+MANQUE betterave 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+5026m  Messier_/_Hochelaga
+OK
+MANQUE citron 3	 ;
+OK
+1386m  de_Montmorency_/_Richardson
+COMPLET
+MANQUE truffe 2	 ;
+IMPOSSIBLE
+OK
+9258m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+MANQUE coing 1	 ;
+MANQUE beurre 4	 ;
+MANQUE agneau 4	 ;
+MANQUE avocat 2	 ;
+MANQUE jujube 1	 ;
+MANQUE châtaigne 4	 ;
+MANQUE pate 1	 ;
+MANQUE banane 2	 ;
+OK
+MANQUE coing 3	 ;
+IMPOSSIBLE
+OK
+14002m  Prince-Arthur_/_du_Parc
+OK
+MANQUE aubergine 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+5887m  de_Montmorency_/_Richardson
+14028m  Ann_/_William
+OK
+OK
+OK
+OK
+MANQUE raisin 2	 ;
+IMPOSSIBLE
+OK
+4659m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+MANQUE pamplemousse 2	 ;
+COMPLET
+OK
+MANQUE carotte 3	 ;
+IMPOSSIBLE
+OK
+MANQUE navet 4	 ;
+10816m  LaSalle_/_Crawford
+MANQUE noix 1	 ;
+3073m  Ann_/_William
+MANQUE boeuf 1	 ;
+6158m  Prince-Arthur_/_du_Parc
+IMPOSSIBLE
+MANQUE salade 1	 ;
+4498m  Lariviere_/_de_Lorimier
+MANQUE bergamote 3	 ;
+6324m  Prince-Arthur_/_du_Parc
+MANQUE cynorrhodon 4	 ;
+7078m  Prince-Arthur_/_du_Parc
+OK
+5323m  Prince-Arthur_/_du_Parc
+OK
+OK
+MANQUE poireau 4	 ;
+IMPOSSIBLE
+7295m  Bel_Air_/_St-Antoine
+MANQUE fraise 1	 ;
+IMPOSSIBLE
+25532m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+10205m  Ann_/_William
+MANQUE cornouiller_du_Canada 3	 ;
+OK
+MANQUE radis_noir 4	 ;
+MANQUE céleri 1	 ;
+OK
+IMPOSSIBLE
+MANQUE aubergine 4	 ;
+MANQUE myrtille 4	 ;
+MANQUE crème_glacée 4	 ;
+OK
+MANQUE bison 1	 ;
+MANQUE mûre 4	 ;
+OK
+7184m  Lariviere_/_de_Lorimier
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE aubergine 2	 ;
+IMPOSSIBLE
+OK
+MANQUE porc 1	 ;
+11290m  du_Mont-Royal_/_Vincent-d'Indy
+COMPLET
+OK
+MANQUE chèvre 1	 ;
+18742m  Lariviere_/_de_Lorimier
+MANQUE melon 4	 ;
+IMPOSSIBLE
+MANQUE avocat 3	 ;
+OK
+OK
+9459m  Lariviere_/_de_Lorimier
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE beurre 1	 ;
+MANQUE myrtille 3	 ;
+OK
+17280m  Lariviere_/_de_Lorimier
+COMPLET
+MANQUE marron 1	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+10153m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE poire 4	 ;
+4654m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE concombre 4	 ;
+181m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+1658m  Prince-Arthur_/_du_Parc
+MANQUE rhubarbe 1	 ;
+MANQUE prune 1	 ;
+9339m  de_Montmorency_/_Richardson
+MANQUE navet 1	 ;
+IMPOSSIBLE
+6353m  Messier_/_Hochelaga
+OK
+OK
+OK
+MANQUE cassis 4	 ;
+IMPOSSIBLE
+OK
+16369m  Bel_Air_/_St-Antoine
+OK
+MANQUE aubergine 3	 ;
+2653m  Ann_/_William
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+COMPLET
+23539m  LaSalle_/_Crawford
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE abricot 1	 ;
+OK
+OK
+OK
+COMPLET
+MANQUE veau 1	 ;
+OK
+OK
+4808m  LaSalle_/_Crawford
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+9136m  Prince-Arthur_/_du_Parc
+MANQUE châtaigne 4	 ;
+MANQUE autruche 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+27082m  LaSalle_/_Crawford
+MANQUE mandarine 3	 ;
+OK
+OK
+13786m  Bel_Air_/_St-Antoine
+5667m  Prince-Arthur_/_du_Parc
+MANQUE agneau 3	 ;
+12749m  Ann_/_William
+MANQUE courge 4	 ;
+10253m  de_Montmorency_/_Richardson
+MANQUE framboise 3	 ;
+OK
+OK
+1890m  Bel_Air_/_St-Antoine
+MANQUE brugnon 2	 ;
+5765m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+IMPOSSIBLE
+2628m  Bel_Air_/_St-Antoine
+MANQUE navet 3	 ;
+MANQUE lapin 2	 ;
+COMPLET
+OK
+MANQUE pêche 1	 ;
+MANQUE bergamote 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+COMPLET
+MANQUE quinoa 4	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE figue 3	 ;
+MANQUE lait 3	 ;
+OK
+OK
+OK
+MANQUE truffe 1	 ;
+OK
+1401m  Messier_/_Hochelaga
+IMPOSSIBLE
+MANQUE arbouse 4	 ;
+10465m  Prince-Arthur_/_du_Parc
+8084m  du_Mont-Royal_/_Vincent-d'Indy
+4617m  du_Mont-Royal_/_Vincent-d'Indy
+4920m  Messier_/_Hochelaga
+MANQUE wapiti 4	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE oeuf 4	 ;
+IMPOSSIBLE
+OK
+5763m  de_Montmorency_/_Richardson
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE melon 1	 ;
+OK
+MANQUE noix 1	 ;
+MANQUE plaquebière 1	 ;
+7079m  Messier_/_Hochelaga
+OK
+9884m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+8581m  Ann_/_William
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE oeuf 3	 ;
+MANQUE noix 2	 ;
+1515m  Ann_/_William
+MANQUE châtaigne 1	 ;
+MANQUE porc 1	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+7915m  Bel_Air_/_St-Antoine
+MANQUE poivre 2	 ;
+11003m  de_Montmorency_/_Richardson
+MANQUE citron 3	 ;
+MANQUE soja 2	 ;
+COMPLET
+OK
+OK
+19607m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+4398m  de_Montmorency_/_Richardson
+MANQUE cheval 1	 ;
+13311m  Ann_/_William
+IMPOSSIBLE
+OK
+14944m  Bel_Air_/_St-Antoine
+OK
+2579m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+MANQUE framboise 2	 ;
+MANQUE boeuf 2	 ;
+MANQUE ciboulette 1	 ;
+IMPOSSIBLE
+MANQUE groseille 2	 ;
+MANQUE beurre 3	 ;
+COMPLET
+MANQUE marron 3	 ;
+MANQUE groseille 2	 ;
+OK
+MANQUE huile 4	 ;
+OK
+OK
+OK
+12401m  de_Montmorency_/_Richardson
+MANQUE pamplemousse 2	 ;
+IMPOSSIBLE
+OK
+MANQUE salicorne 2	 ;
+IMPOSSIBLE
+MANQUE melon 3	 ;
+MANQUE ail 3	 ;
+OK
+OK
+OK
+OK
+MANQUE crème 2	 ;
+OK
+OK
+MANQUE marron 4	 ;
+MANQUE banane 4	 ;
+11377m  Prince-Arthur_/_du_Parc
+MANQUE arbouse 4	 ;
+OK
+MANQUE antilope 2	 ;
+MANQUE plaquebière 4	 ;
+OK
+OK
+OK
+MANQUE olive 1	 ;
+IMPOSSIBLE
+OK
+MANQUE laitue 2	 ;
+7858m  de_Montmorency_/_Richardson
+COMPLET
+OK
+4878m  Bel_Air_/_St-Antoine
+OK
+3907m  Bel_Air_/_St-Antoine
+MANQUE oignon 3	 ;
+OK
+OK
+OK
+OK
+COMPLET
+635m  Ann_/_William
+IMPOSSIBLE
+COMPLET
+COMPLET
+IMPOSSIBLE
+MANQUE courgette 3	 ;
+MANQUE panais 4	 ;
+OK
+MANQUE groseille 1	 ;
+COMPLET
+IMPOSSIBLE
+MANQUE datte 2	 ;
+MANQUE datte 1	 ;
+OK
+MANQUE chèvre 3	 ;
+MANQUE bergamote 3	 ;
+IMPOSSIBLE
+MANQUE avocat 2	 ;
+OK
+COMPLET
+MANQUE oignon 2	 ;
+MANQUE pomme_de_terre 1	 ;
+OK
+MANQUE cerise 1	 ;
+MANQUE ciboulette 2	 ;
+MANQUE huile 1	 ;
+6132m  Ann_/_William
+MANQUE raisin 3	 ;
+MANQUE noix 1	 ;
+OK
+8981m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE lime 2	 ;
+OK
+MANQUE échalote 4	 ;
+MANQUE bigarade 1	 ;
+OK
+OK
+OK
+12567m  Messier_/_Hochelaga
+5637m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE carotte 4	 ;
+OK
+5570m  du_Mont-Royal_/_Vincent-d'Indy
+COMPLET
+OK
+OK
+MANQUE navet 4	 ;
+25993m  LaSalle_/_Crawford
+6153m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+MANQUE poivron 3	 ;
+MANQUE poivre 4	 ;
+OK
+2970m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+MANQUE ciboulette 2	 ;
+MANQUE gingembre 1	 ;
+16848m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+11433m  du_Mont-Royal_/_Vincent-d'Indy
+14476m  Ann_/_William
+2438m  Messier_/_Hochelaga
+9318m  de_Montmorency_/_Richardson
+MANQUE fraise 3	 ;
+COMPLET
+OK
+MANQUE haricot 3	 ;
+OK
+3686m  Messier_/_Hochelaga
+OK
+OK
+OK
+MANQUE ananas 1	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE banane 3	 ;
+OK
+OK
+OK
+MANQUE banane 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE châtaigne 3	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE kiwi 4	 ;
+IMPOSSIBLE
+OK
+10921m  Prince-Arthur_/_du_Parc
+OK
+4742m  Ann_/_William
+MANQUE banane 1	 ;
+6192m  de_Montmorency_/_Richardson
+16753m  Lariviere_/_de_Lorimier
+MANQUE sel 2	 ;
+MANQUE porc 1	 ;
+4051m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE asperge 4	 ;
+IMPOSSIBLE
+MANQUE banane 1	 ;
+MANQUE noisette 1	 ;
+OK
+MANQUE quetsche 2	 ;
+OK
+9612m  Prince-Arthur_/_du_Parc
+MANQUE laitue 3	 ;
+MANQUE concombre 3	 ;
+IMPOSSIBLE
+OK
+MANQUE noix 4	 ;
+MANQUE céleri 4	 ;
+4188m  Lariviere_/_de_Lorimier
+MANQUE cynorrhodon 4	 ;
+10319m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE pomme_de_terre 2	 ;
+OK
+MANQUE mandarine 2	 ;
+MANQUE cassis 3	 ;
+MANQUE kiwi 1	 ;
+7820m  Messier_/_Hochelaga
+MANQUE poivre 4	 ;
+MANQUE plaquebière 3	 ;
+OK
+OK
+3717m  Bel_Air_/_St-Antoine
+MANQUE courge 3	 ;
+MANQUE citron 1	 ;
+MANQUE boeuf 2	 ;
+24636m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE pate 4	 ;
+MANQUE plaquebière 1	 ;
+2402m  Ann_/_William
+4397m  Prince-Arthur_/_du_Parc
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+4012m  Messier_/_Hochelaga
+OK
+OK
+22261m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+3294m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+MANQUE plaquebière 3	 ;
+MANQUE grenade 1	 ;
+MANQUE clémentine 3	 ;
+18025m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+IMPOSSIBLE
+MANQUE pate 4	 ;
+5162m  Prince-Arthur_/_du_Parc
+9023m  Messier_/_Hochelaga
+OK
+OK
+OK
+9314m  Lariviere_/_de_Lorimier
+1355m  Prince-Arthur_/_du_Parc
+12940m  Prince-Arthur_/_du_Parc
+MANQUE prune 1	 ;
+IMPOSSIBLE
+MANQUE maceron 1	 ;
+OK
+MANQUE poireau 3	 ;
+OK
+OK
+OK
+OK
+MANQUE myrtille 4	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE chou 4	 ;
+MANQUE grenade 4	 ;
+OK
+OK
+8012m  Ann_/_William
+MANQUE ananas 1	 ;
+IMPOSSIBLE
+16950m  Bel_Air_/_St-Antoine
+OK
+OK
+MANQUE romaine 2	 ;
+COMPLET
+5683m  Ann_/_William
+1142m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+MANQUE romaine 4	 ;
+3906m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+OK
+OK
+OK
+7373m  Bel_Air_/_St-Antoine
+OK
+6537m  Prince-Arthur_/_du_Parc
+3419m  Messier_/_Hochelaga
+MANQUE nèfle 2	 ;
+MANQUE pamplemousse 1	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE pate 3	 ;
+MANQUE datte 4	 ;
+OK
+6802m  Messier_/_Hochelaga
+IMPOSSIBLE
+4156m  Prince-Arthur_/_du_Parc
+MANQUE salade 1	 ;
+10103m  Messier_/_Hochelaga
+21257m  Messier_/_Hochelaga
+OK
+MANQUE agneau 3	 ;
+OK
+MANQUE pamplemousse 4	 ;
+OK
+OK
+MANQUE mûre 3	 ;
+IMPOSSIBLE
+MANQUE cheval 3	 ;
+IMPOSSIBLE
+MANQUE chou-fleur 2	 ;
+MANQUE aubergine 1	 ;
+OK
+MANQUE sucre 4	 ;
+OK
+MANQUE pastèque 1	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+2416m  Bel_Air_/_St-Antoine
+MANQUE coing 3	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE poireau 1	 ;
+OK
+25811m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE ananas 2	 ;
+MANQUE olive 3	 ;
+OK
+OK
+MANQUE cassis 3	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE chèvre 1	 ;
+8842m  Bel_Air_/_St-Antoine
+5834m  Ann_/_William
+OK
+9867m  Prince-Arthur_/_du_Parc
+2589m  Ann_/_William
+COMPLET
+MANQUE courge 1	 ;
+OK
+MANQUE grenade 4	 ;
+6079m  Prince-Arthur_/_du_Parc
+MANQUE poireau 2	 ;
+IMPOSSIBLE
+7991m  Ann_/_William
+16861m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+OK
+COMPLET
+MANQUE quetsche 4	 ;
+MANQUE pomme_de_terre 1	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE brugnon 4	 ;
+OK
+IMPOSSIBLE
+23945m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE poivre 3	 ;
+6263m  Bel_Air_/_St-Antoine
+MANQUE salicorne 4	 ;
+IMPOSSIBLE
+2257m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE carotte 4	 ;
+MANQUE haricot 3	 ;
+OK
+5182m  de_Montmorency_/_Richardson
+MANQUE ananas 2	 ;
+9299m  Bel_Air_/_St-Antoine
+OK
+MANQUE myrtille 4	 ;
+MANQUE maceron 2	 ;
+MANQUE figue 2	 ;
+OK
+OK
+OK
+OK
+OK
+10933m  Messier_/_Hochelaga
+OK
+MANQUE haricot 2	 ;
+MANQUE asperge 3	 ;
+13650m  Bel_Air_/_St-Antoine
+MANQUE lait 2	 ;
+11285m  Ann_/_William
+COMPLET
+OK
+OK
+MANQUE pois 1	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+2339m  Ann_/_William
+COMPLET
+5515m  Ann_/_William
+21007m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+OK
+1722m  Lariviere_/_de_Lorimier
+9778m  LaSalle_/_Crawford
+MANQUE kiwi 3	 ;
+6832m  Lariviere_/_de_Lorimier
+OK
+OK
+OK
+26545m  LaSalle_/_Crawford
+4861m  Lariviere_/_de_Lorimier
+IMPOSSIBLE
+OK
+OK
+1004m  de_Montmorency_/_Richardson
+MANQUE brocoli 2	 ;
+IMPOSSIBLE
+OK
+MANQUE fromage 3	 ;
+OK
+OK
+MANQUE échalote 2	 ;
+16725m  Bel_Air_/_St-Antoine
+IMPOSSIBLE
+OK
+6539m  Prince-Arthur_/_du_Parc
+OK
+5202m  Ann_/_William
+MANQUE carotte 3	 ;
+MANQUE fraise 3	 ;
+MANQUE navet 1	 ;
+4456m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+OK
+OK
+OK
+OK
+OK
+COMPLET
+OK
+1118m  Messier_/_Hochelaga
+OK
+OK
+MANQUE radis_noir 2	 ;
+13943m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE romaine 2	 ;
+870m  Lariviere_/_de_Lorimier
+OK
+OK
+OK
+OK
+MANQUE raisin 2	 ;
+OK
+1258m  Messier_/_Hochelaga
+2516m  LaSalle_/_Crawford
+10075m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+COMPLET
+IMPOSSIBLE
+6287m  Prince-Arthur_/_du_Parc
+IMPOSSIBLE
+MANQUE cynorrhodon 2	 ;
+1168m  Prince-Arthur_/_du_Parc
+OK
+IMPOSSIBLE
+OK
+7578m  Messier_/_Hochelaga
+OK
+MANQUE betterave 4	 ;
+20244m  Messier_/_Hochelaga
+OK
+OK
+15473m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE marron 2	 ;
+MANQUE aubergine 3	 ;
+IMPOSSIBLE
+OK
+9669m  du_Mont-Royal_/_Vincent-d'Indy
+6984m  de_Montmorency_/_Richardson
+COMPLET
+OK
+18054m  Lariviere_/_de_Lorimier
+OK
+MANQUE kaki 4	 ;
+IMPOSSIBLE
+MANQUE huile 2	 ;
+MANQUE courgette 4	 ;
+OK
+3446m  Prince-Arthur_/_du_Parc
+OK
+OK
+10692m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+OK
+MANQUE mandarine 2	 ;
+OK
+OK
+7415m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+11847m  Prince-Arthur_/_du_Parc
+OK
+OK
+OK
+8530m  Ann_/_William
+IMPOSSIBLE
+23010m  LaSalle_/_Crawford
+MANQUE cynorrhodon 3	 ;
+8460m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+MANQUE crème_glacée 3	 ;
+6165m  Messier_/_Hochelaga
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE beurre 3	 ;
+18454m  Messier_/_Hochelaga
+15913m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+6123m  de_Montmorency_/_Richardson
+OK
+OK
+MANQUE ail 2	 ;
+MANQUE myrtille 2	 ;
+COMPLET
+OK
+OK
+8936m  Bel_Air_/_St-Antoine
+OK
+OK
+4107m  LaSalle_/_Crawford
+MANQUE céleri 1	 ;
+OK
+OK
+OK
+COMPLET
+5753m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+OK
+MANQUE banane 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE aubergine 3	 ;
+MANQUE asperge 4	 ;
+MANQUE panais 3	 ;
+IMPOSSIBLE
+9384m  de_Montmorency_/_Richardson
+MANQUE pamplemousse 3	 ;
+OK
+OK
+1612m  Bel_Air_/_St-Antoine
+MANQUE fève 4	 ;
+MANQUE pois 1	 ;
+MANQUE mûre 2	 ;
+OK
+8029m  Messier_/_Hochelaga
+OK
+9327m  Lariviere_/_de_Lorimier
+MANQUE sel 4	 ;
+9406m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+MANQUE châtaigne 3	 ;
+OK
+IMPOSSIBLE
+11511m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE asperge 2	 ;
+IMPOSSIBLE
+MANQUE soja 4	 ;
+OK
+OK
+COMPLET
+OK
+OK
+13123m  Bel_Air_/_St-Antoine
+MANQUE arbouse 1	 ;
+6114m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+9047m  Prince-Arthur_/_du_Parc
+OK
+OK
+4708m  Prince-Arthur_/_du_Parc
+OK
+MANQUE truffe 1	 ;
+MANQUE courge 2	 ;
+MANQUE chou 4	 ;
+COMPLET
+8378m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+MANQUE arbouse 1	 ;
+MANQUE aubergine 4	 ;
+MANQUE betterave 2	 ;
+1673m  Bel_Air_/_St-Antoine
+OK
+OK
+OK
+5289m  Ann_/_William
+MANQUE pistache 2	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+12194m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE citrouille 3	 ;
+MANQUE taro 1	 ;
+4407m  de_Montmorency_/_Richardson
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE figue 2	 ;
+OK
+IMPOSSIBLE
+MANQUE concombre 4	 ;
+MANQUE beurre 3	 ;
+MANQUE poivre 1	 ;
+MANQUE courgette 3	 ;
+OK
+MANQUE poire 2	 ;
+MANQUE fraise 4	 ;
+MANQUE panais 2	 ;
+IMPOSSIBLE
+MANQUE chou 1	 ;
+COMPLET
+OK
+OK
+MANQUE gingembre 1	 ;
+8703m  Messier_/_Hochelaga
+MANQUE jujube 4	 ;
+OK
+10144m  Bel_Air_/_St-Antoine
+OK
+OK
+9979m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+6142m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+19839m  Lariviere_/_de_Lorimier
+MANQUE bergamote 4	 ;
+OK
+8698m  de_Montmorency_/_Richardson
+7790m  de_Montmorency_/_Richardson
+MANQUE panais 2	 ;
+MANQUE canneberge 2	 ;
+16168m  Bel_Air_/_St-Antoine
+660m  Ann_/_William
+20550m  LaSalle_/_Crawford
+OK
+OK
+OK
+3725m  Bel_Air_/_St-Antoine
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE chèvre 3	 ;
+MANQUE courge 4	 ;
+OK
+COMPLET
+6014m  Prince-Arthur_/_du_Parc
+9054m  Prince-Arthur_/_du_Parc
+11548m  du_Mont-Royal_/_Vincent-d'Indy
+COMPLET
+6263m  Prince-Arthur_/_du_Parc
+12856m  Bel_Air_/_St-Antoine
+OK
+IMPOSSIBLE
+OK
+7719m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+8830m  Bel_Air_/_St-Antoine
+OK
+MANQUE betterave 3	 ;
+MANQUE salade 3	 ;
+OK
+OK
+MANQUE abricot 3	 ;
+OK
+OK
+OK
+MANQUE ail 1	 ;
+OK
+OK
+MANQUE mirabelle 2	 ;
+2135m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+MANQUE avocat 1	 ;
+8589m  du_Mont-Royal_/_Vincent-d'Indy
+2826m  Bel_Air_/_St-Antoine
+MANQUE romaine 3	 ;
+OK
+MANQUE céleri 4	 ;
+OK
+MANQUE betterave 3	 ;
+OK
+MANQUE marron 2	 ;
+IMPOSSIBLE
+1176m  Prince-Arthur_/_du_Parc
+OK
+IMPOSSIBLE
+COMPLET
+12380m  de_Montmorency_/_Richardson
+IMPOSSIBLE
+OK
+OK
+OK
+5004m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+MANQUE chou 1	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+COMPLET
+3621m  Lariviere_/_de_Lorimier
+OK
+7252m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+IMPOSSIBLE
+MANQUE jujube 2	 ;
+OK
+MANQUE pastèque 2	 ;
+MANQUE lapin 1	 ;
+OK
+7342m  du_Mont-Royal_/_Vincent-d'Indy
+7076m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+3168m  LaSalle_/_Crawford
+OK
+OK
+4821m  Ann_/_William
+2851m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+8230m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE pain 2	 ;
+MANQUE beurre 2	 ;
+7374m  Bel_Air_/_St-Antoine
+16004m  Lariviere_/_de_Lorimier
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE pastèque 3	 ;
+MANQUE soja 2	 ;
+4092m  LaSalle_/_Crawford
+COMPLET
+OK
+MANQUE quinoa 4	 ;
+COMPLET
+3923m  du_Mont-Royal_/_Vincent-d'Indy
+8368m  de_Montmorency_/_Richardson
+OK
+IMPOSSIBLE
+MANQUE poire 1	 ;
+IMPOSSIBLE
+OK
+MANQUE canneberge 4	 ;
+OK
+8784m  de_Montmorency_/_Richardson
+MANQUE romaine 3	 ;
+MANQUE quinoa 1	 ;
+5060m  Bel_Air_/_St-Antoine
+OK
+MANQUE soja 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+COMPLET
+OK
+11881m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+MANQUE olive 2	 ;
+OK
+MANQUE coing 3	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE haricot 4	 ;
+MANQUE pastèque 4	 ;
+IMPOSSIBLE
+MANQUE groseille 4	 ;
+OK
+OK
+OK
+OK
+MANQUE épices 1	 ;
+OK
+IMPOSSIBLE
+1317m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+OK
+10454m  Lariviere_/_de_Lorimier
+9239m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE lait 4	 ;
+OK
+8334m  de_Montmorency_/_Richardson
+IMPOSSIBLE
+6954m  Bel_Air_/_St-Antoine
+OK
+OK
+MANQUE noix 1	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+COMPLET
+MANQUE bison 1	 ;
+10070m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+OK
+OK
+MANQUE chou-fleur 1	 ;
+7619m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE cassis 1	 ;
+IMPOSSIBLE
+6957m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE poivre 4	 ;
+COMPLET
+MANQUE navet 4	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE épices 4	 ;
+IMPOSSIBLE
+MANQUE concombre 1	 ;
+MANQUE haricot 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+13050m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+5963m  Bel_Air_/_St-Antoine
+OK
+OK
+22727m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE abricot 1	 ;
+7026m  du_Mont-Royal_/_Vincent-d'Indy
+17435m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+OK
+OK
+OK
+MANQUE lait 1	 ;
+OK
+MANQUE quinoa 4	 ;
+OK
+OK
+OK
+3473m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+20613m  LaSalle_/_Crawford
+MANQUE mirabelle 3	 ;
+OK
+IMPOSSIBLE
+COMPLET
+MANQUE jujube 4	 ;
+MANQUE laitue 3	 ;
+4781m  du_Mont-Royal_/_Vincent-d'Indy
+9796m  de_Montmorency_/_Richardson
+COMPLET
+9816m  Messier_/_Hochelaga
+OK
+3822m  Lariviere_/_de_Lorimier
+MANQUE poivre 3	 ;
+OK
+MANQUE maceron 1	 ;
+MANQUE radis_noir 1	 ;
+MANQUE cerise 2	 ;
+MANQUE prune 3	 ;
+IMPOSSIBLE
+OK
+OK
+3295m  Ann_/_William
+OK
+6410m  de_Montmorency_/_Richardson
+COMPLET
+MANQUE orange 2	 ;
+MANQUE oeuf 1	 ;
+OK
+OK
+OK
+OK
+OK
+15646m  Bel_Air_/_St-Antoine
+OK
+OK
+MANQUE poivre 2	 ;
+MANQUE oignon 2	 ;
+MANQUE noix 2	 ;
+OK
+OK
+MANQUE pomme 3	 ;
+COMPLET
+MANQUE aubergine 2	 ;
+MANQUE ananas 2	 ;
+MANQUE pamplemousse 1	 ;
+OK
+OK
+OK
+5481m  Bel_Air_/_St-Antoine
+OK
+3481m  de_Montmorency_/_Richardson
+8090m  Ann_/_William
+9297m  de_Montmorency_/_Richardson
+OK
+OK
+OK
+OK
+4964m  de_Montmorency_/_Richardson
+OK
+13062m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+COMPLET
+6258m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+OK
+MANQUE carotte 2	 ;
+MANQUE oignon 3	 ;
+MANQUE marron 2	 ;
+2077m  de_Montmorency_/_Richardson
+OK
+14460m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+IMPOSSIBLE
+OK
+OK
+OK
+8981m  LaSalle_/_Crawford
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE melon 1	 ;
+1625m  Bel_Air_/_St-Antoine
+IMPOSSIBLE
+OK
+7326m  Messier_/_Hochelaga
+10578m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE noix 4	 ;
+OK
+OK
+MANQUE brugnon 4	 ;
+COMPLET
+MANQUE brocoli 3	 ;
+MANQUE cynorrhodon 1	 ;
+OK
+COMPLET
+1666m  Ann_/_William
+MANQUE chou 4	 ;
+MANQUE romaine 1	 ;
+17329m  Lariviere_/_de_Lorimier
+MANQUE huile 4	 ;
+OK
+7280m  Bel_Air_/_St-Antoine
+COMPLET
+OK
+MANQUE panais 2	 ;
+18476m  Messier_/_Hochelaga
+MANQUE mirabelle 3	 ;
+MANQUE huile 4	 ;
+OK
+OK
+11057m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE citron 2	 ;
+7490m  Lariviere_/_de_Lorimier
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE cornouiller_du_Canada 1	 ;
+IMPOSSIBLE
+OK
+COMPLET
+MANQUE panais 1	 ;
+OK
+1239m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+OK
+7319m  Bel_Air_/_St-Antoine
+IMPOSSIBLE
+4231m  Bel_Air_/_St-Antoine
+MANQUE salicorne 1	 ;
+MANQUE melon 1	 ;
+OK
+OK
+MANQUE myrtille 4	 ;
+OK
+8825m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+MANQUE céleri 3	 ;
+COMPLET
+7870m  Lariviere_/_de_Lorimier
+OK
+MANQUE brocoli 1	 ;
+7830m  Messier_/_Hochelaga
+5256m  de_Montmorency_/_Richardson
+OK
+6102m  LaSalle_/_Crawford
+COMPLET
+IMPOSSIBLE
+MANQUE mirabelle 1	 ;
+7675m  Bel_Air_/_St-Antoine
+IMPOSSIBLE
+OK
+7645m  de_Montmorency_/_Richardson
+MANQUE taro 3	 ;
+OK
+OK
+4677m  de_Montmorency_/_Richardson
+MANQUE crème 4	 ;
+IMPOSSIBLE
+MANQUE bergamote 3	 ;
+MANQUE panais 2	 ;
+OK
+IMPOSSIBLE
+OK
+10431m  de_Montmorency_/_Richardson
+MANQUE avocat 3	 ;
+MANQUE myrtille 2	 ;
+OK
+5078m  Messier_/_Hochelaga
+MANQUE ananas 4	 ;
+OK
+OK
+OK
+7555m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE fève 1	 ;
+IMPOSSIBLE
+6202m  Messier_/_Hochelaga
+11343m  Ann_/_William
+OK
+IMPOSSIBLE
+OK
+OK
+5536m  Lariviere_/_de_Lorimier
+MANQUE salade 1	 ;
+MANQUE cornouiller_du_Canada 1	 ;
+OK
+13087m  Prince-Arthur_/_du_Parc
+IMPOSSIBLE
+OK
+7763m  Messier_/_Hochelaga
+OK
+OK
+5417m  Bel_Air_/_St-Antoine
+MANQUE haricot 1	 ;
+MANQUE chèvre 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+10735m  de_Montmorency_/_Richardson
+MANQUE agneau 4	 ;
+OK
+OK
+MANQUE lapin 1	 ;
+MANQUE courge 1	 ;
+OK
+OK
+COMPLET
+4786m  Bel_Air_/_St-Antoine
+MANQUE mandarine 2	 ;
+822m  Ann_/_William
+OK
+3845m  LaSalle_/_Crawford
+6995m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE gingembre 2	 ;
+MANQUE plaquebière 1	 ;
+OK
+1596m  Prince-Arthur_/_du_Parc
+OK
+OK
+MANQUE truffe 4	 ;
+OK
+10073m  de_Montmorency_/_Richardson
+MANQUE melon 2	 ;
+IMPOSSIBLE
+1374m  Prince-Arthur_/_du_Parc
+OK
+OK
+OK
+5025m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+COMPLET
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE oeuf 4	 ;
+MANQUE figue 1	 ;
+3917m  Lariviere_/_de_Lorimier
+IMPOSSIBLE
+MANQUE haricot 4	 ;
+OK
+MANQUE wapiti 3	 ;
+IMPOSSIBLE
+MANQUE mandarine 1	 ;
+6169m  LaSalle_/_Crawford
+OK
+OK
+MANQUE mûre 2	 ;
+OK
+OK
+MANQUE crème 1	 ;
+18924m  LaSalle_/_Crawford
+MANQUE prune 3	 ;
+2753m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+COMPLET
+COMPLET
+MANQUE pomme 2	 ;
+OK
+OK
+19262m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+COMPLET
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE courgette 1	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+9451m  Bel_Air_/_St-Antoine
+OK
+MANQUE pate 2	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE poire 1	 ;
+OK
+MANQUE panais 2	 ;
+OK
+OK
+OK
+5651m  Bel_Air_/_St-Antoine
+OK
+IMPOSSIBLE
+OK
+10223m  Lariviere_/_de_Lorimier
+IMPOSSIBLE
+OK
+OK
+MANQUE canneberge 2	 ;
+MANQUE huile 1	 ;
+5015m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+4674m  de_Montmorency_/_Richardson
+MANQUE chou 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+COMPLET
+OK
+MANQUE avocat 4	 ;
+IMPOSSIBLE
+OK
+3247m  de_Montmorency_/_Richardson
+MANQUE autruche 2	 ;
+COMPLET
+11617m  Lariviere_/_de_Lorimier
+MANQUE salicorne 3	 ;
+MANQUE bison 2	 ;
+15646m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+IMPOSSIBLE
+OK
+MANQUE pamplemousse 2	 ;
+IMPOSSIBLE
+MANQUE pomme 4	 ;
+10187m  Bel_Air_/_St-Antoine
+OK
+OK
+OK
+MANQUE noisette 2	 ;
+COMPLET
+OK
+MANQUE arbouse 1	 ;
+COMPLET
+OK
+10270m  Prince-Arthur_/_du_Parc
+MANQUE pois 1	 ;
+MANQUE marron 4	 ;
+OK
+OK
+16097m  Prince-Arthur_/_du_Parc
+COMPLET
+OK
+OK
+4210m  Bel_Air_/_St-Antoine
+3941m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+MANQUE maceron 1	 ;
+17583m  Lariviere_/_de_Lorimier
+4719m  Prince-Arthur_/_du_Parc
+12113m  Prince-Arthur_/_du_Parc
+OK
+7953m  Messier_/_Hochelaga
+MANQUE pain 2	 ;
+IMPOSSIBLE
+MANQUE banane 4	 ;
+COMPLET
+MANQUE pois 1	 ;
+OK
+OK
+6825m  Ann_/_William
+IMPOSSIBLE
+OK
+COMPLET
+MANQUE crème_glacée 3	 ;
+7732m  Messier_/_Hochelaga
+OK
+IMPOSSIBLE
+OK
+3299m  de_Montmorency_/_Richardson
+MANQUE amande 3	 ;
+MANQUE ananas 4	 ;
+MANQUE crème 4	 ;
+MANQUE mandarine 3	 ;
+5221m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+OK
+10082m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+14949m  Lariviere_/_de_Lorimier
+MANQUE jujube 2	 ;
+OK
+IMPOSSIBLE
+OK
+23007m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+COMPLET
+3440m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+5327m  Bel_Air_/_St-Antoine
+OK
+12432m  Messier_/_Hochelaga
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE datte 3	 ;
+MANQUE maceron 3	 ;
+3421m  Bel_Air_/_St-Antoine
+OK
+6659m  du_Mont-Royal_/_Vincent-d'Indy
+10274m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+8527m  Prince-Arthur_/_du_Parc
+OK
+OK
+MANQUE fève 1	 ;
+MANQUE lime 2	 ;
+6146m  Bel_Air_/_St-Antoine
+MANQUE brocoli 4	 ;
+COMPLET
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE jujube 2	 ;
+OK
+OK
+MANQUE haricot 4	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE pois 4	 ;
+3444m  Lariviere_/_de_Lorimier
+IMPOSSIBLE
+6729m  Lariviere_/_de_Lorimier
+OK
+OK
+4445m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE olive 3	 ;
+MANQUE truffe 2	 ;
+OK
+MANQUE brocoli 4	 ;
+OK
+9667m  LaSalle_/_Crawford
+21063m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+IMPOSSIBLE
+OK
+MANQUE échalote 2	 ;
+COMPLET
+OK
+OK
+MANQUE groseille 3	 ;
+7120m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+827m  Prince-Arthur_/_du_Parc
+COMPLET
+OK
+MANQUE citrouille 3	 ;
+11202m  Prince-Arthur_/_du_Parc
+MANQUE porc 1	 ;
+MANQUE pistache 1	 ;
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE yogourt 1	 ;
+IMPOSSIBLE
+MANQUE laitue 1	 ;
+6150m  Ann_/_William
+MANQUE citrouille 2	 ;
+MANQUE pistache 3	 ;
+IMPOSSIBLE
+MANQUE avocat 3	 ;
+OK
+MANQUE grenade 4	 ;
+IMPOSSIBLE
+1791m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+5499m  Prince-Arthur_/_du_Parc
+IMPOSSIBLE
+COMPLET
+OK
+IMPOSSIBLE
+5678m  Bel_Air_/_St-Antoine
+COMPLET
+MANQUE antilope 3	 ;
+MANQUE pate 1	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+MANQUE nèfle 4	 ;
+OK
+MANQUE citron 4	 ;
+MANQUE fraise 2	 ;
+12405m  Lariviere_/_de_Lorimier
+MANQUE boeuf 1	 ;
+MANQUE coing 2	 ;
+IMPOSSIBLE
+2683m  LaSalle_/_Crawford
+MANQUE concombre 4	 ;
+OK
+MANQUE crème 2	 ;
+OK
+MANQUE agneau 3	 ;
+OK
+OK
+OK
+MANQUE épices 3	 ;
+OK
+OK
+5856m  Messier_/_Hochelaga
+21142m  Lariviere_/_de_Lorimier
+OK
+850m  Lariviere_/_de_Lorimier
+MANQUE autruche 3	 ;
+14147m  Lariviere_/_de_Lorimier
+MANQUE quinoa 2	 ;
+OK
+4982m  LaSalle_/_Crawford
+IMPOSSIBLE
+IMPOSSIBLE
+3840m  Prince-Arthur_/_du_Parc
+3993m  Bel_Air_/_St-Antoine
+MANQUE salicorne 1	 ;
+MANQUE porc 2	 ;
+IMPOSSIBLE
+MANQUE chèvre 1	 ;
+OK
+MANQUE citron 2	 ;
+MANQUE poivre 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE salicorne 1	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE mirabelle 3	 ;
+10654m  Prince-Arthur_/_du_Parc
+MANQUE fromage 4	 ;
+OK
+MANQUE cheval 3	 ;
+MANQUE melon 1	 ;
+IMPOSSIBLE
+6134m  Prince-Arthur_/_du_Parc
+OK
+MANQUE avocat 1	 ;
+6441m  de_Montmorency_/_Richardson
+MANQUE crème 1	 ;
+OK
+OK
+5871m  de_Montmorency_/_Richardson
+4134m  Bel_Air_/_St-Antoine
+MANQUE panais 1	 ;
+OK
+MANQUE kaki 3	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE céleri 1	 ;
+MANQUE grenade 2	 ;
+MANQUE pate 2	 ;
+OK
+12530m  Prince-Arthur_/_du_Parc
+OK
+MANQUE crème 3	 ;
+MANQUE crème_glacée 2	 ;
+13233m  Ann_/_William
+2929m  Bel_Air_/_St-Antoine
+13143m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+10314m  LaSalle_/_Crawford
+MANQUE pastèque 2	 ;
+OK
+OK
+MANQUE kiwi 4	 ;
+5059m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE grenade 3	 ;
+OK
+IMPOSSIBLE
+OK
+9834m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+MANQUE clémentine 2	 ;
+MANQUE veau 3	 ;
+IMPOSSIBLE
+MANQUE mûre 2	 ;
+704m  Messier_/_Hochelaga
+IMPOSSIBLE
+MANQUE jujube 2	 ;
+OK
+IMPOSSIBLE
+MANQUE agneau 1	 ;
+14737m  Messier_/_Hochelaga
+IMPOSSIBLE
+8342m  Messier_/_Hochelaga
+MANQUE crème 4	 ;
+MANQUE radis_noir 1	 ;
+MANQUE pistache 2	 ;
+OK
+MANQUE raisin 1	 ;
+MANQUE ail 1	 ;
+OK
+3074m  Bel_Air_/_St-Antoine
+OK
+MANQUE ciboulette 4	 ;
+OK
+10083m  de_Montmorency_/_Richardson
+OK
+OK
+COMPLET
+OK
+OK
+12557m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+MANQUE porc 4	 ;
+9608m  de_Montmorency_/_Richardson
+IMPOSSIBLE
+10661m  LaSalle_/_Crawford
+MANQUE agneau 3	 ;
+MANQUE wapiti 1	 ;
+COMPLET
+OK
+8780m  de_Montmorency_/_Richardson
+COMPLET
+MANQUE marron 1	 ;
+MANQUE veau 3	 ;
+5644m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+9580m  Bel_Air_/_St-Antoine
+OK
+OK
+MANQUE pastèque 2	 ;
+3808m  de_Montmorency_/_Richardson
+MANQUE antilope 1	 ;
+9964m  Ann_/_William
+MANQUE quinoa 3	 ;
+MANQUE figue 4	 ;
+OK
+OK
+10790m  Prince-Arthur_/_du_Parc
+2544m  Lariviere_/_de_Lorimier
+10748m  LaSalle_/_Crawford
+MANQUE pain 2	 ;
+OK
+MANQUE datte 4	 ;
+MANQUE échalote 2	 ;
+IMPOSSIBLE
+6274m  Ann_/_William
+MANQUE céleri 1	 ;
+COMPLET
+MANQUE antilope 2	 ;
+OK
+OK
+OK
+7334m  Lariviere_/_de_Lorimier
+OK
+OK
+OK
+OK
+MANQUE brugnon 3	 ;
+MANQUE agneau 1	 ;
+MANQUE olive 1	 ;
+OK
+COMPLET
+3817m  Prince-Arthur_/_du_Parc
+MANQUE salade 3	 ;
+6227m  Messier_/_Hochelaga
+MANQUE ail 2	 ;
+MANQUE cassis 4	 ;
+MANQUE agneau 4	 ;
+MANQUE ananas 1	 ;
+IMPOSSIBLE
+MANQUE maceron 3	 ;
+MANQUE huile 4	 ;
+OK
+7948m  Lariviere_/_de_Lorimier
+MANQUE pate 2	 ;
+OK
+OK
+MANQUE courge 2	 ;
+OK
+MANQUE nèfle 1	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+4162m  Messier_/_Hochelaga
+OK
+944m  Messier_/_Hochelaga
+MANQUE avocat 4	 ;
+OK
+6965m  Prince-Arthur_/_du_Parc
+OK
+5669m  Prince-Arthur_/_du_Parc
+4649m  Prince-Arthur_/_du_Parc
+20861m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+OK
+9587m  de_Montmorency_/_Richardson
+7468m  Messier_/_Hochelaga
+OK
+OK
+4899m  Bel_Air_/_St-Antoine
+MANQUE agneau 2	 ;
+MANQUE poivron 1	 ;
+MANQUE courge 2	 ;
+9168m  Lariviere_/_de_Lorimier
+MANQUE grenade 3	 ;
+OK
+OK
+MANQUE quetsche 2	 ;
+OK
+100m  Lariviere_/_de_Lorimier
+8823m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+IMPOSSIBLE
+MANQUE brocoli 2	 ;
+8978m  Messier_/_Hochelaga
+MANQUE prune 4	 ;
+6330m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+8446m  Messier_/_Hochelaga
+IMPOSSIBLE
+MANQUE mandarine 2	 ;
+MANQUE marron 4	 ;
+OK
+MANQUE lait 2	 ;
+13824m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE cerise 4	 ;
+OK
+4042m  Bel_Air_/_St-Antoine
+IMPOSSIBLE
+OK
+MANQUE oeuf 3	 ;
+8994m  Lariviere_/_de_Lorimier
+OK
+10198m  Prince-Arthur_/_du_Parc
+OK
+MANQUE chèvre 1	 ;
+4641m  Bel_Air_/_St-Antoine
+MANQUE lapin 4	 ;
+14992m  Lariviere_/_de_Lorimier
+6867m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE mûre 3	 ;
+2829m  LaSalle_/_Crawford
+IMPOSSIBLE
+OK
+OK
+MANQUE radis 3	 ;
+11061m  Prince-Arthur_/_du_Parc
+OK
+MANQUE coing 3	 ;
+OK
+OK
+8453m  Lariviere_/_de_Lorimier
+MANQUE bergamote 2	 ;
+OK
+OK
+21443m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+COMPLET
+IMPOSSIBLE
+MANQUE mandarine 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE courge 4	 ;
+MANQUE canneberge 4	 ;
+OK
+MANQUE panais 4	 ;
+COMPLET
+MANQUE betterave 4	 ;
+COMPLET
+MANQUE framboise 1	 ;
+10675m  Prince-Arthur_/_du_Parc
+MANQUE grenade 2	 ;
+MANQUE autruche 3	 ;
+5859m  Lariviere_/_de_Lorimier
+3853m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+COMPLET
+5850m  Ann_/_William
+COMPLET
+OK
+MANQUE lapin 4	 ;
+MANQUE fève 2	 ;
+OK
+OK
+OK
+MANQUE gingembre 3	 ;
+5171m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+2883m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+MANQUE nèfle 4	 ;
+14951m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+6763m  Ann_/_William
+MANQUE quetsche 4	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE poireau 2	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+14475m  Lariviere_/_de_Lorimier
+1461m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+OK
+2456m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+5701m  Ann_/_William
+MANQUE veau 3	 ;
+MANQUE fève 4	 ;
+OK
+10309m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+MANQUE clémentine 1	 ;
+MANQUE boeuf 1	 ;
+MANQUE pomme_de_terre 2	 ;
+OK
+MANQUE rhubarbe 1	 ;
+IMPOSSIBLE
+MANQUE abricot 2	 ;
+OK
+15330m  du_Mont-Royal_/_Vincent-d'Indy
+2712m  Lariviere_/_de_Lorimier
+OK
+COMPLET
+MANQUE melon 3	 ;
+19502m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+OK
+MANQUE pamplemousse 2	 ;
+IMPOSSIBLE
+MANQUE poire 1	 ;
+OK
+OK
+OK
+COMPLET
+OK
+15012m  Prince-Arthur_/_du_Parc
+IMPOSSIBLE
+OK
+8005m  Prince-Arthur_/_du_Parc
+OK
+4008m  Prince-Arthur_/_du_Parc
+OK
+8711m  LaSalle_/_Crawford
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+3682m  Bel_Air_/_St-Antoine
+MANQUE huile 1	 ;
+MANQUE fraise 1	 ;
+OK
+5500m  Lariviere_/_de_Lorimier
+MANQUE brocoli 2	 ;
+12273m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+2310m  Ann_/_William
+OK
+OK
+OK
+COMPLET
+MANQUE abricot 3	 ;
+MANQUE melon 1	 ;
+MANQUE abricot 3	 ;
+OK
+MANQUE poivre 1	 ;
+MANQUE pois 1	 ;
+11770m  Ann_/_William
+MANQUE grenade 2	 ;
+OK
+OK
+MANQUE pain 4	 ;
+6871m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+MANQUE ananas 3	 ;
+15786m  Prince-Arthur_/_du_Parc
+3549m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+OK
+OK
+12699m  LaSalle_/_Crawford
+OK
+OK
+MANQUE grenade 4	 ;
+OK
+2554m  LaSalle_/_Crawford
+MANQUE brugnon 4	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE carotte 1	 ;
+MANQUE bergamote 1	 ;
+5388m  Bel_Air_/_St-Antoine
+10227m  Prince-Arthur_/_du_Parc
+MANQUE wapiti 1	 ;
+OK
+8764m  Lariviere_/_de_Lorimier
+COMPLET
+8884m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE mûre 1	 ;
+6945m  de_Montmorency_/_Richardson
+14301m  LaSalle_/_Crawford
+MANQUE ail 2	 ;
+MANQUE poireau 1	 ;
+MANQUE cynorrhodon 1	 ;
+OK
+MANQUE porc 3	 ;
+MANQUE sel 4	 ;
+4024m  Messier_/_Hochelaga
+17358m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+14092m  Prince-Arthur_/_du_Parc
+5104m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE basilic 1	 ;
+MANQUE porc 3	 ;
+10660m  LaSalle_/_Crawford
+2314m  Prince-Arthur_/_du_Parc
+10251m  Ann_/_William
+2839m  Lariviere_/_de_Lorimier
+OK
+MANQUE canneberge 2	 ;
+OK
+12816m  Bel_Air_/_St-Antoine
+OK
+OK
+IMPOSSIBLE
+COMPLET
+OK
+OK
+OK
+OK
+OK
+OK
+COMPLET
+IMPOSSIBLE
+12340m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+11378m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+IMPOSSIBLE
+OK
+MANQUE laitue 3	 ;
+IMPOSSIBLE
+5345m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+IMPOSSIBLE
+IMPOSSIBLE
+19830m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+8175m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+IMPOSSIBLE
+6369m  Messier_/_Hochelaga
+OK
+OK
+OK
+OK
+MANQUE oignon 2	 ;
+MANQUE quinoa 4	 ;
+OK
+MANQUE navet 4	 ;
+OK
+OK
+MANQUE ciboulette 4	 ;
+13330m  Prince-Arthur_/_du_Parc
+12075m  Ann_/_William
+OK
+IMPOSSIBLE
+MANQUE veau 3	 ;
+IMPOSSIBLE
+4298m  Ann_/_William
+OK
+OK
+OK
+OK
+OK
+MANQUE carotte 1	 ;
+IMPOSSIBLE
+20449m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+COMPLET
+3929m  Prince-Arthur_/_du_Parc
+OK
+MANQUE romaine 2	 ;
+8492m  du_Mont-Royal_/_Vincent-d'Indy
+15867m  Prince-Arthur_/_du_Parc
+OK
+MANQUE pastèque 4	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+10009m  de_Montmorency_/_Richardson
+IMPOSSIBLE
+MANQUE épices 4	 ;
+OK
+OK
+OK
+MANQUE quinoa 4	 ;
+7647m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE cerise 4	 ;
+MANQUE betterave 1	 ;
+MANQUE panais 1	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE huile 2	 ;
+IMPOSSIBLE
+OK
+OK
+7707m  de_Montmorency_/_Richardson
+MANQUE lime 3	 ;
+MANQUE salade 1	 ;
+OK
+OK
+MANQUE quinoa 3	 ;
+OK
+OK
+7112m  Ann_/_William
+OK
+MANQUE radis_noir 3	 ;
+3715m  LaSalle_/_Crawford
+20739m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE lime 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+9135m  Bel_Air_/_St-Antoine
+17244m  Messier_/_Hochelaga
+MANQUE cerise 3	 ;
+862m  Ann_/_William
+MANQUE myrtille 3	 ;
+9745m  de_Montmorency_/_Richardson
+OK
+MANQUE maceron 3	 ;
+9273m  Bel_Air_/_St-Antoine
+6691m  Messier_/_Hochelaga
+MANQUE wapiti 1	 ;
+MANQUE pomme 2	 ;
+OK
+MANQUE huile 3	 ;
+MANQUE gingembre 3	 ;
+OK
+1788m  Ann_/_William
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE pamplemousse 4	 ;
+MANQUE poivre 3	 ;
+MANQUE gingembre 2	 ;
+MANQUE échalote 1	 ;
+7269m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+MANQUE pomme_de_terre 1	 ;
+MANQUE mandarine 2	 ;
+13556m  Ann_/_William
+IMPOSSIBLE
+OK
+3960m  Messier_/_Hochelaga
+IMPOSSIBLE
+MANQUE asperge 2	 ;
+COMPLET
+9720m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE mirabelle 4	 ;
+OK
+MANQUE céleri 3	 ;
+MANQUE groseille 2	 ;
+9890m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+7297m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE navet 4	 ;
+17482m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE beurre 3	 ;
+OK
+OK
+MANQUE oeuf 1	 ;
+OK
+COMPLET
+5145m  Prince-Arthur_/_du_Parc
+MANQUE échalote 3	 ;
+MANQUE noix 1	 ;
+OK
+8238m  du_Mont-Royal_/_Vincent-d'Indy
+3675m  Ann_/_William
+MANQUE poivre 2	 ;
+5151m  Ann_/_William
+MANQUE brugnon 1	 ;
+MANQUE chèvre 4	 ;
+OK
+OK
+MANQUE groseille 2	 ;
+MANQUE nèfle 1	 ;
+11289m  Ann_/_William
+4007m  LaSalle_/_Crawford
+MANQUE brugnon 1	 ;
+OK
+MANQUE chou-fleur 2	 ;
+MANQUE soja 2	 ;
+IMPOSSIBLE
+MANQUE fraise 4	 ;
+668m  Bel_Air_/_St-Antoine
+OK
+COMPLET
+MANQUE avocat 3	 ;
+COMPLET
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE porc 1	 ;
+OK
+MANQUE bergamote 4	 ;
+OK
+MANQUE bergamote 4	 ;
+3984m  Messier_/_Hochelaga
+17466m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE noix 4	 ;
+IMPOSSIBLE
+OK
+MANQUE cassis 4	 ;
+15613m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE courge 1	 ;
+20192m  Lariviere_/_de_Lorimier
+OK
+17735m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+MANQUE carotte 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE cornouiller_du_Canada 3	 ;
+OK
+5731m  Lariviere_/_de_Lorimier
+OK
+OK
+IMPOSSIBLE
+MANQUE romaine 3	 ;
+MANQUE arbouse 2	 ;
+MANQUE rhubarbe 3	 ;
+OK
+MANQUE nèfle 2	 ;
+IMPOSSIBLE
+OK
+OK
+10262m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+OK
+OK
+OK
+OK
+8803m  Lariviere_/_de_Lorimier
+OK
+10594m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+7321m  de_Montmorency_/_Richardson
+MANQUE porc 3	 ;
+OK
+MANQUE boeuf 1	 ;
+OK
+MANQUE prune 3	 ;
+OK
+COMPLET
+COMPLET
+6152m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE citron 2	 ;
+MANQUE arbouse 4	 ;
+9506m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+MANQUE bigarade 1	 ;
+IMPOSSIBLE
+MANQUE taro 1	 ;
+OK
+OK
+OK
+6952m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+OK
+12431m  Ann_/_William
+MANQUE autruche 1	 ;
+MANQUE groseille 2	 ;
+8939m  du_Mont-Royal_/_Vincent-d'Indy
+OK
+MANQUE antilope 1	 ;
+13822m  Messier_/_Hochelaga
+MANQUE cerise 1	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE nèfle 1	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+2341m  Messier_/_Hochelaga
+OK
+OK
+OK
+IMPOSSIBLE
+7733m  Ann_/_William
+7034m  Ann_/_William
+MANQUE concombre 3	 ;
+2259m  Lariviere_/_de_Lorimier
+16087m  du_Mont-Royal_/_Vincent-d'Indy
+COMPLET
+OK
+OK
+MANQUE banane 3	 ;
+MANQUE kaki 4	 ;
+5919m  de_Montmorency_/_Richardson
+MANQUE rhubarbe 3	 ;
+OK
+MANQUE poire 1	 ;
+OK
+MANQUE noisette 2	 ;
+MANQUE cassis 3	 ;
+OK
+OK
+MANQUE fromage 1	 ;
+7613m  Prince-Arthur_/_du_Parc
+IMPOSSIBLE
+18585m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+OK
+MANQUE nèfle 2	 ;
+MANQUE grenade 4	 ;
+MANQUE châtaigne 1	 ;
+9504m  Lariviere_/_de_Lorimier
+6320m  Prince-Arthur_/_du_Parc
+MANQUE pomme_de_terre 1	 ;
+OK
+OK
+MANQUE cornouiller_du_Canada 2	 ;
+MANQUE nèfle 2	 ;
+OK
+OK
+17102m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+MANQUE salade 2	 ;
+OK
+3363m  Ann_/_William
+IMPOSSIBLE
+OK
+MANQUE bergamote 3	 ;
+OK
+3474m  Prince-Arthur_/_du_Parc
+MANQUE chou-fleur 4	 ;
+MANQUE yogourt 3	 ;
+6845m  Lariviere_/_de_Lorimier
+OK
+MANQUE noisette 3	 ;
+IMPOSSIBLE
+MANQUE chou-fleur 2	 ;
+3787m  Bel_Air_/_St-Antoine
+OK
+OK
+MANQUE mûre 1	 ;
+OK
+OK
+MANQUE poivre 1	 ;
+OK
+1720m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+9670m  Ann_/_William
+COMPLET
+OK
+6757m  de_Montmorency_/_Richardson
+COMPLET
+998m  Ann_/_William
+MANQUE poireau 1	 ;
+OK
+MANQUE ail 1	 ;
+OK
+IMPOSSIBLE
+5486m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE arbouse 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE fraise 1	 ;
+OK
+OK
+OK
+MANQUE châtaigne 4	 ;
+COMPLET
+5417m  Bel_Air_/_St-Antoine
+MANQUE bison 4	 ;
+MANQUE oeuf 1	 ;
+MANQUE pastèque 4	 ;
+IMPOSSIBLE
+18391m  Lariviere_/_de_Lorimier
+2674m  du_Mont-Royal_/_Vincent-d'Indy
+6999m  Ann_/_William
+OK
+MANQUE basilic 3	 ;
+OK
+OK
+MANQUE cynorrhodon 2	 ;
+MANQUE pêche 1	 ;
+OK
+MANQUE coing 1	 ;
+OK
+5870m  Ann_/_William
+IMPOSSIBLE
+OK
+16807m  de_Montmorency_/_Richardson
+OK
+9084m  Ann_/_William
+MANQUE soja 3	 ;
+IMPOSSIBLE
+14417m  Bel_Air_/_St-Antoine
+4582m  Lariviere_/_de_Lorimier
+MANQUE coing 1	 ;
+COMPLET
+MANQUE crème_glacée 2	 ;
+OK
+OK
+OK
+OK
+14377m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE brugnon 3	 ;
+MANQUE kiwi 3	 ;
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pomme 3	 ;
+MANQUE citrouille 4	 ;
+COMPLET
+MANQUE cheval 1	 ;
+IMPOSSIBLE
+OK
+OK
+5395m  de_Montmorency_/_Richardson
+MANQUE mûre 3	 ;
+OK
+OK
+OK
+MANQUE pomme_de_terre 3	 ;
+MANQUE ananas 2	 ;
+10186m  Ann_/_William
+2845m  Messier_/_Hochelaga
+OK
+OK
+OK
+15211m  Lariviere_/_de_Lorimier
+OK
+MANQUE sel 2	 ;
+MANQUE rhubarbe 2	 ;
+MANQUE wapiti 1	 ;
+IMPOSSIBLE
+MANQUE ciboulette 2	 ;
+MANQUE poivron 4	 ;
+OK
+OK
+7272m  Messier_/_Hochelaga
+10112m  du_Mont-Royal_/_Vincent-d'Indy
+1666m  Bel_Air_/_St-Antoine
+MANQUE panais 4	 ;
+MANQUE romaine 1	 ;
+IMPOSSIBLE
+OK
+MANQUE haricot 1	 ;
+MANQUE poivron 2	 ;
+MANQUE courge 2	 ;
+16918m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+MANQUE antilope 1	 ;
+IMPOSSIBLE
+MANQUE cheval 3	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE poire 4	 ;
+3795m  Prince-Arthur_/_du_Parc
+6090m  Messier_/_Hochelaga
+OK
+MANQUE olive 2	 ;
+MANQUE quinoa 1	 ;
+5263m  Messier_/_Hochelaga
+OK
+OK
+7166m  de_Montmorency_/_Richardson
+OK
+MANQUE myrtille 3	 ;
+9133m  de_Montmorency_/_Richardson
+MANQUE ananas 1	 ;
+6313m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE aubergine 1	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE melon 4	 ;
+8474m  Bel_Air_/_St-Antoine
+OK
+MANQUE laitue 1	 ;
+14775m  Ann_/_William
+9225m  du_Mont-Royal_/_Vincent-d'Indy
+11026m  Bel_Air_/_St-Antoine
+MANQUE panais 1	 ;
+MANQUE radis_noir 3	 ;
+OK
+MANQUE beurre 3	 ;
+MANQUE cassis 4	 ;
+IMPOSSIBLE
+OK
+6265m  Messier_/_Hochelaga
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE basilic 4	 ;
+OK
+OK
+OK
+MANQUE cheval 1	 ;
+OK
+OK
+MANQUE salicorne 2	 ;
+MANQUE kaki 3	 ;
+16179m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+OK
+MANQUE yogourt 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE cerise 4	 ;
+OK
+OK
+OK
+MANQUE radis_noir 4	 ;
+OK
+OK
+OK
+3214m  Bel_Air_/_St-Antoine
+MANQUE mandarine 3	 ;
+5609m  Messier_/_Hochelaga
+OK
+OK
+OK
+9439m  de_Montmorency_/_Richardson
+4000m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+6524m  Ann_/_William
+7569m  Prince-Arthur_/_du_Parc
+MANQUE salicorne 1	 ;
+IMPOSSIBLE
+7984m  Metro_St-Michel_(Shaughnessy_/_St-Michel)
+OK
+OK
+OK
+IMPOSSIBLE
+5975m  Bel_Air_/_St-Antoine
+OK
+MANQUE beurre 1	 ;
+MANQUE beurre 1	 ;
+7917m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE noisette 2	 ;
+OK
+5567m  Bel_Air_/_St-Antoine
+OK
+16667m  LaSalle_/_Crawford
+10062m  Ann_/_William
+OK
+OK
+OK
+OK
+MANQUE épices 3	 ;
+MANQUE myrtille 3	 ;
+1026m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE framboise 2	 ;
+MANQUE raisin 4	 ;
+OK
+IMPOSSIBLE
+9033m  de_Montmorency_/_Richardson
+MANQUE carotte 1	 ;
+OK
+MANQUE brugnon 3	 ;
+IMPOSSIBLE
+OK
+4870m  Prince-Arthur_/_du_Parc
+IMPOSSIBLE
+MANQUE prune 2	 ;
+MANQUE crème_glacée 3	 ;
+11542m  Prince-Arthur_/_du_Parc
+OK
+MANQUE fraise 3	 ;
+MANQUE raisin 4	 ;
+MANQUE noix 1	 ;
+515m  de_Montmorency_/_Richardson
+OK
+3384m  Messier_/_Hochelaga
+MANQUE pastèque 1	 ;
+14719m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+OK
+7759m  de_Montmorency_/_Richardson
+OK
+OK
+7977m  de_Montmorency_/_Richardson
+COMPLET
+OK
+10145m  Prince-Arthur_/_du_Parc
+1366m  de_Montmorency_/_Richardson
+MANQUE épices 1	 ;
+OK
+OK
+1634m  Ann_/_William
+OK
+OK
+MANQUE jujube 3	 ;
+MANQUE poireau 3	 ;
+5804m  de_Montmorency_/_Richardson
+4363m  Ann_/_William
+MANQUE mandarine 3	 ;
+MANQUE pamplemousse 1	 ;
+MANQUE mûre 1	 ;
+MANQUE bergamote 3	 ;
+MANQUE wapiti 4	 ;
+COMPLET
+COMPLET
+OK
+COMPLET
+OK
+IMPOSSIBLE
+15301m  Bel_Air_/_St-Antoine
+MANQUE ail 3	 ;
+OK
+MANQUE radis 1	 ;
+2805m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE kaki 4	 ;
+OK
+OK
+5219m  de_Montmorency_/_Richardson
+OK
+7423m  Ann_/_William
+4941m  Prince-Arthur_/_du_Parc
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE porc 3	 ;
+COMPLET
+OK
+2053m  de_Montmorency_/_Richardson
+MANQUE salicorne 4	 ;
+MANQUE kiwi 1	 ;
+MANQUE échalote 4	 ;
+COMPLET
+5324m  Messier_/_Hochelaga
+15412m  du_Mont-Royal_/_Vincent-d'Indy
+COMPLET
+12177m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE courge 2	 ;
+MANQUE lait 1	 ;
+OK
+4439m  Ann_/_William
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+7614m  Lariviere_/_de_Lorimier
+MANQUE laitue 4	 ;
+OK
+COMPLET
+8373m  du_Mont-Royal_/_Vincent-d'Indy
+MANQUE poire 3	 ;
+2926m  Prince-Arthur_/_du_Parc
+OK
+6120m  LaSalle_/_Crawford
+COMPLET
+5884m  Ann_/_William
+5175m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+MANQUE fromage 3	 ;
+MANQUE marron 2	 ;
+OK
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+OK
+MANQUE laitue 3	 ;
+OK
+OK
+MANQUE quetsche 3	 ;
+MANQUE oeuf 3	 ;
+OK
+13893m  Prince-Arthur_/_du_Parc
+MANQUE agneau 1	 ;
+IMPOSSIBLE
+MANQUE châtaigne 4	 ;
+OK
+18158m  Messier_/_Hochelaga
+2631m  du_Mont-Royal_/_Vincent-d'Indy
+8723m  Prince-Arthur_/_du_Parc
+OK
+MANQUE salade 1	 ;
+MANQUE avocat 1	 ;
+12141m  Ann_/_William
+MANQUE amande 2	 ;
+7693m  de_Montmorency_/_Richardson
+MANQUE pamplemousse 3	 ;
+OK
+3638m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+5833m  Lariviere_/_de_Lorimier
+COMPLET
+OK
+OK
+OK
+3886m  Ann_/_William
+OK
+9293m  Prince-Arthur_/_du_Parc
+OK
+10519m  de_Montmorency_/_Richardson
+COMPLET
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE gingembre 3	 ;
+OK
+OK
+OK
+7087m  Messier_/_Hochelaga
+OK
+OK
+12980m  Prince-Arthur_/_du_Parc
+782m  Prince-Arthur_/_du_Parc
+MANQUE truffe 2	 ;
+3909m  Prince-Arthur_/_du_Parc
+MANQUE amande 4	 ;
+OK
+OK
+MANQUE châtaigne 2	 ;
+COMPLET
+MANQUE bergamote 1	 ;
+MANQUE lapin 1	 ;
+COMPLET
+7395m  Messier_/_Hochelaga
+MANQUE taro 1	 ;
+9698m  du_Mont-Royal_/_Vincent-d'Indy
+IMPOSSIBLE
+4213m  Prince-Arthur_/_du_Parc
+13584m  Bel_Air_/_St-Antoine
+7373m  Metro_Papineau_(Cartier_/_Ste-Catherine)
+MANQUE avocat 4	 ;
+MANQUE coing 4	 ;
+MANQUE betterave 3	 ;
+MANQUE oeuf 1	 ;
+MANQUE banane 4	 ;
+MANQUE citrouille 2	 ;
+MANQUE bergamote 1	 ;
+MANQUE fromage 3	 ;
+MANQUE soja 3	 ;
+MANQUE agneau 1	 ;
+MANQUE kaki 2	 ;
+MANQUE yogourt 4	 ;
+MANQUE échalote 4	 ;
+COMPLET
+MANQUE courgette 1	 ;
+MANQUE figue 1	 ;
+MANQUE chèvre 3	 ;
+MANQUE noisette 3	 ;
+MANQUE salade 3	 ;
+MANQUE gingembre 4	 ;
+MANQUE prune 3	 ;
+MANQUE banane 2	 ;
+MANQUE mûre 1	 ;
+MANQUE navet 4	 ;
+MANQUE beurre 2	 ;
+MANQUE échalote 3	 ;
+COMPLET
+MANQUE beurre 4	 ;
+MANQUE panais 4	 ;
+MANQUE chèvre 4	 ;
+MANQUE jujube 2	 ;
+MANQUE courgette 3	 ;
+MANQUE truffe 4	 ;
+MANQUE gingembre 4	 ;
+MANQUE marron 1	 ;
+COMPLET
+MANQUE oignon 1	 ;
+MANQUE avocat 4	 ;
+COMPLET
+MANQUE basilic 3	 ;
+MANQUE plaquebière 2	 ;
+COMPLET
+MANQUE céleri 1	 ;

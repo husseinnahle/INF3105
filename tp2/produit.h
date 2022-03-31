@@ -18,8 +18,6 @@ class Produit
     Produit(const std::string&, const Date&);
     const std::string& get_nom() const;
     const Date& get_date_expiration() const;
-    // const bool& get_est_expire() const;
-    // void set_est_expire();
 
     bool operator < (const Produit&) const;
     bool operator == (const Produit&) const;
@@ -27,7 +25,6 @@ class Produit
   private:
     std::string nom;
     Date date_expiration;
-    bool est_expire;
 
   friend std::ostream& operator << (std::ostream&, const Produit&);
   friend std::istream& operator >> (std::istream&, Produit&);

@@ -9,7 +9,6 @@ Produit::Produit(const std::string& nom, const Date& date_expiration)
 {
   this->nom = nom;
   this->date_expiration = date_expiration;
-  est_expire = false;
 }
 
 const std::string& Produit::get_nom() const
@@ -22,23 +21,9 @@ const Date& Produit::get_date_expiration() const
   return date_expiration;
 }
 
-// const bool& Produit::get_est_expire() const
-// {
-//   return est_expire;
-// }
-
-// void Produit::set_est_expire()
-// {
-//   est_expire = true;
-// }
-
 bool Produit::operator < (const Produit& produit) const
 {
-  if (nom == produit.nom)
-  {
-    return date_expiration < produit.date_expiration;
-  }
-  return nom < produit.nom;
+  return date_expiration < produit.date_expiration;
 }
 
 bool Produit::operator == (const Produit& produit) const

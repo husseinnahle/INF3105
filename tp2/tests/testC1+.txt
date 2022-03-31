@@ -1,0 +1,303 @@
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE citron 4	sel 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE banane 1	 ;
+MANQUE pomme_de_terre 4	 ;
+OK
+MANQUE maceron 1	 ;
+MANQUE asperge 2	 ;
+MANQUE jujube 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE melon 2	pomme_de_terre 3	 ;
+IMPOSSIBLE
+MANQUE noix 2	 ;
+IMPOSSIBLE
+MANQUE noisette 2	 ;
+MANQUE coing 2	 ;
+OK
+OK
+MANQUE salicorne 1	 ;
+IMPOSSIBLE
+MANQUE salade 1	veau 2	 ;
+IMPOSSIBLE
+MANQUE crème_glacée 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+8688m  Marche_Atwater
+13419m  St-Marc_/_Sherbrooke
+OK
+MANQUE avocat 2	nèfle 3	 ;
+OK
+COMPLET
+MANQUE prune 3	 ;
+21149m  Marche_Atwater
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE aubergine 4	 ;
+MANQUE brugnon 2	pate 3	 ;
+OK
+3438m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+OK
+OK
+IMPOSSIBLE
+12888m  Marche_Atwater
+MANQUE raisin 3	 ;
+IMPOSSIBLE
+OK
+6681m  Marche_Atwater
+IMPOSSIBLE
+MANQUE avocat 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE crème_glacée 4	mûre 2	 ;
+MANQUE amande 1	 ;
+7396m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+MANQUE cynorrhodon 4	lime 4	 ;
+MANQUE cynorrhodon 4	 ;
+9694m  Marche_Atwater
+MANQUE porc 4	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE poivre 2	sucre 3	 ;
+MANQUE brocoli 4	raisin 3	 ;
+17955m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+OK
+OK
+OK
+OK
+OK
+MANQUE maceron 2	romaine 2	 ;
+MANQUE autruche 4	oeuf 4	 ;
+MANQUE pain 4	 ;
+OK
+MANQUE marron 4	pate 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE gingembre 2	kaki 3	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+MANQUE canneberge 3	taro 4	 ;
+OK
+IMPOSSIBLE
+OK
+MANQUE radis 4	 ;
+MANQUE citrouille 2	datte 4	 ;
+OK
+MANQUE châtaigne 4	 ;
+MANQUE groseille 4	 ;
+OK
+OK
+MANQUE navet 4	poivre 3	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+MANQUE antilope 1	crème_glacée 4	 ;
+12242m  Marche_Atwater
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+16809m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+OK
+9735m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+MANQUE groseille 2	 ;
+OK
+MANQUE marron 3	melon 3	 ;
+OK
+OK
+IMPOSSIBLE
+16368m  St-Marc_/_Sherbrooke
+MANQUE avocat 3	 ;
+MANQUE chou-fleur 2	 ;
+IMPOSSIBLE
+OK
+MANQUE panais 4	 ;
+MANQUE arbouse 1	 ;
+MANQUE fève 3	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE poire 1	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+17824m  Marche_Atwater
+OK
+IMPOSSIBLE
+COMPLET
+OK
+MANQUE pomme 1	 ;
+IMPOSSIBLE
+OK
+MANQUE avocat 1	brugnon 2	 ;
+MANQUE yogourt 3	épices 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE amande 1	 ;
+IMPOSSIBLE
+13889m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+9269m  St-Marc_/_Sherbrooke
+MANQUE navet 2	 ;
+OK
+MANQUE lapin 1	 ;
+MANQUE radis_noir 1	 ;
+7579m  St-Marc_/_Sherbrooke
+OK
+OK
+MANQUE maceron 2	 ;
+OK
+OK
+OK
+COMPLET
+19845m  Marche_Atwater
+6803m  St-Marc_/_Sherbrooke
+OK
+IMPOSSIBLE
+12236m  St-Marc_/_Sherbrooke
+MANQUE pomme 4	 ;
+OK
+19272m  Marche_Atwater
+10858m  Marche_Atwater
+MANQUE datte 3	 ;
+OK
+14187m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+OK
+IMPOSSIBLE
+MANQUE arbouse 2	 ;
+OK
+MANQUE lime 2	taro 3	 ;
+OK
+MANQUE yogourt 3	 ;
+IMPOSSIBLE
+OK
+MANQUE chou-fleur 3	 ;
+OK
+5658m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+OK
+IMPOSSIBLE
+OK
+6451m  Marche_Atwater
+MANQUE cheval 3	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+17431m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+MANQUE haricot 4	pomme_de_terre 1	 ;
+OK
+10034m  St-Marc_/_Sherbrooke
+IMPOSSIBLE
+OK
+15911m  Marche_Atwater
+20095m  Marche_Atwater
+OK
+3736m  St-Marc_/_Sherbrooke
+10018m  Marche_Atwater
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE quetsche 4	 ;
+OK
+MANQUE romaine 2	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+MANQUE aubergine 2	 ;
+OK
+IMPOSSIBLE
+MANQUE crème_glacée 1	 ;
+MANQUE jujube 2	 ;
+COMPLET
+10094m  St-Marc_/_Sherbrooke
+OK
+MANQUE mandarine 3	 ;
+4671m  Marche_Atwater
+11248m  St-Marc_/_Sherbrooke
+OK
+8187m  St-Marc_/_Sherbrooke
+COMPLET
+7531m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+MANQUE mirabelle 3	 ;
+16266m  CHSLD_Eloria-Lepage_(de_la_Pepiniere_/_de_Marseille)
+13613m  Marche_Atwater
+COMPLET
+IMPOSSIBLE
+10330m  Marche_Atwater
+MANQUE bigarade 2	pomme_de_terre 3	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+COMPLET
+MANQUE chou 1	 ;
+MANQUE cheval 1	courge 1	 ;
+OK
+MANQUE figue 1	 ;
+OK
+OK
+MANQUE prune 1	 ;
+MANQUE bergamote 3	 ;
+COMPLET
+OK
+OK
+MANQUE cheval 3	citrouille 2	 ;
+OK
+COMPLET
+MANQUE groseille 1	 ;
+MANQUE avocat 1	 ;
+MANQUE panais 2	truffe 3	 ;
+MANQUE châtaigne 2	 ;
+MANQUE quetsche 2	 ;
+COMPLET
+OK
+MANQUE pastèque 2	 ;
+MANQUE pain 2	 ;
+OK
+MANQUE haricot 2	 ;
+OK
+MANQUE cynorrhodon 4	pamplemousse 3	 ;
+OK
+OK
+MANQUE pêche 1	 ;
+COMPLET
+MANQUE oignon 4	 ;
+MANQUE noix 2	 ;
+MANQUE amande 3	beurre 2	 ;

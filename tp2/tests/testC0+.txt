@@ -1,0 +1,33 @@
+OK
+OK
+IMPOSSIBLE
+MANQUE arbouse 4	chou 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pain 4	pois 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE oeuf 4	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE agneau 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE plaquebière 2	 ;
+OK
+MANQUE maceron 1	pamplemousse 3	 ;
+IMPOSSIBLE
+MANQUE bigarade 1	veau 4	 ;
+MANQUE haricot 1	orange 1	 ;
+MANQUE ananas 1	 ;
+MANQUE salicorne 4	 ;

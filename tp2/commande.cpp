@@ -1,18 +1,9 @@
-/*  AUTEUR(S):
-    1) Nom + Code permanent du l'étudiant.e 1
-    2) Nom + Code permanent du l'étudiant.e 2
-*/
-
 #include "commande.h"
 
 std::string Commande::traiter(const std::string& raw_commande)
 {
   Tableau<std::string> commande;
   traiter(raw_commande, commande);
-  // for (int i = 0; i < commande.taille(); i++)
-  // {
-  //   std::cout << commande[i] << std::endl;
-  // }
   if (commande[0] == "DATE")
   {
     assert(commande.taille() == 2);
@@ -35,7 +26,7 @@ std::string Commande::traiter(const std::string& raw_commande)
   }
   else if (commande[0] == "RAMASSER")
   {   
-    assert(commande.taille() > 1);
+    assert(commande.taille() > 4);
     return ramasser(commande);
   }
   else if (commande[0] == "INVENTAIRE")
@@ -49,14 +40,14 @@ std::string Commande::traiter(const std::string& raw_commande)
 /* Traiter le format de la commande (string --> Tableau<string>).
    exemple:
      raw_commande = "PLACER Foudici (45.506873,-73.568921) ;"
-     commade = ["PLACER", "Foudici", "(45.506873,-73.568921)"]
+     commande = ["PLACER", "Foudici", "(45.506873,-73.568921)"]
 */
 void Commande::traiter(const std::string& raw_commande, Tableau<std::string>& commande)
 {
   std::string element = "";
-  for (int i = 0; i < raw_commande.length(); i++)
+  for (int i = 0; i < (int)raw_commande.length(); i++)
   {
-    if (raw_commande[i] == ' ')
+    if (raw_commande[i] == ' ' || raw_commande[i] == '\t')
     {
       if (element.length() == 0)
       {
@@ -66,13 +57,13 @@ void Commande::traiter(const std::string& raw_commande, Tableau<std::string>& co
       element = "";
       continue;
     }
-    else if (raw_commande[i] == ';' && i == raw_commande.length()-1)
+    else if (raw_commande[i] == ';' && i == (int)raw_commande.length()-1)
     {
       if (element.length() != 0)
       {
         commande.ajouter(element);
       }
-      if (i != raw_commande.length()-1)
+      if (i != (int)raw_commande.length()-1)
       {
         commande.ajouter(";");
       }
@@ -86,6 +77,7 @@ void Commande::traiter(const std::string& raw_commande, Tableau<std::string>& co
   }
 }
 
+// String to Date
 Date Commande::str_to_date(const std::string& raw_date)
 {
   Date date;
@@ -94,6 +86,7 @@ Date Commande::str_to_date(const std::string& raw_date)
   return date;
 }
 
+// String to PointST
 PointST Commande::str_to_pointst(const std::string& raw_position)
 {
   PointST position;
@@ -102,6 +95,7 @@ PointST Commande::str_to_pointst(const std::string& raw_position)
   return position;
 }
 
+// Changer la date courante
 std::string Commande::set_date(const Tableau<std::string>& commande)
 {
   Date date = str_to_date(commande[1]);
@@ -125,8 +119,7 @@ std::string Commande::approvisionner(const Tableau<std::string>& commande)
     std::string nom_produit = commande[i];
     int quantite = stoi(commande[i+1]);
     Date date = str_to_date(commande[i+2]);
-    Produit produit(nom_produit, date);
-    carte.approvisionner(nom_epicerie, produit, quantite);
+    carte.approvisionner(nom_epicerie, nom_produit, date, quantite);
   }
   return "OK";
 }
@@ -141,85 +134,40 @@ std::string Commande::recommander(const Tableau<std::string>& commande)
   {
     produits[commande[i]] = std::stoi(commande[i+1]);
   }
-  carte.recommander(position, nombre_max_epicerie, distance_total_max, produits);
-  return "";
+  return carte.recommander(position, nombre_max_epicerie, distance_total_max, produits);
 }
 
-// // RAMASSER Fraises 2; Foudici IGA;
-// std::string Commande::ramasser(const Tableau<std::string>& commande)
-// {
-//   std::string reponse = "";
-//   bool complet = true;
-//   int index_separateur = commande.chercher(";");
-//   for (int j = index_separateur+1; j < commande.taille(); j++)
-//   {
-//     reponse += j != commande.taille() -1 ? "\n" : "";
-//     std::string nom_epicerie = commande[j];
-//     for (int i = 1; i < index_separateur; i+=2)
-//     {
-//       reponse += i > 1 ? "\n" : "";
-//       int quantite_non_trouvee = carte.ramasser(nom_epicerie, commande[i], std::stoi(commande[i+1]));
-//       if (quantite_non_trouvee != 0)
-//       {
-//         reponse += "MANQUE " + commande[i] + " " + std::to_string(quantite_non_trouvee) + ";";
-//         complet = false;
-//         continue;
-//       }
-//     }  
-//     reponse += complet == true ? "COMPLET" : "";
-//   }
-//   return reponse;
-// }
-
-// RAMASSER Fraises 2; Foudici IGA;
 std::string Commande::ramasser(Tableau<std::string>& commande)
 {
-  std::string reponse = "";
+  std::string reponse = "MANQUE ";
   int index_separateur = commande.chercher(";");
-  for (int i = index_separateur+1; i < commande.taille(); i++)
-  {
-    std::string nom_epicerie = commande[i];
-    for (int j = 1; j < index_separateur; j+=2)
-    {
-      std::string nom_produit = commande[j];
-      int quantite = std::stoi(commande[j+1]);
-      carte.ramasser(nom_epicerie, nom_produit, quantite);
-      commande[j+1] = std::to_string(quantite);
-    }
-  }
+  ArbreMap<std::string, int> produits;
   for (int j = 1; j < index_separateur; j+=2)
   {
     std::string nom_produit = commande[j];
     int quantite = std::stoi(commande[j+1]);
-    if (quantite != 0)
-    {
-      reponse += "MANQUE " + nom_produit + " " + std::to_string(quantite) + ";";
-      reponse += j+2 == index_separateur ? "" : "\n";
-    }    
+    produits[nom_produit] = quantite;
   }
-  reponse += reponse == "" ? "COMPLET" : "";
-  return reponse;
+  bool complet = false;
+  for (int i = index_separateur+1; i < commande.taille() && !complet; i++)
+  {
+    std::string nom_epicerie = commande[i];
+    complet = carte.ramasser(nom_epicerie, produits);
+  }
+  ArbreMap<std::string, int>::Iterateur iter = produits.debut();
+  while (iter)
+  {
+    reponse += iter.valeur() != 0 ? iter.cle() + " " + std::to_string(iter.valeur()) + "\t" : "";
+    ++iter;
+  }
+  if (reponse == "MANQUE ")
+  {
+    return "COMPLET";
+  }
+  return reponse + ";";
 }
 
 std::string Commande::afficher_inventaire(const Tableau<std::string>& commande)
 {
-  Tableau<Produit> produits = carte.get_produits(commande[1]);
-  ArbreMap<std::string, int> map;
-  for (int i = 0; i < produits.taille(); i++)
-  {
-    std::string produit = produits[i].get_nom();
-    if (map.contient(produit))
-    {
-      map[produit] += 1;
-      continue;
-    }
-    map[produit] = 1;    
-  }  
-  ArbreMap<std::string, int>::Iterateur iter = map.debut();
-  while (iter)
-  {
-    std::cout << iter.cle() << " " << iter.valeur() << "     ";
-    ++iter;
-  }  
-  return ";";
+  return carte.get_inventaire(commande[1]) + ";";
 }

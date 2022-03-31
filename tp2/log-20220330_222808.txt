@@ -1,0 +1,31 @@
+#Machine :  LAPTOP-9F4DDVAG
+#CPU : AMD Ryzen 7 5800HS with Radeon Graphics
+#Date début : 20220330_222808
+#Limite de 180 secondes par test
+#
+Taille des fichiers source :
+0 0 0 total
+#
+Test    	CPU	Mém.(k)	Validation
+exemple1.txt	0.00	3536k	!=
+exemple2.txt	0.00	3720k	==
+exemple3.txt	0.00	3716k	==
+exemple4.txt	0.00	3720k	==
+exemple5.txt	0.00	4004k	!=
+testC0.txt	0.00	3996k	==
+testC1.txt	0.00	4124k	==
+testC2.txt	0.00	4452k	==
+testC3.txt	0.01	4444k	==
+testC4.txt	0.49	11464k	==
+testC5.txt	5.03	16916k	==
+testC6.txt	1.95	49108k	==
+testD0.txt	0.00	3932k	==
+testD1.txt	0.02	4232k	==
+testD2.txt	0.75	8648k	==
+testD3.txt	8.17	41812k	==
+testE0.txt	0.01	4016k	==
+testE1.txt	0.02	4224k	!=
+testE2.txt	0.71	8572k	!=
+testE3.txt	8.60	41928k	!=
+testE4.txt	10.19	41644k	!=
+testE5.txt	0.01	4312k	!=

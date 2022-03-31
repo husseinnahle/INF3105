@@ -1,0 +1,3110 @@
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE pistache 4	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE clémentine 1	 ;
+MANQUE avocat 4	 ;
+MANQUE banane 2	 ;
+MANQUE fraise 4	 ;
+4452m  Place_Longueuil
+MANQUE oeuf 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE marron 4	 ;
+OK
+OK
+MANQUE céleri 2	 ;
+OK
+OK
+OK
+OK
+MANQUE lait 2	 ;
+OK
+MANQUE chou 2	 ;
+IMPOSSIBLE
+MANQUE clémentine 3	 ;
+MANQUE radis_noir 2	 ;
+OK
+OK
+MANQUE coing 4	 ;
+IMPOSSIBLE
+MANQUE poireau 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE fraise 1	 ;
+MANQUE mirabelle 1	 ;
+IMPOSSIBLE
+OK
+MANQUE mûre 3	 ;
+IMPOSSIBLE
+MANQUE bison 3	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE amande 2	 ;
+OK
+OK
+MANQUE pamplemousse 3	 ;
+OK
+OK
+OK
+MANQUE quinoa 1	 ;
+IMPOSSIBLE
+MANQUE ail 3	 ;
+IMPOSSIBLE
+MANQUE clémentine 1	 ;
+MANQUE crème 1	 ;
+OK
+OK
+MANQUE mandarine 2	 ;
+MANQUE ciboulette 1	 ;
+MANQUE bergamote 1	 ;
+MANQUE pêche 3	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE melon 2	 ;
+MANQUE agneau 3	 ;
+IMPOSSIBLE
+MANQUE épices 3	 ;
+OK
+OK
+OK
+7562m  Laurier_/_de_Bordeaux
+MANQUE radis 3	 ;
+MANQUE bison 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+8368m  Marie-Anne_/_de_la_Roche
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+11368m  Marie-Anne_/_de_la_Roche
+5545m  Marie-Anne_/_de_la_Roche
+OK
+MANQUE citrouille 3	 ;
+768m  Marie-Anne_/_de_la_Roche
+MANQUE laitue 4	 ;
+COMPLET
+IMPOSSIBLE
+3169m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE quetsche 3	 ;
+MANQUE avocat 4	 ;
+9734m  Place_Longueuil
+7281m  Atwater_/_Sherbrooke
+MANQUE pain 2	 ;
+OK
+MANQUE jujube 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE épices 1	 ;
+COMPLET
+IMPOSSIBLE
+MANQUE ail 1	 ;
+OK
+OK
+OK
+OK
+MANQUE kiwi 3	 ;
+OK
+MANQUE pêche 3	 ;
+MANQUE maceron 1	 ;
+OK
+OK
+IMPOSSIBLE
+12702m  Hutchison_/_Beaubien
+MANQUE plaquebière 4	 ;
+IMPOSSIBLE
+MANQUE amande 1	 ;
+IMPOSSIBLE
+MANQUE pêche 2	 ;
+MANQUE prune 2	 ;
+IMPOSSIBLE
+OK
+MANQUE truffe 1	 ;
+OK
+OK
+MANQUE groseille 2	 ;
+OK
+MANQUE citrouille 4	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE concombre 3	 ;
+IMPOSSIBLE
+MANQUE concombre 2	 ;
+IMPOSSIBLE
+OK
+2637m  Laurier_/_de_Bordeaux
+IMPOSSIBLE
+OK
+MANQUE poivre 2	 ;
+OK
+OK
+OK
+MANQUE banane 1	 ;
+OK
+MANQUE sucre 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE mirabelle 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE kiwi 4	 ;
+MANQUE pistache 2	 ;
+MANQUE poivre 1	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+8906m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE avocat 4	 ;
+MANQUE échalote 2	 ;
+MANQUE olive 2	 ;
+OK
+MANQUE clémentine 4	 ;
+17583m  Metro_Parc__(Ogilvy_/_Hutchison) Place_Longueuil
+6159m  Place_Longueuil
+IMPOSSIBLE
+IMPOSSIBLE
+8436m  Metro_Parc__(Ogilvy_/_Hutchison)
+10082m  Place_Longueuil
+8112m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE bergamote 4	 ;
+OK
+OK
+MANQUE oeuf 4	 ;
+MANQUE haricot 2	 ;
+OK
+MANQUE radis 2	 ;
+IMPOSSIBLE
+OK
+MANQUE pain 2	 ;
+MANQUE courge 1	 ;
+COMPLET
+MANQUE yogourt 4	 ;
+MANQUE poivre 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+13161m  Laurier_/_de_Bordeaux
+IMPOSSIBLE
+12357m  Marie-Anne_/_de_la_Roche
+MANQUE autruche 1	 ;
+5150m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+IMPOSSIBLE
+MANQUE avocat 4	 ;
+9306m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+5900m  Hutchison_/_Beaubien
+IMPOSSIBLE
+2082m  Marie-Anne_/_de_la_Roche
+MANQUE porc 4	 ;
+MANQUE poire 4	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+COMPLET
+OK
+OK
+MANQUE châtaigne 1	 ;
+20908m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE raisin 4	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE kaki 1	 ;
+COMPLET
+OK
+15622m  Metro_Parc__(Ogilvy_/_Hutchison)
+IMPOSSIBLE
+4288m  Laurier_/_de_Bordeaux
+MANQUE figue 1	 ;
+MANQUE agneau 2	 ;
+IMPOSSIBLE
+MANQUE ail 4	 ;
+IMPOSSIBLE
+MANQUE figue 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+6197m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+1913m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+COMPLET
+MANQUE ananas 3	 ;
+7836m  Place_Longueuil
+MANQUE ciboulette 3	 ;
+3817m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+IMPOSSIBLE
+901m  Hutchison_/_Beaubien
+OK
+COMPLET
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE prune 4	 ;
+10817m  Atwater_/_Sherbrooke
+OK
+MANQUE coing 3	 ;
+MANQUE pistache 2	 ;
+OK
+IMPOSSIBLE
+COMPLET
+OK
+1223m  St-Marc_/_Sherbrooke
+MANQUE chou-fleur 1	 ;
+OK
+2111m  St-Marc_/_Sherbrooke
+MANQUE bigarade 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+6205m  Hutchison_/_Beaubien
+MANQUE kaki 2	 ;
+MANQUE mandarine 4	 ;
+OK
+MANQUE quetsche 2	 ;
+MANQUE cassis 2	 ;
+MANQUE asperge 4	 ;
+MANQUE noisette 1	 ;
+OK
+OK
+OK
+4524m  St-Marc_/_Sherbrooke
+OK
+IMPOSSIBLE
+MANQUE amande 2	 ;
+9090m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) St-Marc_/_Sherbrooke
+COMPLET
+OK
+MANQUE citron 2	 ;
+7321m  Place_Longueuil
+14664m  Hutchison_/_Beaubien
+OK
+MANQUE veau 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE kiwi 1	 ;
+MANQUE sucre 1	 ;
+MANQUE myrtille 1	 ;
+20785m  Place_Longueuil
+OK
+OK
+MANQUE oignon 4	 ;
+OK
+MANQUE radis_noir 2	 ;
+MANQUE panais 4	 ;
+14162m  Place_Longueuil
+MANQUE crème_glacée 2	 ;
+OK
+OK
+MANQUE kaki 2	 ;
+MANQUE veau 3	 ;
+IMPOSSIBLE
+7438m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE soja 4	 ;
+OK
+MANQUE wapiti 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+COMPLET
+7388m  Atwater_/_Sherbrooke
+MANQUE veau 1	 ;
+MANQUE wapiti 2	 ;
+IMPOSSIBLE
+OK
+3054m  Atwater_/_Sherbrooke
+MANQUE mirabelle 2	 ;
+9338m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+MANQUE bison 1	 ;
+OK
+OK
+OK
+12385m  Hutchison_/_Beaubien
+IMPOSSIBLE
+7077m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+6786m  St-Marc_/_Sherbrooke
+OK
+OK
+OK
+OK
+OK
+OK
+3007m  Hutchison_/_Beaubien
+OK
+OK
+9819m  St-Marc_/_Sherbrooke
+MANQUE melon 3	 ;
+OK
+OK
+OK
+12197m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) Place_Longueuil
+9921m  St-Marc_/_Sherbrooke
+OK
+MANQUE orange 1	 ;
+MANQUE ananas 2	 ;
+8404m  Atwater_/_Sherbrooke
+MANQUE navet 3	 ;
+13328m  Hutchison_/_Beaubien
+8972m  Laurier_/_de_Bordeaux
+MANQUE quetsche 1	 ;
+MANQUE cerise 2	 ;
+OK
+9438m  Laurier_/_de_Bordeaux
+OK
+OK
+MANQUE cerise 1	 ;
+OK
+OK
+MANQUE sucre 2	 ;
+5602m  des_Erables_/_Rachel
+MANQUE rhubarbe 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+COMPLET
+6461m  Atwater_/_Sherbrooke
+MANQUE oignon 1	 ;
+MANQUE plaquebière 2	 ;
+MANQUE avocat 3	 ;
+6229m  Laurier_/_de_Bordeaux
+11020m  des_Erables_/_Rachel
+IMPOSSIBLE
+MANQUE navet 3	 ;
+9439m  St-Marc_/_Sherbrooke
+10510m  St-Marc_/_Sherbrooke
+MANQUE ananas 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cynorrhodon 1	 ;
+IMPOSSIBLE
+MANQUE crème_glacée 1	 ;
+OK
+OK
+OK
+MANQUE lait 2	 ;
+1239m  Marie-Anne_/_de_la_Roche
+OK
+MANQUE soja 4	 ;
+OK
+COMPLET
+OK
+2588m  Hutchison_/_Beaubien
+IMPOSSIBLE
+MANQUE kiwi 3	 ;
+MANQUE arbouse 2	 ;
+MANQUE mûre 1	 ;
+IMPOSSIBLE
+8370m  des_Erables_/_Rachel
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+COMPLET
+MANQUE haricot 2	 ;
+MANQUE gingembre 1	 ;
+OK
+IMPOSSIBLE
+OK
+11957m  Marie-Anne_/_de_la_Roche St-Marc_/_Sherbrooke
+OK
+OK
+6747m  Place_Longueuil
+5477m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE concombre 3	 ;
+OK
+OK
+OK
+OK
+16804m  Laurier_/_de_Bordeaux Marie-Anne_/_de_la_Roche
+OK
+OK
+OK
+8303m  Marie-Anne_/_de_la_Roche
+COMPLET
+OK
+MANQUE céleri 4	 ;
+OK
+7433m  St-Marc_/_Sherbrooke
+16198m  Metro_Parc__(Ogilvy_/_Hutchison)
+13657m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) Metro_Parc__(Ogilvy_/_Hutchison)
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE pomme 1	 ;
+OK
+2187m  Marie-Anne_/_de_la_Roche
+6847m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+3208m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+1114m  Atwater_/_Sherbrooke
+6978m  St-Marc_/_Sherbrooke
+COMPLET
+12526m  Place_Longueuil
+MANQUE concombre 1	 ;
+OK
+OK
+OK
+MANQUE oeuf 1	 ;
+OK
+COMPLET
+OK
+MANQUE orange 4	 ;
+IMPOSSIBLE
+8178m  Marie-Anne_/_de_la_Roche
+OK
+OK
+OK
+OK
+MANQUE pamplemousse 1	 ;
+OK
+IMPOSSIBLE
+3497m  Marie-Anne_/_de_la_Roche
+OK
+COMPLET
+MANQUE avocat 2	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+15262m  Marie-Anne_/_de_la_Roche Place_Longueuil
+OK
+OK
+MANQUE échalote 1	 ;
+MANQUE bigarade 3	 ;
+8237m  Marie-Anne_/_de_la_Roche
+6570m  Hutchison_/_Beaubien
+2544m  des_Erables_/_Rachel
+6720m  Hutchison_/_Beaubien
+OK
+OK
+OK
+2244m  Hutchison_/_Beaubien
+COMPLET
+MANQUE citrouille 4	 ;
+OK
+OK
+MANQUE aubergine 3	 ;
+MANQUE pomme_de_terre 3	 ;
+IMPOSSIBLE
+8502m  Laurier_/_de_Bordeaux
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE porc 2	 ;
+OK
+10261m  St-Marc_/_Sherbrooke
+OK
+OK
+IMPOSSIBLE
+COMPLET
+COMPLET
+MANQUE cornouiller_du_Canada 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE oignon 2	 ;
+OK
+10421m  Place_Longueuil
+IMPOSSIBLE
+OK
+COMPLET
+3970m  St-Marc_/_Sherbrooke
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE cheval 2	 ;
+MANQUE bison 1	 ;
+OK
+MANQUE autruche 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE myrtille 3	 ;
+IMPOSSIBLE
+MANQUE carotte 3	 ;
+IMPOSSIBLE
+MANQUE myrtille 1	 ;
+OK
+OK
+OK
+OK
+OK
+5106m  des_Erables_/_Rachel
+MANQUE pastèque 1	 ;
+MANQUE courgette 2	 ;
+OK
+23166m  Marie-Anne_/_de_la_Roche Place_Longueuil Ross_/_de_l'Eglise
+IMPOSSIBLE
+MANQUE pomme 4	 ;
+OK
+MANQUE échalote 2	 ;
+MANQUE chèvre 1	 ;
+OK
+MANQUE lapin 2	 ;
+IMPOSSIBLE
+MANQUE cassis 2	 ;
+IMPOSSIBLE
+9190m  Ross_/_de_l'Eglise
+IMPOSSIBLE
+OK
+3235m  Marie-Anne_/_de_la_Roche
+MANQUE radis 2	 ;
+COMPLET
+5158m  Place_Longueuil
+OK
+OK
+OK
+MANQUE pomme 1	 ;
+OK
+MANQUE pamplemousse 1	 ;
+MANQUE autruche 2	 ;
+IMPOSSIBLE
+7396m  des_Erables_/_Rachel
+OK
+OK
+7995m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+OK
+MANQUE nèfle 2	 ;
+OK
+MANQUE nèfle 2	 ;
+OK
+OK
+OK
+OK
+COMPLET
+OK
+OK
+MANQUE raisin 1	 ;
+OK
+COMPLET
+6786m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+IMPOSSIBLE
+2792m  Ross_/_de_l'Eglise
+MANQUE cynorrhodon 4	 ;
+OK
+MANQUE canneberge 1	 ;
+OK
+OK
+OK
+OK
+MANQUE chou 4	 ;
+2510m  Atwater_/_Sherbrooke
+COMPLET
+MANQUE kaki 1	 ;
+OK
+OK
+OK
+10628m  Marie-Anne_/_de_la_Roche
+6365m  Metro_Parc__(Ogilvy_/_Hutchison)
+COMPLET
+COMPLET
+OK
+4853m  Atwater_/_Sherbrooke
+OK
+8188m  Metro_Parc__(Ogilvy_/_Hutchison)
+11891m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+MANQUE grenade 1	 ;
+OK
+MANQUE melon 3	 ;
+9254m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE yogourt 3	 ;
+9218m  Marie-Anne_/_de_la_Roche
+MANQUE amande 2	 ;
+MANQUE bergamote 3	 ;
+COMPLET
+OK
+COMPLET
+OK
+13569m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) des_Erables_/_Rachel
+MANQUE pastèque 4	 ;
+MANQUE pamplemousse 1	 ;
+6247m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+8195m  St-Marc_/_Sherbrooke
+MANQUE chou 4	 ;
+OK
+IMPOSSIBLE
+11170m  Marie-Anne_/_de_la_Roche
+9307m  Laurier_/_de_Bordeaux
+MANQUE myrtille 2	 ;
+10092m  St-Marc_/_Sherbrooke
+MANQUE bison 4	 ;
+1065m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 1	 ;
+OK
+OK
+OK
+15637m  Place_Longueuil
+OK
+MANQUE lapin 1	 ;
+IMPOSSIBLE
+OK
+13102m  Metro_Parc__(Ogilvy_/_Hutchison)
+14504m  Laurier_/_de_Bordeaux Metro_Parc__(Ogilvy_/_Hutchison)
+COMPLET
+7969m  Hutchison_/_Beaubien
+MANQUE cerise 4	 ;
+IMPOSSIBLE
+MANQUE ananas 3	 ;
+5191m  Marie-Anne_/_de_la_Roche
+MANQUE bigarade 1	 ;
+COMPLET
+6443m  Laurier_/_de_Bordeaux
+IMPOSSIBLE
+2980m  Marie-Anne_/_de_la_Roche
+OK
+OK
+2176m  Atwater_/_Sherbrooke
+OK
+MANQUE truffe 3	 ;
+MANQUE pastèque 2	 ;
+MANQUE haricot 1	 ;
+MANQUE châtaigne 2	 ;
+9597m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+OK
+7955m  des_Erables_/_Rachel
+MANQUE plaquebière 1	 ;
+MANQUE taro 3	 ;
+OK
+OK
+COMPLET
+OK
+OK
+OK
+MANQUE carotte 1	 ;
+OK
+OK
+OK
+OK
+7717m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+COMPLET
+MANQUE abricot 2	 ;
+OK
+2899m  des_Erables_/_Rachel
+IMPOSSIBLE
+MANQUE aubergine 2	 ;
+OK
+OK
+OK
+OK
+OK
+4989m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+IMPOSSIBLE
+3927m  St-Marc_/_Sherbrooke
+MANQUE pêche 3	 ;
+MANQUE figue 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 1	 ;
+MANQUE figue 3	 ;
+OK
+COMPLET
+15272m  des_Erables_/_Rachel
+MANQUE cornouiller_du_Canada 4	 ;
+5328m  St-Marc_/_Sherbrooke
+COMPLET
+IMPOSSIBLE
+MANQUE arbouse 1	 ;
+IMPOSSIBLE
+OK
+MANQUE ananas 3	 ;
+COMPLET
+OK
+OK
+MANQUE figue 3	 ;
+COMPLET
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+COMPLET
+IMPOSSIBLE
+8605m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+15154m  Marie-Anne_/_de_la_Roche
+11749m  Hutchison_/_Beaubien
+3432m  Place_Longueuil
+7279m  St-Marc_/_Sherbrooke
+COMPLET
+OK
+MANQUE ananas 4	 ;
+2111m  Marie-Anne_/_de_la_Roche
+MANQUE truffe 3	 ;
+OK
+OK
+OK
+MANQUE cerise 4	 ;
+IMPOSSIBLE
+OK
+MANQUE poivron 1	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE pêche 3	 ;
+MANQUE pamplemousse 4	 ;
+10199m  Atwater_/_Sherbrooke
+MANQUE framboise 1	 ;
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+COMPLET
+OK
+IMPOSSIBLE
+16439m  Laurier_/_de_Bordeaux Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+1558m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+MANQUE concombre 3	 ;
+MANQUE pastèque 3	 ;
+3334m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+8258m  Metro_Parc__(Ogilvy_/_Hutchison)
+9876m  Ross_/_de_l'Eglise
+2404m  Hutchison_/_Beaubien
+14147m  Place_Longueuil
+IMPOSSIBLE
+MANQUE mirabelle 4	 ;
+OK
+OK
+OK
+OK
+13687m  Ross_/_de_l'Eglise
+OK
+2451m  Marie-Anne_/_de_la_Roche
+MANQUE huile 3	 ;
+COMPLET
+OK
+9809m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) des_Erables_/_Rachel
+OK
+MANQUE autruche 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE beurre 1	 ;
+IMPOSSIBLE
+OK
+MANQUE noix 3	 ;
+MANQUE nèfle 1	 ;
+OK
+COMPLET
+MANQUE lapin 2	 ;
+OK
+OK
+OK
+7962m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE cynorrhodon 3	 ;
+MANQUE romaine 1	 ;
+MANQUE mûre 4	 ;
+MANQUE salicorne 2	 ;
+11554m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+OK
+COMPLET
+OK
+COMPLET
+MANQUE salicorne 1	 ;
+OK
+OK
+OK
+COMPLET
+MANQUE laitue 2	 ;
+MANQUE huile 2	 ;
+IMPOSSIBLE
+MANQUE pastèque 3	 ;
+COMPLET
+OK
+OK
+MANQUE épices 1	 ;
+MANQUE pomme 4	 ;
+COMPLET
+5611m  St-Marc_/_Sherbrooke
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pastèque 3	 ;
+MANQUE échalote 1	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE panais 3	 ;
+OK
+IMPOSSIBLE
+MANQUE noix 4	 ;
+OK
+MANQUE bigarade 1	 ;
+OK
+COMPLET
+MANQUE orange 1	 ;
+MANQUE concombre 3	 ;
+OK
+7853m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+COMPLET
+OK
+MANQUE lapin 3	 ;
+IMPOSSIBLE
+14083m  Hutchison_/_Beaubien
+MANQUE sel 1	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+3553m  Atwater_/_Sherbrooke
+MANQUE crème_glacée 3	 ;
+IMPOSSIBLE
+12185m  Marie-Anne_/_de_la_Roche
+MANQUE cheval 4	 ;
+8737m  Place_Longueuil
+OK
+COMPLET
+OK
+1640m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+3033m  Hutchison_/_Beaubien
+COMPLET
+COMPLET
+MANQUE wapiti 1	 ;
+OK
+MANQUE gingembre 1	 ;
+24899m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) Place_Longueuil Metro_Parc__(Ogilvy_/_Hutchison)
+COMPLET
+6406m  des_Erables_/_Rachel
+6042m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+7454m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+OK
+MANQUE banane 3	 ;
+MANQUE arbouse 1	 ;
+5975m  Ross_/_de_l'Eglise
+MANQUE wapiti 1	 ;
+OK
+MANQUE autruche 2	 ;
+MANQUE mandarine 4	 ;
+OK
+OK
+12931m  Atwater_/_Sherbrooke
+MANQUE antilope 2	 ;
+OK
+COMPLET
+11285m  Marie-Anne_/_de_la_Roche
+14506m  Place_Longueuil
+OK
+MANQUE pois 4	 ;
+IMPOSSIBLE
+MANQUE sel 1	 ;
+MANQUE quinoa 3	 ;
+MANQUE beurre 1	 ;
+COMPLET
+OK
+OK
+OK
+MANQUE romaine 1	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+2124m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+OK
+MANQUE olive 1	 ;
+7275m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+OK
+OK
+13555m  Place_Longueuil
+OK
+OK
+OK
+MANQUE ananas 4	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE kaki 4	 ;
+OK
+OK
+COMPLET
+MANQUE prune 2	 ;
+OK
+COMPLET
+OK
+17322m  Laurier_/_de_Bordeaux Ross_/_de_l'Eglise
+OK
+9093m  Atwater_/_Sherbrooke
+MANQUE lapin 4	 ;
+7268m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+OK
+MANQUE quinoa 2	 ;
+OK
+MANQUE lait 4	 ;
+COMPLET
+4953m  Atwater_/_Sherbrooke
+10297m  St-Marc_/_Sherbrooke
+OK
+MANQUE truffe 1	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+9106m  Laurier_/_de_Bordeaux
+IMPOSSIBLE
+OK
+MANQUE céleri 1	 ;
+MANQUE quetsche 1	 ;
+7473m  Ross_/_de_l'Eglise
+9150m  Hutchison_/_Beaubien
+MANQUE truffe 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+COMPLET
+IMPOSSIBLE
+OK
+3272m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+7499m  Atwater_/_Sherbrooke
+COMPLET
+MANQUE agneau 1	 ;
+OK
+IMPOSSIBLE
+MANQUE épices 3	 ;
+MANQUE groseille 2	 ;
+COMPLET
+COMPLET
+MANQUE banane 4	 ;
+IMPOSSIBLE
+MANQUE courge 4	 ;
+IMPOSSIBLE
+MANQUE bison 4	 ;
+5108m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+OK
+9067m  Hutchison_/_Beaubien
+5399m  Place_Longueuil
+4278m  des_Erables_/_Rachel
+IMPOSSIBLE
+OK
+11579m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+3643m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+OK
+COMPLET
+MANQUE coing 2	 ;
+OK
+OK
+12552m  Place_Longueuil
+OK
+COMPLET
+COMPLET
+MANQUE quetsche 1	 ;
+2080m  des_Erables_/_Rachel
+IMPOSSIBLE
+MANQUE crème_glacée 4	 ;
+MANQUE prune 1	 ;
+IMPOSSIBLE
+3811m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+17491m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) Place_Longueuil
+6564m  St-Marc_/_Sherbrooke
+MANQUE yogourt 3	 ;
+IMPOSSIBLE
+MANQUE radis_noir 1	 ;
+OK
+OK
+OK
+MANQUE boeuf 1	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE agneau 1	 ;
+1352m  Hutchison_/_Beaubien
+OK
+OK
+OK
+MANQUE autruche 4	 ;
+5784m  Atwater_/_Sherbrooke
+17129m  Hutchison_/_Beaubien Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE chou-fleur 4	 ;
+MANQUE fraise 4	 ;
+OK
+OK
+4955m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE marron 1	 ;
+11889m  Ross_/_de_l'Eglise
+OK
+MANQUE groseille 2	 ;
+6214m  Marie-Anne_/_de_la_Roche
+6026m  Atwater_/_Sherbrooke
+8912m  St-Marc_/_Sherbrooke
+OK
+2410m  Hutchison_/_Beaubien
+OK
+MANQUE chou-fleur 4	 ;
+OK
+MANQUE arbouse 2	 ;
+OK
+10042m  St-Marc_/_Sherbrooke
+11383m  Hutchison_/_Beaubien
+OK
+MANQUE antilope 1	 ;
+6105m  Laurier_/_de_Bordeaux
+IMPOSSIBLE
+10797m  Laurier_/_de_Bordeaux
+OK
+OK
+OK
+OK
+MANQUE fromage 4	 ;
+OK
+OK
+3898m  Hutchison_/_Beaubien
+MANQUE avocat 3	 ;
+5832m  St-Marc_/_Sherbrooke
+OK
+6296m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE aubergine 3	 ;
+OK
+OK
+MANQUE pistache 1	 ;
+MANQUE fraise 4	 ;
+COMPLET
+OK
+OK
+1557m  Laurier_/_de_Bordeaux
+OK
+IMPOSSIBLE
+MANQUE aubergine 2	 ;
+3085m  Atwater_/_Sherbrooke
+COMPLET
+7246m  Atwater_/_Sherbrooke
+OK
+OK
+MANQUE citron 2	 ;
+7661m  des_Erables_/_Rachel
+MANQUE chou-fleur 3	 ;
+OK
+MANQUE chou 4	 ;
+MANQUE jujube 4	 ;
+9590m  Hutchison_/_Beaubien
+MANQUE kiwi 4	 ;
+14358m  Marie-Anne_/_de_la_Roche des_Erables_/_Rachel
+MANQUE prune 1	 ;
+OK
+OK
+OK
+MANQUE pomme_de_terre 2	 ;
+MANQUE antilope 1	 ;
+MANQUE chou-fleur 2	 ;
+MANQUE poireau 4	 ;
+OK
+OK
+IMPOSSIBLE
+COMPLET
+7390m  Atwater_/_Sherbrooke
+MANQUE abricot 2	 ;
+OK
+OK
+MANQUE framboise 3	 ;
+4093m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+3367m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+8832m  Marie-Anne_/_de_la_Roche
+COMPLET
+OK
+OK
+COMPLET
+OK
+OK
+MANQUE banane 3	 ;
+MANQUE taro 1	 ;
+OK
+8744m  Atwater_/_Sherbrooke
+MANQUE concombre 4	 ;
+4650m  Atwater_/_Sherbrooke
+OK
+MANQUE courge 2	 ;
+OK
+COMPLET
+OK
+COMPLET
+IMPOSSIBLE
+MANQUE jujube 3	 ;
+MANQUE oignon 1	 ;
+IMPOSSIBLE
+MANQUE coing 4	 ;
+7690m  Atwater_/_Sherbrooke
+12516m  Marie-Anne_/_de_la_Roche
+OK
+OK
+MANQUE poireau 1	 ;
+MANQUE truffe 1	 ;
+9270m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+11745m  Laurier_/_de_Bordeaux
+OK
+OK
+OK
+OK
+9264m  St-Marc_/_Sherbrooke
+COMPLET
+OK
+COMPLET
+COMPLET
+COMPLET
+OK
+OK
+MANQUE salicorne 2	 ;
+OK
+MANQUE cynorrhodon 1	 ;
+OK
+OK
+MANQUE salicorne 3	 ;
+MANQUE cassis 1	 ;
+MANQUE mirabelle 1	 ;
+OK
+MANQUE maceron 1	 ;
+OK
+MANQUE ail 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+COMPLET
+3576m  Ross_/_de_l'Eglise
+COMPLET
+IMPOSSIBLE
+6381m  St-Marc_/_Sherbrooke
+8525m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE soja 2	 ;
+OK
+OK
+MANQUE plaquebière 2	 ;
+COMPLET
+MANQUE porc 3	 ;
+OK
+MANQUE avocat 4	 ;
+MANQUE épices 3	 ;
+OK
+OK
+OK
+OK
+5124m  St-Marc_/_Sherbrooke
+COMPLET
+COMPLET
+OK
+18732m  Marie-Anne_/_de_la_Roche Place_Longueuil
+OK
+9435m  Ross_/_de_l'Eglise
+16660m  Place_Longueuil
+19659m  Marie-Anne_/_de_la_Roche Ross_/_de_l'Eglise
+MANQUE nèfle 2	 ;
+16140m  des_Erables_/_Rachel
+12670m  Ross_/_de_l'Eglise
+COMPLET
+4585m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+OK
+8481m  des_Erables_/_Rachel
+COMPLET
+IMPOSSIBLE
+COMPLET
+COMPLET
+IMPOSSIBLE
+MANQUE bigarade 4	 ;
+OK
+IMPOSSIBLE
+OK
+7339m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+MANQUE coing 4	 ;
+MANQUE lait 3	 ;
+IMPOSSIBLE
+10475m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+7722m  St-Marc_/_Sherbrooke
+OK
+OK
+9727m  St-Marc_/_Sherbrooke
+6909m  Laurier_/_de_Bordeaux
+MANQUE carotte 4	 ;
+OK
+OK
+OK
+OK
+MANQUE avocat 4	 ;
+COMPLET
+12559m  Laurier_/_de_Bordeaux
+16994m  Marie-Anne_/_de_la_Roche Place_Longueuil
+OK
+13560m  Marie-Anne_/_de_la_Roche
+OK
+COMPLET
+9264m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE navet 2	 ;
+5776m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+MANQUE soja 4	 ;
+4092m  Atwater_/_Sherbrooke
+OK
+2839m  St-Marc_/_Sherbrooke
+6072m  Atwater_/_Sherbrooke
+MANQUE salade 2	 ;
+OK
+MANQUE banane 3	 ;
+OK
+OK
+MANQUE antilope 1	 ;
+OK
+MANQUE salicorne 2	 ;
+COMPLET
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE datte 4	 ;
+16721m  Place_Longueuil Ross_/_de_l'Eglise
+COMPLET
+IMPOSSIBLE
+MANQUE lait 2	 ;
+4675m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+IMPOSSIBLE
+IMPOSSIBLE
+1940m  St-Marc_/_Sherbrooke
+MANQUE mûre 4	 ;
+MANQUE navet 2	 ;
+OK
+OK
+COMPLET
+OK
+MANQUE mûre 2	 ;
+OK
+5837m  Atwater_/_Sherbrooke
+OK
+5714m  Marie-Anne_/_de_la_Roche
+MANQUE ciboulette 2	 ;
+OK
+OK
+MANQUE melon 1	 ;
+MANQUE radis_noir 1	 ;
+MANQUE coing 3	 ;
+4437m  Atwater_/_Sherbrooke
+MANQUE groseille 3	 ;
+OK
+MANQUE melon 1	 ;
+5068m  Marie-Anne_/_de_la_Roche
+COMPLET
+OK
+IMPOSSIBLE
+OK
+14461m  des_Erables_/_Rachel
+OK
+OK
+IMPOSSIBLE
+OK
+4232m  Marie-Anne_/_de_la_Roche
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE fève 1	 ;
+OK
+12565m  Marie-Anne_/_de_la_Roche
+9424m  St-Marc_/_Sherbrooke
+MANQUE gingembre 2	 ;
+OK
+OK
+OK
+OK
+OK
+COMPLET
+MANQUE oignon 4	 ;
+2445m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE pomme_de_terre 3	 ;
+5506m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+COMPLET
+9780m  St-Marc_/_Sherbrooke
+OK
+OK
+15789m  des_Erables_/_Rachel
+MANQUE grenade 4	 ;
+OK
+OK
+MANQUE lime 3	 ;
+IMPOSSIBLE
+13475m  Marie-Anne_/_de_la_Roche Place_Longueuil
+COMPLET
+5676m  Laurier_/_de_Bordeaux des_Erables_/_Rachel
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+6979m  Atwater_/_Sherbrooke
+MANQUE crème_glacée 2	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE gingembre 1	 ;
+3639m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+IMPOSSIBLE
+MANQUE olive 3	 ;
+MANQUE huile 3	 ;
+COMPLET
+OK
+19379m  Atwater_/_Sherbrooke Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+OK
+3836m  Place_Longueuil
+COMPLET
+MANQUE salade 2	 ;
+MANQUE poivre 3	 ;
+MANQUE pomme_de_terre 1	 ;
+MANQUE raisin 1	 ;
+10578m  Hutchison_/_Beaubien
+COMPLET
+MANQUE oeuf 3	 ;
+MANQUE melon 2	 ;
+MANQUE cheval 2	 ;
+1607m  St-Marc_/_Sherbrooke
+MANQUE salade 1	 ;
+IMPOSSIBLE
+OK
+MANQUE pêche 4	 ;
+OK
+OK
+5621m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+15826m  St-Marc_/_Sherbrooke des_Erables_/_Rachel
+5909m  Place_Longueuil
+IMPOSSIBLE
+OK
+12453m  Laurier_/_de_Bordeaux
+MANQUE yogourt 4	 ;
+MANQUE abricot 2	 ;
+OK
+COMPLET
+4549m  Atwater_/_Sherbrooke
+MANQUE maceron 3	 ;
+OK
+OK
+OK
+15638m  des_Erables_/_Rachel
+MANQUE marron 1	 ;
+COMPLET
+OK
+7858m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+3966m  St-Marc_/_Sherbrooke
+IMPOSSIBLE
+COMPLET
+MANQUE sucre 4	 ;
+MANQUE cassis 1	 ;
+2466m  Atwater_/_Sherbrooke
+OK
+MANQUE pêche 2	 ;
+IMPOSSIBLE
+6683m  Laurier_/_de_Bordeaux
+14988m  Place_Longueuil
+OK
+OK
+1521m  Place_Longueuil
+OK
+IMPOSSIBLE
+5843m  St-Marc_/_Sherbrooke
+COMPLET
+IMPOSSIBLE
+OK
+4579m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+IMPOSSIBLE
+OK
+OK
+OK
+9529m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+IMPOSSIBLE
+8546m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+OK
+OK
+3914m  Hutchison_/_Beaubien Metro_Parc__(Ogilvy_/_Hutchison)
+COMPLET
+17662m  Place_Longueuil
+OK
+IMPOSSIBLE
+17219m  Ross_/_de_l'Eglise
+13766m  des_Erables_/_Rachel
+17445m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+OK
+IMPOSSIBLE
+MANQUE maceron 4	 ;
+1204m  Marie-Anne_/_de_la_Roche
+16531m  Metro_Parc__(Ogilvy_/_Hutchison)
+2272m  Atwater_/_Sherbrooke
+OK
+OK
+OK
+MANQUE brugnon 1	 ;
+OK
+15177m  Place_Longueuil
+IMPOSSIBLE
+MANQUE boeuf 2	 ;
+MANQUE avocat 3	 ;
+OK
+OK
+COMPLET
+MANQUE salade 3	 ;
+7274m  Laurier_/_de_Bordeaux
+MANQUE pate 1	 ;
+OK
+OK
+5145m  Atwater_/_Sherbrooke
+1958m  Laurier_/_de_Bordeaux
+OK
+MANQUE veau 2	 ;
+MANQUE taro 3	 ;
+MANQUE concombre 3	 ;
+OK
+MANQUE gingembre 3	 ;
+OK
+OK
+3868m  St-Marc_/_Sherbrooke
+6049m  des_Erables_/_Rachel
+IMPOSSIBLE
+COMPLET
+MANQUE myrtille 4	 ;
+COMPLET
+MANQUE agneau 1	 ;
+1755m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE oeuf 4	 ;
+8407m  St-Marc_/_Sherbrooke
+OK
+894m  Place_Longueuil
+OK
+MANQUE coing 3	 ;
+OK
+8485m  Atwater_/_Sherbrooke
+OK
+MANQUE boeuf 3	 ;
+OK
+OK
+OK
+OK
+8630m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE oeuf 3	 ;
+OK
+OK
+OK
+COMPLET
+OK
+IMPOSSIBLE
+10845m  Hutchison_/_Beaubien
+OK
+MANQUE cynorrhodon 3	 ;
+COMPLET
+COMPLET
+11943m  Marie-Anne_/_de_la_Roche
+OK
+5467m  Ross_/_de_l'Eglise
+MANQUE courge 1	 ;
+OK
+1246m  Atwater_/_Sherbrooke
+OK
+3920m  St-Marc_/_Sherbrooke
+MANQUE myrtille 3	 ;
+OK
+OK
+OK
+MANQUE cheval 3	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE sel 3	 ;
+MANQUE soja 2	 ;
+MANQUE clémentine 4	 ;
+5644m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+COMPLET
+OK
+MANQUE châtaigne 1	 ;
+4856m  Atwater_/_Sherbrooke
+OK
+4167m  des_Erables_/_Rachel
+OK
+4621m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE oeuf 3	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+10455m  St-Marc_/_Sherbrooke
+COMPLET
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+4761m  Laurier_/_de_Bordeaux
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE épices 2	 ;
+COMPLET
+COMPLET
+MANQUE kaki 4	 ;
+5251m  St-Marc_/_Sherbrooke
+MANQUE clémentine 2	 ;
+MANQUE lime 1	 ;
+IMPOSSIBLE
+OK
+4378m  Metro_Parc__(Ogilvy_/_Hutchison)
+8532m  Atwater_/_Sherbrooke St-Marc_/_Sherbrooke
+MANQUE bigarade 1	 ;
+MANQUE groseille 3	 ;
+COMPLET
+COMPLET
+MANQUE poivre 2	 ;
+MANQUE truffe 3	 ;
+OK
+OK
+OK
+MANQUE oignon 2	 ;
+OK
+OK
+OK
+COMPLET
+7828m  St-Marc_/_Sherbrooke
+IMPOSSIBLE
+OK
+6987m  St-Marc_/_Sherbrooke
+7559m  Marie-Anne_/_de_la_Roche
+MANQUE haricot 2	 ;
+2081m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+COMPLET
+4517m  St-Marc_/_Sherbrooke
+OK
+MANQUE olive 1	 ;
+MANQUE pomme_de_terre 1	 ;
+MANQUE panais 2	 ;
+OK
+4656m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+8597m  Atwater_/_Sherbrooke
+OK
+MANQUE lime 3	 ;
+MANQUE betterave 2	 ;
+5220m  Marie-Anne_/_de_la_Roche
+MANQUE porc 3	 ;
+OK
+IMPOSSIBLE
+11101m  Place_Longueuil
+MANQUE clémentine 2	 ;
+COMPLET
+IMPOSSIBLE
+623m  Laurier_/_de_Bordeaux
+16402m  des_Erables_/_Rachel
+IMPOSSIBLE
+OK
+OK
+MANQUE truffe 4	 ;
+OK
+OK
+MANQUE citrouille 4	 ;
+OK
+OK
+OK
+COMPLET
+OK
+OK
+MANQUE melon 2	 ;
+6261m  St-Marc_/_Sherbrooke
+MANQUE fraise 3	 ;
+5756m  Laurier_/_de_Bordeaux
+OK
+OK
+1523m  Hutchison_/_Beaubien
+OK
+OK
+MANQUE asperge 1	 ;
+OK
+13990m  des_Erables_/_Rachel
+OK
+COMPLET
+2978m  Atwater_/_Sherbrooke
+MANQUE pomme 4	 ;
+MANQUE concombre 2	 ;
+COMPLET
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+COMPLET
+13805m  des_Erables_/_Rachel
+OK
+14809m  Laurier_/_de_Bordeaux
+16191m  Laurier_/_de_Bordeaux
+14563m  Place_Longueuil
+1886m  Hutchison_/_Beaubien
+OK
+MANQUE poivron 2	 ;
+IMPOSSIBLE
+OK
+MANQUE châtaigne 1	 ;
+7606m  Laurier_/_de_Bordeaux
+7087m  des_Erables_/_Rachel
+OK
+OK
+OK
+OK
+MANQUE pistache 4	 ;
+7109m  Ross_/_de_l'Eglise
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+COMPLET
+OK
+OK
+OK
+13308m  Ross_/_de_l'Eglise
+COMPLET
+OK
+OK
+IMPOSSIBLE
+COMPLET
+COMPLET
+MANQUE canneberge 1	 ;
+MANQUE bergamote 2	 ;
+IMPOSSIBLE
+MANQUE canneberge 3	 ;
+OK
+MANQUE courgette 2	 ;
+OK
+6241m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+OK
+MANQUE framboise 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE coing 1	 ;
+8275m  des_Erables_/_Rachel Laurier_/_de_Bordeaux
+869m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+MANQUE cornouiller_du_Canada 4	 ;
+IMPOSSIBLE
+7806m  Hutchison_/_Beaubien
+5764m  St-Marc_/_Sherbrooke
+6882m  St-Marc_/_Sherbrooke
+OK
+7144m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+6664m  Metro_Parc__(Ogilvy_/_Hutchison)
+COMPLET
+5353m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+OK
+IMPOSSIBLE
+MANQUE basilic 4	 ;
+OK
+OK
+COMPLET
+OK
+6679m  des_Erables_/_Rachel
+7390m  St-Marc_/_Sherbrooke
+IMPOSSIBLE
+OK
+5881m  des_Erables_/_Rachel
+MANQUE crème_glacée 1	 ;
+COMPLET
+OK
+MANQUE marron 1	 ;
+OK
+OK
+6140m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE chou 4	 ;
+MANQUE wapiti 1	 ;
+5452m  Ross_/_de_l'Eglise
+4231m  St-Marc_/_Sherbrooke
+MANQUE poire 3	 ;
+MANQUE pastèque 3	 ;
+OK
+OK
+OK
+OK
+COMPLET
+OK
+COMPLET
+MANQUE oignon 2	 ;
+OK
+10426m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+4718m  St-Marc_/_Sherbrooke
+13283m  Hutchison_/_Beaubien
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE grenade 4	 ;
+3840m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+OK
+12354m  Ross_/_de_l'Eglise
+MANQUE groseille 1	 ;
+1795m  Marie-Anne_/_de_la_Roche
+3792m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE veau 2	 ;
+OK
+OK
+OK
+OK
+OK
+MANQUE rhubarbe 2	 ;
+4181m  Hutchison_/_Beaubien
+OK
+MANQUE grenade 3	 ;
+1966m  des_Erables_/_Rachel
+MANQUE canneberge 4	 ;
+OK
+4125m  des_Erables_/_Rachel
+10084m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE ciboulette 3	 ;
+OK
+OK
+6899m  Place_Longueuil
+IMPOSSIBLE
+MANQUE échalote 3	 ;
+OK
+MANQUE bigarade 3	 ;
+MANQUE taro 1	 ;
+OK
+MANQUE orange 1	 ;
+3481m  St-Marc_/_Sherbrooke
+11579m  Laurier_/_de_Bordeaux
+8903m  des_Erables_/_Rachel
+IMPOSSIBLE
+OK
+OK
+MANQUE taro 1	 ;
+MANQUE yogourt 4	 ;
+MANQUE yogourt 4	 ;
+10138m  Ross_/_de_l'Eglise
+OK
+OK
+2651m  Hutchison_/_Beaubien
+OK
+MANQUE fève 1	 ;
+7559m  Atwater_/_Sherbrooke
+OK
+16884m  Metro_Parc__(Ogilvy_/_Hutchison)
+8550m  Ross_/_de_l'Eglise
+OK
+5796m  St-Marc_/_Sherbrooke
+MANQUE wapiti 1	 ;
+OK
+OK
+COMPLET
+1711m  Atwater_/_Sherbrooke
+4572m  St-Marc_/_Sherbrooke
+OK
+OK
+OK
+OK
+1091m  Atwater_/_Sherbrooke
+OK
+10105m  Ross_/_de_l'Eglise
+MANQUE courge 4	 ;
+COMPLET
+MANQUE abricot 3	 ;
+MANQUE kaki 1	 ;
+IMPOSSIBLE
+8719m  Hutchison_/_Beaubien
+9500m  Ross_/_de_l'Eglise
+7180m  Atwater_/_Sherbrooke
+5263m  Atwater_/_Sherbrooke
+COMPLET
+11682m  St-Marc_/_Sherbrooke
+OK
+8061m  Laurier_/_de_Bordeaux
+MANQUE poivre 2	 ;
+12986m  Laurier_/_de_Bordeaux Marie-Anne_/_de_la_Roche St-Marc_/_Sherbrooke
+MANQUE pomme 4	 ;
+17736m  Hutchison_/_Beaubien des_Erables_/_Rachel
+11891m  Place_Longueuil
+MANQUE laitue 3	 ;
+5519m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) St-Marc_/_Sherbrooke
+OK
+OK
+OK
+OK
+OK
+OK
+6519m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+COMPLET
+2819m  St-Marc_/_Sherbrooke
+MANQUE poivron 1	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE pistache 4	 ;
+OK
+12286m  Ross_/_de_l'Eglise
+MANQUE poivron 4	 ;
+OK
+OK
+8636m  des_Erables_/_Rachel
+7841m  des_Erables_/_Rachel
+OK
+3686m  des_Erables_/_Rachel
+IMPOSSIBLE
+OK
+MANQUE cornouiller_du_Canada 3	 ;
+OK
+OK
+OK
+OK
+MANQUE kiwi 3	 ;
+MANQUE olive 3	 ;
+MANQUE coing 2	 ;
+MANQUE crème_glacée 2	 ;
+OK
+MANQUE agneau 1	 ;
+IMPOSSIBLE
+6681m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+11883m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) Marie-Anne_/_de_la_Roche Laurier_/_de_Bordeaux
+MANQUE fraise 2	 ;
+OK
+COMPLET
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE oignon 3	 ;
+OK
+OK
+MANQUE groseille 2	 ;
+IMPOSSIBLE
+7358m  Laurier_/_de_Bordeaux
+OK
+COMPLET
+MANQUE salicorne 3	 ;
+OK
+COMPLET
+COMPLET
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+COMPLET
+COMPLET
+MANQUE porc 1	 ;
+COMPLET
+4388m  Atwater_/_Sherbrooke
+MANQUE cassis 1	 ;
+OK
+OK
+OK
+11273m  Atwater_/_Sherbrooke
+MANQUE jujube 1	 ;
+OK
+OK
+MANQUE crème_glacée 3	 ;
+MANQUE lait 3	 ;
+OK
+4885m  Atwater_/_Sherbrooke
+MANQUE poivron 3	 ;
+4757m  Hutchison_/_Beaubien
+MANQUE poire 1	 ;
+COMPLET
+10167m  Laurier_/_de_Bordeaux
+OK
+OK
+OK
+8271m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+10780m  Hutchison_/_Beaubien
+MANQUE céleri 2	 ;
+IMPOSSIBLE
+MANQUE noisette 2	 ;
+MANQUE pain 3	 ;
+13177m  Ross_/_de_l'Eglise
+IMPOSSIBLE
+9278m  Ross_/_de_l'Eglise
+MANQUE concombre 4	 ;
+MANQUE fève 1	 ;
+OK
+15312m  Hutchison_/_Beaubien
+COMPLET
+MANQUE châtaigne 1	 ;
+MANQUE kaki 3	 ;
+OK
+MANQUE datte 3	 ;
+OK
+MANQUE citrouille 1	 ;
+11834m  des_Erables_/_Rachel
+OK
+MANQUE chèvre 4	 ;
+OK
+IMPOSSIBLE
+COMPLET
+OK
+17453m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+15551m  Metro_Parc__(Ogilvy_/_Hutchison)
+17916m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+MANQUE échalote 4	 ;
+OK
+OK
+OK
+5909m  Atwater_/_Sherbrooke
+MANQUE radis_noir 2	 ;
+OK
+OK
+MANQUE sucre 1	 ;
+COMPLET
+MANQUE pomme 1	 ;
+OK
+11514m  Atwater_/_Sherbrooke
+MANQUE carotte 2	 ;
+IMPOSSIBLE
+MANQUE pistache 2	 ;
+COMPLET
+MANQUE épices 4	 ;
+MANQUE pastèque 1	 ;
+OK
+MANQUE poireau 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE taro 1	 ;
+MANQUE bergamote 3	 ;
+OK
+MANQUE wapiti 2	 ;
+COMPLET
+OK
+10028m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+8953m  Atwater_/_Sherbrooke
+13940m  Ross_/_de_l'Eglise
+MANQUE kiwi 4	 ;
+MANQUE navet 4	 ;
+OK
+OK
+MANQUE betterave 1	 ;
+MANQUE mandarine 3	 ;
+IMPOSSIBLE
+MANQUE courge 2	 ;
+MANQUE maceron 1	 ;
+6338m  Place_Longueuil
+IMPOSSIBLE
+IMPOSSIBLE
+7284m  St-Marc_/_Sherbrooke
+OK
+OK
+OK
+8869m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE boeuf 4	 ;
+IMPOSSIBLE
+MANQUE citron 4	 ;
+COMPLET
+2139m  Marie-Anne_/_de_la_Roche
+9484m  Atwater_/_Sherbrooke Ross_/_de_l'Eglise
+OK
+OK
+OK
+OK
+9462m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+IMPOSSIBLE
+MANQUE abricot 2	 ;
+IMPOSSIBLE
+OK
+MANQUE myrtille 3	 ;
+1586m  Metro_Parc__(Ogilvy_/_Hutchison)
+IMPOSSIBLE
+IMPOSSIBLE
+16896m  des_Erables_/_Rachel
+IMPOSSIBLE
+OK
+OK
+OK
+COMPLET
+OK
+OK
+OK
+4496m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+COMPLET
+IMPOSSIBLE
+13956m  Laurier_/_de_Bordeaux des_Erables_/_Rachel
+COMPLET
+OK
+16623m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE échalote 1	 ;
+OK
+COMPLET
+MANQUE pomme 1	 ;
+IMPOSSIBLE
+OK
+9781m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+OK
+5513m  Marie-Anne_/_de_la_Roche
+COMPLET
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE huile 3	 ;
+OK
+6332m  Atwater_/_Sherbrooke
+OK
+3585m  Place_Longueuil
+IMPOSSIBLE
+4503m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+OK
+OK
+12356m  Atwater_/_Sherbrooke
+MANQUE pois 2	 ;
+OK
+OK
+COMPLET
+MANQUE basilic 4	 ;
+MANQUE noisette 1	 ;
+6675m  Place_Longueuil
+OK
+3481m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+12738m  Place_Longueuil
+MANQUE crème 1	 ;
+IMPOSSIBLE
+OK
+MANQUE bison 3	 ;
+OK
+OK
+COMPLET
+5245m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+5744m  Atwater_/_Sherbrooke
+OK
+COMPLET
+OK
+OK
+COMPLET
+MANQUE poivre 2	 ;
+OK
+COMPLET
+OK
+MANQUE radis 1	 ;
+OK
+OK
+MANQUE chou-fleur 3	 ;
+OK
+1563m  Marie-Anne_/_de_la_Roche
+COMPLET
+MANQUE radis 2	 ;
+COMPLET
+10041m  Atwater_/_Sherbrooke
+MANQUE taro 4	 ;
+MANQUE clémentine 1	 ;
+9607m  Laurier_/_de_Bordeaux
+MANQUE framboise 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE arbouse 3	 ;
+IMPOSSIBLE
+OK
+MANQUE bison 1	 ;
+OK
+MANQUE framboise 4	 ;
+OK
+5352m  Atwater_/_Sherbrooke
+1156m  St-Marc_/_Sherbrooke
+MANQUE kiwi 1	 ;
+MANQUE asperge 3	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+1526m  Hutchison_/_Beaubien
+COMPLET
+OK
+4848m  Metro_Parc__(Ogilvy_/_Hutchison)
+4080m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE nèfle 1	 ;
+MANQUE mûre 3	 ;
+OK
+OK
+11342m  Hutchison_/_Beaubien
+MANQUE pain 1	 ;
+COMPLET
+MANQUE kiwi 1	 ;
+IMPOSSIBLE
+OK
+MANQUE antilope 4	 ;
+OK
+OK
+MANQUE pois 3	 ;
+MANQUE figue 3	 ;
+COMPLET
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE coing 4	 ;
+OK
+OK
+OK
+OK
+OK
+5036m  Marie-Anne_/_de_la_Roche
+MANQUE fraise 2	 ;
+OK
+MANQUE bergamote 4	 ;
+COMPLET
+IMPOSSIBLE
+OK
+13496m  Laurier_/_de_Bordeaux
+IMPOSSIBLE
+MANQUE radis_noir 2	 ;
+COMPLET
+COMPLET
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE pomme 1	 ;
+MANQUE amande 1	 ;
+MANQUE ciboulette 2	 ;
+OK
+OK
+MANQUE bigarade 1	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+6866m  Atwater_/_Sherbrooke
+MANQUE sel 3	 ;
+COMPLET
+IMPOSSIBLE
+MANQUE taro 3	 ;
+10280m  Atwater_/_Sherbrooke
+COMPLET
+OK
+13734m  Hutchison_/_Beaubien
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE panais 4	 ;
+11460m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE lait 4	 ;
+OK
+OK
+15258m  Place_Longueuil
+MANQUE kaki 4	 ;
+14659m  Laurier_/_de_Bordeaux
+IMPOSSIBLE
+MANQUE noisette 2	 ;
+10149m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE soja 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cassis 3	 ;
+OK
+OK
+MANQUE courgette 3	 ;
+IMPOSSIBLE
+MANQUE figue 3	 ;
+COMPLET
+COMPLET
+9258m  St-Marc_/_Sherbrooke
+12150m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+OK
+OK
+OK
+MANQUE pistache 2	 ;
+MANQUE coing 3	 ;
+OK
+IMPOSSIBLE
+MANQUE sel 1	 ;
+IMPOSSIBLE
+5017m  Marie-Anne_/_de_la_Roche
+MANQUE laitue 2	 ;
+OK
+MANQUE radis_noir 1	 ;
+MANQUE coing 1	 ;
+OK
+MANQUE ail 1	 ;
+MANQUE betterave 3	 ;
+OK
+MANQUE pistache 4	 ;
+OK
+MANQUE romaine 4	 ;
+MANQUE brocoli 3	 ;
+MANQUE olive 2	 ;
+8691m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE fraise 3	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+9847m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+9793m  Marie-Anne_/_de_la_Roche Hutchison_/_Beaubien
+OK
+9609m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE sucre 3	 ;
+MANQUE quetsche 3	 ;
+OK
+OK
+4873m  Metro_Parc__(Ogilvy_/_Hutchison)
+IMPOSSIBLE
+8362m  Hutchison_/_Beaubien
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE salicorne 1	 ;
+5844m  St-Marc_/_Sherbrooke
+5341m  Marie-Anne_/_de_la_Roche
+IMPOSSIBLE
+3394m  Atwater_/_Sherbrooke
+MANQUE fève 3	 ;
+MANQUE marron 4	 ;
+IMPOSSIBLE
+MANQUE radis 1	 ;
+MANQUE brugnon 2	 ;
+COMPLET
+5827m  Hutchison_/_Beaubien
+MANQUE soja 4	 ;
+MANQUE antilope 4	 ;
+MANQUE brugnon 3	 ;
+OK
+IMPOSSIBLE
+OK
+6862m  Laurier_/_de_Bordeaux
+MANQUE kiwi 2	 ;
+MANQUE ananas 1	 ;
+MANQUE amande 3	 ;
+16663m  Place_Longueuil
+IMPOSSIBLE
+OK
+8849m  St-Marc_/_Sherbrooke
+MANQUE concombre 3	 ;
+MANQUE beurre 2	 ;
+7283m  Hutchison_/_Beaubien
+IMPOSSIBLE
+OK
+MANQUE laitue 2	 ;
+3990m  Laurier_/_de_Bordeaux
+OK
+MANQUE crème 3	 ;
+16637m  Metro_Parc__(Ogilvy_/_Hutchison) Marie-Anne_/_de_la_Roche
+7123m  St-Marc_/_Sherbrooke
+IMPOSSIBLE
+COMPLET
+2953m  Atwater_/_Sherbrooke
+COMPLET
+5907m  Atwater_/_Sherbrooke
+12422m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) Place_Longueuil
+OK
+MANQUE lapin 2	 ;
+MANQUE pomme 1	 ;
+4329m  Place_Longueuil
+OK
+IMPOSSIBLE
+MANQUE pomme 3	 ;
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+MANQUE olive 1	 ;
+OK
+10940m  Ross_/_de_l'Eglise
+IMPOSSIBLE
+MANQUE ananas 1	 ;
+OK
+MANQUE melon 2	 ;
+OK
+MANQUE grenade 3	 ;
+IMPOSSIBLE
+COMPLET
+MANQUE orange 4	 ;
+OK
+OK
+OK
+1066m  Place_Longueuil
+2907m  Atwater_/_Sherbrooke
+6890m  Ross_/_de_l'Eglise
+IMPOSSIBLE
+5259m  Metro_Parc__(Ogilvy_/_Hutchison)
+IMPOSSIBLE
+COMPLET
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE crème 1	 ;
+OK
+MANQUE mûre 4	 ;
+8968m  St-Marc_/_Sherbrooke
+MANQUE abricot 4	 ;
+MANQUE poireau 2	 ;
+OK
+COMPLET
+OK
+OK
+14124m  Hutchison_/_Beaubien
+MANQUE melon 4	 ;
+9445m  Hutchison_/_Beaubien
+MANQUE bigarade 2	 ;
+OK
+9688m  Hutchison_/_Beaubien Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+MANQUE noix 1	 ;
+OK
+OK
+OK
+OK
+14410m  Hutchison_/_Beaubien
+OK
+MANQUE pamplemousse 1	 ;
+4168m  St-Marc_/_Sherbrooke
+IMPOSSIBLE
+MANQUE oignon 2	 ;
+MANQUE aubergine 2	 ;
+MANQUE aubergine 2	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+COMPLET
+OK
+OK
+OK
+11236m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE betterave 2	 ;
+3524m  des_Erables_/_Rachel
+6538m  des_Erables_/_Rachel
+2424m  Place_Longueuil
+OK
+IMPOSSIBLE
+OK
+MANQUE pistache 1	 ;
+OK
+COMPLET
+OK
+MANQUE poivre 2	 ;
+MANQUE huile 1	 ;
+14454m  Metro_Parc__(Ogilvy_/_Hutchison)
+14297m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+MANQUE carotte 3	 ;
+COMPLET
+MANQUE brugnon 2	 ;
+OK
+OK
+COMPLET
+4604m  St-Marc_/_Sherbrooke
+COMPLET
+OK
+COMPLET
+4788m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+6528m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+17219m  Hutchison_/_Beaubien
+OK
+OK
+OK
+2009m  Hutchison_/_Beaubien
+MANQUE sel 1	 ;
+3006m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE bison 1	 ;
+COMPLET
+MANQUE quinoa 2	 ;
+8526m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+COMPLET
+OK
+COMPLET
+6414m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+2579m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE rhubarbe 3	 ;
+IMPOSSIBLE
+MANQUE taro 2	 ;
+OK
+OK
+COMPLET
+8264m  Ross_/_de_l'Eglise
+OK
+OK
+OK
+COMPLET
+IMPOSSIBLE
+MANQUE bison 3	 ;
+5995m  Ross_/_de_l'Eglise
+MANQUE brugnon 2	 ;
+14083m  Ross_/_de_l'Eglise
+OK
+MANQUE marron 3	 ;
+MANQUE melon 2	 ;
+OK
+MANQUE mûre 1	 ;
+7572m  St-Marc_/_Sherbrooke
+OK
+7834m  Place_Longueuil
+COMPLET
+OK
+OK
+9226m  Hutchison_/_Beaubien
+15422m  Hutchison_/_Beaubien
+8640m  St-Marc_/_Sherbrooke
+MANQUE bergamote 2	 ;
+MANQUE épices 1	 ;
+10992m  Ross_/_de_l'Eglise
+MANQUE antilope 3	 ;
+16743m  Ross_/_de_l'Eglise
+OK
+MANQUE bigarade 1	 ;
+OK
+OK
+IMPOSSIBLE
+10471m  Marie-Anne_/_de_la_Roche
+MANQUE nèfle 3	 ;
+OK
+OK
+MANQUE betterave 1	 ;
+MANQUE amande 2	 ;
+OK
+OK
+OK
+OK
+5414m  Hutchison_/_Beaubien
+OK
+OK
+5755m  Laurier_/_de_Bordeaux
+COMPLET
+IMPOSSIBLE
+15817m  Laurier_/_de_Bordeaux
+2335m  Place_Longueuil
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+MANQUE mûre 1	 ;
+OK
+IMPOSSIBLE
+OK
+10549m  Hutchison_/_Beaubien
+OK
+IMPOSSIBLE
+1772m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+2308m  Marie-Anne_/_de_la_Roche
+OK
+15327m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE banane 4	 ;
+IMPOSSIBLE
+12040m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE kiwi 4	 ;
+OK
+IMPOSSIBLE
+MANQUE pêche 1	 ;
+OK
+4146m  Hutchison_/_Beaubien
+MANQUE melon 2	 ;
+COMPLET
+OK
+OK
+OK
+OK
+OK
+MANQUE melon 3	 ;
+OK
+IMPOSSIBLE
+4908m  Marie-Anne_/_de_la_Roche
+MANQUE raisin 1	 ;
+MANQUE quetsche 3	 ;
+MANQUE carotte 4	 ;
+COMPLET
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+COMPLET
+6782m  Atwater_/_Sherbrooke
+OK
+13745m  Ross_/_de_l'Eglise
+COMPLET
+8250m  St-Marc_/_Sherbrooke
+MANQUE rhubarbe 3	 ;
+4132m  Place_Longueuil
+9766m  St-Marc_/_Sherbrooke
+IMPOSSIBLE
+OK
+MANQUE olive 2	 ;
+MANQUE jujube 1	 ;
+MANQUE pain 2	 ;
+OK
+OK
+MANQUE porc 3	 ;
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+4141m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+COMPLET
+715m  des_Erables_/_Rachel
+MANQUE haricot 1	 ;
+COMPLET
+3753m  Marie-Anne_/_de_la_Roche
+MANQUE radis_noir 1	 ;
+MANQUE poire 4	 ;
+OK
+MANQUE bergamote 1	 ;
+OK
+MANQUE amande 4	 ;
+OK
+MANQUE beurre 2	 ;
+OK
+OK
+OK
+MANQUE olive 1	 ;
+12960m  Atwater_/_Sherbrooke Ross_/_de_l'Eglise
+OK
+OK
+MANQUE salade 2	 ;
+COMPLET
+OK
+IMPOSSIBLE
+15837m  Marie-Anne_/_de_la_Roche Place_Longueuil
+IMPOSSIBLE
+COMPLET
+COMPLET
+OK
+OK
+COMPLET
+OK
+OK
+OK
+MANQUE oignon 4	 ;
+OK
+OK
+MANQUE banane 2	 ;
+OK
+COMPLET
+12962m  Hutchison_/_Beaubien Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+MANQUE épices 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE soja 4	 ;
+OK
+OK
+MANQUE laitue 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+COMPLET
+MANQUE mûre 4	 ;
+MANQUE avocat 2	 ;
+OK
+OK
+OK
+OK
+MANQUE poireau 2	 ;
+MANQUE salicorne 2	 ;
+OK
+OK
+MANQUE gingembre 2	 ;
+OK
+COMPLET
+5527m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE antilope 2	 ;
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+12589m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE oignon 3	 ;
+8739m  Ross_/_de_l'Eglise
+MANQUE pomme_de_terre 4	 ;
+MANQUE canneberge 1	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE pistache 3	 ;
+MANQUE rhubarbe 3	 ;
+OK
+MANQUE porc 3	 ;
+MANQUE marron 3	 ;
+OK
+2429m  Marie-Anne_/_de_la_Roche
+OK
+OK
+MANQUE mandarine 1	 ;
+3560m  Laurier_/_de_Bordeaux
+11661m  Metro_Parc__(Ogilvy_/_Hutchison)
+5582m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE ciboulette 3	 ;
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+COMPLET
+8767m  Marie-Anne_/_de_la_Roche
+OK
+11364m  Ross_/_de_l'Eglise
+OK
+OK
+COMPLET
+MANQUE échalote 3	 ;
+COMPLET
+MANQUE poireau 2	 ;
+8238m  St-Marc_/_Sherbrooke
+MANQUE grenade 4	 ;
+COMPLET
+9303m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE pain 1	 ;
+COMPLET
+MANQUE marron 1	 ;
+14268m  des_Erables_/_Rachel
+9960m  St-Marc_/_Sherbrooke
+8073m  Place_Longueuil
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+MANQUE pomme 2	 ;
+13870m  Laurier_/_de_Bordeaux
+MANQUE banane 4	 ;
+13025m  Place_Longueuil
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE fromage 1	 ;
+OK
+OK
+9077m  Marie-Anne_/_de_la_Roche
+MANQUE beurre 4	 ;
+3299m  St-Marc_/_Sherbrooke
+6262m  St-Marc_/_Sherbrooke
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+MANQUE coing 4	 ;
+5799m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE basilic 1	 ;
+12162m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+IMPOSSIBLE
+MANQUE poireau 2	 ;
+MANQUE kiwi 4	 ;
+OK
+MANQUE amande 4	 ;
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 2	 ;
+MANQUE beurre 2	 ;
+8603m  Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE orange 1	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+MANQUE cornouiller_du_Canada 2	 ;
+MANQUE lime 3	 ;
+MANQUE orange 3	 ;
+MANQUE ciboulette 2	 ;
+COMPLET
+OK
+2211m  St-Marc_/_Sherbrooke
+MANQUE maceron 1	 ;
+OK
+MANQUE pistache 1	 ;
+OK
+OK
+10036m  Metro_Parc__(Ogilvy_/_Hutchison)
+COMPLET
+IMPOSSIBLE
+MANQUE pain 2	 ;
+IMPOSSIBLE
+OK
+5931m  Atwater_/_Sherbrooke
+OK
+IMPOSSIBLE
+OK
+COMPLET
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+3658m  Atwater_/_Sherbrooke
+IMPOSSIBLE
+MANQUE oeuf 2	 ;
+OK
+MANQUE fraise 4	 ;
+7655m  Atwater_/_Sherbrooke
+OK
+IMPOSSIBLE
+OK
+19484m  Marie-Anne_/_de_la_Roche Ross_/_de_l'Eglise
+10010m  St-Marc_/_Sherbrooke
+MANQUE raisin 3	 ;
+6836m  St-Marc_/_Sherbrooke
+9640m  Ross_/_de_l'Eglise
+OK
+OK
+MANQUE échalote 1	 ;
+OK
+OK
+OK
+MANQUE fève 1	 ;
+OK
+12087m  Atwater_/_Sherbrooke
+4227m  Atwater_/_Sherbrooke
+COMPLET
+OK
+OK
+OK
+2610m  des_Erables_/_Rachel
+8764m  Atwater_/_Sherbrooke Hutchison_/_Beaubien
+MANQUE coing 2	 ;
+OK
+MANQUE pêche 3	 ;
+IMPOSSIBLE
+COMPLET
+OK
+OK
+OK
+COMPLET
+7884m  Marie-Anne_/_de_la_Roche
+COMPLET
+IMPOSSIBLE
+IMPOSSIBLE
+7030m  Metro_Parc__(Ogilvy_/_Hutchison)
+COMPLET
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+12349m  Hutchison_/_Beaubien
+MANQUE carotte 2	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE betterave 2	 ;
+OK
+COMPLET
+OK
+9211m  Marie-Anne_/_de_la_Roche
+OK
+MANQUE soja 3	 ;
+COMPLET
+OK
+3868m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+IMPOSSIBLE
+OK
+14784m  Metro_Parc__(Ogilvy_/_Hutchison)
+IMPOSSIBLE
+9358m  St-Marc_/_Sherbrooke
+MANQUE avocat 3	 ;
+7414m  des_Erables_/_Rachel
+MANQUE mûre 3	 ;
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+2344m  Marie-Anne_/_de_la_Roche
+5857m  Atwater_/_Sherbrooke
+OK
+MANQUE noisette 2	 ;
+MANQUE avocat 1	 ;
+OK
+MANQUE crème 4	 ;
+OK
+9032m  St-Marc_/_Sherbrooke
+OK
+OK
+COMPLET
+MANQUE courgette 3	 ;
+OK
+MANQUE maceron 1	 ;
+COMPLET
+OK
+OK
+OK
+OK
+OK
+MANQUE bergamote 2	 ;
+COMPLET
+MANQUE ananas 2	 ;
+COMPLET
+MANQUE taro 4	 ;
+OK
+COMPLET
+MANQUE soja 3	 ;
+OK
+9619m  Place_Longueuil
+OK
+6865m  Marie-Anne_/_de_la_Roche
+IMPOSSIBLE
+OK
+OK
+MANQUE abricot 4	 ;
+MANQUE pêche 4	 ;
+OK
+MANQUE panais 4	 ;
+8890m  Laurier_/_de_Bordeaux Metro_Parc__(Ogilvy_/_Hutchison)
+OK
+OK
+3247m  St-Marc_/_Sherbrooke
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE cornouiller_du_Canada 4	 ;
+MANQUE lait 2	 ;
+OK
+OK
+OK
+11087m  Ross_/_de_l'Eglise
+MANQUE lime 2	 ;
+MANQUE avocat 1	 ;
+COMPLET
+MANQUE truffe 1	 ;
+COMPLET
+COMPLET
+10668m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle) St-Marc_/_Sherbrooke
+14968m  Laurier_/_de_Bordeaux St-Marc_/_Sherbrooke
+MANQUE bigarade 1	 ;
+MANQUE lapin 2	 ;
+OK
+MANQUE autruche 2	 ;
+5977m  Atwater_/_Sherbrooke
+3346m  Metro_Parc__(Ogilvy_/_Hutchison)
+6033m  des_Erables_/_Rachel
+14935m  des_Erables_/_Rachel
+IMPOSSIBLE
+MANQUE clémentine 1	 ;
+MANQUE rhubarbe 2	 ;
+MANQUE bison 4	 ;
+OK
+17243m  Metro_Parc__(Ogilvy_/_Hutchison)
+3947m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+COMPLET
+OK
+MANQUE lait 1	 ;
+6783m  Marie-Anne_/_de_la_Roche
+MANQUE oeuf 1	 ;
+OK
+OK
+COMPLET
+10318m  Marie-Anne_/_de_la_Roche
+COMPLET
+IMPOSSIBLE
+MANQUE melon 1	 ;
+9152m  Marie-Anne_/_de_la_Roche
+6269m  Atwater_/_Sherbrooke
+MANQUE chou 3	 ;
+IMPOSSIBLE
+MANQUE melon 2	 ;
+COMPLET
+IMPOSSIBLE
+MANQUE jujube 1	 ;
+IMPOSSIBLE
+12017m  Metro_Parc__(Ogilvy_/_Hutchison)
+MANQUE beurre 1	 ;
+MANQUE chèvre 2	 ;
+MANQUE amande 1	 ;
+13339m  Place_Longueuil
+MANQUE melon 2	 ;
+MANQUE beurre 3	 ;
+MANQUE myrtille 3	 ;
+MANQUE pate 2	 ;
+MANQUE cynorrhodon 1	 ;
+9637m  St-Marc_/_Sherbrooke
+COMPLET
+4182m  St-Marc_/_Sherbrooke
+17659m  Place_Longueuil Ross_/_de_l'Eglise
+6007m  Place_Longueuil
+11043m  Marie-Anne_/_de_la_Roche
+5972m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+12459m  Metro_Parc__(Ogilvy_/_Hutchison)
+IMPOSSIBLE
+MANQUE oignon 1	 ;
+MANQUE oeuf 2	 ;
+MANQUE agneau 1	 ;
+11278m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE panais 4	 ;
+MANQUE châtaigne 2	 ;
+14605m  Place_Longueuil
+14563m  Atwater_/_Sherbrooke des_Erables_/_Rachel
+11771m  Hutchison_/_Beaubien
+4841m  Atwater_/_Sherbrooke
+MANQUE radis_noir 1	 ;
+COMPLET
+MANQUE poireau 2	 ;
+MANQUE truffe 1	 ;
+645m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+6431m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE beurre 3	 ;
+14154m  des_Erables_/_Rachel
+MANQUE canneberge 3	 ;
+MANQUE rhubarbe 1	 ;
+IMPOSSIBLE
+MANQUE yogourt 4	 ;
+5667m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE bigarade 3	 ;

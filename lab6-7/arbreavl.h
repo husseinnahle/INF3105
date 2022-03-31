@@ -18,7 +18,8 @@ class ArbreAVL
     void vider();
     int hauteur() const;
     ArbreAVL& operator = (const ArbreAVL&);
-
+    void enlever(const T& element);
+    
     // Fonctions pour certains tests ou diagnostique
     int taille() const;
     void afficher() const;
@@ -53,7 +54,9 @@ class ArbreAVL
     int compter(const Noeud*) const;
     void preparerafficher(const Noeud* n, int profondeur, int& rang, T* elements, int* profondeurs) const;
     int maximum(const int&, const int&) const;
-
+    const T& maxNoeud(Noeud*) const;
+    bool enlever(Noeud*&, const T&);
+  
   public:
     class Iterateur
     {
@@ -295,6 +298,94 @@ ArbreAVL<T>& ArbreAVL<T>::operator=(const ArbreAVL& autre)
   vider();
   copier(autre.racine, racine);
   return *this;
+}
+
+// ------ Optionnel Lab 6 -----
+template <class T>
+const T& ArbreAVL<T>::maxNoeud(Noeud* n) const
+{
+    Noeud* courant = n;
+    while (courant->gauche != nullptr) {
+        courant = courant->gauche;
+    }
+    return courant->contenu;
+}
+
+template <class T>
+void ArbreAVL<T>::enlever(const T& element)
+{
+  enlever(racine, element);
+}
+
+template <class T>
+bool ArbreAVL<T>::enlever(Noeud*& noeud, const T& element)
+{
+  if (!contient(element))
+  {
+    return false;
+  }
+  if(element < noeud->contenu)
+  {
+    if(enlever(noeud->gauche, element))
+    {
+      noeud->equilibre = hauteur(noeud->gauche) - hauteur(noeud->droite);
+      if(noeud->equilibre == 0)
+        return true;
+      if(noeud->equilibre == -1)
+        return true;
+      //assert(noeud->equilibre == -2);
+      if(noeud->droite->equilibre == 2)
+        rotationGaucheDroite(noeud->droite);
+      rotationDroiteGauche(noeud);
+    }
+    return false;
+  }
+  else if(element > noeud->contenu)
+  {
+    if(enlever(noeud->droite, element))
+    {   
+      noeud->equilibre = hauteur(noeud->gauche) - hauteur(noeud->droite);
+      if(noeud->equilibre == 0) {
+        return true;
+      }
+      if(noeud->equilibre == 1) {
+        return true;
+      }
+      //assert(noeud->equilibre == 2);
+      if(noeud->gauche->equilibre == -2)
+        rotationDroiteGauche(noeud->gauche);
+      rotationGaucheDroite(noeud);
+    }
+    return false;
+  }
+  else if(element == noeud->contenu)
+  {
+    if (noeud->gauche==nullptr && noeud->droite==nullptr)
+    {
+      delete noeud;
+      noeud = nullptr;
+      return true;
+    }
+    else
+    {
+      if (noeud->gauche==nullptr||noeud->droite==nullptr) {
+        if (noeud->gauche == nullptr) { 
+          Noeud* temp = noeud->droite;
+          delete noeud;
+          noeud = temp;
+        } else { 
+          Noeud* temp = noeud->gauche;
+          delete noeud;
+          noeud = temp;
+        }
+      } else {
+        noeud->contenu = maxNoeud(noeud->gauche);
+        return enlever(noeud->gauche, noeud->contenu);
+      }
+      return true;
+    }
+  }
+  return false;
 }
 
 // Code fourni pour afficher l'arbre :

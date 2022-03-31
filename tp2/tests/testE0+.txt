@@ -1,0 +1,402 @@
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE prune 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE crème 1	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE sucre 2	 ;
+OK
+OK
+MANQUE abricot 2	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE haricot 1	 ;
+MANQUE cassis 1	 ;
+MANQUE clémentine 1	 ;
+MANQUE noisette 2	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE cynorrhodon 2	 ;
+OK
+OK
+OK
+OK
+MANQUE boeuf 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pain 1	 ;
+MANQUE banane 3	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+3180m  Henri-Julien_/_Villeray
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pain 3	 ;
+OK
+OK
+MANQUE concombre 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE mirabelle 4	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE aubergine 4	 ;
+MANQUE beurre 1	 ;
+OK
+OK
+OK
+OK
+MANQUE truffe 4	 ;
+OK
+OK
+OK
+OK
+MANQUE quetsche 2	 ;
+MANQUE citrouille 3	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE cassis 2	 ;
+MANQUE noisette 1	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE oignon 2	 ;
+COMPLET
+MANQUE rhubarbe 1	 ;
+MANQUE poire 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE poivre 3	 ;
+MANQUE framboise 4	 ;
+OK
+OK
+MANQUE fromage 1	 ;
+MANQUE noix 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE rhubarbe 2	 ;
+MANQUE banane 4	 ;
+MANQUE lime 1	 ;
+MANQUE poivron 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE huile 3	 ;
+OK
+OK
+OK
+OK
+MANQUE échalote 4	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE prune 1	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE kiwi 2	 ;
+MANQUE amande 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE pois 2	 ;
+COMPLET
+OK
+OK
+OK
+OK
+MANQUE asperge 1	 ;
+COMPLET
+MANQUE bison 3	 ;
+OK
+OK
+MANQUE truffe 1	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE ciboulette 3	 ;
+MANQUE banane 4	 ;
+COMPLET
+OK
+OK
+MANQUE laitue 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE nèfle 2	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE grenade 3	 ;
+MANQUE citrouille 1	 ;
+MANQUE poivre 4	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE framboise 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+MANQUE poire 2	 ;
+IMPOSSIBLE
+MANQUE pamplemousse 2	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+MANQUE noisette 4	 ;
+MANQUE oeuf 4	 ;
+IMPOSSIBLE
+MANQUE datte 3	 ;
+MANQUE plaquebière 2	 ;
+OK
+OK
+OK
+OK
+MANQUE ail 4	 ;
+IMPOSSIBLE
+MANQUE carotte 1	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE pêche 4	 ;
+MANQUE lapin 1	 ;
+IMPOSSIBLE
+9257m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+MANQUE nèfle 4	 ;
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE citrouille 4	 ;
+COMPLET
+MANQUE cornouiller_du_Canada 1	 ;
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+MANQUE citrouille 4	 ;
+OK
+OK
+MANQUE sucre 2	 ;
+MANQUE quetsche 3	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE gingembre 1	 ;
+MANQUE citrouille 2	 ;
+OK
+OK
+IMPOSSIBLE
+MANQUE panais 2	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE chou-fleur 3	 ;
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+IMPOSSIBLE
+COMPLET
+IMPOSSIBLE
+MANQUE fromage 3	 ;
+OK
+OK
+MANQUE wapiti 3	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+3336m  Henri-Julien_/_Villeray
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE lime 4	 ;
+OK
+OK
+OK
+OK
+MANQUE melon 1	 ;
+MANQUE basilic 4	 ;
+OK
+OK
+OK
+OK
+OK
+OK
+9658m  Henri-Julien_/_Villeray
+IMPOSSIBLE
+OK
+OK
+MANQUE figue 1	 ;
+MANQUE gingembre 3	 ;
+IMPOSSIBLE
+MANQUE kiwi 4	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE jujube 3	 ;
+MANQUE poivre 2	 ;
+IMPOSSIBLE
+MANQUE pomme_de_terre 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+MANQUE soja 3	 ;
+OK
+OK
+11943m  Henri-Julien_/_Villeray
+MANQUE figue 4	 ;
+MANQUE bergamote 1	 ;
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+MANQUE noix 4	 ;
+OK
+OK
+MANQUE wapiti 1	 ;
+OK
+OK
+MANQUE lapin 2	 ;
+MANQUE cheval 2	 ;
+MANQUE myrtille 1	 ;
+IMPOSSIBLE
+OK
+OK
+MANQUE poire 1	 ;
+IMPOSSIBLE
+IMPOSSIBLE
+OK
+OK
+MANQUE wapiti 4	 ;
+MANQUE salade 4	 ;
+MANQUE sel 1	 ;
+MANQUE épices 4	 ;
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+5234m  Metro_Lucien-L'Allier__(Lucien_l'Allier_/_Argyle)
+OK
+OK
+OK
+OK
+IMPOSSIBLE
+OK
+OK
+IMPOSSIBLE
+IMPOSSIBLE
