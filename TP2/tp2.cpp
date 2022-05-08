@@ -1,10 +1,7 @@
 /*  INF3105 - Structures de données et algorithmes
     UQAM | Faculté des sciences | Département d'informatique
     Hiver 2022 | TP2
-
-    AUTEURS:
-     1) Hussein Nahle - NAHH85090004
-     2) Ridley Saint-Orice - SAIR77090109
+    Auteur: Hussein Nahle
 */
 #include <fstream>
 #include <iostream>

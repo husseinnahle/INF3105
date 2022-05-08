@@ -1,17 +1,3 @@
-/*
-  INF3105 - Structures de données et algorithmes
-  Session Hiver 2013.
-
-  TP1 / Programme pour évaluer une solution.
-  
-  Pour compiler manuellement :
-    g++ -o evaluateur evaluateur.cpp ../solution/point.cpp
-  
-  Auteur : Eric Beaudry
-           beaudry.eric@uqam.ca
-           http://ericbeaudry.ca/         
-*/
-
 #include <iostream>
 #include <fstream>
 #include <assert.h>

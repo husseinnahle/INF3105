@@ -3,7 +3,6 @@
 # UQAM - Département d'informatique
 # INF3105 - Structures de données et algorithmes
 # TP1 - Positionement de stations radio
-# http://ericbeaudry.ca/INF3105/tp1/
 #
 # Script d'évaluation
 #

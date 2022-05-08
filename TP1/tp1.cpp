@@ -1,8 +1,8 @@
-/*  
- * TP1 - INF3105 - H2022
- * Hussein Nahle
- * Ridley Saint-Orice
- */
+/*  INF3105 - Structures de données et algorithmes
+    UQAM | Faculté des sciences | Département d'informatique
+    Hiver 2022 | TP1
+    Auteur: Hussein Nahle
+*/
 
 #include <iostream>
 #include <stdexcept>

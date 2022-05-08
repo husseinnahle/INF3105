@@ -1,12 +1,5 @@
 /*  INF3105 - Structures de données et algorithmes
     UQAM | Faculté des sciences | Département d'informatique
-    Automne 2017 | Lab8 + TP2
-    http://ericbeaudry.uqam.ca/INF3105/lab8/
-    http://ericbeaudry.uqam.ca/INF3105/tp2/
-
-    AUTEUR(S):
-     (1) Nom + Code permanent du l'étudiant.e 1
-     (2) Nom + Code permanent du l'étudiant.e 2
 */
 #if !defined(_ARBREMAP___H_)
 #define _ARBREMAP___H_

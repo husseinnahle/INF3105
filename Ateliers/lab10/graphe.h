@@ -1,6 +1,5 @@
 /*  INF3105 - Structures de données et algorithmes
     Lab 10 -- Graphes / Représentations et algorithmes de base
-    http://cria2.uqam.ca/INF3105/lab11/
 */
 #if !defined(__GRAPHE_H__)
 #define __GRAPHE_H__
