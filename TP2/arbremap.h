@@ -1,12 +1,3 @@
-/*  INF3105 - Structures de données et algorithmes
-    UQAM | Faculté des sciences | Département d'informatique
-    Hiver 2022 | Lab8 + TP2
-
-    AUTEUR(S):
-     (1) Nom + Code permanent du l'étudiant.e 1
-     (2) Nom + Code permanent du l'étudiant.e 2
-*/
-
 #if !defined(_ARBREMAP___H_)
 #define _ARBREMAP___H_
 

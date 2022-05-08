@@ -1,8 +1,3 @@
-/*  AUTEUR(S):
-    1) Nom + Code permanent du l'étudiant.e 1
-    2) Nom + Code permanent du l'étudiant.e 2
-*/
-
 #include "date.h"
 #include <cstdio>
 #include <string>

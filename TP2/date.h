@@ -1,8 +1,3 @@
-/*  AUTEURS:
-     1) Hussein Nahle - NAHH85090004
-     2) Ridley Saint-Orice - SAIR77090109
-*/
-
 #if !defined(__DATE_H__)
 #define __DATE_H__
 

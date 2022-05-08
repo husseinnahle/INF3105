@@ -1,8 +1,3 @@
-/*  INF3105 - Structures de données et algorithmes
-    UQAM | Département d'informatique
-    Hiver 2022 | TP2
-*/
-
 #include <assert.h>
 #include <math.h>
 #include "pointst.h"
@@ -54,5 +49,3 @@ std::istream& operator >> (std::istream& is, PointST& point) {
   }
   return is;
 }
-
-

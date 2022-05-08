@@ -1,8 +1,3 @@
-/*  INF3105 - Structures de données et algorithmes
-    UQAM | Département d'informatique
-    Hiver 2022 | TP2
-*/
-
 #if !defined(_POINTST__H_)
 #define _POINTST__H_
 
@@ -28,4 +23,3 @@ class PointST {
 };
 
 #endif
-

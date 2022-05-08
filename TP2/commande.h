@@ -1,7 +1,3 @@
-/*  AUTEUR(S):
-    1) Nom + Code permanent du l'étudiant.e 1
-    2) Nom + Code permanent du l'étudiant.e 2
-*/
 #if !defined(_COMMANDE__H_)
 #define _COMMANDE__H_
 
