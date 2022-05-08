@@ -1,0 +1,4 @@
+station0 i1978
+station1 i1425
+station2 i2535
+31290

@@ -1,0 +1,9 @@
+station1 i12
+station7 i39
+station6 i17
+station3 i44
+station4 i48
+station5 i6
+station2 i32
+station0 i34
+1021

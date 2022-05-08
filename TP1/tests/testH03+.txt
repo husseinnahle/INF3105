@@ -1,0 +1,9 @@
+station0 i3236
+station1 i2700
+station5 i3531
+station6 i1602
+station7 i2094
+station3 i1539
+station4 i3807
+station2 i3154
+194935

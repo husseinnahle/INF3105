@@ -1,0 +1,9 @@
+station7 i681
+station6 i441
+station3 i560
+station4 i420
+station5 i397
+station0 i216
+station1 i470
+station2 i22
+72424
